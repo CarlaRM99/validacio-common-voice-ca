@@ -9,9 +9,10 @@ $ wget https://github.com/CarlaRM99/validacio-common-voice-ca/archive/refs/heads
 ## Documentació
 La documentació del desenvolupament es troba al directori "docs".
 
-## Contingut
+## Continguts
 * clips00: conjunt d'àudios seleccionats del corpus de Common Voice.
 * mfa_ca: directori on s'ha fet tot el procediment amb Montreal Forced Aligner.
+* src: directori que conté una llibreria per llegir fitxers TextGrid en Python.
 
 ## Crèdits
 Tots els àudios s'han obtingut del corpus Common Voice, sota la llicència Mozilla Public License 2.0.

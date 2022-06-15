@@ -32,8 +32,7 @@ $ mv ~/vosk_labels.sh .
 $ mv ~/test_simple.py .
 ```
 
-## 5. Editar "test_simple.py"
+## 5. Executar Vosk
 ```
-
+$ vosk_labels.sh
 ```
-
