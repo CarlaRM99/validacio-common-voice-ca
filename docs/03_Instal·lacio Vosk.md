@@ -16,11 +16,14 @@ $ git clone https://github.com/alphacep/vosk-api
 $ cd vosk-api/python
 ```
 
-## 3. Descarregar model en català
+## 3. Descarregar model en català i copiar clips00
 ```
 $ mkdir catalan
 $ cd catalan
 $ wget https://alphacephei.com/vosk/models/vosk-model-small-ca-0.4.zip
 $ unzip vosk-model-small-ca-0.4.zip
 $ mv vosk-model-small-ca-0.4 model
+$ cp ~/clips00 .
 ```
+
+## 4. 
