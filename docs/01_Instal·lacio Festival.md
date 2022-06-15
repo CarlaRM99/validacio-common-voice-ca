@@ -3,8 +3,8 @@ Passos per instal·lar Festival amb un terminal de Linux.
 
 ## 1. Crear carpeta de treball 
 ```
-$ mkdir Festival
-$ cd Festival
+$ mkdir ~/Festival
+$ cd ~/Festival
 ```
 
 ## 2. Instal·lar la llibreria de desenvolupament "libncurses-dev" i el compilador "g++"
