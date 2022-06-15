@@ -68,3 +68,4 @@ done < "../validated.data"
 # Converteix "com.data" a ISO Latin1 per poder ser llegit correctament
 iconv -f utf8 -t ISO-8859-1 com_utf8.data > com.data
 rm -f com_utf8.data
+cd ..

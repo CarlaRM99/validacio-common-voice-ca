@@ -4,8 +4,6 @@ Passos per crear CLunits amb un terminal de Linux.
 ## 1. Crear carpeta
 ```
 $ cd Festival
-$ mkdir make_clunits
-$ cd make_clunits
 ```
 
 ## 2. Preparar les dades dels clips00
@@ -31,6 +29,8 @@ $ festival_validated_00.sh
 ## 3. Descarregar paquet de builder i descomprimir
 ```
 $ cd ..
+$ mkdir make_clunits
+$ cd make_clunits
 $ wget https://github.com/FestCat/festcat-clunits-builder/archive/master.zip
 $ unzip master
 $ cd festcat-clunits-builder-master
@@ -53,3 +53,4 @@ $ make setup
 $ make prompts
 $ make labs
 ```
+Les etiquetes es troben a la carpeta "lab".
