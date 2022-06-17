@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.660000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.810000,
+      "word" : "titular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.064395,
+      "start" : 1.410000,
+      "word" : "procurarà"
+    }, {
+      "conf" : 0.813153,
+      "end" : 2.250000,
+      "start" : 2.070000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.250000,
+      "word" : "mitjans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.790000,
+      "word" : "necessaris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.690000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.840000,
+      "word" : "retirar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.260000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.500000,
+      "word" : "fites"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.980000,
+      "word" : "en"
+    }, {
+      "conf" : 0.693635,
+      "end" : 5.550000,
+      "start" : 5.130000,
+      "word" : "l'acte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.640000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.730000,
+      "word" : "visita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.960000,
+      "start" : 6.150000,
+      "word" : "d'inspecció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.620000,
+      "start" : 7.020000,
+      "word" : "final"
+    }],
+  "text" : "el titular procurarà els mitjans necessaris per retirar les fites en l'acte de la visita d'inspecció final"
+}

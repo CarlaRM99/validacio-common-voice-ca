@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.570000,
+      "word" : "l'emperador"
+    }, {
+      "conf" : 0.832099,
+      "end" : 1.710000,
+      "start" : 1.410000,
+      "word" : "can"
+    }, {
+      "conf" : 0.832099,
+      "end" : 2.010000,
+      "start" : 1.710000,
+      "word" : "xic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.040000,
+      "word" : "tenia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.700000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.880000,
+      "word" : "cadàver"
+    }, {
+      "conf" : 0.780981,
+      "end" : 3.600000,
+      "start" : 3.450000,
+      "word" : "de"
+    }, {
+      "conf" : 0.588042,
+      "end" : 3.810000,
+      "start" : 3.600000,
+      "word" : "u"
+    }, {
+      "conf" : 0.833375,
+      "end" : 4.380000,
+      "start" : 3.810000,
+      "word" : "sanguini"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.440000,
+      "word" : "repartit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.130000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.310000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.490000,
+      "word" : "províncies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.420000,
+      "word" : "xina"
+    }],
+  "text" : "l'emperador can xic tenia el cadàver de u sanguini repartit per les províncies de la xina"
+}

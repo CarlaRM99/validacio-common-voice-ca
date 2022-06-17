@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.801298,
+      "end" : 1.140000,
+      "start" : 0.600000,
+      "word" : "compta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.145961,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.350000,
+      "word" : "botigues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.010000,
+      "word" : "subministraments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.120000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.330000,
+      "word" : "règim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.750000,
+      "word" : "cooperatiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.770000,
+      "word" : "hotels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.430000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 5.550000,
+      "word" : "cafeteries"
+    }],
+  "text" : "compta amb botigues de subministraments en règim cooperatiu hotels i cafeteries"
+}

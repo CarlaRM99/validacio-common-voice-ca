@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.753881,
+      "end" : 1.050000,
+      "start" : 0.630000,
+      "word" : "truc"
+    }, {
+      "conf" : 0.916719,
+      "end" : 1.235329,
+      "start" : 1.071316,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.260000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 1.740000,
+      "word" : "setanta-u"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 2.730000,
+      "word" : "noranta-nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 3.900000,
+      "word" : "vuitanta-sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 4.980000,
+      "word" : "cinquanta"
+    }],
+  "text" : "truc a sis setanta-u noranta-nou vuitanta-sis cinquanta"
+}

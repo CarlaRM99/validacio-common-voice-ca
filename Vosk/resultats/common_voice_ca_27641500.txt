@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.450000,
+      "word" : "ell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.840000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.080000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.230000,
+      "word" : "planeta"
+    }, {
+      "conf" : 0.934509,
+      "end" : 2.010000,
+      "start" : 1.800000,
+      "word" : "tant"
+    }, {
+      "conf" : 0.792834,
+      "end" : 2.190000,
+      "start" : 2.010000,
+      "word" : "si"
+    }, {
+      "conf" : 0.792834,
+      "end" : 2.340000,
+      "start" : 2.190000,
+      "word" : "ho"
+    }, {
+      "conf" : 0.792834,
+      "end" : 2.580000,
+      "start" : 2.340000,
+      "word" : "hem"
+    }, {
+      "conf" : 0.792834,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "i"
+    }, {
+      "conf" : 0.829122,
+      "end" : 3.240000,
+      "start" : 2.940000,
+      "word" : "estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.240000,
+      "word" : "acompanyat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.990000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.170000,
+      "word" : "homes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.470000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.560000,
+      "word" : "seguretat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.370000,
+      "word" : "super"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.760000,
+      "word" : "clons"
+    }],
+  "text" : "ell és el planeta tant si ho hem i i estar acompanyat per homes de seguretat super clons"
+}

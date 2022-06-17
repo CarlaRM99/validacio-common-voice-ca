@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.111557,
+      "start" : 0.540000,
+      "word" : "l'indret"
+    }, {
+      "conf" : 0.492810,
+      "end" : 1.200000,
+      "start" : 1.111557,
+      "word" : "té"
+    }, {
+      "conf" : 0.749629,
+      "end" : 1.320000,
+      "start" : 1.207878,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.320000,
+      "word" : "situació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.770000,
+      "word" : "estratègica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.460000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.790000,
+      "word" : "notable"
+    }],
+  "text" : "l'indret té una situació estratègica molt notable"
+}

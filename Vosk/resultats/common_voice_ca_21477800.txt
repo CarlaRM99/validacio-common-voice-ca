@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.870000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.200000,
+      "word" : "havien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.530000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.740000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.980000,
+      "word" : "gira"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.250000,
+      "word" : "europea"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.970000,
+      "word" : "partir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.240000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.360000,
+      "word" : "l'agost"
+    }],
+  "text" : "també havien de fer una gira europea a partir de l'agost"
+}

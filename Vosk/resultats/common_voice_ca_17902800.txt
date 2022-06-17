@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.720000,
+      "word" : "ni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.930000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.140000,
+      "word" : "disponibilitats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.130000,
+      "word" : "pressupostàries"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.180000,
+      "word" : "ni"
+    }, {
+      "conf" : 0.550445,
+      "end" : 3.450000,
+      "start" : 3.360000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.450000,
+      "word" : "ritme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.810000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.050000,
+      "word" : "projectes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.680000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.740000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.950000,
+      "word" : "obres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.700000,
+      "word" : "permeten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.270000,
+      "word" : "avançar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.960000,
+      "start" : 6.720000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.080000,
+      "start" : 6.960000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.590000,
+      "start" : 7.080000,
+      "word" : "pressa"
+    }],
+  "text" : "ni les disponibilitats pressupostàries ni al ritme dels projectes i les obres permeten avançar més de pressa"
+}

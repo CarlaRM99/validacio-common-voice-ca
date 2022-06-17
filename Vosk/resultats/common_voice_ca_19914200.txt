@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.600000,
+      "word" : "tenen"
+    }, {
+      "conf" : 0.838460,
+      "end" : 1.200000,
+      "start" : 0.990000,
+      "word" : "dos"
+    }, {
+      "conf" : 0.838460,
+      "end" : 1.830000,
+      "start" : 1.200000,
+      "word" : "flagels"
+    }, {
+      "conf" : 0.799543,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.980000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.310000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.550000,
+      "word" : "llargada"
+    }, {
+      "conf" : 0.737359,
+      "end" : 3.510000,
+      "start" : 3.120000,
+      "word" : "d'entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.510000,
+      "word" : "cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.930000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.050000,
+      "word" : "deu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.410000,
+      "word" : "micròmetres"
+    }],
+  "text" : "tenen dos flagels i tenen una llargada d'entre cinc i deu micròmetres"
+}

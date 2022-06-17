@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.395737,
+      "end" : 1.380000,
+      "start" : 1.110000,
+      "word" : "van"
+    }, {
+      "conf" : 0.737504,
+      "end" : 1.500000,
+      "start" : 1.399048,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.500000,
+      "word" : "pedrís"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.730000,
+      "word" : "coll"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.000000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.120000,
+      "word" : "font"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.840000,
+      "word" : "d'estructura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.650000,
+      "word" : "octogonal"
+    }],
+  "text" : "van el pedrís un coll de font d'estructura octogonal"
+}

@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.170000,
+      "word" : "val"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.470000,
+      "word" : "més"
+    }, {
+      "conf" : 0.365442,
+      "end" : 2.160000,
+      "start" : 1.680000,
+      "word" : "espatlar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.164451,
+      "word" : "sabates"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.640000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.760000,
+      "word" : "llençols"
+    }],
+  "text" : "val més espatlar sabates que llençols"
+}

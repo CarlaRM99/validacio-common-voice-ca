@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.540000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.720000,
+      "word" : "disputaren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.710000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.250000,
+      "word" : "campionats"
+    }],
+  "text" : "es disputaren quatre campionats"
+}

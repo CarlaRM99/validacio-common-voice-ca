@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.900000,
+      "word" : "consell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.290000,
+      "word" : "municipal"
+    }, {
+      "conf" : 0.447011,
+      "end" : 2.490000,
+      "start" : 1.830000,
+      "word" : "subministre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.490000,
+      "word" : "estacionaments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.180000,
+      "word" : "addicionals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.230000,
+      "word" : "prop"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.500000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.590000,
+      "word" : "l'estació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.490000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.670000,
+      "word" : "hores"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 5.940000,
+      "word" : "concorregudes"
+    }],
+  "text" : "el consell municipal subministre estacionaments addicionals prop de l'estació en hores concorregudes"
+}

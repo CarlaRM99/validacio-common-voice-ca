@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.740000,
+      "word" : "acostumen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.490000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.910000,
+      "word" : "arc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.270000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.420000,
+      "word" : "alguns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.900000,
+      "word" : "arriben"
+    }, {
+      "conf" : 0.512308,
+      "end" : 4.530000,
+      "start" : 4.320000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.530000,
+      "word" : "tres"
+    }],
+  "text" : "acostumen a tenir un arc i alguns arriben als tres"
+}

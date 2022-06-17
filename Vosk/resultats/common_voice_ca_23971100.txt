@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.110000,
+      "word" : "paret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.410000,
+      "word" : "mitgera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.040000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.220000,
+      "word" : "càrrega"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.000000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.630000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.870000,
+      "word" : "arc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.290000,
+      "word" : "escarser"
+    }],
+  "text" : "en la paret mitgera de càrrega sobre un arc escarser"
+}

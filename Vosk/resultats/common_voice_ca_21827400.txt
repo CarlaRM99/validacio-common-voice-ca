@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.630000,
+      "word" : "normalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.320000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.882356,
+      "start" : 1.500000,
+      "word" : "talla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.920000,
+      "word" : "tires"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.220000,
+      "word" : "fines"
+    }],
+  "text" : "normalment es talla tires fines"
+}

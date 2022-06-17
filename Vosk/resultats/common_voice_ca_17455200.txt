@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.810000,
+      "word" : "gener"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.470000,
+      "word" : "vot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.800000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.010000,
+      "word" : "pel"
+    }, {
+      "conf" : 0.531650,
+      "end" : 2.850000,
+      "start" : 2.190000,
+      "word" : "carboner"
+    }],
+  "text" : "gener vot més pel carboner"
+}

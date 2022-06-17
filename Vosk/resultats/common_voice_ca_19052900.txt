@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.230000,
+      "word" : "expediu-ne"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.040000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.190000,
+      "word" : "testimoniatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.600000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.750000,
+      "word" : "uniu-lo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.320000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.410000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.620000,
+      "word" : "actuacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.880000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.240000,
+      "word" : "incloeu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.470000,
+      "start" : 6.840000,
+      "word" : "l'original"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.890000,
+      "start" : 7.710000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.980000,
+      "start" : 7.890000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.250000,
+      "start" : 7.980000,
+      "word" : "llibre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.340000,
+      "start" : 8.250000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.300000,
+      "start" : 8.340000,
+      "word" : "sentències"
+    }],
+  "text" : "expediu-ne un testimoniatge i uniu-lo a les actuacions i incloeu l'original en el llibre de sentències"
+}

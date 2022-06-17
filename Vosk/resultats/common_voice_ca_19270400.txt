@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.103463,
+      "start" : 0.660000,
+      "word" : "burro"
+    }, {
+      "conf" : 0.782116,
+      "end" : 1.620000,
+      "start" : 1.110000,
+      "word" : "parat"
+    }, {
+      "conf" : 0.811171,
+      "end" : 1.890000,
+      "start" : 1.650000,
+      "word" : "no"
+    }, {
+      "conf" : 0.496648,
+      "end" : 2.153966,
+      "start" : 1.890000,
+      "word" : "vota"
+    }, {
+      "conf" : 0.818656,
+      "end" : 2.220000,
+      "start" : 2.153966,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.220000,
+      "word" : "tancat"
+    }],
+  "text" : "burro parat no vota el tancat"
+}

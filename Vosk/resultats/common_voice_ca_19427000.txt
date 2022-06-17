@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.690000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.759575,
+      "start" : 0.900000,
+      "word" : "transferència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.890000,
+      "word" : "reialesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.610000,
+      "word" : "d'un"
+    }, {
+      "conf" : 0.877853,
+      "end" : 3.240000,
+      "start" : 2.850000,
+      "word" : "verdet"
+    }, {
+      "conf" : 0.522815,
+      "end" : 3.300000,
+      "start" : 3.240000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.314316,
+      "word" : "poder"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.690000,
+      "word" : "d'estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.200000,
+      "word" : "reial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.950000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.310000,
+      "word" : "assegurada"
+    }],
+  "text" : "la transferència la reialesa d'un verdet i poder d'estat reial està assegurada"
+}

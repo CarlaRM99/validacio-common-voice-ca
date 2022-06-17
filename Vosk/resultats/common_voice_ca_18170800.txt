@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.270000,
+      "word" : "barca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.780000,
+      "word" : "parada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.290000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.470000,
+      "word" : "mou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.770000,
+      "word" : "guerra"
+    }],
+  "text" : "barca parada no mou guerra"
+}

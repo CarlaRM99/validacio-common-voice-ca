@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.507193,
+      "end" : 0.390000,
+      "start" : 0.150000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.404784,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.930000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.140000,
+      "word" : "sota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.560000,
+      "word" : "l'església"
+    }, {
+      "conf" : 0.846918,
+      "end" : 3.030000,
+      "start" : 2.850000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.846918,
+      "end" : 3.180000,
+      "start" : 3.030000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.180000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.360000,
+      "word" : "cementeri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.200000,
+      "word" : "vell"
+    }],
+  "text" : "el part de sota l'església hi ha el cementeri vell"
+}

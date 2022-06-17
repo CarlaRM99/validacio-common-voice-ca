@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.690000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.990000,
+      "word" : "peça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.590000,
+      "word" : "sol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.920000,
+      "word" : "pesar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.400000,
+      "word" : "entorn"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.940000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.150000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.390000,
+      "word" : "quilos"
+    }],
+  "text" : "cada peça sol pesar entorn dels dos quilos"
+}

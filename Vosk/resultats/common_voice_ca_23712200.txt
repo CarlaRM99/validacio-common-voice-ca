@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.780000,
+      "word" : "davant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.200000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.440000,
+      "word" : "masia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.040000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.190000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.670000,
+      "word" : "orientada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.390000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.450000,
+      "word" : "ponent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.020000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.200000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.470000,
+      "word" : "l'era"
+    }],
+  "text" : "davant de la masia que està orientada a ponent i a l'era"
+}

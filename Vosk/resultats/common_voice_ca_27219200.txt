@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.330000,
+      "start" : 0.240000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.330000,
+      "word" : "secretari"
+    }, {
+      "conf" : 0.705076,
+      "end" : 1.530000,
+      "start" : 0.900000,
+      "word" : "christopher"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.560000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.830000,
+      "word" : "d'altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.160000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.280000,
+      "word" : "instar"
+    }, {
+      "conf" : 0.667469,
+      "end" : 2.580000,
+      "start" : 2.520000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.580000,
+      "word" : "president"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.970000,
+      "word" : "clinton"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.450000,
+      "word" : "detecten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.870000,
+      "word" : "represàlia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.830000,
+      "word" : "l'iraq"
+    }],
+  "text" : "el secretari christopher entre d'altres va instar al president clinton detecten represàlia l'iraq"
+}

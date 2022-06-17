@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.570000,
+      "word" : "vegeu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.110000,
+      "word" : "vàters"
+    }, {
+      "conf" : 0.715399,
+      "end" : 1.860000,
+      "start" : 1.680000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.860000,
+      "word" : "japó"
+    }],
+  "text" : "vegeu vàters al japó"
+}

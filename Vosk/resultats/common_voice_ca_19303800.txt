@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.780000,
+      "word" : "anem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.260000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.650000,
+      "word" : "alaquàs"
+    }],
+  "text" : "anem a alaquàs"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.470000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.680000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.920000,
+      "word" : "trobar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.280000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.520000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.580000,
+      "word" : "mínim"
+    }, {
+      "conf" : 0.799071,
+      "end" : 3.210000,
+      "start" : 2.940000,
+      "word" : "cas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.330000,
+      "word" : "guions"
+    }, {
+      "conf" : 0.715629,
+      "end" : 3.840000,
+      "start" : 3.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.840000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.080000,
+      "word" : "cofre"
+    }],
+  "text" : "es van trobar com a mínim cas de guions el seu cofre"
+}

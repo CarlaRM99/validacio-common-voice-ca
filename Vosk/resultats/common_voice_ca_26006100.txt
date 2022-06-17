@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.600000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.780000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.170000,
+      "word" : "testament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.040000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.250000,
+      "word" : "menciona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.970000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.120000,
+      "word" : "ell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.450000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.930000,
+      "word" : "dotze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.440000,
+      "word" : "fills"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.980000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.130000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.490000,
+      "word" : "filla"
+    }],
+  "text" : "en el seu testament es menciona que ell té dotze fills i sis filla"
+}

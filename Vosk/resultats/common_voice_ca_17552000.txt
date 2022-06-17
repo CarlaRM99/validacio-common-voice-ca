@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.780000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.900000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.020000,
+      "word" : "faena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.800000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.070000,
+      "word" : "d'anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.370000,
+      "word" : "ben"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.580000,
+      "word" : "cagat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.030000,
+      "word" : "i"
+    }, {
+      "conf" : 0.606306,
+      "end" : 3.690000,
+      "start" : 3.150000,
+      "word" : "piquet"
+    }],
+  "text" : "a la faena s'ha d'anar ben cagat i piquet"
+}

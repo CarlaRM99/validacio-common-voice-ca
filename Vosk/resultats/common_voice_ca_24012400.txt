@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.390000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.510000,
+      "word" : "participat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.140000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.260000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.680000,
+      "word" : "comissions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.160000,
+      "word" : "nacionals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.989658,
+      "word" : "internacionals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.660000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.900000,
+      "word" : "reforma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.470000,
+      "word" : "l'estat"
+    }],
+  "text" : "ha participat en diverses comissions nacionals internacionals sobre reforma de l'estat"
+}

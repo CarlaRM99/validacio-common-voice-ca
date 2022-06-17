@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.990000,
+      "word" : "puc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.140000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.890000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.340000,
+      "word" : "passeig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.640000,
+      "word" : "marítim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.150000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.360000,
+      "word" : "bogatell"
+    }],
+  "text" : "com puc fer per anar al passeig marítim del bogatell"
+}

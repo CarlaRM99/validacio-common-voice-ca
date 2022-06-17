@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.720000,
+      "word" : "consta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.230000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.350000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.560000,
+      "word" : "cons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.830000,
+      "word" : "volcànics"
+    }, {
+      "conf" : 0.253972,
+      "end" : 3.210000,
+      "start" : 2.850000,
+      "word" : "doro"
+    }, {
+      "conf" : 0.625355,
+      "end" : 3.630000,
+      "start" : 3.210000,
+      "word" : "avi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.720000,
+      "word" : "i"
+    }, {
+      "conf" : 0.682806,
+      "end" : 4.140000,
+      "start" : 3.840000,
+      "word" : "dorm"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.140000,
+      "word" : "entrar-hi"
+    }],
+  "text" : "consta de dos cons volcànics doro avi i dorm entrar-hi"
+}

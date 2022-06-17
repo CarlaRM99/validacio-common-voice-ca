@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.540000,
+      "word" : "quines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.990000,
+      "word" : "botigues"
+    }, {
+      "conf" : 0.583741,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.748428,
+      "end" : 1.950000,
+      "start" : 1.680000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.980000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.190000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.550000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.820000,
+      "word" : "mariners"
+    }],
+  "text" : "quines botigues hi ha al carrer dels mariners"
+}

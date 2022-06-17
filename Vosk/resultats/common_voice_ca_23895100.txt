@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.420000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.720000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.840000,
+      "word" : "obtenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.731292,
+      "start" : 1.440000,
+      "word" : "lloc"
+    }, {
+      "conf" : 0.709738,
+      "end" : 1.830000,
+      "start" : 1.740000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.830000,
+      "word" : "comitè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.220000,
+      "word" : "central"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.670000,
+      "word" : "executiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.360000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.600000,
+      "word" : "partit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.990000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.140000,
+      "word" : "programa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.560000,
+      "word" : "socialista"
+    }],
+  "text" : "també va obtenir un lloc al comitè central executiu del partit del programa socialista"
+}

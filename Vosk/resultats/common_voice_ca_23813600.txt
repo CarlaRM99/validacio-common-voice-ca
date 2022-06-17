@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.870000,
+      "word" : "duen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.080000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.140000,
+      "word" : "terme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.440000,
+      "word" : "reformes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.890000,
+      "word" : "urbanístiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.640000,
+      "word" : "desenvolupa"
+    }, {
+      "conf" : 0.750976,
+      "end" : 3.360000,
+      "start" : 3.270000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.360000,
+      "word" : "comerç"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.780000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.840000,
+      "word" : "l'explotació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.380000,
+      "word" : "agrícola"
+    }],
+  "text" : "es duen a terme reformes urbanístiques desenvolupa el comerç i l'explotació agrícola"
+}

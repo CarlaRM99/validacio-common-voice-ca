@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.470000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.920000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.950000,
+      "word" : "jugar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.190000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.220000,
+      "word" : "futbol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.730000,
+      "word" : "a"
+    }, {
+      "conf" : 0.532504,
+      "end" : 3.090000,
+      "start" : 2.790000,
+      "word" : "l'unió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.090000,
+      "word" : "esportiva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.720000,
+      "word" : "poblera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.200000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.410000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.560000,
+      "word" : "petit"
+    }],
+  "text" : "començar a jugar a futbol a l'unió esportiva poblera quan era petit"
+}

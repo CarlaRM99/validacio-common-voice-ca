@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.840000,
+      "word" : "gent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.350000,
+      "word" : "passeja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.830000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.040000,
+      "word" : "parc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.490000,
+      "word" : "mira"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.820000,
+      "word" : "fixament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.450000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.600000,
+      "word" : "font"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.080000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.200000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.410000,
+      "word" : "parella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.280000,
+      "word" : "estan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.700000,
+      "word" : "agafats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.330000,
+      "word" : "la"
+    }, {
+      "conf" : 0.651900,
+      "end" : 6.780000,
+      "start" : 6.480000,
+      "word" : "mà"
+    }],
+  "text" : "la gent que passeja pel parc mira fixament la font i una parella estan agafats de la mà"
+}

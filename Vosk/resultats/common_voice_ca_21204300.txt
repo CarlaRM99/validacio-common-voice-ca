@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.140000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.440000,
+      "word" : "enzims"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.100000,
+      "word" : "actuen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.640000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.730000,
+      "word" : "manera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.120000,
+      "word" : "òptima"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.750000,
+      "word" : "dins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.080000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.230000,
+      "word" : "rang"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.530000,
+      "word" : "de"
+    }, {
+      "conf" : 0.677412,
+      "end" : 5.280000,
+      "start" : 4.620000,
+      "word" : "temperatura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.289678,
+      "word" : "relativament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 5.970000,
+      "word" : "estret"
+    }],
+  "text" : "els enzims actuen de manera òptima dins un rang de temperatura relativament estret"
+}

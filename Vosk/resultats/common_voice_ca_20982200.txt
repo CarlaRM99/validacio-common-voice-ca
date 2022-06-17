@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.540000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.870000,
+      "word" : "destruïda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.500000,
+      "word" : "pels"
+    }, {
+      "conf" : 0.915917,
+      "end" : 2.460000,
+      "start" : 1.860000,
+      "word" : "àvars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.060000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.180000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.360000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.720000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 3.930000,
+      "word" : "restaurada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.830000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 5.010000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.070000,
+      "word" : "fortalesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.730000,
+      "word" : "de"
+    }, {
+      "conf" : 0.999950,
+      "end" : 6.510000,
+      "start" : 5.820000,
+      "word" : "frontera"
+    }],
+  "text" : "fou destruïda pels àvars i ja només fou restaurada com a fortalesa de frontera"
+}

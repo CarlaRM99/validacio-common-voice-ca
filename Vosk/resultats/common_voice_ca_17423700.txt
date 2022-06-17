@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.526746,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.010000,
+      "word" : "contrari"
+    }, {
+      "conf" : 0.804290,
+      "end" : 2.970000,
+      "start" : 2.640000,
+      "word" : "tothom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.975871,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.120000,
+      "word" : "dia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.630000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.780000,
+      "word" : "presta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.110000,
+      "word" : "sabut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.710000,
+      "word" : "i"
+    }, {
+      "conf" : 0.798287,
+      "end" : 4.950000,
+      "start" : 4.860000,
+      "word" : "el"
+    }, {
+      "conf" : 0.798287,
+      "end" : 5.400000,
+      "start" : 4.950000,
+      "word" : "sosté"
+    }],
+  "text" : "el contrari tothom el dia li presta sabut i el sosté"
+}

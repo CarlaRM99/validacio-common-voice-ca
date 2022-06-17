@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.832928,
+      "end" : 0.750000,
+      "start" : 0.600000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.750000,
+      "word" : "lingüística"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.620000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.920000,
+      "word" : "normes"
+    }, {
+      "conf" : 0.809947,
+      "end" : 2.520000,
+      "start" : 2.310000,
+      "word" : "d'ús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.730000,
+      "word" : "llengua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.180000,
+      "word" : "estan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.540000,
+      "word" : "constituïdes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.320000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 4.560000,
+      "word" : "l'ortografia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.700000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.820000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 5.910000,
+      "word" : "gramàtica"
+    }],
+  "text" : "en lingüística les normes d'ús d'una llengua estan constituïdes per l'ortografia i la gramàtica"
+}

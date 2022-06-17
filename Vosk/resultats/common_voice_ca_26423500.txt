@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.390000,
+      "word" : "moltes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.170000,
+      "word" : "òperes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.860000,
+      "word" : "wagner"
+    }, {
+      "conf" : 0.900925,
+      "end" : 3.000000,
+      "start" : 2.790000,
+      "word" : "em"
+    }, {
+      "conf" : 0.900925,
+      "end" : 3.240000,
+      "start" : 3.000000,
+      "word" : "pren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.240000,
+      "word" : "seccions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.080000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.230000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.650000,
+      "word" : "anàlogues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.400000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.610000,
+      "word" : "recitatiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.450000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.600000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 6.720000,
+      "word" : "acompanya"
+    }],
+  "text" : "moltes de les òperes de wagner em pren seccions que són anàlogues el recitatiu que les acompanya"
+}

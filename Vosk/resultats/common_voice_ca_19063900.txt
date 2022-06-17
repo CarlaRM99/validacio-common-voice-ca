@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.874743,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "qui"
+    }, {
+      "conf" : 0.456550,
+      "end" : 1.200000,
+      "start" : 0.960000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.200000,
+      "word" : "novembre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.832653,
+      "start" : 1.740000,
+      "word" : "no"
+    }, {
+      "conf" : 0.412419,
+      "end" : 1.915353,
+      "start" : 1.832653,
+      "word" : "has"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.915353,
+      "word" : "sembrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.730000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.910000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.030000,
+      "word" : "sempre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.840000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.990000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.170000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.290000,
+      "word" : "tard"
+    }],
+  "text" : "qui pel novembre no has sembrat que no sempre que ja és tard"
+}

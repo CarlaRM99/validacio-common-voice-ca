@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.450000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.660000,
+      "word" : "crec"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "qui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.380000,
+      "word" : "ens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.710000,
+      "word" : "precedit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.400000,
+      "word" : "les"
+    }, {
+      "conf" : 0.726096,
+      "end" : 3.060000,
+      "start" : 2.640000,
+      "word" : "veren"
+    }],
+  "text" : "no crec que els qui ens han precedit les veren"
+}

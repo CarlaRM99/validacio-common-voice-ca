@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.360000,
+      "word" : "ningú"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.050000,
+      "word" : "vol"
+    }, {
+      "conf" : 0.383771,
+      "end" : 1.611656,
+      "start" : 1.410000,
+      "word" : "robar"
+    }, {
+      "conf" : 0.690621,
+      "end" : 2.009998,
+      "start" : 1.611656,
+      "word" : "arte"
+    }],
+  "text" : "ningú vol robar arte"
+}

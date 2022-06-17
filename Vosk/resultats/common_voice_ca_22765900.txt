@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.330000,
+      "start" : 0.210000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.330000,
+      "word" : "l'exterior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.590000,
+      "word" : "documentar"
+    }, {
+      "conf" : 0.592287,
+      "end" : 2.436447,
+      "start" : 2.190000,
+      "word" : "part"
+    }, {
+      "conf" : 0.667233,
+      "end" : 2.611659,
+      "start" : 2.456041,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.611659,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.790000,
+      "word" : "aqüeductes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.433683,
+      "start" : 3.330000,
+      "word" : "que"
+    }, {
+      "conf" : 0.456111,
+      "end" : 3.830579,
+      "start" : 3.450000,
+      "word" : "portava"
+    }, {
+      "conf" : 0.685959,
+      "end" : 4.080000,
+      "start" : 3.840000,
+      "word" : "neu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.080000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.140000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.230000,
+      "word" : "ciutat"
+    }],
+  "text" : "a l'exterior es van documentar part els dos aqüeductes que portava neu a la ciutat"
+}

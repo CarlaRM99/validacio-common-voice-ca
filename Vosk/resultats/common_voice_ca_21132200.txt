@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.510000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.720000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.900000,
+      "word" : "pintures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.440000,
+      "word" : "mitjançant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.980000,
+      "word" : "esbossos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.670000,
+      "word" : "gravats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.300000,
+      "word" : "aquarel·la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.990000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.110000,
+      "word" : "pintura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.590000,
+      "word" : "d'oli"
+    }],
+  "text" : "va fer pintures mitjançant esbossos gravats aquarel·la i pintura d'oli"
+}

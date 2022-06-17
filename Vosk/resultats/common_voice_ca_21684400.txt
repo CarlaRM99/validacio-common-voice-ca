@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.780000,
+      "word" : "segons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.470000,
+      "word" : "mecànica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.950000,
+      "word" : "clàssica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.610000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.790000,
+      "word" : "trajectòria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.420000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.600000,
+      "word" : "cos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.870000,
+      "word" : "puntual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.830000,
+      "word" : "sempre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.250000,
+      "word" : "serà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.490000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.610000,
+      "word" : "línia"
+    }, {
+      "conf" : 0.693755,
+      "end" : 6.510000,
+      "start" : 5.910000,
+      "word" : "contínua"
+    }],
+  "text" : "segons la mecànica clàssica la trajectòria d'un cos puntual sempre serà una línia contínua"
+}

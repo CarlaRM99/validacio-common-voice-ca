@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 0.840000,
+      "word" : "col·laborar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.890000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "la"
+    }, {
+      "conf" : 0.844899,
+      "end" : 2.670000,
+      "start" : 2.220000,
+      "word" : "ràdio"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.670000,
+      "word" : "belga"
+    }],
+  "text" : "col·laborar en la ràdio belga"
+}

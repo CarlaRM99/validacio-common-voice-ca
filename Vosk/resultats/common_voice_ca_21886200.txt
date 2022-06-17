@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.690000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.960000,
+      "word" : "literatura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.590000,
+      "word" : "occidental"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.400000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.610000,
+      "word" : "considerada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.510000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.720000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.930000,
+      "word" : "elements"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.380000,
+      "word" : "definidors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.040000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.160000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 5.280000,
+      "word" : "civilització"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.270000,
+      "word" : "occidental"
+    }],
+  "text" : "la literatura occidental és considerada un dels elements definidors de la civilització occidental"
+}

@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.762228,
+      "end" : 1.350000,
+      "start" : 0.840000,
+      "word" : "teixint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.350000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.560000,
+      "word" : "màquines"
+    }, {
+      "conf" : 0.721957,
+      "end" : 2.993728,
+      "start" : 2.520000,
+      "word" : "treballen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.993728,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.150000,
+      "word" : "fila"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.420000,
+      "word" : "sencera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.930000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.080000,
+      "word" : "bucles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.980000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.130000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.250000,
+      "word" : "moviment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.760000,
+      "word" : "sol"
+    }],
+  "text" : "teixint les màquines treballen una fila sencera de bucles en un moviment sol"
+}

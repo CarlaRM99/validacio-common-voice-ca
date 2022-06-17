@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.660000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.810000,
+      "word" : "tractament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.290000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.380000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.530000,
+      "word" : "façanes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.010000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.250000,
+      "word" : "possible"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.730000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.910000,
+      "word" : "lectura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.270000,
+      "word" : "immediata"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.780000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.900000,
+      "word" : "l'edifici"
+    }],
+  "text" : "el tractament de les façanes fa possible una lectura immediata de l'edifici"
+}

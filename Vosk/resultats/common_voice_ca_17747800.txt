@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.215204,
+      "end" : 1.021754,
+      "start" : 0.510000,
+      "word" : "conduiràs"
+    }, {
+      "conf" : 0.660509,
+      "end" : 1.170000,
+      "start" : 1.021754,
+      "word" : "al"
+    }, {
+      "conf" : 0.616316,
+      "end" : 1.410000,
+      "start" : 1.170000,
+      "word" : "bus"
+    }, {
+      "conf" : 0.931336,
+      "end" : 1.560000,
+      "start" : 1.418366,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.560000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.830000,
+      "word" : "vilanova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.340000,
+      "word" : "vilafranca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.060000,
+      "word" : "passant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.390000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.570000,
+      "word" : "ribes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.230000,
+      "word" : "olivella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 5.010000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.130000,
+      "word" : "canyelles"
+    }],
+  "text" : "conduiràs al bus que va de vilanova vilafranca passant per ribes olivella i canyelles"
+}

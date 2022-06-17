@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.450000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.630000,
+      "word" : "home"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.050000,
+      "word" : "camisa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.470000,
+      "word" : "marró"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.980000,
+      "word" : "armilla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.430000,
+      "word" : "grisa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.850000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.970000,
+      "word" : "gorra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.300000,
+      "word" : "negra"
+    }, {
+      "conf" : 0.679393,
+      "end" : 4.440000,
+      "start" : 4.020000,
+      "word" : "toca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.470000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.680000,
+      "word" : "baix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.920000,
+      "word" : "elèctric"
+    }],
+  "text" : "un home camisa marró armilla grisa i gorra negra toca un baix elèctric"
+}

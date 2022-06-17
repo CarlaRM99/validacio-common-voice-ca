@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.540000,
+      "word" : "conté"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.110000,
+      "word" : "topònims"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.860000,
+      "word" : "actuals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.430000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.520000,
+      "word" : "antics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.090000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.390000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.510000,
+      "word" : "desús"
+    }],
+  "text" : "conté topònims actuals i antics ja en desús"
+}

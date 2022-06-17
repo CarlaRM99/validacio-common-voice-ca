@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.840000,
+      "word" : "montferri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.710000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.920000,
+      "word" : "troba"
+    }, {
+      "conf" : 0.721074,
+      "end" : 2.490000,
+      "start" : 2.250000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.490000,
+      "word" : "camp"
+    }],
+  "text" : "montferri es troba del camp"
+}

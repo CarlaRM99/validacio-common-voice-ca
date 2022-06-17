@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.750000,
+      "word" : "sot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.470000,
+      "word" : "noguerola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.190000,
+      "word" : "neix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.790000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.030000,
+      "word" : "flanc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.390000,
+      "word" : "meridional"
+    }],
+  "text" : "el sot de la noguerola neix el seu flanc meridional"
+}

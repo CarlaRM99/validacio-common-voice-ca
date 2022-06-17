@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.080000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.290000,
+      "word" : "accessos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.950000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.010000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.190000,
+      "word" : "obres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.670000,
+      "word" : "pas"
+    }, {
+      "conf" : 0.759874,
+      "end" : 3.720000,
+      "start" : 3.210000,
+      "word" : "tindran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.720000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.870000,
+      "word" : "pendent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.290000,
+      "word" : "suau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.710000,
+      "word" : "perquè"
+    }, {
+      "conf" : 0.882121,
+      "end" : 5.100000,
+      "start" : 4.980000,
+      "word" : "les"
+    }, {
+      "conf" : 0.882121,
+      "end" : 5.580000,
+      "start" : 5.100000,
+      "word" : "ànimes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.580000,
+      "word" : "poden"
+    }, {
+      "conf" : 0.596583,
+      "end" : 6.480000,
+      "start" : 5.940000,
+      "word" : "accedir-hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.170000,
+      "start" : 6.480000,
+      "word" : "fàcilment"
+    }],
+  "text" : "els accessos a les obres de pas tindran un pendent suau perquè les ànimes poden accedir-hi fàcilment"
+}

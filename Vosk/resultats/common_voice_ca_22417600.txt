@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.510000,
+      "word" : "l'entrada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.350000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.530000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.680000,
+      "word" : "petit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.070000,
+      "word" : "porxo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.520000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 2.790000,
+      "word" : "protegeix"
+    }],
+  "text" : "l'entrada té un petit porxo que la protegeix"
+}

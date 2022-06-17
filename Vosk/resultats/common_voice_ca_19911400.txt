@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.530865,
+      "end" : 0.540000,
+      "start" : 0.420000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.540000,
+      "word" : "nena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.960000,
+      "word" : "volia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.440000,
+      "word" : "actriu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "i"
+    }, {
+      "conf" : 0.741762,
+      "end" : 2.697410,
+      "start" : 2.310000,
+      "word" : "aprengué"
+    }, {
+      "conf" : 0.905109,
+      "end" : 3.120000,
+      "start" : 2.697410,
+      "word" : "actua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.150000,
+      "word" : "segons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.570000,
+      "word" : "ella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.960000,
+      "word" : "prenent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.260000,
+      "word" : "lliçons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.650000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.710000,
+      "word" : "casa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.920000,
+      "word" : "seva"
+    }],
+  "text" : "la nena volia ser actriu i aprengué actua segons ella prenent lliçons a casa seva"
+}

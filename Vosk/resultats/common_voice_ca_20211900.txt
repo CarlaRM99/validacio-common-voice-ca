@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.360000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.510000,
+      "word" : "grup"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.720000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.810000,
+      "word" : "manifestants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.740000,
+      "word" : "decidir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.024470,
+      "start" : 2.220000,
+      "word" : "concentrar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.030000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.300000,
+      "word" : "dissabte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.080000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.320000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.410000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.500000,
+      "word" : "govern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.100000,
+      "word" : "decidís"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.700000,
+      "word" : "dimitir"
+    }],
+  "text" : "el grup de manifestants decidir concentrar-se cada dissabte fins que el govern decidís dimitir"
+}

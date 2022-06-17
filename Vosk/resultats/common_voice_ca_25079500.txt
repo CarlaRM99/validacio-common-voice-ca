@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.990000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.200000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.320000,
+      "word" : "comprovar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.950000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.130000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.370000,
+      "word" : "difícil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.240000,
+      "word" : "causa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.660000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.810000,
+      "word" : "suport"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.320000,
+      "word" : "popular"
+    }],
+  "text" : "es va comprovar que era difícil a causa del suport popular"
+}

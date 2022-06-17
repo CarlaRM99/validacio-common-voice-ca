@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.140000,
+      "word" : "roma"
+    }, {
+      "conf" : 0.592719,
+      "end" : 1.800000,
+      "start" : 1.680000,
+      "word" : "ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.800000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.950000,
+      "word" : "rebutjar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.150000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.270000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.720000,
+      "word" : "negà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.122784,
+      "word" : "admetre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.800000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.980000,
+      "word" : "mediació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 5.610000,
+      "word" : "austríaca"
+    }],
+  "text" : "roma ho va rebutjar i també es negà admetre la mediació austríaca"
+}

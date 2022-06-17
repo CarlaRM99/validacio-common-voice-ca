@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.200000,
+      "word" : "freqüentment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.490000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.730000,
+      "word" : "considerada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.480000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.660000,
+      "word" : "branca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.020000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.170000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.260000,
+      "word" : "biologia"
+    }, {
+      "conf" : 0.878469,
+      "end" : 4.800000,
+      "start" : 4.740000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.800000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.920000,
+      "word" : "sociologia"
+    }],
+  "text" : "freqüentment és considerada una branca de la biologia i la sociologia"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.350000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.530000,
+      "word" : "clima"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.920000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.100000,
+      "word" : "continental"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "i"
+    }, {
+      "conf" : 0.819149,
+      "end" : 3.330000,
+      "start" : 2.940000,
+      "word" : "sec"
+    }],
+  "text" : "el seu clima és continental i sec"
+}

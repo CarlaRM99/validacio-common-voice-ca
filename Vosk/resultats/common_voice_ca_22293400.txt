@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.330000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810386,
+      "start" : 0.510000,
+      "word" : "troba"
+    }, {
+      "conf" : 0.856744,
+      "end" : 0.840000,
+      "start" : 0.810386,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.840000,
+      "word" : "àfrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.380000,
+      "word" : "nord-oest"
+    }, {
+      "conf" : 0.999858,
+      "end" : 2.047064,
+      "start" : 1.950000,
+      "word" : "de"
+    }, {
+      "conf" : 0.463327,
+      "end" : 2.399955,
+      "start" : 2.047064,
+      "word" : "cabó"
+    }],
+  "text" : "es troba a àfrica nord-oest de cabó"
+}

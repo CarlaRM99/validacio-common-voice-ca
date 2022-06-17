@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.570000,
+      "word" : "mònica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.050000,
+      "word" : "sabata"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.620000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.800000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.220000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.610000,
+      "word" : "portaveu"
+    }],
+  "text" : "mònica sabata en fou la primera portaveu"
+}

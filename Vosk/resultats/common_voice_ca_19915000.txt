@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.470000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.950000,
+      "word" : "masia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.310000,
+      "word" : "sempre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.820000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.880000,
+      "word" : "sigut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.300000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.420000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.690000,
+      "word" : "arxiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.050000,
+      "word" : "documental"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.650000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.980000,
+      "word" : "la"
+    }, {
+      "conf" : 0.999995,
+      "end" : 5.579999,
+      "start" : 5.100000,
+      "word" : "zona"
+    }],
+  "text" : "aquesta masia sempre ha sigut un gran arxiu documental sobre la zona"
+}

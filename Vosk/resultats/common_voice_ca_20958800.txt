@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 0.900000,
+      "word" : "radioactivitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.770000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.950000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.100000,
+      "word" : "pols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.430000,
+      "word" : "tendeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.880000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.940000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.090000,
+      "word" : "superior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.810000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.080000,
+      "word" : "racons"
+    }],
+  "text" : "la radioactivitat com la pols tendeix a ser superior als racons"
+}

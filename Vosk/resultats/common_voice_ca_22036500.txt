@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.630000,
+      "word" : "arxiduquessa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.410000,
+      "word" : "d'àustria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.751801,
+      "start" : 2.040000,
+      "word" : "princesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.910000,
+      "word" : "bohèmia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.020000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.200000,
+      "word" : "d'hongria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.190000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.400000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.490000,
+      "word" : "tractament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.120000,
+      "word" : "d'altesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.170000,
+      "start" : 6.660000,
+      "word" : "reial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 7.230000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.040000,
+      "start" : 7.350000,
+      "word" : "imperial"
+    }],
+  "text" : "arxiduquessa d'àustria princesa de bohèmia i d'hongria amb el tractament d'altesa reial i imperial"
+}

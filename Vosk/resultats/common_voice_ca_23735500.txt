@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.420000,
+      "word" : "típicament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.080000,
+      "word" : "aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.500000,
+      "word" : "substàncies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.280000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.550000,
+      "word" : "acetat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.000000,
+      "word" : "d'uranil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.720000,
+      "word" : "citrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.290000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.410000,
+      "word" : "plom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 5.040000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.130000,
+      "word" : "molí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.520000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.820000,
+      "word" : "d'amoni"
+    }],
+  "text" : "típicament aquestes substàncies són acetat d'uranil citrat de plom o molí de d'amoni"
+}

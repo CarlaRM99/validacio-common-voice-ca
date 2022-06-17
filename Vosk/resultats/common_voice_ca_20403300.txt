@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.750000,
+      "word" : "estudiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.200000,
+      "word" : "dret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.500000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.560000,
+      "word" : "filosofia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.370000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.610000,
+      "word" : "sorbona"
+    }],
+  "text" : "va estudiar dret i filosofia a la sorbona"
+}

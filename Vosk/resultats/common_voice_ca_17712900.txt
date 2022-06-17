@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.740000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.010000,
+      "word" : "va"
+    }, {
+      "conf" : 0.822002,
+      "end" : 2.790000,
+      "start" : 2.280000,
+      "word" : "arrancar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.940000,
+      "word" : "crosta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.600000,
+      "word" : "tres"
+    }, {
+      "conf" : 0.857548,
+      "end" : 4.232102,
+      "start" : 3.930000,
+      "word" : "van"
+    }],
+  "text" : "es va arrancar la crosta tres van"
+}

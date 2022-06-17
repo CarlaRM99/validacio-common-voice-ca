@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.270000,
+      "start" : 0.090000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.270000,
+      "word" : "ballets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.660000,
+      "word" : "russos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.260000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.500000,
+      "word" : "posar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.950000,
+      "word" : "escena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.520000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 2.940000,
+      "word" : "representació"
+    }],
+  "text" : "els ballets russos van posar en escena la primera representació"
+}

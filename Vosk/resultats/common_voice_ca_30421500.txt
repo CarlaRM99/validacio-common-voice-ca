@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.750000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.050000,
+      "word" : "faltes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.620000,
+      "word" : "prescriuen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.520000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 2.970000,
+      "word" : "transcorregut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.870000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.110000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.590000,
+      "word" : "determinat"
+    }],
+  "text" : "les faltes prescriuen quan han transcorregut un temps determinat"
+}

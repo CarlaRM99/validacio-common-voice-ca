@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 0.780000,
+      "word" : "inflorescència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.800000,
+      "word" : "és"
+    }, {
+      "conf" : 0.758217,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "en"
+    }, {
+      "conf" : 0.758217,
+      "end" : 2.550000,
+      "start" : 2.160000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.676397,
+      "start" : 2.550000,
+      "word" : "de"
+    }, {
+      "conf" : 0.641219,
+      "end" : 3.180000,
+      "start" : 2.676397,
+      "word" : "ments"
+    }],
+  "text" : "la inflorescència és en forma de ments"
+}

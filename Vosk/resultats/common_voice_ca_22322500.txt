@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.170000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.830000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.010000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.220000,
+      "word" : "sèrie"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.790000,
+      "word" : "cops"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.090000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.150000,
+      "word" : "tambor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.140000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.350000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.410000,
+      "word" : "compte"
+    }, {
+      "conf" : 0.726845,
+      "end" : 5.310000,
+      "start" : 4.830000,
+      "word" : "enrere"
+    }],
+  "text" : "començar amb una sèrie de cops de tambor com a compte enrere"
+}

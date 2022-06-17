@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.660000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.140000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.440000,
+      "word" : "any"
+    }, {
+      "conf" : 0.522143,
+      "end" : 2.370000,
+      "start" : 2.040000,
+      "word" : "trau"
+    }, {
+      "conf" : 0.628523,
+      "end" : 2.490000,
+      "start" : 2.370000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.490000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.880000,
+      "word" : "cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.060000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.360000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.386820,
+      "start" : 4.170000,
+      "word" : "com"
+    }, {
+      "conf" : 0.427763,
+      "end" : 4.470000,
+      "start" : 4.386820,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.500000,
+      "word" : "basament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.040000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.190000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.747838,
+      "start" : 5.370000,
+      "word" : "primer"
+    }, {
+      "conf" : 0.594586,
+      "end" : 6.120000,
+      "start" : 5.790000,
+      "word" : "disc"
+    }],
+  "text" : "durant aquest any trau en quatre cinc sis més com a basament del seu primer disc"
+}

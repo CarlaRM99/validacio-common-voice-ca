@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.360000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.600000,
+      "word" : "ajuts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.200000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.440000,
+      "word" : "incompatibles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.220000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.370000,
+      "word" : "qualsevol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.820000,
+      "word" : "altre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.090000,
+      "word" : "ajut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.450000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.570000,
+      "word" : "subvenció"
+    }, {
+      "conf" : 0.820519,
+      "end" : 4.860000,
+      "start" : 4.350000,
+      "word" : "atorgat"
+    }, {
+      "conf" : 0.557084,
+      "end" : 4.950000,
+      "start" : 4.860000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.950000,
+      "word" : "mateix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.250000,
+      "word" : "projecte"
+    }],
+  "text" : "els ajuts són incompatibles amb qualsevol altre ajut o subvenció atorgat al mateix projecte"
+}

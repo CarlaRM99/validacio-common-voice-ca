@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.510000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "unes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.050000,
+      "word" : "temporades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.770000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.130000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.280000,
+      "word" : "servir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.670000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.850000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.910000,
+      "word" : "capità"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.360000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.480000,
+      "word" : "l'equip"
+    }],
+  "text" : "durant unes temporades també va servir com a capità de l'equip"
+}

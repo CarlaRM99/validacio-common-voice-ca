@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.747525,
+      "end" : 1.140000,
+      "start" : 0.600000,
+      "word" : "beques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.170000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.350000,
+      "word" : "néixer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.920000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.070000,
+      "word" : "exprimir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.640000,
+      "word" : "fil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.060000,
+      "word" : "massachusetts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.170000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.350000,
+      "word" : "pares"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.800000,
+      "word" : "immigrants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.179995,
+      "start" : 5.460000,
+      "word" : "jueus"
+    }],
+  "text" : "beques va néixer a exprimir fil massachusetts de pares immigrants jueus"
+}

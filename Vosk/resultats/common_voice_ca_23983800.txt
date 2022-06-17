@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 0.870000,
+      "word" : "actualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.770000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.010000,
+      "word" : "nau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.340000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.460000,
+      "word" : "fàbrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.120000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.300000,
+      "word" : "lloga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.720000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.935962,
+      "word" : "aparcament"
+    }],
+  "text" : "actualment la nau de la fàbrica es lloga com aparcament"
+}

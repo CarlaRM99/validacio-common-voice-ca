@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.870000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.020000,
+      "word" : "vestit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.410000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.560000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.860000,
+      "word" : "peces"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.760000,
+      "word" : "uns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.000000,
+      "word" : "pantalons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.050000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.140000,
+      "word" : "una"
+    }, {
+      "conf" : 0.501703,
+      "end" : 4.590000,
+      "start" : 4.320000,
+      "word" : "capa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.590000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.680000,
+      "word" : "caputxa"
+    }],
+  "text" : "el vestit té dues peces uns pantalons i una capa amb caputxa"
+}

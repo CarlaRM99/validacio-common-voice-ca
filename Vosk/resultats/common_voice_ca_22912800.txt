@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.821004,
+      "end" : 1.050000,
+      "start" : 0.870000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.050000,
+      "word" : "senat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.530000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.620000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.800000,
+      "word" : "cònsols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.490000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.640000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.850000,
+      "word" : "sentir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.360000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.690000,
+      "word" : "ofesos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.260000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.470000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.560000,
+      "word" : "decisió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.130000,
+      "word" : "popular"
+    }],
+  "text" : "el senat i els cònsols es van sentir molt ofesos per la decisió popular"
+}

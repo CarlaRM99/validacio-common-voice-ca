@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.373847,
+      "end" : 0.714363,
+      "start" : 0.570000,
+      "word" : "per"
+    }, {
+      "conf" : 0.474477,
+      "end" : 1.317559,
+      "start" : 0.714363,
+      "word" : "reflectir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.317559,
+      "word" : "divendres"
+    }, {
+      "conf" : 0.378949,
+      "end" : 2.363215,
+      "start" : 1.860000,
+      "word" : "edició"
+    }, {
+      "conf" : 0.705297,
+      "end" : 2.565419,
+      "start" : 2.450103,
+      "word" : "de"
+    }, {
+      "conf" : 0.619594,
+      "end" : 2.790000,
+      "start" : 2.580000,
+      "word" : "déu"
+    }],
+  "text" : "per reflectir divendres edició de déu"
+}

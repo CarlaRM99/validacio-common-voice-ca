@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.880701,
+      "start" : 1.110000,
+      "word" : "l'estructura"
+    }, {
+      "conf" : 0.690044,
+      "end" : 2.460000,
+      "start" : 1.890000,
+      "word" : "portant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.520000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.940000,
+      "word" : "pedra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.360000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.420000,
+      "word" : "morter"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.810000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.930000,
+      "word" : "calç"
+    }],
+  "text" : "l'estructura portant és de pedra i morter de calç"
+}

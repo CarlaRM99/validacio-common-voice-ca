@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.080000,
+      "word" : "qui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.290000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.560000,
+      "word" : "abraça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.250000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.550000,
+      "word" : "estreny"
+    }],
+  "text" : "qui molt abraça poc estreny"
+}

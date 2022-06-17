@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.320000,
+      "word" : "sovint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "s'hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.980000,
+      "word" : "inclou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.400000,
+      "word" : "algun"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.700000,
+      "word" : "tipus"
+    }, {
+      "conf" : 0.823622,
+      "end" : 3.630000,
+      "start" : 3.090000,
+      "word" : "d'indicador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.630000,
+      "word" : "d'humitat"
+    }],
+  "text" : "sovint s'hi inclou algun tipus d'indicador d'humitat"
+}

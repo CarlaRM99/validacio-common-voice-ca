@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.690000,
+      "word" : "especialment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.590000,
+      "word" : "l'envià"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.190000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.250000,
+      "word" : "lluitar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.850000,
+      "word" : "contra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.420000,
+      "word" : "quimera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.530000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.830000,
+      "word" : "bèstia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.280000,
+      "word" : "monstruosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.360000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 6.630000,
+      "word" : "abastava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.230000,
+      "start" : 7.140000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.650000,
+      "start" : 7.230000,
+      "word" : "regió"
+    }],
+  "text" : "especialment l'envià a lluitar contra la quimera una bèstia monstruosa cada abastava la regió"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.380000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.530000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.650000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.740000,
+      "word" : "dir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.190000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.520000,
+      "word" : "recordar"
+    }, {
+      "conf" : 0.813448,
+      "end" : 3.180000,
+      "start" : 3.090000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.180000,
+      "word" : "noi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.630000,
+      "word" : "l'antic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.110000,
+      "word" : "rei"
+    }],
+  "text" : "el que va dir li va recordar el noi l'antic rei"
+}

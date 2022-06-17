@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.700149,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.700149,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.470000,
+      "word" : "desavinences"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.280000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.610000,
+      "word" : "l'alcalde"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.360000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.540000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.930000,
+      "word" : "membres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.380000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.560000,
+      "word" : "consistori"
+    }],
+  "text" : "hi ha desavinences entre l'alcalde i altres membres del consistori"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.510000,
+      "word" : "faringe"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290633,
+      "start" : 0.990000,
+      "word" : "també"
+    }, {
+      "conf" : 0.936470,
+      "end" : 1.439015,
+      "start" : 1.290633,
+      "word" : "els"
+    }, {
+      "conf" : 0.957852,
+      "end" : 1.889064,
+      "start" : 1.439015,
+      "word" : "serveix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.044536,
+      "start" : 1.889064,
+      "word" : "per"
+    }, {
+      "conf" : 0.450934,
+      "end" : 2.370000,
+      "start" : 2.044536,
+      "word" : "alex"
+    }, {
+      "conf" : 0.658636,
+      "end" : 2.970000,
+      "start" : 2.400000,
+      "word" : "creació"
+    }],
+  "text" : "la faringe també els serveix per alex creació"
+}

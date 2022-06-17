@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.780000,
+      "word" : "quants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.110000,
+      "word" : "vots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.410000,
+      "word" : "contraris"
+    }, {
+      "conf" : 0.826718,
+      "end" : 2.220000,
+      "start" : 2.130000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.220000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.370000,
+      "word" : "hagut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.850000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.060000,
+      "word" : "votació"
+    }],
+  "text" : "quants vots contraris hi ha hagut a la votació"
+}

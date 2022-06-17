@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.510000,
+      "word" : "va"
+    }, {
+      "conf" : 0.510450,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.020000,
+      "word" : "produïda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.740000,
+      "word" : "per"
+    }, {
+      "conf" : 0.828305,
+      "end" : 2.250000,
+      "start" : 1.950000,
+      "word" : "l'or"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.250000,
+      "word" : "i"
+    }, {
+      "conf" : 0.527644,
+      "end" : 2.550000,
+      "start" : 2.310000,
+      "word" : "mar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.610000,
+      "word" : "televisió"
+    }],
+  "text" : "va ser produïda per l'or i mar televisió"
+}

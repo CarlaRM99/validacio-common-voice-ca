@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.170000,
+      "word" : "aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.680000,
+      "word" : "condicions"
+    }, {
+      "conf" : 0.509370,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.730000,
+      "word" : "hidrocarburs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.540000,
+      "word" : "alifàtics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.290000,
+      "word" : "formen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.740000,
+      "word" : "anells"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.250000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.340000,
+      "word" : "perden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.760000,
+      "word" : "hidrogen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 6.270000,
+      "word" : "transformant-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.230000,
+      "start" : 7.140000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.980000,
+      "start" : 7.230000,
+      "word" : "hidrocarburs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.850000,
+      "start" : 7.980000,
+      "word" : "aromàtics"
+    }],
+  "text" : "en aquestes condicions els hidrocarburs alifàtics formen anells i perden hidrogen transformant-se en hidrocarburs aromàtics"
+}

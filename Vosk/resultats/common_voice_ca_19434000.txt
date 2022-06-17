@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.480000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.690000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.930000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.020000,
+      "word" : "perill"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.290000,
+      "word" : "d'extinció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.950000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.130000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.220000,
+      "word" : "pèrdua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.610000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.760000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.970000,
+      "word" : "hàbitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.390000,
+      "word" : "natural"
+    }],
+  "text" : "es troba en perill d'extinció per la pèrdua del seu hàbitat natural"
+}

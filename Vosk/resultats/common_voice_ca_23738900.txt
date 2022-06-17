@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.531032,
+      "end" : 0.900000,
+      "start" : 0.540000,
+      "word" : "tracta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.990000,
+      "word" : "naturalesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.620000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.800000,
+      "word" : "manera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.130000,
+      "word" : "franca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.430000,
+      "word" : "i"
+    }, {
+      "conf" : 0.825458,
+      "end" : 2.970000,
+      "start" : 2.460000,
+      "word" : "directa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.000000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.210000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.300000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.510000,
+      "word" : "inicis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.960000,
+      "word" : "l'artista"
+    }],
+  "text" : "tracta la naturalesa d'una manera franca i directa com en els inicis de l'artista"
+}

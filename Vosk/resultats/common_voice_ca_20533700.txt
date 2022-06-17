@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.690000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.840000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.110000,
+      "word" : "riquesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.530000,
+      "word" : "continguts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.190000,
+      "word" : "l'agència"
+    }, {
+      "conf" : 0.495438,
+      "end" : 3.090000,
+      "start" : 2.880000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.210000,
+      "word" : "portals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.600000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.780000,
+      "word" : "yahoo"
+    }],
+  "text" : "la gran riquesa continguts de l'agència fet portals com yahoo"
+}

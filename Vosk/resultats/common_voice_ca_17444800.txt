@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 0.720000,
+      "word" : "l'absorbent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.740000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.920000,
+      "word" : "vegada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.310000,
+      "word" : "contaminat"
+    }, {
+      "conf" : 0.884224,
+      "end" : 3.180000,
+      "start" : 2.970000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 0.884224,
+      "end" : 3.300000,
+      "start" : 3.180000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.300000,
+      "word" : "gestionar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.050000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.260000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.320000,
+      "word" : "residu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.800000,
+      "word" : "perillós"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.490000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.610000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.730000,
+      "word" : "perillós"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.420000,
+      "word" : "segons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.710000,
+      "start" : 6.840000,
+      "word" : "corresponga"
+    }],
+  "text" : "l'absorbent una vegada contaminat s'ha de gestionar com a residu perillós o no perillós segons corresponga"
+}

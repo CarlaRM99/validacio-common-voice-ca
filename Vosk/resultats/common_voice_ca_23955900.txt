@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.493572,
+      "end" : 0.990000,
+      "start" : 0.630000,
+      "word" : "ligent"
+    }, {
+      "conf" : 0.806368,
+      "end" : 1.260000,
+      "start" : 0.995786,
+      "word" : "extra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.301895,
+      "word" : "escolar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.800000,
+      "word" : "caràcter"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.160000,
+      "word" : "inflamatori"
+    }, {
+      "conf" : 0.687621,
+      "end" : 3.420000,
+      "start" : 2.760000,
+      "word" : "presentada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.420000,
+      "word" : "concentració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.110000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.230000,
+      "word" : "proteïnes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.740000,
+      "word" : "i"
+    }, {
+      "conf" : 0.886545,
+      "end" : 5.100000,
+      "start" : 4.800000,
+      "word" : "molta"
+    }, {
+      "conf" : 0.672797,
+      "end" : 5.370000,
+      "start" : 5.100000,
+      "word" : "resta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.389632,
+      "word" : "cel·lulars"
+    }],
+  "text" : "ligent extra escolar de caràcter inflamatori presentada concentració de proteïnes i molta resta cel·lulars"
+}

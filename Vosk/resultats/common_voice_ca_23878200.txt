@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.300000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.540000,
+      "word" : "donar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.780000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.900000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.080000,
+      "word" : "xicota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.500000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.890000,
+      "word" : "dificultats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.400000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.972979,
+      "start" : 2.550000,
+      "word" : "dedicar-se"
+    }, {
+      "conf" : 0.523801,
+      "end" : 3.030000,
+      "start" : 2.972979,
+      "word" : "la"
+    }, {
+      "conf" : 0.883515,
+      "end" : 3.750000,
+      "start" : 3.030000,
+      "word" : "investigació"
+    }],
+  "text" : "van donar la seva xicota també té dificultats per dedicar-se la investigació"
+}

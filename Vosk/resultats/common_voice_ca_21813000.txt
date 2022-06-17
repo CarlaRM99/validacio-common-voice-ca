@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.596238,
+      "end" : 1.320000,
+      "start" : 0.690000,
+      "word" : "solia"
+    }, {
+      "conf" : 0.763752,
+      "end" : 1.800000,
+      "start" : 1.350000,
+      "word" : "tindre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.800000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.010000,
+      "word" : "llargada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.670000,
+      "word" : "vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.000000,
+      "word" : "pàgines"
+    }],
+  "text" : "solia tindre una llargada de vuit pàgines"
+}

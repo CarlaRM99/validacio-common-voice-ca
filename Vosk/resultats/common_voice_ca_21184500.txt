@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.552502,
+      "end" : 1.440000,
+      "start" : 0.960000,
+      "word" : "l'altre"
+    }, {
+      "conf" : 0.581812,
+      "end" : 1.890000,
+      "start" : 1.440000,
+      "word" : "dona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.970000,
+      "word" : "l'escala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.510000,
+      "word" : "d'accés"
+    }],
+  "text" : "l'altre dona a l'escala d'accés"
+}

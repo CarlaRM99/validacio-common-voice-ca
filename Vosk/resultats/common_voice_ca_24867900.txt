@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.870000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.140000,
+      "word" : "cuina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.620000,
+      "word" : "university"
+    }, {
+      "conf" : 0.661217,
+      "end" : 3.150000,
+      "start" : 2.460000,
+      "word" : "deixar-la"
+    }, {
+      "conf" : 0.904481,
+      "end" : 3.480000,
+      "start" : 3.210000,
+      "word" : "té"
+    }, {
+      "conf" : 0.801312,
+      "end" : 3.840000,
+      "start" : 3.480000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.840000,
+      "word" : "germandats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.680000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.800000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.010000,
+      "word" : "fraternitat"
+    }],
+  "text" : "la cuina university deixar-la té fins germandats i una fraternitat"
+}

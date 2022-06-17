@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.730069,
+      "end" : 1.142518,
+      "start" : 0.630000,
+      "word" : "marca"
+    }, {
+      "conf" : 0.624410,
+      "end" : 1.260000,
+      "start" : 1.147185,
+      "word" : "el"
+    }, {
+      "conf" : 0.526108,
+      "end" : 1.680000,
+      "start" : 1.345668,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.710000,
+      "word" : "noranta-set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.610000,
+      "word" : "zero"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.090000,
+      "word" : "vint-i-nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.780000,
+      "word" : "noranta-set"
+    }],
+  "text" : "marca el sis noranta-set zero vint-i-nou noranta-set"
+}

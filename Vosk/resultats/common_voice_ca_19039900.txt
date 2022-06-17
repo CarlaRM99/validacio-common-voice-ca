@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.788734,
+      "end" : 1.254034,
+      "start" : 0.750000,
+      "word" : "francesc"
+    }, {
+      "conf" : 0.444268,
+      "end" : 1.560000,
+      "start" : 1.254034,
+      "word" : "volta"
+    }, {
+      "conf" : 0.914355,
+      "end" : 1.649498,
+      "start" : 1.571584,
+      "word" : "i"
+    }, {
+      "conf" : 0.852005,
+      "end" : 2.040000,
+      "start" : 1.649498,
+      "word" : "mas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.190000,
+      "word" : "actuarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.730000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.820000,
+      "word" : "president"
+    }],
+  "text" : "francesc volta i mas que actuarà com a president"
+}

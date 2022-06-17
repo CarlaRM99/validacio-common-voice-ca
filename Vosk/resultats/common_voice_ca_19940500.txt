@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.480000,
+      "start" : 0.330000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.480000,
+      "word" : "color"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "verd"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.020000,
+      "word" : "brillant"
+    }, {
+      "conf" : 0.519048,
+      "end" : 2.100000,
+      "start" : 1.620000,
+      "word" : "il·lustra"
+    }, {
+      "conf" : 0.377830,
+      "end" : 2.430000,
+      "start" : 2.100000,
+      "word" : "d'espant"
+    }, {
+      "conf" : 0.494809,
+      "end" : 2.820000,
+      "start" : 2.460000,
+      "word" : "fes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.880000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.090000,
+      "word" : "clares"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.450000,
+      "word" : "pel"
+    }, {
+      "conf" : 0.764020,
+      "end" : 4.110000,
+      "start" : 3.630000,
+      "word" : "revés"
+    }],
+  "text" : "de color verd brillant il·lustra d'espant fes més clares pel revés"
+}

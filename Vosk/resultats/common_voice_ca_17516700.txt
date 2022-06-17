@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.900000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.380000,
+      "word" : "espècie"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.010000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.310000,
+      "word" : "representació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.090000,
+      "word" : "creixent"
+    }, {
+      "conf" : 0.589033,
+      "end" : 3.900000,
+      "start" : 3.720000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.900000,
+      "word" : "paratge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.830000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.950000,
+      "word" : "guanyen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.340000,
+      "word" : "terreny"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.880000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.970000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.180000,
+      "word" : "masses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.560000,
+      "start" : 6.720000,
+      "word" : "coníferes"
+    }],
+  "text" : "aquesta espècie té una representació creixent al paratge i guanyen terreny a les masses de coníferes"
+}

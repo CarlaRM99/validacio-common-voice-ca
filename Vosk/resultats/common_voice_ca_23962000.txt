@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 0.840000,
+      "word" : "s'empraven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.950000,
+      "word" : "taules"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.370000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.490000,
+      "word" : "fusta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.240000,
+      "word" : "figures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.690000,
+      "word" : "esculpides"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.040000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.250000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.490000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.640000,
+      "word" : "pont"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 6.120000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.510000,
+      "word" : "l'home"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 7.020000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.920000,
+      "start" : 7.140000,
+      "word" : "l'esperit"
+    }],
+  "text" : "s'empraven taules de fusta i figures esculpides per fer de pont entre l'home i l'esperit"
+}

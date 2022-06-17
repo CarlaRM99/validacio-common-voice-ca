@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.990000,
+      "word" : "foix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.680000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.800000,
+      "word" : "tingut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.400000,
+      "word" : "paper"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.700000,
+      "word" : "destacat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.330000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.630000,
+      "word" : "cruïlla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.110000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.200000,
+      "word" : "civilitzacions"
+    }],
+  "text" : "el foix ha tingut un paper destacat com cruïlla de civilitzacions"
+}

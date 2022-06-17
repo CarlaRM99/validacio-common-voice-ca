@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.930000,
+      "word" : "podria"
+    }],
+  "text" : "no podria"
+}

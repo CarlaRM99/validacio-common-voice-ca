@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.360000,
+      "word" : "quan"
+    }, {
+      "conf" : 0.846492,
+      "end" : 0.930000,
+      "start" : 0.600000,
+      "word" : "vegis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.934605,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.080000,
+      "word" : "gavina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.590000,
+      "word" : "l'horta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.250000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.730000,
+      "word" : "llenya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.090000,
+      "word" : "fes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.623212,
+      "start" : 3.300000,
+      "word" : "foc"
+    }, {
+      "conf" : 0.773741,
+      "end" : 3.690000,
+      "start" : 3.630000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.690000,
+      "word" : "tanca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.080000,
+      "word" : "porta"
+    }],
+  "text" : "quan vegis la gavina per l'horta entre la llenya fes foc i tanca la porta"
+}

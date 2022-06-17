@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.664023,
+      "end" : 1.410000,
+      "start" : 0.510000,
+      "word" : "l'excepció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.470000,
+      "word" : "era"
+    }, {
+      "conf" : 0.830937,
+      "end" : 2.070000,
+      "start" : 1.860000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.070000,
+      "word" : "límit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.580000,
+      "word" : "llevant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.300000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.480000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.690000,
+      "word" : "limítrof"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.560000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.740000,
+      "word" : "esterri"
+    }, {
+      "conf" : 0.998928,
+      "end" : 5.729986,
+      "start" : 5.250000,
+      "word" : "d'àneu"
+    }],
+  "text" : "l'excepció era el límit de llevant on era limítrof amb esterri d'àneu"
+}

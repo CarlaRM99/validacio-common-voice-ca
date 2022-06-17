@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.960000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.110000,
+      "word" : "nombre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.410000,
+      "word" : "total"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.310000,
+      "word" : "congrés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.166415,
+      "start" : 2.940000,
+      "word" : "serà"
+    }, {
+      "conf" : 0.547162,
+      "end" : 3.690000,
+      "start" : 3.180000,
+      "word" : "almenys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.690000,
+      "word" : "tres-cents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.290000,
+      "word" : "noranta"
+    }],
+  "text" : "el nombre total en el congrés serà almenys tres-cents noranta"
+}

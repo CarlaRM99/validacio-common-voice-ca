@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "fi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.930000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.140000,
+      "word" : "món"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.650000,
+      "word" : "s'acosta"
+    }],
+  "text" : "la fi del món s'acosta"
+}

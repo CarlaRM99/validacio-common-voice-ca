@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.840000,
+      "word" : "tracta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.350000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.530000,
+      "word" : "darrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.890000,
+      "word" : "acte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.310000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.520000,
+      "word" : "festa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.970000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.210000,
+      "word" : "enfarinats"
+    }],
+  "text" : "es tracta del darrer acte de la festa dels enfarinats"
+}

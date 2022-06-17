@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "en"
+    }, {
+      "conf" : 0.543198,
+      "end" : 1.200000,
+      "start" : 0.960000,
+      "word" : "sol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.243704,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.620000,
+      "word" : "unes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.890000,
+      "word" : "quantes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.220000,
+      "word" : "vegades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.610000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.700000,
+      "word" : "l'any"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.090000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.330000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.480000,
+      "word" : "faves"
+    }, {
+      "conf" : 0.847560,
+      "end" : 4.110000,
+      "start" : 3.780000,
+      "word" : "estan"
+    }, {
+      "conf" : 0.567964,
+      "end" : 4.230000,
+      "start" : 4.110000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.230000,
+      "word" : "punt"
+    }],
+  "text" : "en sol fer unes quantes vegades a l'any quan les faves estan el punt"
+}

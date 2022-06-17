@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.870000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.230000,
+      "word" : "tasca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.770000,
+      "word" : "acadèmica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.580000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.850000,
+      "word" : "cabdal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.570000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 3.870000,
+      "word" : "desenvolupament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.890000,
+      "word" : "recent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.400000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.520000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.640000,
+      "word" : "llengua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.120000,
+      "word" : "còrnica"
+    }],
+  "text" : "la seva tasca acadèmica és cabdal en el desenvolupament recent de la llengua còrnica"
+}

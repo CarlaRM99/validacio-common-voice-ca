@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.200000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.560000,
+      "word" : "l'acoblament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.190000,
+      "word" : "magnètic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.000000,
+      "word" : "veu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.180000,
+      "word" : "afectat"
+    }, {
+      "conf" : 0.721751,
+      "end" : 4.470000,
+      "start" : 4.140000,
+      "word" : "si"
+    }, {
+      "conf" : 0.801533,
+      "end" : 5.160000,
+      "start" : 4.488122,
+      "word" : "electrons"
+    }, {
+      "conf" : 0.549518,
+      "end" : 5.940000,
+      "start" : 5.160000,
+      "word" : "desaparèixer"
+    }, {
+      "conf" : 0.549518,
+      "end" : 6.000000,
+      "start" : 5.940000,
+      "word" : "en"
+    }, {
+      "conf" : 0.860011,
+      "end" : 6.120000,
+      "start" : 6.000000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.120000,
+      "word" : "sistema"
+    }],
+  "text" : "també l'acoblament magnètic es veu afectat si electrons desaparèixer en el sistema"
+}

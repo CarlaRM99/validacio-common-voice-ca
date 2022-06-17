@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.500000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.860000,
+      "word" : "club"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.310000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.490000,
+      "word" : "campionats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.060000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.180000,
+      "word" : "frança"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.720000,
+      "word" : "basquetbol"
+    }],
+  "text" : "és el club amb més campionats de frança de basquetbol"
+}

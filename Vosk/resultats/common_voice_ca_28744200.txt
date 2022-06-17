@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.600000,
+      "word" : "quan"
+    }, {
+      "conf" : 0.822315,
+      "end" : 1.410000,
+      "start" : 0.870000,
+      "word" : "saladí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.440000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.620000,
+      "word" : "derrocar"
+    }, {
+      "conf" : 0.642014,
+      "end" : 2.520000,
+      "start" : 2.280000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.520000,
+      "word" : "croats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.180000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.751662,
+      "start" : 3.390000,
+      "word" : "tornar"
+    }, {
+      "conf" : 0.717806,
+      "end" : 3.840000,
+      "start" : 3.751662,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.870000,
+      "word" : "control"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.380000,
+      "word" : "d'aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.010000,
+      "word" : "localitzacions"
+    }, {
+      "conf" : 0.882758,
+      "end" : 6.240000,
+      "start" : 6.120000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.250552,
+      "word" : "cristians"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.740000,
+      "start" : 6.900000,
+      "word" : "ortodoxos"
+    }],
+  "text" : "quan saladí va derrocar als croats va tornar al control d'aquestes localitzacions a cristians ortodoxos"
+}

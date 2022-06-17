@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.810000,
+      "word" : "sol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "és"
+    }, {
+      "conf" : 0.679014,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.290000,
+      "word" : "millor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.560000,
+      "word" : "amic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.830000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.070000,
+      "word" : "vells"
+    }],
+  "text" : "el sol és el millor amic dels vells"
+}

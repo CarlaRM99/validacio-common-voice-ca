@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.170000,
+      "word" : "aquella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.560000,
+      "word" : "dècada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.400000,
+      "word" : "vaixell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.150000,
+      "word" : "anomenat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.780000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.080000,
+      "word" : "cuines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.920000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.130000,
+      "word" : "quedar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.640000,
+      "word" : "ancorat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.270000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.420000,
+      "word" : "platja"
+    }],
+  "text" : "en aquella dècada un vaixell anomenat cap cuines va quedar ancorat a la platja"
+}

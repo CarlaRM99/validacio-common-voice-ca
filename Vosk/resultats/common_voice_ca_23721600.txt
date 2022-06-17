@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.577379,
+      "end" : 1.350000,
+      "start" : 1.230000,
+      "word" : "de"
+    }, {
+      "conf" : 0.838005,
+      "end" : 1.800000,
+      "start" : 1.370459,
+      "word" : "pèls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.920000,
+      "word" : "color"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.250000,
+      "word" : "blanc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "i"
+    }, {
+      "conf" : 0.688942,
+      "end" : 3.240000,
+      "start" : 2.910000,
+      "word" : "llarg"
+    }, {
+      "conf" : 0.236119,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.555138,
+      "word" : "els"
+    }, {
+      "conf" : 0.744153,
+      "end" : 4.350000,
+      "start" : 3.720000,
+      "word" : "palps"
+    }],
+  "text" : "de pèls de color blanc i llarg en els palps"
+}

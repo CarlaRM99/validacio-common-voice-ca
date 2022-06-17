@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.870000,
+      "word" : "algunes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.680000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 1.980000,
+      "word" : "cançons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.910000,
+      "word" : "tenien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.450000,
+      "word" : "motivacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.200000,
+      "word" : "polítiques"
+    }],
+  "text" : "algunes de les seves cançons tenien motivacions polítiques"
+}

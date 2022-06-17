@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.840000,
+      "word" : "fundació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.620000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 1.980000,
+      "word" : "responsable"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.910000,
+      "word" : "d'atorgar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.630000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.140000,
+      "word" : "premis"
+    }],
+  "text" : "la fundació és la responsable d'atorgar diversos premis"
+}

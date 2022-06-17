@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.750000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.050000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.320000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.500000,
+      "word" : "sequera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.070000,
+      "word" : "condueix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.550000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.580000,
+      "word" : "tancament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.150000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.390000,
+      "word" : "estomes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.960000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.080000,
+      "word" : "delimitació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.800000,
+      "word" : "d'intercanvi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.520000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.640000,
+      "word" : "gasos"
+    }],
+  "text" : "les tres per sequera que condueix a tancament dels estomes i delimitació d'intercanvi de gasos"
+}

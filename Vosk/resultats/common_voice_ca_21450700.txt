@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.480000,
+      "word" : "tanmateix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.380000,
+      "word" : "experimentat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.310000,
+      "word" : "nombroses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.060000,
+      "word" : "modificacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.170000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.350000,
+      "word" : "llarg"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.680000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.890000,
+      "word" : "temps"
+    }],
+  "text" : "tanmateix ha experimentat nombroses modificacions al llarg del temps"
+}

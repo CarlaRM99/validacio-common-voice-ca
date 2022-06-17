@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.721831,
+      "end" : 0.990000,
+      "start" : 0.660000,
+      "word" : "dóna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.990000,
+      "word" : "informació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.590000,
+      "word" : "relacionada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.340000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.550000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.610000,
+      "word" : "cinema"
+    }, {
+      "conf" : 0.682222,
+      "end" : 3.390000,
+      "start" : 3.180000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.390000,
+      "word" : "actors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.140000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.230000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.440000,
+      "word" : "sèries"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.740000,
+      "word" : "televisives"
+    }],
+  "text" : "dóna informació relacionada amb el cinema els actors i les sèries televisives"
+}

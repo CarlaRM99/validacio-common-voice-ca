@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.380000,
+      "word" : "construir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.010000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.160000,
+      "word" : "plaça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.790000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.030000,
+      "word" : "manifestacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.140000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.350000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.560000,
+      "word" : "prohibides"
+    }],
+  "text" : "quan es va construir la plaça les manifestacions van ser prohibides"
+}

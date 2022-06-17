@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.690000,
+      "word" : "s'incrementa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.680000,
+      "word" : "gradualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.580000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.820000,
+      "word" : "pressió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.510000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.630000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.810000,
+      "word" : "velocitat"
+    }],
+  "text" : "s'incrementa gradualment la pressió i la velocitat"
+}

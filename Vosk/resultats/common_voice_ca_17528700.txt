@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.609126,
+      "end" : 2.370000,
+      "start" : 1.860000,
+      "word" : "sèsam"
+    }, {
+      "conf" : 0.609126,
+      "end" : 2.490000,
+      "start" : 2.370000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.513452,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.700000,
+      "word" : "afinitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.360000,
+      "word" : "caràcters"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.260000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.410000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.530000,
+      "word" : "gustos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.520000,
+      "word" : "cosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.880000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 6.030000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.120000,
+      "word" : "sempre"
+    }, {
+      "conf" : 0.676089,
+      "end" : 6.960000,
+      "start" : 6.480000,
+      "word" : "ocórrer"
+    }, {
+      "conf" : 0.697834,
+      "end" : 7.110000,
+      "start" : 6.990000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.230000,
+      "start" : 7.110000,
+      "word" : "els"
+    }, {
+      "conf" : 0.843486,
+      "end" : 7.920000,
+      "start" : 7.230000,
+      "word" : "parents"
+    }],
+  "text" : "sèsam i per afinitat caràcters o de gustos cosa que no sempre ocórrer amb els parents"
+}

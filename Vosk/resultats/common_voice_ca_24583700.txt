@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.690000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.930000,
+      "word" : "estudiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.380000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.530000,
+      "word" : "remolatxa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.310000,
+      "word" : "sucre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.910000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.030000,
+      "word" : "canya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.330000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.420000,
+      "word" : "sucre"
+    }],
+  "text" : "va estudiar la remolatxa de sucre i la canya de sucre"
+}

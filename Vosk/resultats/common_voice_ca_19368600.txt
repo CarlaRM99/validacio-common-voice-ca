@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.609716,
+      "end" : 0.930000,
+      "start" : 0.330000,
+      "word" : "xx"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.350000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.680000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.740000,
+      "word" : "l'atur"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.550000,
+      "word" : "rep"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.820000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 2.970000,
+      "word" : "proposició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.140000,
+      "word" : "d'ensenyament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.950000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.100000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.280000,
+      "word" : "escola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.610000,
+      "word" : "militar"
+    }],
+  "text" : "xx va a l'atur i rep una proposició d'ensenyament en una escola militar"
+}

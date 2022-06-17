@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.832564,
+      "end" : 1.110000,
+      "start" : 0.690000,
+      "word" : "quinze"
+    }, {
+      "conf" : 0.419935,
+      "end" : 1.500000,
+      "start" : 1.110000,
+      "word" : "cuiden"
+    }, {
+      "conf" : 0.735311,
+      "end" : 1.830000,
+      "start" : 1.500000,
+      "word" : "bullits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.920000,
+      "word" : "poemes"
+    }],
+  "text" : "quinze cuiden bullits de poemes"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.799095,
+      "end" : 1.110000,
+      "start" : 0.810000,
+      "word" : "si"
+    }, {
+      "conf" : 0.789786,
+      "end" : 1.230000,
+      "start" : 1.110000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.230000,
+      "word" : "dissabte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.920000,
+      "word" : "es"
+    }, {
+      "conf" : 0.867575,
+      "end" : 2.940000,
+      "start" : 2.100000,
+      "word" : "prorrogarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.300000,
+      "word" : "fins"
+    }, {
+      "conf" : 0.517115,
+      "end" : 3.840000,
+      "start" : 3.660000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.840000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.290000,
+      "word" : "dia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.620000,
+      "word" : "hàbil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.070000,
+      "word" : "següent"
+    }],
+  "text" : "si és dissabte es prorrogarà fins al primer dia hàbil següent"
+}

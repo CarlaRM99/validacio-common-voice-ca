@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.960000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.500000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.650000,
+      "word" : "disculparia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.310000,
+      "word" : "davant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.700000,
+      "word" : "capità"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.120000,
+      "word" : "amèrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.020000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.140000,
+      "word" : "ambdós"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.560000,
+      "word" : "intentarien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.220000,
+      "word" : "reparar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.550000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.670000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.880000,
+      "word" : "relació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.300000,
+      "word" : "personal"
+    }],
+  "text" : "després es disculparia davant del capità amèrica i ambdós intentarien reparar la seva relació personal"
+}

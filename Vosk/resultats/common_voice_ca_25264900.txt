@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.630000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.930000,
+      "word" : "vegada"
+    }, {
+      "conf" : 0.698775,
+      "end" : 1.920000,
+      "start" : 1.560000,
+      "word" : "roma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.920000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.980000,
+      "word" : "ric"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "en"
+    }, {
+      "conf" : 0.634791,
+      "end" : 2.490000,
+      "start" : 2.370000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.490000,
+      "word" : "dir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.940000,
+      "word" : "que"
+    }, {
+      "conf" : 0.730149,
+      "end" : 3.570000,
+      "start" : 3.120000,
+      "word" : "gram"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.750000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.990000,
+      "word" : "lo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.200000,
+      "word" : "economista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.710000,
+      "word" : "preferit"
+    }],
+  "text" : "una vegada roma el ric en va dir que gram era lo economista preferit"
+}

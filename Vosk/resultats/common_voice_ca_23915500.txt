@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.875834,
+      "end" : 1.080000,
+      "start" : 0.840000,
+      "word" : "els"
+    }, {
+      "conf" : 0.875834,
+      "end" : 1.620000,
+      "start" : 1.080000,
+      "word" : "candidats"
+    }, {
+      "conf" : 0.503500,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.920000,
+      "word" : "d'extreure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.400000,
+      "word" : "informació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.180000,
+      "word" : "i"
+    }, {
+      "conf" : 0.786697,
+      "end" : 3.780000,
+      "start" : 3.300000,
+      "word" : "respondre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.780000,
+      "word" : "cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.020000,
+      "word" : "preguntes"
+    }, {
+      "conf" : 0.814111,
+      "end" : 4.590000,
+      "start" : 4.500000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.590000,
+      "word" : "múltiples"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.010000,
+      "word" : "opcions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.370000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.460000,
+      "word" : "resposta"
+    }],
+  "text" : "els candidats en d'extreure informació i respondre cinc preguntes amb múltiples opcions de resposta"
+}

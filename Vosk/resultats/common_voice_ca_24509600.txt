@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.210000,
+      "word" : "letònia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.080000,
+      "word" : "limita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.680000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.830000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.010000,
+      "word" : "província"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.640000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.760000,
+      "word" : "rússia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.540000,
+      "word" : "província"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.170000,
+      "word" : "de"
+    }, {
+      "conf" : 0.577181,
+      "end" : 4.740000,
+      "start" : 4.260000,
+      "word" : "cecot"
+    }],
+  "text" : "letònia limita amb una província de rússia la província de cecot"
+}

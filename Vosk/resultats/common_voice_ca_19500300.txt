@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.985756,
+      "start" : 0.690000,
+      "word" : "també"
+    }, {
+      "conf" : 0.858527,
+      "end" : 1.560000,
+      "start" : 0.990000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.615756,
+      "word" : "proclamat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.130000,
+      "word" : "campiona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.610000,
+      "word" : "nacional"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.120000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.270000,
+      "word" : "ruta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.570000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.900000,
+      "word" : "cops"
+    }],
+  "text" : "també s'ha proclamat campiona nacional en ruta quatre cops"
+}

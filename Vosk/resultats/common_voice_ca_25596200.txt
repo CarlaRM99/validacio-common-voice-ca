@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.630000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.870000,
+      "word" : "tassa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.110000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.200000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.320000,
+      "word" : "trencar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.040000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "es"
+    }, {
+      "conf" : 0.885782,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "va"
+    }, {
+      "conf" : 0.726557,
+      "end" : 2.676791,
+      "start" : 2.370000,
+      "word" : "vessar"
+    }, {
+      "conf" : 0.803547,
+      "end" : 2.759811,
+      "start" : 2.700000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.759811,
+      "word" : "contingut"
+    }],
+  "text" : "la tassa es va trencar i es va vessar el contingut"
+}

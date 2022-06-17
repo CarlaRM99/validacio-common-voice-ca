@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.735132,
+      "end" : 0.750000,
+      "start" : 0.600000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.735132,
+      "end" : 0.840000,
+      "start" : 0.750000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.917561,
+      "end" : 1.018661,
+      "start" : 0.840000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.018661,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.170000,
+      "word" : "porta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.560000,
+      "word" : "d'entrada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.310000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.490000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.670000,
+      "word" : "barraca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.240000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.360000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.510000,
+      "word" : "d'oficina"
+    }],
+  "text" : "hi ha com una porta d'entrada amb una barraca que fa d'oficina"
+}

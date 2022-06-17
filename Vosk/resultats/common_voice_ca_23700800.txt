@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.870000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.410000,
+      "word" : "dissenyadors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.040000,
+      "word" : "portuguesos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.970000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.210000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.360000,
+      "word" : "convidats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.900000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.960000,
+      "word" : "crear"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.230000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.320000,
+      "word" : "mobiliari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.950000,
+      "word" : "específic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.610000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.730000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.760000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.850000,
+      "word" : "casa"
+    }],
+  "text" : "diversos dissenyadors portuguesos van ser convidats a crear un mobiliari específic per a la casa"
+}

@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.360000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.660000,
+      "word" : "és"
+    }, {
+      "conf" : 0.509070,
+      "end" : 1.530000,
+      "start" : 0.720000,
+      "word" : "incorrecte"
+    }],
+  "text" : "això és incorrecte"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.900000,
+      "word" : "relleu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.350000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.830000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.100000,
+      "word" : "perfecta"
+    }, {
+      "conf" : 0.522392,
+      "end" : 3.210000,
+      "start" : 2.760000,
+      "word" : "plena"
+    }, {
+      "conf" : 0.879641,
+      "end" : 3.900000,
+      "start" : 3.210000,
+      "word" : "d'origen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.170000,
+      "word" : "al·luvial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.280000,
+      "word" : "reblida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.910000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.060000,
+      "word" : "sediments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.530000,
+      "start" : 6.660000,
+      "word" : "quaternaris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.620000,
+      "start" : 7.530000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.250000,
+      "start" : 7.620000,
+      "word" : "l'holocè"
+    }],
+  "text" : "el relleu forma una perfecta plena d'origen al·luvial reblida de sediments quaternaris de l'holocè"
+}

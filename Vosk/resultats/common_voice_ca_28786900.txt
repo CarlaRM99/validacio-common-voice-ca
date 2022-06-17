@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.679862,
+      "end" : 1.470000,
+      "start" : 1.110000,
+      "word" : "vinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.479604,
+      "word" : "amic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.710000,
+      "word" : "meu"
+    }],
+  "text" : "vinc amic meu"
+}

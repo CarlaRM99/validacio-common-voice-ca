@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.230000,
+      "word" : "fotogrametria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.220000,
+      "word" : "permet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.640000,
+      "word" : "realitzar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.030000,
+      "word" : "mesures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.450000,
+      "word" : "precises"
+    }, {
+      "conf" : 0.699140,
+      "end" : 4.680000,
+      "start" : 4.170000,
+      "word" : "utilitzant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.680000,
+      "word" : "fotografies"
+    }],
+  "text" : "la fotogrametria permet realitzar mesures precises utilitzant fotografies"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.630000,
+      "word" : "s'utilitzaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.470000,
+      "word" : "rescloses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280828,
+      "start" : 2.100000,
+      "word" : "per"
+    }, {
+      "conf" : 0.888045,
+      "end" : 2.339588,
+      "start" : 2.280828,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.339588,
+      "word" : "vèncer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "les"
+    }, {
+      "conf" : 0.505992,
+      "end" : 3.480000,
+      "start" : 2.910000,
+      "word" : "diferències"
+    }, {
+      "conf" : 0.941920,
+      "end" : 4.260000,
+      "start" : 3.510000,
+      "word" : "d'elevació"
+    }, {
+      "conf" : 0.835980,
+      "end" : 4.650000,
+      "start" : 4.470000,
+      "word" : "al"
+    }, {
+      "conf" : 0.835980,
+      "end" : 4.917079,
+      "start" : 4.650000,
+      "word" : "llarg"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.917079,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.544853,
+      "start" : 5.100000,
+      "word" : "canals"
+    }, {
+      "conf" : 0.710570,
+      "end" : 5.910000,
+      "start" : 5.550000,
+      "word" : "bé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.214199,
+      "start" : 6.060000,
+      "word" : "i"
+    }, {
+      "conf" : 0.804082,
+      "end" : 6.600000,
+      "start" : 6.214199,
+      "word" : "erra"
+    }],
+  "text" : "s'utilitzaven rescloses per a vèncer les diferències d'elevació al llarg dels canals bé i erra"
+}

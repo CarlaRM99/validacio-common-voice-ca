@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.854568,
+      "end" : 0.690000,
+      "start" : 0.600000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.854568,
+      "end" : 0.777303,
+      "start" : 0.690000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.922187,
+      "end" : 0.994572,
+      "start" : 0.777303,
+      "word" : "algun"
+    }, {
+      "conf" : 0.662463,
+      "end" : 1.560000,
+      "start" : 0.994572,
+      "word" : "l'artista"
+    }, {
+      "conf" : 0.615633,
+      "end" : 1.620000,
+      "start" : 1.560000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.620000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.860000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.130000,
+      "word" : "sever"
+    }],
+  "text" : "hi ha algun l'artista al carrer sant sever"
+}

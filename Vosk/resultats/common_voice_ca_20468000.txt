@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.600000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.780000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.870000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.080000,
+      "word" : "joventut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.650000,
+      "word" : "prokófiev"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.370000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.670000,
+      "word" : "desestimat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.300000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.480000,
+      "word" : "caràcter"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.900000,
+      "word" : "radical"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.440000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.530000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.770000,
+      "word" : "música"
+    }],
+  "text" : "en la seva joventut prokófiev fou desestimat pel caràcter radical de la seva música"
+}

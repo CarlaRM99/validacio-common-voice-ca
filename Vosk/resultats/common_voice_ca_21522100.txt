@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.630000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.720000,
+      "word" : "continuació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.530000,
+      "word" : "s'incorpora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.430000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.580000,
+      "word" : "gelatina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.240000,
+      "word" : "hidratada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.990000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.140000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.350000,
+      "word" : "remena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.860000,
+      "word" : "bé"
+    }],
+  "text" : "a continuació s'incorpora la gelatina hidratada i es remena bé"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.810000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.960000,
+      "word" : "suport"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800301,
+      "start" : 1.320000,
+      "word" : "econòmic"
+    }, {
+      "conf" : 0.827688,
+      "end" : 1.830000,
+      "start" : 1.800301,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.860000,
+      "word" : "programes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "que"
+    }, {
+      "conf" : 0.311725,
+      "end" : 2.994153,
+      "start" : 2.490000,
+      "word" : "pretenguem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.994153,
+      "word" : "l'educació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.630000,
+      "word" : "intercultural"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.560000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.680000,
+      "word" : "l'atenció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.130000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.160000,
+      "word" : "l'alumnat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.610000,
+      "word" : "immigrant"
+    }],
+  "text" : "el suport econòmic a programes que pretenguem l'educació intercultural i l'atenció a l'alumnat immigrant"
+}

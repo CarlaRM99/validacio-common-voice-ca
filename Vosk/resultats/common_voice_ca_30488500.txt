@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.787621,
+      "end" : 1.050000,
+      "start" : 0.690000,
+      "word" : "t"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.110000,
+      "word" : "aquí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "tens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.500000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.590000,
+      "word" : "cul"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.770000,
+      "word" : "embolicat"
+    }],
+  "text" : "t aquí tens el cul embolicat"
+}

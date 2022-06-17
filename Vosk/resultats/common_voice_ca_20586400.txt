@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.360000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.960000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.140000,
+      "word" : "volia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.500000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.620000,
+      "word" : "indret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.310000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.430000,
+      "word" : "tingués"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.060000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.240000,
+      "word" : "espai"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.720000,
+      "word" : "polivalent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.740000,
+      "word" : "i"
+    }, {
+      "conf" : 0.619793,
+      "end" : 5.340000,
+      "start" : 4.890000,
+      "word" : "cívic"
+    }],
+  "text" : "també es volia un indret on es tingués un espai polivalent i cívic"
+}

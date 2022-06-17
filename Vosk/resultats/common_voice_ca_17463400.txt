@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 0.840050,
+      "end" : 1.320000,
+      "start" : 0.630000,
+      "word" : "l'entrada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.320000,
+      "word" : "dona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.710000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.860000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.160000,
+      "word" : "gendres"
+    }, {
+      "conf" : 0.652035,
+      "end" : 3.344208,
+      "start" : 2.910000,
+      "word" : "omplir"
+    }, {
+      "conf" : 0.308810,
+      "end" : 3.450000,
+      "start" : 3.360000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.498327,
+      "word" : "cabassos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.080000,
+      "word" : "apedaçats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.160000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.567250,
+      "end" : 5.700000,
+      "start" : 5.370000,
+      "word" : "cara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 5.730000,
+      "word" : "resignada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.960000,
+      "start" : 6.810000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 6.960000,
+      "word" : "aires"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.470000,
+      "start" : 7.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.250000,
+      "start" : 7.470000,
+      "word" : "tristesa"
+    }],
+  "text" : "l'entrada dona i el seu gendres omplir a cabassos apedaçats amb cara resignada i aires de tristesa"
+}

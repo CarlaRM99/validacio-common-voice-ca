@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.720000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.050000,
+      "word" : "rector"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.410000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.500000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.590000,
+      "word" : "universitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.310000,
+      "word" : "barcelona"
+    }],
+  "text" : "fou rector de la universitat de barcelona"
+}

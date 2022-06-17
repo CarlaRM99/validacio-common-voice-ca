@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.630000,
+      "word" : "l'anàlisi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.290000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.380000,
+      "word" : "fourier"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.040000,
+      "word" : "proveeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.640000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.760000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.940000,
+      "word" : "eines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.360000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.510000,
+      "word" : "permeten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.020000,
+      "word" : "fer-ho"
+    }],
+  "text" : "l'anàlisi de fourier proveeix de les eines que permeten fer-ho"
+}

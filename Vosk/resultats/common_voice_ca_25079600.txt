@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 0.934492,
+      "end" : 0.840976,
+      "start" : 0.660000,
+      "word" : "es"
+    }, {
+      "conf" : 0.345228,
+      "end" : 1.230000,
+      "start" : 0.840976,
+      "word" : "neix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.320000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.770000,
+      "word" : "creia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.340000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.520000,
+      "word" : "accions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.000000,
+      "word" : "de"
+    }, {
+      "conf" : 0.503735,
+      "end" : 3.660000,
+      "start" : 3.120000,
+      "word" : "geishes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.674888,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.930000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.170000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.320000,
+      "word" : "benefici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.890000,
+      "word" : "propi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.400000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.610000,
+      "word" : "evitar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.000000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.390000,
+      "word" : "expulsat"
+    }],
+  "text" : "es neix però creia que les accions de geishes van ser en benefici propi per evitar ser expulsat"
+}

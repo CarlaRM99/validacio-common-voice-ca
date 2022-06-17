@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.600000,
+      "word" : "podeu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.990000,
+      "word" : "posar-hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.470000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.710000,
+      "word" : "menta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.460000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.580000,
+      "word" : "menys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.150000,
+      "word" : "algú"
+    }, {
+      "conf" : 0.618602,
+      "end" : 3.600000,
+      "start" : 3.480000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 0.529584,
+      "end" : 4.140000,
+      "start" : 3.608557,
+      "word" : "cadascú"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.710000,
+      "word" : "i"
+    }, {
+      "conf" : 0.769157,
+      "end" : 5.130000,
+      "start" : 4.830000,
+      "word" : "cop"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.130000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.400000,
+      "word" : "la"
+    }, {
+      "conf" : 0.619092,
+      "end" : 5.790000,
+      "start" : 5.520000,
+      "word" : "deixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 5.820000,
+      "word" : "bullir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.300000,
+      "word" : "millor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.630000,
+      "word" : "serà"
+    }],
+  "text" : "podeu posar-hi més menta o menys algú s'ha cadascú i cop més la deixa bullir millor serà"
+}

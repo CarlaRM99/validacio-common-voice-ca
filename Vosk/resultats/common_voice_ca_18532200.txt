@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.593201,
+      "end" : 1.170000,
+      "start" : 0.720000,
+      "word" : "sabem"
+    }, {
+      "conf" : 0.543274,
+      "end" : 1.710000,
+      "start" : 1.170000,
+      "word" : "perquè"
+    }],
+  "text" : "sabem perquè"
+}

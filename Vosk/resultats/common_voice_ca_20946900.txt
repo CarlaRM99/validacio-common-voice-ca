@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.930000,
+      "word" : "obertament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.620000,
+      "word" : "desafiar"
+    }, {
+      "conf" : 0.916838,
+      "end" : 2.640000,
+      "start" : 2.107327,
+      "word" : "l'autoritat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.790000,
+      "word" : "regent"
+    }],
+  "text" : "obertament desafiar l'autoritat del regent"
+}

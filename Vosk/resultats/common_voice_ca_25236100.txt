@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.635399,
+      "end" : 1.440000,
+      "start" : 0.780000,
+      "word" : "trichet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.620000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.830000,
+      "word" : "dir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.070000,
+      "word" : "necessitava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.700000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.850000,
+      "word" : "canvi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.630000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.810000,
+      "word" : "rejovenir"
+    }, {
+      "conf" : 0.705204,
+      "end" : 4.740000,
+      "start" : 4.320000,
+      "word" : "irla"
+    }],
+  "text" : "trichet va dir que necessitava un canvi per rejovenir irla"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.764817,
+      "end" : 1.050000,
+      "start" : 0.870000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.050000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.336919,
+      "start" : 1.170000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.563952,
+      "end" : 1.440000,
+      "start" : 1.350000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.470000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.040000,
+      "word" : "manxa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.820000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.330000,
+      "word" : "trenta-cinc"
+    }],
+  "text" : "que hi ha al carrer de la manxa número trenta-cinc"
+}

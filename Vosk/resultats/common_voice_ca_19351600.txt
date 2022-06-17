@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.810000,
+      "word" : "pluja"
+    }, {
+      "conf" : 0.625435,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.410000,
+      "word" : "pla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.830000,
+      "word" : "neu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.160000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.340000,
+      "word" : "muntanya"
+    }],
+  "text" : "pluja el pla neu a la muntanya"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.543997,
+      "end" : 1.080000,
+      "start" : 0.570000,
+      "word" : "ganes"
+    }, {
+      "conf" : 0.441415,
+      "end" : 1.560000,
+      "start" : 1.080000,
+      "word" : "curri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.560000,
+      "word" : "ulls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.980000,
+      "word" : "gat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.460000,
+      "word" : "déu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.760000,
+      "word" : "ens"
+    }, {
+      "conf" : 0.566050,
+      "end" : 3.480000,
+      "start" : 2.970000,
+      "word" : "enguany"
+    }],
+  "text" : "ganes curri ulls de gat déu ens enguany"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.350000,
+      "word" : "grup"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.680000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.830000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.550000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.730000,
+      "word" : "aquest"
+    }, {
+      "conf" : 0.802575,
+      "end" : 3.480000,
+      "start" : 3.000000,
+      "word" : "treball"
+    }, {
+      "conf" : 0.491170,
+      "end" : 3.570000,
+      "start" : 3.480000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.690000,
+      "word" : "d'or"
+    }],
+  "text" : "el grup va rebre per aquest treball i d'or"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.900000,
+      "word" : "arcs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.500000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.680000,
+      "word" : "finestres"
+    }, {
+      "conf" : 0.802262,
+      "end" : 3.180000,
+      "start" : 2.670000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.210000,
+      "word" : "carpanells"
+    }],
+  "text" : "els arcs de les finestres són carpanells"
+}

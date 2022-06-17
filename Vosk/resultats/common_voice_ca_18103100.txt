@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.840000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.960000,
+      "word" : "recinte"
+    }, {
+      "conf" : 0.655565,
+      "end" : 1.950000,
+      "start" : 1.500000,
+      "word" : "ample"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.370000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.490000,
+      "word" : "possibilitats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.240000,
+      "word" : "perquè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.540000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 3.750000,
+      "word" : "aglomeracions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.650000,
+      "word" : "càpien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.550000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.730000,
+      "word" : "molta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.060000,
+      "word" : "comoditat"
+    }],
+  "text" : "és un recinte ample i amb possibilitats perquè les aglomeracions càpien amb molta comoditat"
+}

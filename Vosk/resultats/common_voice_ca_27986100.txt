@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.693788,
+      "end" : 1.620000,
+      "start" : 0.750000,
+      "word" : "acomplert"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.650000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.860000,
+      "word" : "meves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.280000,
+      "word" : "expectatives"
+    }],
+  "text" : "acomplert les meves expectatives"
+}

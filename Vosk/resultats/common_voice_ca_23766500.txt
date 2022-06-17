@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.450000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.020000,
+      "word" : "liana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.470000,
+      "word" : "vigorosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.130000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.220000,
+      "word" : "caducifòlia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.330000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.540000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.690000,
+      "word" : "fulles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.110000,
+      "word" : "pinnades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.980000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.100000,
+      "word" : "flors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.460000,
+      "word" : "blanques"
+    }, {
+      "conf" : 0.999685,
+      "end" : 6.629998,
+      "start" : 6.000000,
+      "word" : "d'estiu"
+    }],
+  "text" : "és una liana vigorosa i caducifòlia amb les fulles pinnades i flors blanques d'estiu"
+}

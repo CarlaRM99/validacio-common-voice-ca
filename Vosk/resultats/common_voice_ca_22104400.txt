@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.510000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.750000,
+      "word" : "endemismes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.590000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 1.890000,
+      "word" : "nombrosos"
+    }],
+  "text" : "els endemismes són nombrosos"
+}

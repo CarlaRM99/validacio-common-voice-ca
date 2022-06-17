@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.480000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "torre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.900000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.020000,
+      "word" : "rellotge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.500000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.530000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.620000,
+      "word" : "transformador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.160000,
+      "word" : "elèctric"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.880000,
+      "word" : "s'ubicà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.480000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.630000,
+      "word" : "tradicionalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.380000,
+      "word" : "s'emplaçava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.980000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.070000,
+      "word" : "xemeneia"
+    }],
+  "text" : "la torre del rellotge i el transformador elèctric s'ubicà on tradicionalment s'emplaçava la xemeneia"
+}

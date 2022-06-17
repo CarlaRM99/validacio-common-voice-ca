@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "sisè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.320000,
+      "word" : "president"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.800000,
+      "word" : "d'indonèsia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.940000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.270000,
+      "word" : "escollit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.750000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.900000,
+      "word" : "vot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.110000,
+      "word" : "directe"
+    }],
+  "text" : "és el sisè president d'indonèsia el primer escollit per vot directe"
+}

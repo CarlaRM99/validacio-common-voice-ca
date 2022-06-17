@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.930000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.140000,
+      "word" : "combats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.650000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.800000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.950000,
+      "word" : "calmar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.370000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.640000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.760000,
+      "word" : "nit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.120000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.330000,
+      "word" : "l'aigua"
+    }, {
+      "conf" : 0.503819,
+      "end" : 3.720000,
+      "start" : 3.690000,
+      "word" : "i"
+    }, {
+      "conf" : 0.692136,
+      "end" : 4.500000,
+      "start" : 3.720000,
+      "word" : "l'electricitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.530000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.680000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.860000,
+      "word" : "tallar"
+    }],
+  "text" : "els combats es va calmar durant la nit quan l'aigua i l'electricitat es van tallar"
+}

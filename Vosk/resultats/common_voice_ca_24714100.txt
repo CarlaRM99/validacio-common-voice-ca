@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.540000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.690000,
+      "word" : "general"
+    }, {
+      "conf" : 0.799644,
+      "end" : 1.380000,
+      "start" : 1.230000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.799644,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.590000,
+      "word" : "sola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.770000,
+      "word" : "llavor"
+    }, {
+      "conf" : 0.455210,
+      "end" : 2.280000,
+      "start" : 2.130000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.280000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.520000,
+      "word" : "pinya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.000000,
+      "word" : "rarament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.510000,
+      "word" : "dues"
+    }],
+  "text" : "en general hi ha una sola llavor el cada pinya rarament dues"
+}

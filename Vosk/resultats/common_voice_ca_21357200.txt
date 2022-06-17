@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.684617,
+      "end" : 1.230000,
+      "start" : 0.960000,
+      "word" : "som"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.230000,
+      "word" : "gregaris"
+    }, {
+      "conf" : 0.807911,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.040000,
+      "word" : "solen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.370000,
+      "word" : "volar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.700000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.760000,
+      "word" : "alimentar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.420000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.480000,
+      "word" : "grups"
+    }],
+  "text" : "som gregaris i solen volar i alimentar-se en grups"
+}

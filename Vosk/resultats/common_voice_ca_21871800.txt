@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.780000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.900000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.020000,
+      "word" : "clau"
+    }, {
+      "conf" : 0.541743,
+      "end" : 1.770000,
+      "start" : 1.590000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.631835,
+      "end" : 1.860000,
+      "start" : 1.770000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.860000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.040000,
+      "word" : "escut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.520000,
+      "word" : "gravat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.090000,
+      "word" : "relleu"
+    }],
+  "text" : "a la clau hi ha un escut gravat en relleu"
+}

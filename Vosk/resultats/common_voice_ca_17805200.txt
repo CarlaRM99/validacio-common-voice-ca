@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.476698,
+      "end" : 0.952469,
+      "start" : 0.480000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.990000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.140000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.380000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.560000,
+      "word" : "molt"
+    }, {
+      "conf" : 0.553301,
+      "end" : 2.100000,
+      "start" : 1.770000,
+      "word" : "tendre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.130000,
+      "word" : "perquè"
+    }, {
+      "conf" : 0.826064,
+      "end" : 2.520000,
+      "start" : 2.430000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.520000,
+      "word" : "plat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.760000,
+      "word" : "resulti"
+    }],
+  "text" : "això hi ha de ser molt tendre perquè el plat resulti"
+}

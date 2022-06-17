@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.908622,
+      "end" : 1.350000,
+      "start" : 0.840000,
+      "word" : "compara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.500000,
+      "word" : "desitjos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.220000,
+      "word" : "viure"
+    }, {
+      "conf" : 0.859292,
+      "end" : 2.760000,
+      "start" : 2.550000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.790000,
+      "word" : "jove"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.600000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.780000,
+      "word" : "l'experiència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.530000,
+      "word" : "viscuda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.010000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.220000,
+      "word" : "vell"
+    }],
+  "text" : "compara els desitjos de viure del jove amb l'experiència viscuda pel vell"
+}

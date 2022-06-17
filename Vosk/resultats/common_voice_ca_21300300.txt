@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.810000,
+      "word" : "principalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.590000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.680000,
+      "word" : "distribueix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.370000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.460000,
+      "word" : "climes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.790000,
+      "word" : "tropicals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.330000,
+      "word" : "d'amèrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.870000,
+      "word" : "euràsia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.380000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.470000,
+      "word" : "àfrica"
+    }],
+  "text" : "principalment es distribueix en climes tropicals d'amèrica euràsia i àfrica"
+}

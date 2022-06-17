@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.690000,
+      "word" : "però"
+    }, {
+      "conf" : 0.617064,
+      "end" : 1.890000,
+      "start" : 1.200000,
+      "word" : "ordinari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.920000,
+      "word" : "depenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.490000,
+      "word" : "estretament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.210000,
+      "word" : "l'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.480000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.600000,
+      "word" : "l'altre"
+    }],
+  "text" : "però ordinari depenen estretament l'un de l'altre"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.020000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.350000,
+      "word" : "menys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.590000,
+      "word" : "freqüents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.400000,
+      "word" : "sufixos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.270000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.510000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.600000,
+      "word" : "català"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.200000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.380000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.620000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.740000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.190000,
+      "word" : "llengües"
+    }],
+  "text" : "són menys freqüents que els sufixos tant el català com entre les diverses llengües"
+}

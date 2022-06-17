@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.450000,
+      "word" : "carol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.870000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.960000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.110000,
+      "word" : "amagar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.500000,
+      "word" : "dins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.740000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.830000,
+      "word" : "contenidor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.340000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.460000,
+      "word" : "carga"
+    }],
+  "text" : "carol es va amagar dins del contenidor de carga"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.900000,
+      "word" : "major"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.290000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.710000,
+      "word" : "l'illa"
+    }, {
+      "conf" : 0.823312,
+      "end" : 2.910000,
+      "start" : 2.220000,
+      "word" : "roman"
+    }, {
+      "conf" : 0.926897,
+      "end" : 3.540000,
+      "start" : 2.970000,
+      "word" : "coberta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.540000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.780000,
+      "word" : "gel"
+    }],
+  "text" : "la major part de l'illa roman coberta pel gel"
+}

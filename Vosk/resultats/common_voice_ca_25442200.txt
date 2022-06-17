@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.540000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.810000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.900000,
+      "word" : "grapat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.350000,
+      "word" : "llançaments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.830000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.950000,
+      "word" : "corba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.460000,
+      "word" : "denominats"
+    }, {
+      "conf" : 0.370046,
+      "end" : 3.780000,
+      "start" : 3.390000,
+      "word" : "card"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.840000,
+      "word" : "vols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.620000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.860000,
+      "word" : "llançaments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.460000,
+      "word" : "lents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 5.940000,
+      "word" : "denominats"
+    }, {
+      "conf" : 0.849447,
+      "end" : 7.348358,
+      "start" : 6.810000,
+      "word" : "senys"
+    }, {
+      "conf" : 0.471352,
+      "end" : 7.860000,
+      "start" : 7.348358,
+      "word" : "apps"
+    }],
+  "text" : "fa un grapat de llançaments en corba denominats card vols i de llançaments lents denominats senys apps"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.420000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 0.960000,
+      "word" : "disputada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.710000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.100000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.250000,
+      "word" : "britànics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.850000,
+      "word" : "i"
+    }, {
+      "conf" : 0.547542,
+      "end" : 3.060000,
+      "start" : 2.910000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.060000,
+      "word" : "francesos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.900000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.260000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.320000,
+      "word" : "guerra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.650000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.830000,
+      "word" : "set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.010000,
+      "word" : "anys"
+    }],
+  "text" : "és disputada entre els britànics i els francesos durant la guerra dels set anys"
+}

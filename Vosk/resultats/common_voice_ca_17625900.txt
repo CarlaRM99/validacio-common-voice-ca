@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.320000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.470000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.710000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.950000,
+      "word" : "vell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.550000,
+      "word" : "gàbia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.060000,
+      "word" : "nova"
+    }],
+  "text" : "a part del vell gàbia nova"
+}

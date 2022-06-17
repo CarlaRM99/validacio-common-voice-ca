@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.510000,
+      "word" : "set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.870000,
+      "word" : "persones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.500000,
+      "word" : "assegudes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.370000,
+      "word" : "voltant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.850000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.090000,
+      "word" : "taula"
+    }, {
+      "conf" : 0.561705,
+      "end" : 3.900000,
+      "start" : 3.480000,
+      "word" : "negre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.930000,
+      "word" : "jugant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.650000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.770000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.950000,
+      "word" : "joc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.340000,
+      "word" : "cartes"
+    }],
+  "text" : "set persones assegudes al voltant d'una taula negre jugant a un joc de cartes"
+}

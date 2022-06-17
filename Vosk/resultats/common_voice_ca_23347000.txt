@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.690000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.810000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 1.980000,
+      "word" : "existeixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.790000,
+      "word" : "observatori"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.540000,
+      "word" : "simbiòtics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.620000,
+      "word" : "repartits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.370000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.580000,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.880000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 5.970000,
+      "word" : "geografia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.530000,
+      "start" : 6.780000,
+      "word" : "espanyola"
+    }],
+  "text" : "a més existeixen observatori simbiòtics repartits per tota la geografia espanyola"
+}

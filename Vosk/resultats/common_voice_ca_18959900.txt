@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.425030,
+      "end" : 1.098303,
+      "start" : 0.690000,
+      "word" : "créixer"
+    }, {
+      "conf" : 0.689907,
+      "end" : 1.200000,
+      "start" : 1.098303,
+      "word" : "el"
+    }, {
+      "conf" : 0.689907,
+      "end" : 1.470000,
+      "start" : 1.200000,
+      "word" : "vaig"
+    }, {
+      "conf" : 0.985870,
+      "end" : 2.100000,
+      "start" : 1.488606,
+      "word" : "arrimada"
+    }, {
+      "conf" : 0.792012,
+      "end" : 2.250000,
+      "start" : 2.100000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.250000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.460000,
+      "word" : "mur"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.790000,
+      "word" : "tosca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.210000,
+      "word" : "prop"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.450000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.630000,
+      "word" : "després"
+    }],
+  "text" : "créixer el vaig arrimada a un mur de tosca prop dels després"
+}

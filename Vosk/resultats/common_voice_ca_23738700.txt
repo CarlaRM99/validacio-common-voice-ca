@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.684904,
+      "end" : 1.036407,
+      "start" : 0.450000,
+      "word" : "segúries"
+    }, {
+      "conf" : 0.535206,
+      "end" : 1.170000,
+      "start" : 1.036407,
+      "word" : "la"
+    }, {
+      "conf" : 0.391586,
+      "end" : 1.411682,
+      "start" : 1.170000,
+      "word" : "tija"
+    }, {
+      "conf" : 0.468300,
+      "end" : 1.748840,
+      "start" : 1.411682,
+      "word" : "afegit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.748840,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.920000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.980000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.160000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.490000,
+      "word" : "referència"
+    }, {
+      "conf" : 0.708585,
+      "end" : 3.090000,
+      "start" : 3.030000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.090000,
+      "word" : "confort"
+    }],
+  "text" : "segúries la tija afegit tot el que fa referència al confort"
+}

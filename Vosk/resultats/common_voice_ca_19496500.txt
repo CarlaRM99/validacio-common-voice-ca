@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.020000,
+      "word" : "cosí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.350000,
+      "word" : "germà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.830000,
+      "word" : "franco"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.310000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.490000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.760000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.850000,
+      "word" : "mare"
+    }],
+  "text" : "era cosí germà de franco per part de mare"
+}

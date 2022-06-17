@@ -1,0 +1,119 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.690000,
+      "word" : "llavors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.110000,
+      "word" : "la"
+    }, {
+      "conf" : 0.588342,
+      "end" : 1.470000,
+      "start" : 1.260000,
+      "word" : "mà"
+    }, {
+      "conf" : 0.899661,
+      "end" : 1.560000,
+      "start" : 1.500000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.560000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.800000,
+      "word" : "àvies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.190000,
+      "word" : "la"
+    }, {
+      "conf" : 0.835136,
+      "end" : 2.880000,
+      "start" : 2.340000,
+      "word" : "bullien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.180000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.270000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.675020,
+      "end" : 3.690000,
+      "start" : 3.420000,
+      "word" : "aquell"
+    }, {
+      "conf" : 0.574797,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "de"
+    }, {
+      "conf" : 0.871146,
+      "end" : 3.960000,
+      "start" : 3.815096,
+      "word" : "l"
+    }, {
+      "conf" : 0.871146,
+      "end" : 4.410000,
+      "start" : 3.960000,
+      "word" : "espès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.410000,
+      "word" : "muntaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.010000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.550000,
+      "word" : "tall"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.970000,
+      "word" : "pa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.360000,
+      "word" : "i"
+    }, {
+      "conf" : 0.781634,
+      "end" : 6.663394,
+      "start" : 6.480000,
+      "word" : "mal"
+    }, {
+      "conf" : 0.571984,
+      "end" : 6.719043,
+      "start" : 6.663394,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.719043,
+      "word" : "ensucrada"
+    }],
+  "text" : "llavors la mà o les àvies la bullien i amb aquell de l espès muntaven un tall de pa i mal o ensucrada"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.660000,
+      "word" : "el"
+    }, {
+      "conf" : 0.614665,
+      "end" : 1.253595,
+      "start" : 0.840000,
+      "word" : "llençol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.290000,
+      "word" : "s'aguanta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.830000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.040000,
+      "word" : "l'espatlla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.940000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.030000,
+      "word" : "disparen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.510000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.600000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.870000,
+      "word" : "manual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.500000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.710000,
+      "word" : "cop"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.920000,
+      "word" : "fixat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.400000,
+      "word" : "l'objectiu"
+    }],
+  "text" : "el llençol s'aguanta sobre l'espatlla i es disparen de forma manual un cop fixat l'objectiu"
+}

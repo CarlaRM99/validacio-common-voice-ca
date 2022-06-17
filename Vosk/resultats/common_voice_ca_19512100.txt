@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.630000,
+      "word" : "aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.230000,
+      "word" : "capes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.710000,
+      "word" : "s'expandeixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.640000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.820000,
+      "word" : "l'ajuda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.240000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.390000,
+      "word" : "sensors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.470000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.680000,
+      "word" : "formar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.160000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.460000,
+      "word" : "càmeres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.970000,
+      "word" : "d'aire"
+    }],
+  "text" : "aquestes capes s'expandeixen amb l'ajuda de sensors per formar dues càmeres d'aire"
+}

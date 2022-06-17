@@ -1,0 +1,114 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.930000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.200000,
+      "word" : "mirada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.650000,
+      "word" : "és"
+    }, {
+      "conf" : 0.613758,
+      "end" : 2.430000,
+      "start" : 1.890000,
+      "word" : "fixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.610000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.700000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.850000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.150000,
+      "word" : "mans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.570000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.810000,
+      "word" : "peus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.200000,
+      "word" : "i"
+    }, {
+      "conf" : 0.857844,
+      "end" : 4.440000,
+      "start" : 4.320000,
+      "word" : "el"
+    }, {
+      "conf" : 0.828051,
+      "end" : 4.680000,
+      "start" : 4.440000,
+      "word" : "teu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.680000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.830000,
+      "word" : "pit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.370000,
+      "word" : "mostren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 6.000000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.240000,
+      "word" : "signes"
+    }, {
+      "conf" : 0.542069,
+      "end" : 6.981509,
+      "start" : 6.600000,
+      "word" : "classe"
+    }, {
+      "conf" : 0.939221,
+      "end" : 7.170000,
+      "start" : 6.981509,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.920000,
+      "start" : 7.170000,
+      "word" : "estigmes"
+    }],
+  "text" : "la seva mirada és fixa i les seves mans els peus i el teu del pit mostren els signes classe dels estigmes"
+}

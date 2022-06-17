@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.806060,
+      "end" : 0.510000,
+      "start" : 0.180000,
+      "word" : "fins"
+    }, {
+      "conf" : 0.902627,
+      "end" : 0.899997,
+      "start" : 0.510000,
+      "word" : "quan"
+    }],
+  "text" : "fins quan"
+}

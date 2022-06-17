@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.856270,
+      "end" : 0.780000,
+      "start" : 0.630000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "meu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.020000,
+      "word" : "fill"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.440000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.680000,
+      "word" : "diu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.130000,
+      "word" : "gael"
+    }, {
+      "conf" : 0.789479,
+      "end" : 3.780000,
+      "start" : 3.180000,
+      "word" : "gea"
+    }, {
+      "conf" : 0.775747,
+      "end" : 4.770000,
+      "start" : 3.840000,
+      "word" : "l"
+    }],
+  "text" : "el meu fill es diu gael gea l"
+}

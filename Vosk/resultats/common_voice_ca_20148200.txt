@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.390000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.750000,
+      "word" : "ocells"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.170000,
+      "word" : "socials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.905242,
+      "start" : 1.740000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.040000,
+      "word" : "natura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.490000,
+      "word" : "veuen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.820000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.910000,
+      "word" : "grups"
+    }],
+  "text" : "són ocells socials que la natura es veuen en grups"
+}

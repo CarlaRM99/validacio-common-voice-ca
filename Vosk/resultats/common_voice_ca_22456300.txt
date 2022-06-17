@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.600000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.990000,
+      "word" : "l'entrevista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.680000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.770000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.860000,
+      "word" : "capità"
+    }, {
+      "conf" : 0.803692,
+      "end" : 3.264803,
+      "start" : 2.550000,
+      "word" : "reconèixer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.264803,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.360000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.630000,
+      "word" : "agressor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.230000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.380000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.500000,
+      "word" : "persegueix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.160000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.340000,
+      "word" : "venjar-se"
+    }],
+  "text" : "durant l'entrevista amb el capità reconèixer el seu agressor i el persegueix per venjar-se"
+}

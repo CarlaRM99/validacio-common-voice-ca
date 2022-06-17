@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "colons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.290000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.470000,
+      "word" : "adoptar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.890000,
+      "word" : "sovint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.370000,
+      "word" : "sistema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.790000,
+      "word" : "d'intercanvi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.450000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.630000,
+      "word" : "adquirir"
+    }, {
+      "conf" : 0.894117,
+      "end" : 4.200000,
+      "start" : 4.020000,
+      "word" : "els"
+    }, {
+      "conf" : 0.674658,
+      "end" : 4.456658,
+      "start" : 4.200000,
+      "word" : "béns"
+    }, {
+      "conf" : 0.620813,
+      "end" : 4.619204,
+      "start" : 4.482228,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.619204,
+      "word" : "serveis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.950000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.070000,
+      "word" : "requeria"
+    }],
+  "text" : "els colons van adoptar sovint un sistema d'intercanvi per adquirir els béns els serveis que requeria"
+}

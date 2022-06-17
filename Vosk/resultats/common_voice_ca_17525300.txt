@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.170000,
+      "word" : "comprenc"
+    }],
+  "text" : "no comprenc"
+}

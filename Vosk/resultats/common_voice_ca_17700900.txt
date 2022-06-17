@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.320000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.040000,
+      "word" : "fontcoberta"
+    }],
+  "text" : "venim de fontcoberta"
+}

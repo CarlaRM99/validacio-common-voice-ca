@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.780000,
+      "word" : "respecte"
+    }, {
+      "conf" : 0.513882,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.710000,
+      "word" : "grup"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.100000,
+      "word" : "l'esfera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.550000,
+      "word" : "equival"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.030000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.150000,
+      "word" : "l'esfera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.540000,
+      "word" : "habitual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.020000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.350000,
+      "word" : "whitman"
+    }],
+  "text" : "respecte de grup l'esfera equival a l'esfera habitual de whitman"
+}

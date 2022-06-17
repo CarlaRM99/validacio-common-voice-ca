@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.420000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.930000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.410000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.680000,
+      "word" : "tècnica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.130000,
+      "word" : "estudiada"
+    }, {
+      "conf" : 0.559257,
+      "end" : 2.970000,
+      "start" : 2.820000,
+      "word" : "a"
+    }, {
+      "conf" : 0.559257,
+      "end" : 3.390000,
+      "start" : 2.970000,
+      "word" : "presa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.390000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.480000,
+      "word" : "través"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.960000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.080000,
+      "word" : "fidel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.500000,
+      "word" : "copiat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.980000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.220000,
+      "word" : "models"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.700000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 5.910000,
+      "word" : "mestres"
+    }],
+  "text" : "seva era una tècnica estudiada a presa a través de fidel copiat dels models dels mestres"
+}

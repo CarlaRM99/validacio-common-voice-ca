@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.510000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.780000,
+      "word" : "especialitzat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.530000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.620000,
+      "word" : "antropologia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.340000,
+      "word" : "lingüística"
+    }],
+  "text" : "s'ha especialitzat en antropologia lingüística"
+}

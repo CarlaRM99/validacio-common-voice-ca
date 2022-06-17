@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.780000,
+      "word" : "creu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.200000,
+      "word" : "també"
+    }, {
+      "conf" : 0.970957,
+      "end" : 2.400000,
+      "start" : 1.650000,
+      "word" : "al·ludeix"
+    }, {
+      "conf" : 0.800810,
+      "end" : 2.670000,
+      "start" : 2.490000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.670000,
+      "word" : "passat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.090000,
+      "word" : "templer"
+    }],
+  "text" : "la creu també al·ludeix al passat templer"
+}

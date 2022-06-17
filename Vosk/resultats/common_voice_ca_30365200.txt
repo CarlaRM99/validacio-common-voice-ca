@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.930000,
+      "word" : "pots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.200000,
+      "word" : "llegir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.860000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.070000,
+      "word" : "meus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.419999,
+      "start" : 2.400000,
+      "word" : "comentaris"
+    }],
+  "text" : "pots llegir els meus comentaris"
+}

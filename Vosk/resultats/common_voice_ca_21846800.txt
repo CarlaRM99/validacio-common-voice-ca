@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.990000,
+      "word" : "formen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.620000,
+      "word" : "pares"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.100000,
+      "word" : "mares"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.700000,
+      "word" : "docents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.360000,
+      "word" : "alumnat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.110000,
+      "word" : "entitats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.890000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.010000,
+      "word" : "ciutadania"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.850000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.030000,
+      "word" : "general"
+    }],
+  "text" : "la formen pares mares docents alumnat entitats i ciutadania en general"
+}

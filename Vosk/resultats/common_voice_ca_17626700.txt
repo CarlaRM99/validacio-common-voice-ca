@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.810000,
+      "word" : "contactar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.650000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.920000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.160000,
+      "word" : "cas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.610000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.910000,
+      "word" : "professionals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.720000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.840000,
+      "word" : "participen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.530000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.680000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.830000,
+      "word" : "cursos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.400000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.490000,
+      "word" : "activitats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.090000,
+      "word" : "ofertes"
+    }],
+  "text" : "contactar en el seu cas amb els professionals que participen en els cursos o activitats ofertes"
+}

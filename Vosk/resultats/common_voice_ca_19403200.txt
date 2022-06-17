@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.210000,
+      "word" : "doctor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.930000,
+      "word" : "teologia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.710000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.040000,
+      "word" : "arribar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.460000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.760000,
+      "word" : "president"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.360000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.480000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.570000,
+      "word" : "conferència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.320000,
+      "word" : "episcopal"
+    }],
+  "text" : "doctor en teologia va arribar a ser president de la conferència episcopal"
+}

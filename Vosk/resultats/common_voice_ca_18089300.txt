@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.759676,
+      "end" : 1.020000,
+      "start" : 0.600000,
+      "word" : "venint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 1.020000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.110000,
+      "word" : "fontanars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.680000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.890000,
+      "word" : "alforins"
+    }],
+  "text" : "venint de fontanars dels alforins"
+}

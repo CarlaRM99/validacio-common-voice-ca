@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.510000,
+      "word" : "aviat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 0.990000,
+      "word" : "l'activitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.800000,
+      "word" : "extractiva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.520000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.700000,
+      "word" : "perdre"
+    }, {
+      "conf" : 0.778825,
+      "end" : 3.240000,
+      "start" : 3.060000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.240000,
+      "word" : "biaix"
+    }, {
+      "conf" : 0.747220,
+      "end" : 4.140000,
+      "start" : 3.630000,
+      "word" : "aventura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.200000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.290000,
+      "word" : "de"
+    }, {
+      "conf" : 0.764566,
+      "end" : 4.794673,
+      "start" : 4.410000,
+      "word" : "ràpita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 4.794673,
+      "word" : "enriquiment"
+    }, {
+      "conf" : 0.847867,
+      "end" : 5.700000,
+      "start" : 5.520000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.704564,
+      "word" : "temps"
+    }, {
+      "conf" : 0.898057,
+      "end" : 6.479997,
+      "start" : 6.030000,
+      "word" : "enrere"
+    }],
+  "text" : "aviat l'activitat extractiva va perdre el biaix aventura i de ràpita enriquiment de temps enrere"
+}

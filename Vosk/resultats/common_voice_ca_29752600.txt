@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.540000,
+      "word" : "m'agradaria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.170000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.470000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.980000,
+      "word" : "dolors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.310000,
+      "word" : "monserdà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.210000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.390000,
+      "word" : "moto"
+    }],
+  "text" : "m'agradaria anar al carrer de dolors monserdà amb moto"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.690000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 0.900000,
+      "word" : "desocupació"
+    }, {
+      "conf" : 0.720959,
+      "end" : 2.490000,
+      "start" : 1.920000,
+      "word" : "afecta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.490000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.910000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.030000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.240000,
+      "word" : "dones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.720000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.930000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.080000,
+      "word" : "homes"
+    }],
+  "text" : "la desocupació afecta més a les dones que els homes"
+}

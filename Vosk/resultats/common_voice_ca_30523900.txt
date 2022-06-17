@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.050000,
+      "word" : "puc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.260000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.410000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.590000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.770000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.860000,
+      "word" : "jardins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.280000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.400000,
+      "word" : "manuel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.820000,
+      "word" : "j"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.270000,
+      "word" : "arnalot"
+    }],
+  "text" : "com puc fer per anar als jardins de manuel j arnalot"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.496731,
+      "end" : 1.380000,
+      "start" : 1.110000,
+      "word" : "van"
+    }, {
+      "conf" : 0.527826,
+      "end" : 1.770000,
+      "start" : 1.380000,
+      "word" : "sempre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.770000,
+      "word" : "s'havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.130000,
+      "word" : "interessat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.940000,
+      "word" : "escriure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.510000,
+      "word" : "i"
+    }, {
+      "conf" : 0.754431,
+      "end" : 3.960000,
+      "start" : 3.600000,
+      "word" : "jugar"
+    }],
+  "text" : "van sempre s'havia interessat per escriure i jugar"
+}

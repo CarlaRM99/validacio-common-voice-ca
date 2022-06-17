@@ -1,0 +1,104 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.200000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.410000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.590000,
+      "word" : "els"
+    }, {
+      "conf" : 0.791198,
+      "end" : 2.220000,
+      "start" : 1.740000,
+      "word" : "trenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.250000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.520000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.670000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.820000,
+      "word" : "quinzets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "i"
+    }, {
+      "conf" : 0.828314,
+      "end" : 3.960000,
+      "start" : 3.810000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.960000,
+      "word" : "quaranta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.530000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 4.710000,
+      "word" : "pessetes"
+    }, {
+      "conf" : 0.822219,
+      "end" : 5.790000,
+      "start" : 5.610000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.790000,
+      "word" : "cinquanta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 6.330000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.570000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.690000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.720000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.710000,
+      "start" : 6.840000,
+      "word" : "punyetes"
+    }],
+  "text" : "el que els trenta no té els quinzets i els quaranta les pessetes els cinquanta pot anar a fer punyetes"
+}

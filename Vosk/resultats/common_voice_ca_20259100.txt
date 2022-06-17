@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.990000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.200000,
+      "word" : "caracteritzen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.950000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.130000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.400000,
+      "word" : "potes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.940000,
+      "word" : "fèmurs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 3.720000,
+      "word" : "dilatats"
+    }],
+  "text" : "es caracteritzen per tenir potes amb fèmurs dilatats"
+}

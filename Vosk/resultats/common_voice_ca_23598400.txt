@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.930000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.200000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.320000,
+      "word" : "llavors"
+    }, {
+      "conf" : 0.718849,
+      "end" : 2.220000,
+      "start" : 1.890000,
+      "word" : "restar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.220000,
+      "word" : "consagrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.850000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.060000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.180000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.390000,
+      "word" : "millors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.720000,
+      "word" : "tenors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.110000,
+      "word" : "lírics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.590000,
+      "word" : "anglesos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.190000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.340000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.610000,
+      "word" : "temps"
+    }],
+  "text" : "des de llavors restar consagrat com un dels millors tenors lírics anglesos del seu temps"
+}

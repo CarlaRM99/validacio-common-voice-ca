@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.534095,
+      "start" : 0.720000,
+      "word" : "aconsegueixi"
+    }, {
+      "conf" : 0.808172,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.710000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.800000,
+      "word" : "meu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.980000,
+      "word" : "intent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.850000,
+      "word" : "encara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.240000,
+      "word" : "que"
+    }, {
+      "conf" : 0.940751,
+      "end" : 3.810000,
+      "start" : 3.360000,
+      "word" : "s'arribi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.816179,
+      "word" : "la"
+    }, {
+      "conf" : 0.547090,
+      "end" : 4.320000,
+      "start" : 3.930000,
+      "word" : "gent"
+    }],
+  "text" : "aconsegueixi o el meu intent encara que s'arribi la gent"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.479860,
+      "end" : 0.629485,
+      "start" : 0.270000,
+      "word" : "boca"
+    }, {
+      "conf" : 0.605290,
+      "end" : 0.990000,
+      "start" : 0.629485,
+      "word" : "amarga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.990000,
+      "word" : "no"
+    }, {
+      "conf" : 0.754651,
+      "end" : 1.230000,
+      "start" : 1.110000,
+      "word" : "per"
+    }, {
+      "conf" : 0.860021,
+      "end" : 1.590000,
+      "start" : 1.238558,
+      "word" : "llançar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.590000,
+      "word" : "saliva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.010000,
+      "word" : "dolça"
+    }],
+  "text" : "boca amarga no per llançar saliva dolça"
+}

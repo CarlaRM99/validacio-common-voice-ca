@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.990000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.110000,
+      "word" : "mateix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.440000,
+      "word" : "any"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.920000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.250000,
+      "word" : "presentar"
+    }, {
+      "conf" : 0.904521,
+      "end" : 2.850000,
+      "start" : 2.790000,
+      "word" : "el"
+    }, {
+      "conf" : 0.542181,
+      "end" : 3.480000,
+      "start" : 2.850000,
+      "word" : "cingle"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.600000,
+      "word" : "emotion"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.320000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.440000,
+      "word" : "finlàndia"
+    }],
+  "text" : "en el mateix any es va presentar el cingle emotion a finlàndia"
+}

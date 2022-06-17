@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.660000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.810000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.020000,
+      "word" : "principalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.980000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.070000,
+      "word" : "terol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.670000,
+      "word" : "d'anada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.450000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.540000,
+      "word" : "salamanca"
+    }],
+  "text" : "es fa principalment a terol d'anada i salamanca"
+}

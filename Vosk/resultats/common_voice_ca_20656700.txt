@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.887508,
+      "end" : 0.660000,
+      "start" : 0.510000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.660000,
+      "word" : "teulada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.140000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.170000,
+      "word" : "doble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.500000,
+      "word" : "vessant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.010000,
+      "word" : "d'inclinació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.910000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.180000,
+      "word" : "gaire"
+    }, {
+      "conf" : 0.999999,
+      "end" : 4.289998,
+      "start" : 3.510000,
+      "word" : "pronunciada"
+    }],
+  "text" : "té teulada a doble vessant d'inclinació no gaire pronunciada"
+}

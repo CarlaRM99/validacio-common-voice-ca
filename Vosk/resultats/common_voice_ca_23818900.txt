@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.930000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.200000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.290000,
+      "word" : "creix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.950000,
+      "word" : "vegetació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.580000,
+      "word" : "terrestre"
+    }],
+  "text" : "no hi creix vegetació terrestre"
+}

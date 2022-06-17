@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.500000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.680000,
+      "word" : "fet"
+    }, {
+      "conf" : 0.656442,
+      "end" : 2.370000,
+      "start" : 2.160000,
+      "word" : "les"
+    }, {
+      "conf" : 0.656442,
+      "end" : 2.633751,
+      "start" : 2.370000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.633751,
+      "word" : "solució"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.270000,
+      "word" : "fent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.510000,
+      "word" : "servir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.900000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.050000,
+      "word" : "sistema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.470000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.560000,
+      "word" : "resolució"
+    }, {
+      "conf" : 0.720843,
+      "end" : 5.190000,
+      "start" : 5.100000,
+      "word" : "d"
+    }, {
+      "conf" : 0.720843,
+      "end" : 5.940000,
+      "start" : 5.190000,
+      "word" : "inferència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.270000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.620000,
+      "start" : 6.630000,
+      "word" : "exponencialment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.220000,
+      "start" : 7.620000,
+      "word" : "difícil"
+    }],
+  "text" : "de fet les seves solució fent servir un sistema de resolució d inferència és exponencialment difícil"
+}

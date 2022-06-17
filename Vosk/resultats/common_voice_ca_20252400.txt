@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.930000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.380000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.500000,
+      "word" : "guerra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 1.980000,
+      "word" : "successió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.670000,
+      "word" : "espanyola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 3.900000,
+      "word" : "starhemberg"
+    }, {
+      "conf" : 0.838956,
+      "end" : 5.730000,
+      "start" : 5.070000,
+      "word" : "lluitar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.730000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 5.850000,
+      "word" : "itàlia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.690000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.840000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.900000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.740000,
+      "start" : 6.990000,
+      "word" : "península"
+    }],
+  "text" : "durant la guerra de successió espanyola starhemberg lluitar a itàlia i a la península"
+}

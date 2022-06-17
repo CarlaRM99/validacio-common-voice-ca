@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.050000,
+      "word" : "serviu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.530000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.620000,
+      "word" : "calents"
+    }],
+  "text" : "serviu o calents"
+}

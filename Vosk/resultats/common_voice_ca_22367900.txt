@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.510000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.780000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.840000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.200000,
+      "word" : "l'única"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.680000,
+      "word" : "persona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.310000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.400000,
+      "word" : "història"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.000000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.210000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.270000,
+      "word" : "guanyat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.810000,
+      "word" : "nou"
+    }, {
+      "conf" : 0.938701,
+      "end" : 5.070000,
+      "start" : 4.290000,
+      "word" : "olimpiades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.070000,
+      "word" : "d'escacs"
+    }],
+  "text" : "és a més l'única persona de la història que ha guanyat nou olimpiades d'escacs"
+}

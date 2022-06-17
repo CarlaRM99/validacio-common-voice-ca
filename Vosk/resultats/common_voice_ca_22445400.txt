@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.900000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.500000,
+      "word" : "d'això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.250000,
+      "word" : "abandona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.090000,
+      "word" : "gairebé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.600000,
+      "word" : "absolutament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.560000,
+      "word" : "l'activitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.250000,
+      "word" : "artística"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 6.210000,
+      "word" : "convertint-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 7.170000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.530000,
+      "start" : 7.350000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.220000,
+      "start" : 7.530000,
+      "word" : "llegenda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.760000,
+      "start" : 8.220000,
+      "word" : "viva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.240000,
+      "start" : 8.970000,
+      "word" : "però"
+    }, {
+      "conf" : 0.584855,
+      "end" : 9.840000,
+      "start" : 9.240000,
+      "word" : "inactiva"
+    }],
+  "text" : "després d'això abandona gairebé absolutament l'activitat artística convertint-se en una llegenda viva però inactiva"
+}

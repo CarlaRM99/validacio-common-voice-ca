@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.510000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.110000,
+      "word" : "enterrada"
+    }, {
+      "conf" : 0.648801,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "en"
+    }, {
+      "conf" : 0.648801,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 1.920000,
+      "word" : "cementiri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.670000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.910000,
+      "word" : "poble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.330000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.450000,
+      "word" : "ronc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.170000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.350000,
+      "word" : "costat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.890000,
+      "word" : "de"
+    }, {
+      "conf" : 0.689758,
+      "end" : 5.490000,
+      "start" : 5.010000,
+      "word" : "remar"
+    }, {
+      "conf" : 0.689758,
+      "end" : 5.670000,
+      "start" : 5.550000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.670000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.790000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.120000,
+      "word" : "mare"
+    }],
+  "text" : "està enterrada en el cementiri del poble de ronc al costat de remar i la seva mare"
+}

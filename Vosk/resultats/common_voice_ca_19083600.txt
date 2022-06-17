@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.690000,
+      "word" : "bojos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.230000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.560000,
+      "word" : "ventura"
+    }],
+  "text" : "bojos tenen ventura"
+}

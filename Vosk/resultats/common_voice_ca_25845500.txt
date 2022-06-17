@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.200000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.410000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.650000,
+      "word" : "nombre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 1.950000,
+      "word" : "d'expedicions"
+    }, {
+      "conf" : 0.725126,
+      "end" : 3.090000,
+      "start" : 2.850000,
+      "word" : "nil"
+    }, {
+      "conf" : 0.887501,
+      "end" : 3.420000,
+      "start" : 3.095489,
+      "word" : "amunt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.420000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.630000,
+      "word" : "fracassar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.290000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.380000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.470000,
+      "word" : "recerca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 5.010000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.100000,
+      "word" : "font"
+    }],
+  "text" : "un gran nombre d'expedicions nil amunt van fracassar en la recerca de la font"
+}

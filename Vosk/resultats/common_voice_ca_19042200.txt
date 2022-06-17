@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.900000,
+      "word" : "oferta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.500000,
+      "word" : "econòmicament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.460000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.730000,
+      "word" : "avantatjosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.960000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.110000,
+      "word" : "compleixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.710000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.860000,
+      "word" : "requisits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.490000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.610000,
+      "word" : "selecció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.210000,
+      "word" : "fixats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.110000,
+      "start" : 6.780000,
+      "word" : "pels"
+    }, {
+      "conf" : 0.521092,
+      "end" : 7.500000,
+      "start" : 7.110000,
+      "word" : "plecs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.220000,
+      "start" : 7.500000,
+      "word" : "d'aplicació"
+    }],
+  "text" : "oferta econòmicament més avantatjosa que compleixen els requisits de selecció fixats pels plecs d'aplicació"
+}

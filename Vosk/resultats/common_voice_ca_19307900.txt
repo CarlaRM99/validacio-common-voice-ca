@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.810000,
+      "word" : "anem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.170000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.260000,
+      "word" : "l'alcora"
+    }],
+  "text" : "anem a l'alcora"
+}

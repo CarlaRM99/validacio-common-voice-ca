@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.720000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.170000,
+      "word" : "remarcables"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.980000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.160000,
+      "word" : "estances"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.700000,
+      "word" : "interiors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.240000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.390000,
+      "word" : "voltes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.690000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.780000,
+      "word" : "llunetes"
+    }],
+  "text" : "també són remarcables les estances interiors amb voltes de llunetes"
+}

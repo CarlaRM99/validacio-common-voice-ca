@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.750000,
+      "word" : "votarem"
+    }, {
+      "conf" : 0.826254,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.440000,
+      "word" : "punt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.207271,
+      "start" : 1.740000,
+      "word" : "número"
+    }, {
+      "conf" : 0.551098,
+      "end" : 2.460000,
+      "start" : 2.207271,
+      "word" : "u"
+    }],
+  "text" : "votarem el punt número u"
+}

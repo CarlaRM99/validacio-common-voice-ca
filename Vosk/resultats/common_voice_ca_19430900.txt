@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.440000,
+      "word" : "actualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.400000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.910000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.090000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.480000,
+      "word" : "ruïnós"
+    }],
+  "text" : "actualment es troba en un estat ruïnós"
+}

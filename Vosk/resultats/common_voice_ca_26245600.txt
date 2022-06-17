@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.960000,
+      "word" : "puja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.350000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.410000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.500000,
+      "word" : "superfície"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.400000,
+      "word" : "just"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.820000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.910000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.030000,
+      "word" : "moment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.390000,
+      "word" : "en"
+    }, {
+      "conf" : 0.588831,
+      "end" : 3.780000,
+      "start" : 3.600000,
+      "word" : "què"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260641,
+      "start" : 3.780000,
+      "word" : "arriba"
+    }, {
+      "conf" : 0.805501,
+      "end" : 4.320000,
+      "start" : 4.260641,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.320000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.440000,
+      "word" : "resta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.890000,
+      "word" : "l'equip"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.250000,
+      "word" : "d'aquells"
+    }],
+  "text" : "puja a la superfície just en el moment en què arriba a la resta de l'equip d'aquells"
+}

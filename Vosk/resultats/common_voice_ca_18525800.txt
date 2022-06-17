@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.450000,
+      "start" : 0.150000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.450000,
+      "word" : "triga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.810000,
+      "word" : "gaire"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.140000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.440000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.470000,
+      "word" : "serem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.800000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.830000,
+      "word" : "temps"
+    }],
+  "text" : "si triga gaire ja no hi serem a temps"
+}

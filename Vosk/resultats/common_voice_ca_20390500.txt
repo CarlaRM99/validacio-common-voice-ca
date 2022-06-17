@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.534153,
+      "end" : 1.200000,
+      "start" : 0.570000,
+      "word" : "ofereixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.230000,
+      "word" : "educació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.740000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.800000,
+      "word" : "anglès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.730000,
+      "word" : "gaèlic"
+    }],
+  "text" : "ofereixen educació en anglès i en gaèlic"
+}

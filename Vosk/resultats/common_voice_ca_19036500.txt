@@ -1,0 +1,9 @@
+{
+  "result" : [{
+      "conf" : 0.483675,
+      "end" : 1.950000,
+      "start" : 1.260000,
+      "word" : "dormia"
+    }],
+  "text" : "dormia"
+}

@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.769324,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.990000,
+      "word" : "estan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.410000,
+      "word" : "d'acord"
+    }],
+  "text" : "hi estan d'acord"
+}

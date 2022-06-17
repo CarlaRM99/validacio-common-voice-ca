@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.810271,
+      "end" : 0.780000,
+      "start" : 0.420000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.780000,
+      "word" : "personal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.410000,
+      "word" : "sala"
+    }, {
+      "conf" : 0.612699,
+      "end" : 2.100000,
+      "start" : 1.920000,
+      "word" : "els"
+    }, {
+      "conf" : 0.539634,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.220000,
+      "word" : "realitzen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.640000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.760000,
+      "word" : "treballs"
+    }, {
+      "conf" : 0.754374,
+      "end" : 3.600000,
+      "start" : 3.180000,
+      "word" : "d'admissió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.600000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.660000,
+      "word" : "control"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.260000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.380000,
+      "word" : "venedor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.770000,
+      "word" : "locutor"
+    }],
+  "text" : "són personal de sala els que realitzen els treballs d'admissió i control i venedor locutor"
+}

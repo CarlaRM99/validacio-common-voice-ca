@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.780000,
+      "word" : "pastor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.350000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.590000,
+      "word" : "persa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.070000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.730000,
+      "word" : "idiomes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.330000,
+      "word" : "oficials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.930000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.140000,
+      "word" : "país"
+    }],
+  "text" : "el pastor i el persa són els dos idiomes oficials del país"
+}

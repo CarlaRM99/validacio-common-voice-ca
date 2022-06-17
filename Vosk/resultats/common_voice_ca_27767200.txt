@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.570000,
+      "word" : "setmana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.200000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.320000,
+      "word" : "guerra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.010000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.280000,
+      "word" : "simulació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.060000,
+      "word" : "guerra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.390000,
+      "word" : "intensa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.990000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.140000,
+      "word" : "dura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.470000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.680000,
+      "word" : "setmana"
+    }, {
+      "conf" : 0.729968,
+      "end" : 5.460000,
+      "start" : 5.310000,
+      "word" : "al"
+    }, {
+      "conf" : 0.994277,
+      "end" : 5.819998,
+      "start" : 5.460000,
+      "word" : "camp"
+    }],
+  "text" : "setmana de guerra una simulació de guerra intensa que dura una setmana al camp"
+}

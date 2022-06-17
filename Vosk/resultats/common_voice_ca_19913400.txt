@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.791527,
+      "end" : 1.794397,
+      "start" : 1.230000,
+      "word" : "llorers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.794397,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.860000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.040000,
+      "word" : "darreries"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.640000,
+      "word" : "maig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.030000,
+      "word" : "lleugerament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.660000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.840000,
+      "word" : "tard"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.140000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.260000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.320000,
+      "word" : "majoria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.800000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.950000,
+      "word" : "varietats"
+    }],
+  "text" : "llorers a les darreries de maig lleugerament més tard que la majoria de les varietats"
+}

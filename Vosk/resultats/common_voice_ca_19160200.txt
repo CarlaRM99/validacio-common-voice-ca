@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.912679,
+      "start" : 0.690000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.951339,
+      "word" : "puc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.200000,
+      "word" : "suportar"
+    }],
+  "text" : "no puc suportar"
+}

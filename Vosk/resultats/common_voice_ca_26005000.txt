@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.540000,
+      "word" : "l'esclat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.200000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.440000,
+      "word" : "revolució"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.040000,
+      "word" : "francesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.880000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.060000,
+      "word" : "canviar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.510000,
+      "word" : "profundament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.410000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.620000,
+      "word" : "vida"
+    }, {
+      "conf" : 0.961905,
+      "end" : 5.310000,
+      "start" : 4.920000,
+      "word" : "deixant"
+    }, {
+      "conf" : 0.747358,
+      "end" : 5.730000,
+      "start" : 5.310000,
+      "word" : "fora"
+    }],
+  "text" : "l'esclat de la revolució francesa va canviar profundament la vida deixant fora"
+}

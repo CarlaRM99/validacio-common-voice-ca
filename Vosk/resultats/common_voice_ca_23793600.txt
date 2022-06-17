@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.420000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.540000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.020000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.170000,
+      "word" : "president"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.950000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.370000,
+      "word" : "alhora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.910000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.090000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.360000,
+      "word" : "d'estat"
+    }],
+  "text" : "a més el president és alhora el cap d'estat"
+}

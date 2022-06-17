@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.480000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.690000,
+      "word" : "regulació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.230000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.350000,
+      "word" : "sector"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.680000,
+      "word" : "farmacèutic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.610000,
+      "word" : "deixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.970000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.180000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.390000,
+      "word" : "espai"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.780000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.840000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.960000,
+      "word" : "competència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.620000,
+      "word" : "real"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.130000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.250000,
+      "word" : "potencial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 5.970000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.240000,
+      "word" : "farmàcies"
+    }],
+  "text" : "la regulació del sector farmacèutic deixa molt poc espai a la competència real i potencial entre farmàcies"
+}

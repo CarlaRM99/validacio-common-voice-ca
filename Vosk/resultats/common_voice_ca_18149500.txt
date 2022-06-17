@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.990000,
+      "word" : "justícia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.590000,
+      "word" : "constitueix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.640000,
+      "word" : "doncs"
+    }, {
+      "conf" : 0.656815,
+      "end" : 3.720000,
+      "start" : 3.540000,
+      "word" : "el"
+    }, {
+      "conf" : 0.903785,
+      "end" : 4.137140,
+      "start" : 3.720000,
+      "word" : "límit"
+    }, {
+      "conf" : 0.505028,
+      "end" : 4.290000,
+      "start" : 4.181431,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.290000,
+      "word" : "dret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.800000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.920000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.160000,
+      "word" : "poble"
+    }],
+  "text" : "la justícia constitueix doncs el límit el dret a cada poble"
+}

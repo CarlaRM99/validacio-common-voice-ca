@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.020000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.230000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.680000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.980000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.070000,
+      "word" : "llança"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.580000,
+      "word" : "posteriorment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.540000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.720000,
+      "word" : "cub"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 3.960000,
+      "word" : "d'escombraries"
+    }],
+  "text" : "és aquesta la que es llança posteriorment al cub d'escombraries"
+}

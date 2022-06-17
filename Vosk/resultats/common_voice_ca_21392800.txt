@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.330000,
+      "word" : "fou"
+    }, {
+      "conf" : 0.473868,
+      "end" : 1.110000,
+      "start" : 0.690000,
+      "word" : "cunya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.170000,
+      "word" : "d'un"
+    }, {
+      "conf" : 0.615659,
+      "end" : 2.160339,
+      "start" : 1.620000,
+      "word" : "l'altre"
+    }, {
+      "conf" : 0.551257,
+      "end" : 2.280000,
+      "start" : 2.160339,
+      "word" : "lo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.280000,
+      "word" : "important"
+    }, {
+      "conf" : 0.700869,
+      "end" : 3.030000,
+      "start" : 2.790000,
+      "word" : "ora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.030000,
+      "word" : "graner"
+    }, {
+      "conf" : 0.704538,
+      "end" : 3.900000,
+      "start" : 3.720000,
+      "word" : "pel"
+    }, {
+      "conf" : 0.472837,
+      "end" : 4.410000,
+      "start" : 3.930000,
+      "word" : "xuclà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.470000,
+      "word" : "i"
+    }, {
+      "conf" : 0.721274,
+      "end" : 5.250000,
+      "start" : 4.590000,
+      "word" : "comprovi"
+    }],
+  "text" : "fou cunya d'un l'altre lo important ora graner pel xuclà i comprovi"
+}

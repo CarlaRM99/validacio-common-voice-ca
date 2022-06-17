@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.360000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.600000,
+      "word" : "d'aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.930000,
+      "word" : "grups"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.230000,
+      "word" : "originalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.890000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.980000,
+      "word" : "anomenar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.437669,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.580000,
+      "word" : "mateix"
+    }, {
+      "conf" : 0.999382,
+      "end" : 3.090005,
+      "start" : 2.940000,
+      "word" : "per"
+    }, {
+      "conf" : 0.998845,
+      "end" : 3.300000,
+      "start" : 3.090005,
+      "word" : "aquest"
+    }, {
+      "conf" : 0.909675,
+      "end" : 3.509998,
+      "start" : 3.300000,
+      "word" : "nou"
+    }],
+  "text" : "cap d'aquests grups originalment es va anomenar si mateix per aquest nou"
+}

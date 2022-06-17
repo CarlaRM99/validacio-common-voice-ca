@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.867331,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.867331,
+      "end" : 1.320000,
+      "start" : 1.260000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.557016,
+      "end" : 1.710000,
+      "start" : 1.320000,
+      "word" : "govern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.756710,
+      "word" : "d'esquerres"
+    }],
+  "text" : "hi ha govern d'esquerres"
+}

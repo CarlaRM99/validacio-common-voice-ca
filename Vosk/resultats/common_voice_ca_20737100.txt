@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.200000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.500000,
+      "word" : "tard"
+    }, {
+      "conf" : 0.727063,
+      "end" : 2.430000,
+      "start" : 2.040000,
+      "word" : "crida"
+    }, {
+      "conf" : 0.738385,
+      "end" : 3.000000,
+      "start" : 2.430000,
+      "word" : "sansa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.450000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.720000,
+      "word" : "costa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.110000,
+      "word" : "prop"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.380000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.500000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.590000,
+      "word" : "porta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.950000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.040000,
+      "word" : "lluna"
+    }],
+  "text" : "més tard crida sansa i la costa prop de la porta de lluna"
+}

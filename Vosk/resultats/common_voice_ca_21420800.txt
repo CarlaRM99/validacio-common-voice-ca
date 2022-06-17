@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.870000,
+      "word" : "espanyols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.530000,
+      "word" : "fugir"
+    }, {
+      "conf" : 0.826446,
+      "end" : 2.546226,
+      "start" : 2.220000,
+      "word" : "deixant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.546226,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.670000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.880000,
+      "word" : "pertinences"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.480000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.510000,
+      "word" : "l'interior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.930000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.990000,
+      "word" : "fortalesa"
+    }],
+  "text" : "els espanyols van fugir deixant les seves pertinences a l'interior de la fortalesa"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "puc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.381043,
+      "start" : 0.990000,
+      "word" : "arribar"
+    }, {
+      "conf" : 0.495697,
+      "end" : 1.410000,
+      "start" : 1.381043,
+      "word" : "a"
+    }, {
+      "conf" : 0.495697,
+      "end" : 1.800000,
+      "start" : 1.410000,
+      "word" : "alfés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.802514,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.920000,
+      "word" : "tren"
+    }],
+  "text" : "com puc arribar a alfés amb tren"
+}

@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.612853,
+      "end" : 1.105449,
+      "start" : 0.600000,
+      "word" : "banca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.105449,
+      "word" : "d'hotels"
+    }],
+  "text" : "banca d'hotels"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.540000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.690000,
+      "word" : "causa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.290000,
+      "word" : "l'alta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.620000,
+      "word" : "densitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.370000,
+      "word" : "trànsit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.910000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.030000,
+      "word" : "majoria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.570000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.690000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.870000,
+      "word" : "vies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.170000,
+      "word" : "fèrries"
+    }, {
+      "conf" : 0.837292,
+      "end" : 5.100000,
+      "start" : 4.710000,
+      "word" : "estan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.100000,
+      "word" : "electrificades"
+    }],
+  "text" : "a causa de l'alta densitat de trànsit la majoria de les vies fèrries estan electrificades"
+}

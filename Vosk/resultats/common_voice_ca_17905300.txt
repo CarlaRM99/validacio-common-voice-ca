@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.390000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.600000,
+      "word" : "maria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.020000,
+      "word" : "salta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.470000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.530000,
+      "word" : "balla"
+    }],
+  "text" : "la maria salta i balla"
+}

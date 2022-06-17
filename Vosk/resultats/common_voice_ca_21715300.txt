@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.660000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.780000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.900000,
+      "word" : "punta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.560000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.770000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.070000,
+      "word" : "d'atzur"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.910000,
+      "word" : "una"
+    }, {
+      "conf" : 0.755050,
+      "end" : 3.690000,
+      "start" : 3.210000,
+      "word" : "tau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.750000,
+      "word" : "d'or"
+    }],
+  "text" : "a la punta en cap d'atzur una tau d'or"
+}

@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.840000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.140000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.230000,
+      "word" : "quinze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.590000,
+      "word" : "punts"
+    }, {
+      "conf" : 0.645471,
+      "end" : 3.237242,
+      "start" : 2.760000,
+      "word" : "meres"
+    }, {
+      "conf" : 0.680638,
+      "end" : 4.350000,
+      "start" : 3.237242,
+      "word" : "cientificotècnics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.440000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.530000,
+      "word" : "persona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.010000,
+      "word" : "acabar-la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.730000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 5.940000,
+      "word" : "sol·licitud"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.630000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.200000,
+      "start" : 6.840000,
+      "word" : "centre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 7.200000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.070000,
+      "start" : 7.350000,
+      "word" : "destinació"
+    }],
+  "text" : "fins a quinze punts meres cientificotècnics de la persona acabar-la la sol·licitud en el centre de destinació"
+}

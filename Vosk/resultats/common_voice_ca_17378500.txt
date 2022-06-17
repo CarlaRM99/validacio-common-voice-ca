@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.970000,
+      "word" : "projectes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.510000,
+      "word" : "que"
+    }, {
+      "conf" : 0.889794,
+      "end" : 4.080000,
+      "start" : 3.600000,
+      "word" : "obtinguin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.110000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.350000,
+      "word" : "punts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.650000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.770000,
+      "word" : "l'eix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 5.040000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.130000,
+      "word" : "grau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.370000,
+      "word" : "d'implicació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 6.180000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.300000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.200000,
+      "start" : 6.420000,
+      "word" : "cooperació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 7.260000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.470000,
+      "start" : 7.350000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.920000,
+      "start" : 7.470000,
+      "word" : "cohesió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.700000,
+      "start" : 7.920000,
+      "word" : "territorial"
+    }],
+  "text" : "projectes que obtinguin més punts en l'eix de grau d'implicació amb la cooperació i la cohesió territorial"
+}

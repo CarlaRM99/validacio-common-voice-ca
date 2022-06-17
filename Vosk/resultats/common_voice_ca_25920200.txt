@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.390000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.660000,
+      "word" : "àlbums"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.140000,
+      "word" : "de"
+    }, {
+      "conf" : 0.348970,
+      "end" : 1.590000,
+      "start" : 1.260000,
+      "word" : "pax"
+    }, {
+      "conf" : 0.871172,
+      "end" : 2.220000,
+      "start" : 1.590000,
+      "word" : "tonto"
+    }, {
+      "conf" : 0.858537,
+      "end" : 2.930683,
+      "start" : 2.370000,
+      "word" : "pèrdua"
+    }, {
+      "conf" : 0.505322,
+      "end" : 3.450000,
+      "start" : 2.940000,
+      "word" : "bout"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.540000,
+      "word" : "i"
+    }, {
+      "conf" : 0.481650,
+      "end" : 4.260000,
+      "start" : 3.840000,
+      "word" : "mònica"
+    }, {
+      "conf" : 0.481650,
+      "end" : 4.590000,
+      "start" : 4.260000,
+      "word" : "günther"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.100000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.370000,
+      "word" : "seguir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.640000,
+      "word" : "destacar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.300000,
+      "word" : "qüestions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.650000,
+      "start" : 6.870000,
+      "word" : "polítiques"
+    }],
+  "text" : "els àlbums de pax tonto pèrdua bout i mònica günther van seguir destacar qüestions polítiques"
+}

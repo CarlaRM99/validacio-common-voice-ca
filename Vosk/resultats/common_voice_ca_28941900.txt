@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.570000,
+      "word" : "he"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.690000,
+      "word" : "d'anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.230000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.470000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.800000,
+      "word" : "d'astúries"
+    }, {
+      "conf" : 0.755295,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.730000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.090000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.240000,
+      "word" : "castell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.750000,
+      "word" : "d'argençola"
+    }],
+  "text" : "he d'anar del carrer d'astúries al carrer del castell d'argençola"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.290000,
+      "word" : "s'anomena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.100000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.310000,
+      "word" : "cas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.670000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.820000,
+      "word" : "s'està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.270000,
+      "word" : "investigant"
+    }],
+  "text" : "com s'anomena el cas que s'està investigant"
+}

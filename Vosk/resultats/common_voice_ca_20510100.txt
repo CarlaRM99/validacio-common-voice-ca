@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.900000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.530000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.650000,
+      "word" : "programa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.160000,
+      "word" : "analitza"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.760000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.970000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.540000,
+      "word" : "temes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.930000,
+      "word" : "d'actualitat"
+    }],
+  "text" : "després el programa analitza els diversos temes d'actualitat"
+}

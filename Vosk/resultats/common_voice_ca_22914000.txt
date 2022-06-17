@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.722188,
+      "end" : 0.690000,
+      "start" : 0.180000,
+      "word" : "publicar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.870000,
+      "word" : "col·lecció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.500000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.620000,
+      "word" : "música"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.130000,
+      "word" : "religiosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.270000,
+      "word" : "escollida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.320000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.770000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.950000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.130000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.490000,
+      "word" : "millors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.150000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.960000,
+      "start" : 6.420000,
+      "word" : "mestres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.800000,
+      "start" : 6.960000,
+      "word" : "anglesos"
+    }],
+  "text" : "publicar una col·lecció de música religiosa escollida entre la de les millors dels mestres anglesos"
+}

@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.990000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.410000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.590000,
+      "word" : "mil"
+    }, {
+      "conf" : 0.728391,
+      "end" : 2.370000,
+      "start" : 1.860000,
+      "word" : "xv"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.550000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.730000,
+      "word" : "mil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.970000,
+      "word" : "setze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.570000,
+      "word" : "vam"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.840000,
+      "word" : "dissenyar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.290000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.350000,
+      "word" : "posar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.650000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.710000,
+      "word" : "funcionament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.430000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.610000,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.760000,
+      "word" : "web"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 6.030000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.150000,
+      "word" : "softcatalà"
+    }],
+  "text" : "entre dos mil xv i dos mil setze vam dissenyar i posar en funcionament el nou web de softcatalà"
+}

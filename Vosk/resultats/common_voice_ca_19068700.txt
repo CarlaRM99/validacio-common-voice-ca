@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.820840,
+      "end" : 0.870000,
+      "start" : 0.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.870000,
+      "word" : "fons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.290000,
+      "word" : "sac"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.920000,
+      "word" : "troben"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.250000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.430000,
+      "word" : "engrunes"
+    }],
+  "text" : "el fons del sac es troben les engrunes"
+}

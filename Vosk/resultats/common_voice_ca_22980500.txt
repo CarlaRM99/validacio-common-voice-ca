@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.540000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.870000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.930000,
+      "word" : "conserven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.710000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.070000,
+      "word" : "obres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.460000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.700000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.760000,
+      "word" : "tecla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.240000,
+      "word" : "mestres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.720000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.870000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.350000,
+      "word" : "arxius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.740000,
+      "word" : "eclesiàstics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.400000,
+      "word" : "catalans"
+    }],
+  "text" : "també es conserven altres obres per a tecla de mestres en diversos arxius eclesiàstics catalans"
+}

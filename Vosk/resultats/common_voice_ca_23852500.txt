@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.406527,
+      "end" : 1.320000,
+      "start" : 0.900000,
+      "word" : "objecte"
+    }, {
+      "conf" : 0.785863,
+      "end" : 1.470000,
+      "start" : 1.320000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.470000,
+      "word" : "videojoc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.310000,
+      "word" : "és"
+    }, {
+      "conf" : 0.885988,
+      "end" : 2.996820,
+      "start" : 2.490000,
+      "word" : "sobreviure"
+    }, {
+      "conf" : 0.561456,
+      "end" : 3.210000,
+      "start" : 3.000000,
+      "word" : "mel"
+    }, {
+      "conf" : 0.561456,
+      "end" : 3.390000,
+      "start" : 3.210000,
+      "word" : "per"
+    }, {
+      "conf" : 0.561456,
+      "end" : 3.690000,
+      "start" : 3.390000,
+      "word" : "coneix"
+    }, {
+      "conf" : 0.561456,
+      "end" : 3.870000,
+      "start" : 3.690000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.870000,
+      "word" : "nosaltres"
+    }, {
+      "conf" : 0.872997,
+      "end" : 4.500000,
+      "start" : 4.380000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.674163,
+      "end" : 4.980000,
+      "start" : 4.500000,
+      "word" : "escapar"
+    }],
+  "text" : "objecte de videojoc és sobreviure mel per coneix des nosaltres amb escapar"
+}

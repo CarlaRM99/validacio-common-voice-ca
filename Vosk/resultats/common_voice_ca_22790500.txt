@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.810000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.110000,
+      "word" : "cedir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.070000,
+      "word" : "disposa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.820000,
+      "word" : "d'unes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.150000,
+      "word" : "escales"
+    }],
+  "text" : "per cedir disposa d'unes escales"
+}

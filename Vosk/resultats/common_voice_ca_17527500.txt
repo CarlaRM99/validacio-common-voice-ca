@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.520188,
+      "end" : 0.600000,
+      "start" : 0.480000,
+      "word" : "a"
+    }, {
+      "conf" : 0.520188,
+      "end" : 0.750000,
+      "start" : 0.600000,
+      "word" : "qui"
+    }, {
+      "conf" : 0.608834,
+      "end" : 1.080000,
+      "start" : 0.750000,
+      "word" : "búfal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.080000,
+      "word" : "menjar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.650000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "li"
+    }, {
+      "conf" : 0.965316,
+      "end" : 2.340000,
+      "start" : 2.040000,
+      "word" : "miren"
+    }, {
+      "conf" : 0.766810,
+      "end" : 2.430000,
+      "start" : 2.340000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.430000,
+      "word" : "plat"
+    }],
+  "text" : "a qui búfal menjar tots li miren al plat"
+}

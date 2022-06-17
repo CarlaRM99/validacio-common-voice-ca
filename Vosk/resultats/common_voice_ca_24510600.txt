@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.510000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.750000,
+      "word" : "procedència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.560000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.770000,
+      "word" : "plànols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.250000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.310000,
+      "word" : "maquinària"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.090000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.330000,
+      "word" : "anglesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.050000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.170000,
+      "word" : "nord-americana"
+    }],
+  "text" : "la procedència dels plànols i maquinària és anglesa i nord-americana"
+}

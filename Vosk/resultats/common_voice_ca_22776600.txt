@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.810000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.080000,
+      "word" : "aspecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.740000,
+      "word" : "recorda"
+    }, {
+      "conf" : 0.753431,
+      "end" : 2.460000,
+      "start" : 2.280000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.460000,
+      "word" : "conills"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.940000,
+      "word" : "porquins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.960000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.290000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.530000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 4.950000,
+      "word" : "rosegadors"
+    }],
+  "text" : "el seu aspecte recorda els conills porquins però no són rosegadors"
+}

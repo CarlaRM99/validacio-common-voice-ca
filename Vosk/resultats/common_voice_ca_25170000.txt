@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.355777,
+      "end" : 0.750000,
+      "start" : 0.480000,
+      "word" : "gran"
+    }, {
+      "conf" : 0.566226,
+      "end" : 1.200000,
+      "start" : 0.761208,
+      "word" : "notar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.260000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.590000,
+      "word" : "centre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.040000,
+      "word" : "econòmic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.610000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.790000,
+      "word" : "sud"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.060000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.210000,
+      "word" : "rússia"
+    }],
+  "text" : "gran notar és el centre econòmic del sud de rússia"
+}

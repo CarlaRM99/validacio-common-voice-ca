@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.360000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.570000,
+      "word" : "floració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.170000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.320000,
+      "word" : "produeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.860000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.160000,
+      "word" : "finals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.520000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.640000,
+      "word" : "primavera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.240000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.510000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.600000,
+      "word" : "l'estiu"
+    }],
+  "text" : "la floració es produeix des de finals de primavera fins a l'estiu"
+}

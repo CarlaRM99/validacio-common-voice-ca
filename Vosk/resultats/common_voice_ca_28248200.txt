@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.802620,
+      "end" : 0.900000,
+      "start" : 0.420000,
+      "word" : "serra"
+    }, {
+      "conf" : 0.665005,
+      "end" : 0.930000,
+      "start" : 0.900000,
+      "word" : "i"
+    }, {
+      "conf" : 0.802620,
+      "end" : 1.350000,
+      "start" : 0.930000,
+      "word" : "l'eps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.380000,
+      "word" : "va"
+    }, {
+      "conf" : 0.651730,
+      "end" : 2.074780,
+      "start" : 1.590000,
+      "word" : "romandre"
+    }, {
+      "conf" : 0.785173,
+      "end" : 2.220000,
+      "start" : 2.079067,
+      "word" : "al"
+    }, {
+      "conf" : 0.690437,
+      "end" : 2.490000,
+      "start" : 2.220000,
+      "word" : "toc"
+    }, {
+      "conf" : 0.891106,
+      "end" : 2.820000,
+      "start" : 2.490000,
+      "word" : "xx"
+    }, {
+      "conf" : 0.556762,
+      "end" : 3.060000,
+      "start" : 2.970000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.073297,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.240000,
+      "word" : "llistes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.660000,
+      "word" : "italianes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.260000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.530000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.800000,
+      "word" : "setmanes"
+    }],
+  "text" : "serra i l'eps va romandre al toc xx a les llistes italianes durant sis setmanes"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.140000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.230000,
+      "word" : "desenvolupat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.040000,
+      "word" : "gairebé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.490000,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.910000,
+      "word" : "seua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.210000,
+      "word" : "carrera"
+    }, {
+      "conf" : 0.692003,
+      "end" : 3.900000,
+      "start" : 3.780000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.900000,
+      "word" : "equips"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.290000,
+      "word" : "argentins"
+    }],
+  "text" : "ha desenvolupat gairebé tota la seua carrera a equips argentins"
+}

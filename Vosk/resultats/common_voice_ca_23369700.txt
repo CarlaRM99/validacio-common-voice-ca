@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.750000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.870000,
+      "word" : "tramuntana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.530000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.620000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.680000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.130000,
+      "word" : "obertures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.970000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.180000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.300000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.420000,
+      "word" : "quals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.840000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.140000,
+      "word" : "tapiada"
+    }],
+  "text" : "a tramuntana hi ha diverses obertures una de les quals està tapiada"
+}

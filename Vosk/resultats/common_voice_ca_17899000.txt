@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.945070,
+      "end" : 0.630000,
+      "start" : 0.450000,
+      "word" : "el"
+    }, {
+      "conf" : 0.684308,
+      "end" : 1.050000,
+      "start" : 0.630000,
+      "word" : "futur"
+    }, {
+      "conf" : 0.351528,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.260000,
+      "word" : "amaga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.340000,
+      "word" : "no"
+    }, {
+      "conf" : 0.829449,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "tinc"
+    }, {
+      "conf" : 0.829449,
+      "end" : 2.820000,
+      "start" : 2.730000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.820000,
+      "word" : "pretensió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.510000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.630000,
+      "word" : "poder"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.960000,
+      "word" : "alçar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.320000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.380000,
+      "word" : "seu"
+    }, {
+      "conf" : 0.764404,
+      "end" : 5.070000,
+      "start" : 4.680000,
+      "word" : "vel"
+    }],
+  "text" : "el futur els amaga i no tinc la pretensió de poder alçar el seu vel"
+}

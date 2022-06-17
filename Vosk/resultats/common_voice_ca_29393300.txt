@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.450000,
+      "word" : "quantes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.960000,
+      "word" : "parades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.470000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.040000,
+      "word" : "trajecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.760000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.850000,
+      "word" : "autobús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.480000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.810000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.870000,
+      "word" : "mas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.170000,
+      "word" : "d'en"
+    }, {
+      "conf" : 0.999998,
+      "end" : 4.979999,
+      "start" : 4.380000,
+      "word" : "berga"
+    }],
+  "text" : "quantes parades té el trajecte en autobús fins a mas d'en berga"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.170000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.410000,
+      "word" : "estudiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.070000,
+      "word" : "enginyeria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.850000,
+      "word" : "agrícola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.480000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.690000,
+      "word" : "república"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.260000,
+      "word" : "democràtica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.980000,
+      "word" : "alemanya"
+    }],
+  "text" : "va estudiar enginyeria agrícola a la república democràtica alemanya"
+}

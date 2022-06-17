@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.660000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.840000,
+      "word" : "jugadors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.350000,
+      "word" : "podien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.770000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.100000,
+      "word" : "missatges"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.580000,
+      "word" : "aleatoris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.540000,
+      "word" : "empescar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.050000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.170000,
+      "word" : "peix"
+    }],
+  "text" : "els jugadors podien rebre missatges aleatoris empescar un peix"
+}

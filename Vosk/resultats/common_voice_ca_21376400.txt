@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.050000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.350000,
+      "word" : "privilegiada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.980000,
+      "word" : "veu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.400000,
+      "word" : "reunia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 3.000000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.090000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.270000,
+      "word" : "prodigiosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.840000,
+      "word" : "agilitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.500000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.740000,
+      "word" : "volum"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.250000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.340000,
+      "word" : "puresa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.700000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.790000,
+      "word" : "timbre"
+    }],
+  "text" : "la seva privilegiada veu reunia a una prodigiosa agilitat gran volum i puresa de timbre"
+}

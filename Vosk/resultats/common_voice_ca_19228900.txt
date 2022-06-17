@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.780000,
+      "word" : "gallina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.290000,
+      "word" : "dalt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.650000,
+      "word" : "cagar-la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.190000,
+      "word" : "baix"
+    }],
+  "text" : "la gallina de dalt cagar-la de baix"
+}

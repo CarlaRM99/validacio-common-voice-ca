@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.230000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.005403,
+      "start" : 1.410000,
+      "word" : "sol·licitud"
+    }, {
+      "conf" : 0.717742,
+      "end" : 2.520000,
+      "start" : 2.010000,
+      "word" : "d'ajuda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.790000,
+      "word" : "haurà"
+    }, {
+      "conf" : 0.894365,
+      "end" : 3.580650,
+      "start" : 3.120000,
+      "word" : "d'emplenar"
+    }, {
+      "conf" : 0.568421,
+      "end" : 3.873896,
+      "start" : 3.791724,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.990000,
+      "word" : "model"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.290000,
+      "word" : "d'instància"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.920000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.070000,
+      "word" : "figura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.730000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.910000,
+      "word" : "l'annex"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.330000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.630000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 6.720000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.810000,
+      "word" : "present"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.040000,
+      "start" : 7.290000,
+      "word" : "resolució"
+    }],
+  "text" : "la sol·licitud d'ajuda haurà d'emplenar el model d'instància que figura en l'annex o a la present resolució"
+}

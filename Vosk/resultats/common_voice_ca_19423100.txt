@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.420000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170566,
+      "start" : 0.660000,
+      "word" : "alemanys"
+    }, {
+      "conf" : 0.900530,
+      "end" : 1.288617,
+      "start" : 1.170566,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.288617,
+      "word" : "estaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.680000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.800000,
+      "word" : "condicions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.490000,
+      "word" : "donar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.760000,
+      "word" : "suport"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.180000,
+      "word" : "tècnic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.960000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.080000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.170000,
+      "word" : "cedir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.500000,
+      "word" : "equipament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.010000,
+      "word" : "bèl·lic"
+    }],
+  "text" : "els alemanys no estaven en condicions de donar suport tècnic o de cedir equipament bèl·lic"
+}

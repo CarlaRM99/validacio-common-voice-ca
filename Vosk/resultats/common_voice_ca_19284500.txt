@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.510000,
+      "word" : "anem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.780000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.840000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.960000,
+      "word" : "borges"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.350000,
+      "word" : "blanques"
+    }],
+  "text" : "anem a les borges blanques"
+}

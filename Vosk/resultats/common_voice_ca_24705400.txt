@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.685995,
+      "end" : 1.290000,
+      "start" : 0.900000,
+      "word" : "evita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.290000,
+      "word" : "estepes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.070000,
+      "word" : "semideserts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.880000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.090000,
+      "word" : "pakistan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.690000,
+      "word" : "i"
+    }, {
+      "conf" : 0.999998,
+      "end" : 4.200000,
+      "start" : 3.780000,
+      "word" : "l'índia"
+    }],
+  "text" : "evita estepes i semideserts de pakistan i l'índia"
+}

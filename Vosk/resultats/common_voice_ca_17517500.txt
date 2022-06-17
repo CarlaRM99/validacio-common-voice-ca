@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.649662,
+      "end" : 1.560000,
+      "start" : 0.900000,
+      "word" : "supervisa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.560000,
+      "word" : "l'assignació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.310000,
+      "word" : "recursos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.850000,
+      "word" : "materials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.450000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.510000,
+      "word" : "econòmics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.290000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.500000,
+      "word" : "servei"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.860000,
+      "word" : "territorial"
+    }],
+  "text" : "supervisa l'assignació de recursos materials i econòmics del servei territorial"
+}

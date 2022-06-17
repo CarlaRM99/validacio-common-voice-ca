@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.420000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "cop"
+    }, {
+      "conf" : 0.893310,
+      "end" : 0.900000,
+      "start" : 0.810000,
+      "word" : "de"
+    }, {
+      "conf" : 0.835220,
+      "end" : 1.200000,
+      "start" : 0.900000,
+      "word" : "tirar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.260000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.040000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.430000,
+      "word" : "etapa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.910000,
+      "word" : "d'entrenador"
+    }],
+  "text" : "un cop de tirar començar la seva etapa d'entrenador"
+}

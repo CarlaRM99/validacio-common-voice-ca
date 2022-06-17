@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.604773,
+      "end" : 0.720000,
+      "start" : 0.540000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.720000,
+      "word" : "setembre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.410000,
+      "word" : "bo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.710000,
+      "word" : "és"
+    }, {
+      "conf" : 0.542400,
+      "end" : 2.400000,
+      "start" : 2.130000,
+      "word" : "si"
+    }, {
+      "conf" : 0.542400,
+      "end" : 2.580000,
+      "start" : 2.400000,
+      "word" : "no"
+    }, {
+      "conf" : 0.557713,
+      "end" : 3.000000,
+      "start" : 2.580000,
+      "word" : "plouen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.000000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.270000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.390000,
+      "word" : "mes"
+    }],
+  "text" : "al setembre bo és si no plouen tot el mes"
+}

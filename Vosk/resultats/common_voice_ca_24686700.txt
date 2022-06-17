@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.990000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.200000,
+      "word" : "morir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.470000,
+      "word" : "sobtadament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.430000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.520000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.790000,
+      "word" : "substituït"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.600000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.780000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.900000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.140000,
+      "word" : "escó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.890000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.070000,
+      "word" : "salvador"
+    }, {
+      "conf" : 0.652217,
+      "end" : 5.940000,
+      "start" : 5.640000,
+      "word" : "torre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.940000,
+      "word" : "olla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.450000,
+      "word" : "i"
+    }, {
+      "conf" : 0.768213,
+      "end" : 7.080000,
+      "start" : 6.540000,
+      "word" : "marimon"
+    }],
+  "text" : "va morir sobtadament i fou substituït en el seu escó per salvador torre olla i marimon"
+}

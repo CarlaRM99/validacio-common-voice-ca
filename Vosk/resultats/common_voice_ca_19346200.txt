@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.510000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.630000,
+      "word" : "pescador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.170000,
+      "word" : "riu"
+    }, {
+      "conf" : 0.512441,
+      "end" : 1.740000,
+      "start" : 1.500000,
+      "word" : "vora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.740000,
+      "word" : "del"
+    }, {
+      "conf" : 0.621783,
+      "end" : 2.184145,
+      "start" : 1.890000,
+      "word" : "menor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.184145,
+      "word" : "riu"
+    }],
+  "text" : "el pescador de riu vora del menor riu"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 0.930000,
+      "word" : "senzillament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.830000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 2.010000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.100000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.280000,
+      "word" : "tota"
+    }],
+  "text" : "senzillament no hi era tota"
+}

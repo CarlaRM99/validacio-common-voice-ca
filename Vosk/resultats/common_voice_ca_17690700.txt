@@ -1,0 +1,129 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.690000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.930000,
+      "word" : "tenir"
+    }, {
+      "conf" : 0.838063,
+      "end" : 1.438302,
+      "start" : 1.260000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.438302,
+      "word" : "altra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.770000,
+      "word" : "època"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.100000,
+      "word" : "molt"
+    }, {
+      "conf" : 0.374216,
+      "end" : 2.820000,
+      "start" : 2.370000,
+      "word" : "bona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.940000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.090000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.240000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.390000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.630000,
+      "word" : "jo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.020000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.342571,
+      "start" : 4.230000,
+      "word" : "me"
+    }, {
+      "conf" : 0.752375,
+      "end" : 4.680000,
+      "start" : 4.350000,
+      "word" : "n'havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.680000,
+      "word" : "anat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.950000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.040000,
+      "word" : "casa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.760000,
+      "word" : "i"
+    }, {
+      "conf" : 0.770304,
+      "end" : 6.023599,
+      "start" : 5.940000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 6.023599,
+      "word" : "ella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.682473,
+      "start" : 6.210000,
+      "word" : "vivia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.690000,
+      "word" : "casa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.170000,
+      "start" : 6.990000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.770000,
+      "start" : 7.170000,
+      "word" : "pares"
+    }],
+  "text" : "va tenir una altra època molt bona que va ser quan jo ja me n'havia anat de casa i a ella vivia casa els pares"
+}

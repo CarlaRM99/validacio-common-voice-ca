@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.630000,
+      "word" : "aquí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.320000,
+      "word" : "cedit"
+    }, {
+      "conf" : 0.477371,
+      "end" : 2.640000,
+      "start" : 1.830000,
+      "word" : "walker"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.730000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.970000,
+      "word" : "comte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.480000,
+      "word" : "guifré"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.960000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.170000,
+      "word" : "pilós"
+    }],
+  "text" : "aquí fou cedit walker pel comte guifré el pilós"
+}

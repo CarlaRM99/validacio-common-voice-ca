@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.520425,
+      "end" : 1.200000,
+      "start" : 0.990000,
+      "word" : "per"
+    }, {
+      "conf" : 0.709617,
+      "end" : 1.500000,
+      "start" : 1.430370,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.502640,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.650000,
+      "word" : "regió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.010000,
+      "word" : "administrativa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.910000,
+      "word" : "l'est"
+    }],
+  "text" : "per a la regió administrativa de l'est"
+}

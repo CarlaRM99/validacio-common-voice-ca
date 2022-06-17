@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.510000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.720000,
+      "word" : "vegetació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.410000,
+      "word" : "natural"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.920000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.130000,
+      "word" : "kalahari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.880000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.240000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.450000,
+      "word" : "ventall"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.960000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.110000,
+      "word" : "tipus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.590000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.710000,
+      "word" : "sabana"
+    }],
+  "text" : "la vegetació natural del kalahari té un ventall de tipus de sabana"
+}

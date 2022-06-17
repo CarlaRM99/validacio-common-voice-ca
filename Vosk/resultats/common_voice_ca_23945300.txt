@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.630222,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.750000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.050000,
+      "word" : "pis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.010000,
+      "word" : "balcó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.430000,
+      "word" : "corregut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.030000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.150000,
+      "word" : "barana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.510000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.600000,
+      "word" : "ferro"
+    }],
+  "text" : "el primer pis balcó corregut amb barana de ferro"
+}

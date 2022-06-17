@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.930000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.230000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.440000,
+      "word" : "importants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.040000,
+      "word" : "contribucions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.090000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.210000,
+      "word" : "programació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 3.870000,
+      "word" : "matemàtica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 4.770000,
+      "word" : "l'optimització"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.000000,
+      "word" : "l'anàlisi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.890000,
+      "start" : 6.750000,
+      "word" : "correspondències"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.010000,
+      "start" : 7.890000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.160000,
+      "start" : 8.010000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.970000,
+      "start" : 8.160000,
+      "word" : "mostreig"
+    }],
+  "text" : "va ser importants contribucions a la programació matemàtica l'optimització l'anàlisi de correspondències i el mostreig"
+}

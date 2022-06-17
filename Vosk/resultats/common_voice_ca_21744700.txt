@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.080000,
+      "word" : "consta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.680000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.100000,
+      "word" : "baixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.490000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.550000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.880000,
+      "word" : "pisos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.420000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.690000,
+      "word" : "obertures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.320000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.590000,
+      "word" : "quals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.100000,
+      "word" : "disminueixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 6.030000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.180000,
+      "word" : "l'alçada"
+    }],
+  "text" : "consta de planta baixa i tres pisos les obertures dels quals disminueixen amb l'alçada"
+}

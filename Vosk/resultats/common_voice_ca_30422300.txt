@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.561457,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.900000,
+      "word" : "dura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.200000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.290000,
+      "word" : "viatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.920000,
+      "word" : "autobús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.490000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.850000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.940000,
+      "word" : "vilaür"
+    }],
+  "text" : "quan dura el viatge en autobús fins a vilaür"
+}

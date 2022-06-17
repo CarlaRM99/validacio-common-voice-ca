@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.690000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.110000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.320000,
+      "word" : "centre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.830000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.040000,
+      "word" : "comerç"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.700000,
+      "word" : "cacau"
+    }],
+  "text" : "és un centre del comerç de cacau"
+}

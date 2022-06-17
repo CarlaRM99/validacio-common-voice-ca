@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.390000,
+      "word" : "observeu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.440000,
+      "word" : "en"
+    }, {
+      "conf" : 0.512446,
+      "end" : 1.936778,
+      "start" : 1.530000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.936778,
+      "word" : "sòcol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.460000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.820000,
+      "word" : "s'hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.970000,
+      "word" : "posa"
+    }, {
+      "conf" : 0.841729,
+      "end" : 3.570000,
+      "start" : 3.420000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.570000,
+      "word" : "flaix"
+    }],
+  "text" : "observeu que en aquests sòcol només s'hi posa el flaix"
+}

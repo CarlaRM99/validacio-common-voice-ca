@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.390000,
+      "word" : "celebrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.110000,
+      "word" : "a"
+    }, {
+      "conf" : 0.317218,
+      "end" : 1.498636,
+      "start" : 1.290000,
+      "word" : "et"
+    }, {
+      "conf" : 0.469453,
+      "end" : 1.830000,
+      "start" : 1.498636,
+      "word" : "montón"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.860000,
+      "word" : "alberto"
+    }],
+  "text" : "celebrat a et montón alberto"
+}

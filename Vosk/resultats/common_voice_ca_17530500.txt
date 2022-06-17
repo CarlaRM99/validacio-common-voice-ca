@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.960000,
+      "word" : "diu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.500000,
+      "word" : "coses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.890000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.310000,
+      "word" : "pensa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.760000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.150000,
+      "word" : "pensar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.540000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.750000,
+      "word" : "l'estiu"
+    }],
+  "text" : "diu les coses com les pensa sense pensar com l'estiu"
+}

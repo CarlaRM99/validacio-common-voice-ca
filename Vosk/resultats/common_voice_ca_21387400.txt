@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.606999,
+      "end" : 1.440000,
+      "start" : 1.170000,
+      "word" : "s'hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.440000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.500000,
+      "word" : "trobat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.860000,
+      "word" : "restes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.310000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.400000,
+      "word" : "ceràmica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.300000,
+      "word" : "l'època"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.630000,
+      "word" : "croada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.470000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.620000,
+      "word" : "aiúbida"
+    }],
+  "text" : "s'hi ha trobat restes de ceràmica de l'època croada i aiúbida"
+}

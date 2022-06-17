@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "és"
+    }, {
+      "conf" : 0.555537,
+      "end" : 1.110000,
+      "start" : 0.990000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.123334,
+      "word" : "herbàcia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.650000,
+      "word" : "biennal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.640000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.850000,
+      "word" : "flors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.330000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.510000,
+      "word" : "color"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.750000,
+      "word" : "vermell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.170000,
+      "word" : "porpra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.040000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.160000,
+      "word" : "tiges"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.760000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.940000,
+      "word" : "espines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.360000,
+      "word" : "agudes"
+    }],
+  "text" : "és un herbàcia biennal amb flors de color vermell porpra i tiges amb espines agudes"
+}

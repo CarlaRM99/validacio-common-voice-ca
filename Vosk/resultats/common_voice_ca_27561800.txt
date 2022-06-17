@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.390000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.630000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.320000,
+      "word" : "banyes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 1.950000,
+      "word" : "gegants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.210000,
+      "word" : "plutó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.900000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.140000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.350000,
+      "word" : "crear"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.770000,
+      "word" : "per"
+    }, {
+      "conf" : 0.497931,
+      "end" : 5.309811,
+      "start" : 5.220000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.309811,
+      "word" : "robot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.940000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.450000,
+      "word" : "poderós"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 7.050000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.650000,
+      "start" : 7.290000,
+      "word" : "món"
+    }],
+  "text" : "amb les seves banyes gegants plutó es va crear per el robot més poderós del món"
+}

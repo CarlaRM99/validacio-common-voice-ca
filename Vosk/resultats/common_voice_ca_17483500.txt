@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.810000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.050000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.170000,
+      "word" : "anaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.490000,
+      "word" : "meua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.790000,
+      "word" : "història"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.810000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.020000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.170000,
+      "word" : "passar"
+    }, {
+      "conf" : 0.763108,
+      "end" : 5.310000,
+      "start" : 5.220000,
+      "word" : "i"
+    }, {
+      "conf" : 0.733190,
+      "end" : 5.399477,
+      "start" : 5.310000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.399477,
+      "word" : "ningú"
+    }, {
+      "conf" : 0.953856,
+      "end" : 6.390000,
+      "start" : 6.240000,
+      "word" : "li"
+    }, {
+      "conf" : 0.952812,
+      "end" : 7.019994,
+      "start" : 6.390000,
+      "word" : "interessa"
+    }],
+  "text" : "a la que anaven que la meua història ja va passar i a ningú li interessa"
+}

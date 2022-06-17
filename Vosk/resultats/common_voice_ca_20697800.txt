@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.530000,
+      "word" : "relació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.920000,
+      "word" : "històrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.490000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.760000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.000000,
+      "word" : "poble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.390000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.540000,
+      "word" : "mongol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.930000,
+      "word" : "sembla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.350000,
+      "word" : "evident"
+    }],
+  "text" : "la relació històrica entre aquest poble i el mongol sembla evident"
+}

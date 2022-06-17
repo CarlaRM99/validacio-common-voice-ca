@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.600000,
+      "word" : "b"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.840000,
+      "word" : "b"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 1.020000,
+      "word" : "el"
+    }, {
+      "conf" : 0.422906,
+      "end" : 1.470000,
+      "start" : 1.110000,
+      "word" : "fis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.530000,
+      "word" : "cinquanta-vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.790000,
+      "word" : "setanta-cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.690000,
+      "word" : "noranta-vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 4.740000,
+      "word" : "seixanta-dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.911037,
+      "start" : 5.700000,
+      "word" : "com"
+    }, {
+      "conf" : 0.841681,
+      "end" : 5.970000,
+      "start" : 5.911037,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 5.970000,
+      "word" : "telèfon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.480000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.600000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.110000,
+      "start" : 6.750000,
+      "word" : "mel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.130000,
+      "start" : 7.440000,
+      "word" : "murano"
+    }],
+  "text" : "b b el fis cinquanta-vuit setanta-cinc noranta-vuit seixanta-dos com a telèfon de la mel murano"
+}

@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.540000,
+      "word" : "estan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.840000,
+      "word" : "ordenades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.260000,
+      "word" : "segons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.500000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.590000,
+      "word" : "classificació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.160000,
+      "word" : "final"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.490000,
+      "word" : "sent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.700000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.790000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.150000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.210000,
+      "word" : "guanyadora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.660000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.780000,
+      "word" : "torneig"
+    }],
+  "text" : "estan ordenades segons la classificació final sent la primera la guanyadora del torneig"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.510000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.990000,
+      "word" : "compta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.530000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.800000,
+      "word" : "arbres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.190000,
+      "word" : "històrics"
+    }],
+  "text" : "també compta amb arbres històrics"
+}

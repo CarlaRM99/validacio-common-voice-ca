@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.938929,
+      "end" : 0.720000,
+      "start" : 0.480000,
+      "word" : "si"
+    }, {
+      "conf" : 0.758804,
+      "end" : 0.810000,
+      "start" : 0.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.810000,
+      "word" : "gener"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "la"
+    }, {
+      "conf" : 0.580129,
+      "end" : 1.759402,
+      "start" : 1.380000,
+      "word" : "marit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.781256,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.920000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.070000,
+      "word" : "l'horta"
+    }, {
+      "conf" : 0.812910,
+      "end" : 2.790000,
+      "start" : 2.580000,
+      "word" : "fes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.790000,
+      "word" : "foc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.090000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.150000,
+      "word" : "tanca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.450000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.540000,
+      "word" : "porta"
+    }],
+  "text" : "si el gener la marit va per l'horta fes foc i tanca la porta"
+}

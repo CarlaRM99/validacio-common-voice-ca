@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 0.930000,
+      "word" : "robert"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.890000,
+      "word" : "derrota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.370000,
+      "word" : "riquilda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.090000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.180000,
+      "word" : "aconsegueix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.020000,
+      "word" : "prendre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.620000,
+      "word" : "l'illa"
+    }],
+  "text" : "robert derrota riquilda i aconsegueix prendre l'illa"
+}

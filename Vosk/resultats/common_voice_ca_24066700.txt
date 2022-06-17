@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.480000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.690000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.080000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.440000,
+      "word" : "sud"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.740000,
+      "word" : "d'àfrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.250000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.550000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.670000,
+      "word" : "pacífic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.240000,
+      "word" : "oriental"
+    }],
+  "text" : "es troba des del sud d'àfrica fins al pacífic oriental"
+}

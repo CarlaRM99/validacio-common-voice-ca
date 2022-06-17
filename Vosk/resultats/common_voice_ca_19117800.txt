@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.848753,
+      "end" : 0.600000,
+      "start" : 0.480000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.600000,
+      "word" : "jurat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.080000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.200000,
+      "word" : "triarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.620000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.890000,
+      "word" : "consideri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.370000,
+      "word" : "millors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.940000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.090000,
+      "word" : "premiarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.020000,
+      "word" : "segons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.590000,
+      "word" : "estableixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.190000,
+      "word" : "aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.640000,
+      "word" : "bases"
+    }],
+  "text" : "el jurat en triarà les que consideri millors i les premiarà segons estableixen aquestes bases"
+}

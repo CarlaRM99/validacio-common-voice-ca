@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.050000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.290000,
+      "word" : "persona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.920000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.070000,
+      "word" : "intensa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 2.670000,
+      "word" : "religiositat"
+    }],
+  "text" : "va ser una persona una intensa religiositat"
+}

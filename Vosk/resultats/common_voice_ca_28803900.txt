@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.480000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.690000,
+      "word" : "demanar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.230000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.500000,
+      "word" : "homes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.830000,
+      "word" : "presents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.610000,
+      "word" : "ajudessin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.240000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.450000,
+      "word" : "dones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.960000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.050000,
+      "word" : "aconseguir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.890000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.100000,
+      "word" : "igualtat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.790000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.880000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 5.970000,
+      "word" : "mereixien"
+    }],
+  "text" : "va demanar als homes presents que ajudessin les dones a aconseguir la igualtat que es mereixien"
+}

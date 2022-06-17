@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.690000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.353925,
+      "start" : 0.960000,
+      "word" : "fills"
+    }, {
+      "conf" : 0.516408,
+      "end" : 1.491543,
+      "start" : 1.353925,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.491543,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.590000,
+      "word" : "bastó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.190000,
+      "word" : "bellesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.910000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.060000,
+      "word" : "llurs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.360000,
+      "word" : "pares"
+    }],
+  "text" : "els fills són el bastó de la bellesa de llurs pares"
+}

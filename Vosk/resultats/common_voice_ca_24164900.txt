@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.683329,
+      "end" : 0.777191,
+      "start" : 0.600000,
+      "word" : "no"
+    }, {
+      "conf" : 0.307659,
+      "end" : 1.157369,
+      "start" : 0.801772,
+      "word" : "mèdic"
+    }, {
+      "conf" : 0.831041,
+      "end" : 1.290000,
+      "start" : 1.157369,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "molt"
+    }, {
+      "conf" : 0.806695,
+      "end" : 1.920000,
+      "start" : 1.500000,
+      "word" : "devot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.010000,
+      "word" : "i"
+    }, {
+      "conf" : 0.415812,
+      "end" : 2.490000,
+      "start" : 2.130000,
+      "word" : "brava"
+    }, {
+      "conf" : 0.993900,
+      "end" : 2.999952,
+      "start" : 2.490000,
+      "word" : "sovint"
+    }],
+  "text" : "no mèdic era molt devot i brava sovint"
+}

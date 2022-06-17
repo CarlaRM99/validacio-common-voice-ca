@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.930000,
+      "word" : "individu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.500000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.680000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.950000,
+      "word" : "esquí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.280000,
+      "word" : "aquàtic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.910000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.090000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.300000,
+      "word" : "acrobàcia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.960000,
+      "word" : "pels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.230000,
+      "word" : "aires"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.740000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.920000,
+      "word" : "l'aigua"
+    }, {
+      "conf" : 0.737988,
+      "end" : 5.370000,
+      "start" : 5.310000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.370000,
+      "word" : "fons"
+    }],
+  "text" : "un individu que fa esquí aquàtic fa una acrobàcia pels aires amb l'aigua al fons"
+}

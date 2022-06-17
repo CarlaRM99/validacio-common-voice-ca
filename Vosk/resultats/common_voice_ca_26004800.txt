@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.600000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.140000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.290000,
+      "word" : "diferencien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.100000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.310000,
+      "word" : "llibres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.700000,
+      "word" : "blancs"
+    }, {
+      "conf" : 0.987253,
+      "end" : 3.869995,
+      "start" : 3.150000,
+      "word" : "tècnics"
+    }],
+  "text" : "aquests es diferencien dels llibres blancs tècnics"
+}

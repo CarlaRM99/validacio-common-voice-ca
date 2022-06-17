@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.660000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.960000,
+      "word" : "gònades"
+    }, {
+      "conf" : 0.820213,
+      "end" : 1.920000,
+      "start" : 1.560000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 1.980000,
+      "word" : "imparelles"
+    }],
+  "text" : "les gònades són imparelles"
+}

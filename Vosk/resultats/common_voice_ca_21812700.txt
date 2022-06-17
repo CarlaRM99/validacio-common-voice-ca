@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.630000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.020000,
+      "word" : "viatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.410000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.560000,
+      "word" : "europa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.980000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.100000,
+      "word" : "incloure"
+    }, {
+      "conf" : 0.826591,
+      "end" : 3.030000,
+      "start" : 2.760000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.030000,
+      "word" : "alps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.660000,
+      "word" : "itàlia"
+    }],
+  "text" : "el seu viatge per europa va incloure als alps i itàlia"
+}

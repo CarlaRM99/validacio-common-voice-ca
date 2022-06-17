@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.390000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.690000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.960000,
+      "word" : "llibre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.410000,
+      "word" : "inclou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.740000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.830000,
+      "word" : "component"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.310000,
+      "word" : "interactiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.940000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.120000,
+      "word" : "missatges"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.600000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.690000,
+      "word" : "text"
+    }],
+  "text" : "és el primer llibre que inclou un component interactiu per missatges de text"
+}

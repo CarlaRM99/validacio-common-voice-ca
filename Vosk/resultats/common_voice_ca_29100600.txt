@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.767364,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "que"
+    }, {
+      "conf" : 0.590732,
+      "end" : 0.889599,
+      "start" : 0.780000,
+      "word" : "i"
+    }, {
+      "conf" : 0.662696,
+      "end" : 1.020000,
+      "start" : 0.925059,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.050000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.410000,
+      "word" : "francesc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.190000,
+      "word" : "tarafa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.790000,
+      "word" : "cantonada"
+    }, {
+      "conf" : 0.552831,
+      "end" : 3.990000,
+      "start" : 3.480000,
+      "word" : "carrer"
+    }],
+  "text" : "que i al carrer francesc tarafa cantonada carrer"
+}

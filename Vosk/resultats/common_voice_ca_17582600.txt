@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.810000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.710000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.800000,
+      "word" : "produeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.310000,
+      "word" : "fora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.610000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.700000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.790000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.000000,
+      "word" : "social"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.870000,
+      "word" : "utilitza"
+    }, {
+      "conf" : 0.864903,
+      "end" : 4.560000,
+      "start" : 4.470000,
+      "word" : "la"
+    }, {
+      "conf" : 0.864903,
+      "end" : 5.010000,
+      "start" : 4.560000,
+      "word" : "xarxa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 5.014053,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.100000,
+      "word" : "comunicacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 5.850000,
+      "word" : "d'internet"
+    }],
+  "text" : "la primera que es produeix fora de la seu social utilitza la xarxa de comunicacions d'internet"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.810000,
+      "word" : "vulneració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.650000,
+      "word" : "d'aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.520000,
+      "word" : "suposaria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.210000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.390000,
+      "word" : "falta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.750000,
+      "word" : "lleu"
+    }],
+  "text" : "la vulneració d'aquestes suposaria una falta lleu"
+}

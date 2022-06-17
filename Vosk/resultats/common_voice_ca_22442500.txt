@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.810000,
+      "word" : "s'observa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.620000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.740000,
+      "word" : "caiguda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.400000,
+      "word" : "l'arrebossat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.210000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.360000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.600000,
+      "word" : "construïda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.380000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.590000,
+      "word" : "pedra"
+    }],
+  "text" : "s'observa la caiguda de l'arrebossat que era construïda en pedra"
+}

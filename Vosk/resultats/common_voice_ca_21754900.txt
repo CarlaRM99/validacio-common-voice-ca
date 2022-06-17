@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.540000,
+      "word" : "l'establiment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.350000,
+      "word" : "opera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.710000,
+      "word" : "principalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.580000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.790000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.850000,
+      "word" : "llibreria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.540000,
+      "word" : "vell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.050000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.170000,
+      "word" : "botiga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.590000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.399999,
+      "start" : 4.710000,
+      "word" : "còmics"
+    }],
+  "text" : "l'establiment opera principalment com a llibreria de vell i botiga de còmics"
+}

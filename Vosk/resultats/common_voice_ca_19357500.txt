@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.510000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.720000,
+      "word" : "gentilhome"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.470000,
+      "word" : "digué"
+    }, {
+      "conf" : 0.714264,
+      "end" : 2.160000,
+      "start" : 2.010000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.163584,
+      "word" : "veu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.400000,
+      "word" : "feble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.880000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.910000,
+      "word" : "tremolosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.660000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.870000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.050000,
+      "word" : "l'home"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.500000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.710000,
+      "word" : "digne"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.070000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.190000,
+      "word" : "compassió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.760000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.940000,
+      "word" : "món"
+    }],
+  "text" : "el gentilhome digué en veu feble i tremolosa que era l'home més digne de compassió del món"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.600000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.900000,
+      "word" : "empresonar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.680000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.890000,
+      "word" : "membres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.400000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.580000,
+      "word" : "govern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 2.970000,
+      "word" : "musulmà"
+    }, {
+      "conf" : 0.799284,
+      "end" : 4.256411,
+      "start" : 3.720000,
+      "word" : "haurem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.256411,
+      "word" : "burg"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.890000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.130000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.610000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.790000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.000000,
+      "word" : "poder"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.330000,
+      "word" : "escapar"
+    }],
+  "text" : "van empresonar els membres del govern musulmà haurem burg però aquests es van poder escapar"
+}

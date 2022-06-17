@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.870000,
+      "word" : "damunt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.500000,
+      "word" : "drac"
+    }, {
+      "conf" : 0.500125,
+      "end" : 2.190000,
+      "start" : 2.010000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.598390,
+      "end" : 2.250000,
+      "start" : 2.190000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.250000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.340000,
+      "word" : "taronger"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.210000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.540000,
+      "word" : "d'antimoni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.310000,
+      "word" : "al·lusiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.000000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 6.480000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.570000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.710000,
+      "start" : 6.750000,
+      "word" : "hespèrides"
+    }],
+  "text" : "damunt del drac hi ha un taronger fet d'antimoni al·lusiu també a les hespèrides"
+}

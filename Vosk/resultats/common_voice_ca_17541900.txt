@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "peleu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.320000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.500000,
+      "word" : "patates"
+    }, {
+      "conf" : 0.776827,
+      "end" : 2.520000,
+      "start" : 1.950000,
+      "word" : "noves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.520000,
+      "word" : "ajudats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.060000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.270000,
+      "word" : "pelador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.990000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.110000,
+      "word" : "deixeu-les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.710000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.830000,
+      "word" : "aigua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.070000,
+      "word" : "freda"
+    }],
+  "text" : "peleu les patates noves ajudats d'un pelador i deixeu-les en aigua freda"
+}

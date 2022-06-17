@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.930000,
+      "word" : "ella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.320000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.470000,
+      "word" : "moure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.890000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.010000,
+      "word" : "cap"
+    }],
+  "text" : "ella va moure el cap"
+}

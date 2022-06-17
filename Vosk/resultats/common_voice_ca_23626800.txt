@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.780000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.260000,
+      "word" : "companyies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.310000,
+      "word" : "obtingut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.880000,
+      "word" : "llicències"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.570000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.186364,
+      "start" : 3.750000,
+      "word" : "comercialitzar-lo"
+    }, {
+      "conf" : 0.563601,
+      "end" : 5.273565,
+      "start" : 5.190000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.273565,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 5.700000,
+      "word" : "països"
+    }],
+  "text" : "altres companyies han obtingut llicències per comercialitzar-lo a altres països"
+}

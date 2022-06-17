@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.872814,
+      "end" : 0.930000,
+      "start" : 0.630000,
+      "word" : "tant"
+    }, {
+      "conf" : 0.641889,
+      "end" : 0.990000,
+      "start" : 0.930000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.990000,
+      "word" : "feia"
+    }],
+  "text" : "tant i feia"
+}

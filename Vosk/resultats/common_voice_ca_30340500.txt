@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.660000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.960000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.500000,
+      "word" : "els"
+    }, {
+      "conf" : 0.698043,
+      "end" : 2.640000,
+      "start" : 1.770000,
+      "word" : "ruixats"
+    }],
+  "text" : "com són els ruixats"
+}

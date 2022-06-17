@@ -1,0 +1,109 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.600000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "reacció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.290000,
+      "word" : "immediata"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.890000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.160000,
+      "word" : "discogràfiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.090000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.210000,
+      "word" : "d'alguns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.660000,
+      "word" : "grups"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.900000,
+      "word" : "musicals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.650000,
+      "word" : "fou"
+    }, {
+      "conf" : 0.717136,
+      "end" : 5.400000,
+      "start" : 4.950000,
+      "word" : "perseguir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.400000,
+      "word" : "legalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.880000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.970000,
+      "word" : "fenomen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 6.420000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.660000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.230000,
+      "start" : 7.020000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.710000,
+      "start" : 7.230000,
+      "word" : "contundent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.220000,
+      "start" : 7.710000,
+      "word" : "possible"
+    }],
+  "text" : "la reacció immediata de les discogràfiques i d'alguns grups musicals fou perseguir legalment el fenomen de la forma més contundent possible"
+}

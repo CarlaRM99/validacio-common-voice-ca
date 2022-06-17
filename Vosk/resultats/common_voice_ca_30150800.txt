@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.940733,
+      "end" : 1.950000,
+      "start" : 1.530000,
+      "word" : "guarda"
+    }, {
+      "conf" : 0.351518,
+      "end" : 2.133957,
+      "start" : 1.950000,
+      "word" : "els"
+    }, {
+      "conf" : 0.824143,
+      "end" : 2.430000,
+      "start" : 2.133957,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.430000,
+      "word" : "quaranta-tres"
+    }, {
+      "conf" : 0.616236,
+      "end" : 4.200000,
+      "start" : 3.360000,
+      "word" : "vuitanta-sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.230000,
+      "word" : "quaranta-vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.160000,
+      "word" : "quaranta-tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 6.060000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.270000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 6.330000,
+      "word" : "telèfon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.810000,
+      "word" : "de"
+    }, {
+      "conf" : 0.609424,
+      "end" : 7.320000,
+      "start" : 6.900000,
+      "word" : "línees"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.950000,
+      "start" : 7.350000,
+      "word" : "vigil"
+    }],
+  "text" : "guarda els sis quaranta-tres vuitanta-sis quaranta-vuit quaranta-tres com a telèfon de línees vigil"
+}

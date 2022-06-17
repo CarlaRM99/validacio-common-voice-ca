@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.261844,
+      "start" : 0.720000,
+      "word" : "dissabte"
+    }, {
+      "conf" : 0.587401,
+      "end" : 1.320000,
+      "start" : 1.261844,
+      "word" : "he"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.320000,
+      "word" : "d'anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.680000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.770000,
+      "word" : "les"
+    }, {
+      "conf" : 0.506972,
+      "end" : 2.700000,
+      "start" : 2.040000,
+      "word" : "files"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.359990,
+      "start" : 3.180000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.961914,
+      "end" : 3.869997,
+      "start" : 3.360000,
+      "word" : "autobús"
+    }],
+  "text" : "dissabte he d'anar a les files amb autobús"
+}

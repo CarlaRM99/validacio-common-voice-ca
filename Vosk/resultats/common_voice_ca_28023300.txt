@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.854336,
+      "end" : 0.840000,
+      "start" : 0.480000,
+      "word" : "eren"
+    }, {
+      "conf" : 0.558315,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.050000,
+      "word" : "botxí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.830000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.070000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.250000,
+      "word" : "municipalitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.000000,
+      "word" : "rural"
+    }, {
+      "conf" : 0.382020,
+      "end" : 3.900000,
+      "start" : 3.390000,
+      "word" : "d'esther"
+    }],
+  "text" : "eren al botxí de la municipalitat rural d'esther"
+}

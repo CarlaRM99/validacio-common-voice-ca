@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.720000,
+      "word" : "recollir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.170000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.380000,
+      "word" : "actuacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.133950,
+      "start" : 2.010000,
+      "word" : "que"
+    }, {
+      "conf" : 0.577140,
+      "end" : 2.189042,
+      "start" : 2.133950,
+      "word" : "es"
+    }, {
+      "conf" : 0.931173,
+      "end" : 2.790000,
+      "start" : 2.189042,
+      "word" : "realitzin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.820000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.000000,
+      "word" : "interessats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.690000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.870000,
+      "word" : "relació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.260000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.350000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.470000,
+      "word" : "esmentats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.010000,
+      "word" : "deutes"
+    }],
+  "text" : "recollir les actuacions que es realitzin els interessats en relació amb els esmentats deutes"
+}

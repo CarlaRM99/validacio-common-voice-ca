@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.300000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.540000,
+      "word" : "aparèixer"
+    }, {
+      "conf" : 0.558897,
+      "end" : 1.552610,
+      "start" : 1.050000,
+      "word" : "abundants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.552610,
+      "word" : "restes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.070000,
+      "word" : "material"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.580000,
+      "word" : "lític"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.300000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.510000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.750000,
+      "word" : "dispers"
+    }],
+  "text" : "van aparèixer abundants restes de material lític però molt dispers"
+}

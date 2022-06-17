@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.944722,
+      "end" : 0.870000,
+      "start" : 0.630000,
+      "word" : "el"
+    }, {
+      "conf" : 0.944722,
+      "end" : 1.050000,
+      "start" : 0.870000,
+      "word" : "seu"
+    }, {
+      "conf" : 0.944722,
+      "end" : 1.530000,
+      "start" : 1.050000,
+      "word" : "foix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.590000,
+      "word" : "disposen"
+    }, {
+      "conf" : 0.963235,
+      "end" : 2.280000,
+      "start" : 2.160000,
+      "word" : "de"
+    }, {
+      "conf" : 0.662559,
+      "end" : 2.643525,
+      "start" : 2.280000,
+      "word" : "classe"
+    }, {
+      "conf" : 0.382625,
+      "end" : 3.120000,
+      "start" : 2.643525,
+      "word" : "dubtava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.150000,
+      "word" : "automàtiques"
+    }],
+  "text" : "el seu foix disposen de classe dubtava automàtiques"
+}

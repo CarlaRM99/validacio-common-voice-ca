@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.390000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.690000,
+      "word" : "insectes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.350000,
+      "word" : "metamorfosi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.100000,
+      "word" : "completa"
+    }],
+  "text" : "són insectes de metamorfosi completa"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.500000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.920000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.980000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.100000,
+      "word" : "desembocadura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.820000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.000000,
+      "word" : "riu"
+    }, {
+      "conf" : 0.560332,
+      "end" : 3.780000,
+      "start" : 3.270000,
+      "word" : "sor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.990000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.080000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.230000,
+      "word" : "costa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.830000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.100000,
+      "word" : "mar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.340000,
+      "word" : "cantàbric"
+    }],
+  "text" : "es troba a la desembocadura del riu sor a la costa del mar cantàbric"
+}

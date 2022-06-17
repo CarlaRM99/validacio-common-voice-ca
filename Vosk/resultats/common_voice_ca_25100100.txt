@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.810000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.200000,
+      "word" : "ruta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.890000,
+      "word" : "originalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.730000,
+      "word" : "havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.090000,
+      "word" : "pont"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.300000,
+      "word" : "flotant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.750000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.080000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.200000,
+      "word" : "llac"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.560000,
+      "word" : "coincidir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.130000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.190000,
+      "word" : "món"
+    }, {
+      "conf" : 0.709424,
+      "end" : 6.210000,
+      "start" : 5.820000,
+      "word" : "a"
+    }, {
+      "conf" : 0.305524,
+      "end" : 6.600000,
+      "start" : 6.330000,
+      "word" : "eix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.603842,
+      "word" : "riu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 6.900000,
+      "word" : "verí"
+    }],
+  "text" : "en aquesta ruta originalment hi havia un pont flotant sobre el llac coincidir a món a eix riu verí"
+}

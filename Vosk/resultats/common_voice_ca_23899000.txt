@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.720000,
+      "word" : "finalment"
+    }, {
+      "conf" : 0.848593,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "va"
+    }, {
+      "conf" : 0.848593,
+      "end" : 1.800000,
+      "start" : 1.410000,
+      "word" : "narrar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.800000,
+      "word" : "així"
+    }, {
+      "conf" : 0.601079,
+      "end" : 2.490000,
+      "start" : 2.160000,
+      "word" : "troba"
+    }, {
+      "conf" : 0.398921,
+      "end" : 2.787427,
+      "start" : 2.700000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.787427,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.910000,
+      "word" : "riu"
+    }],
+  "text" : "finalment va narrar així troba o de riu"
+}

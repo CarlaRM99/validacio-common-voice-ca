@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.330000,
+      "word" : "treballa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.870000,
+      "word" : "per"
+    }, {
+      "conf" : 0.861996,
+      "end" : 1.109657,
+      "start" : 1.050000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.109657,
+      "word" : "microsoft"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.770000,
+      "word" : "turquia"
+    }],
+  "text" : "treballa per a microsoft turquia"
+}

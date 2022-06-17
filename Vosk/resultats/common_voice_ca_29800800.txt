@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.725350,
+      "end" : 1.020000,
+      "start" : 0.600000,
+      "word" : "aquell"
+    }, {
+      "conf" : 0.627440,
+      "end" : 1.410000,
+      "start" : 1.020000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.500000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.620000,
+      "word" : "florida"
+    }, {
+      "conf" : 0.623823,
+      "end" : 2.910000,
+      "start" : 2.160000,
+      "word" : "sageta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.090000,
+      "word" : "empinades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.780000,
+      "word" : "punxes"
+    }],
+  "text" : "aquell això de florida sageta i empinades punxes"
+}

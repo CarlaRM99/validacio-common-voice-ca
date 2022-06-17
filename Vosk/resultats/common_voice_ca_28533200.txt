@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.600000,
+      "word" : "finalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.320000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.470000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.620000,
+      "word" : "traslladar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.310000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.550000,
+      "word" : "residència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.150000,
+      "word" : "geriàtrica"
+    }],
+  "text" : "finalment la van traslladar a una residència geriàtrica"
+}

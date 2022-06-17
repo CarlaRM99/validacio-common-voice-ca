@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.930000,
+      "word" : "truquen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.410000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.070000,
+      "word" : "seixanta-u"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.180000,
+      "word" : "quaranta-set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.320000,
+      "word" : "quaranta-dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.340000,
+      "word" : "trenta-sis"
+    }],
+  "text" : "truquen sis seixanta-u quaranta-set quaranta-dos trenta-sis"
+}

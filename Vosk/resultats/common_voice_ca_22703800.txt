@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.570000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 0.840000,
+      "word" : "carbonatites"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.800000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.160000,
+      "word" : "trobar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.790000,
+      "word" : "dins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.060000,
+      "word" : "complexos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.840000,
+      "word" : "volcànics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.500000,
+      "word" : "intrusius"
+    }],
+  "text" : "les carbonatites poden trobar-se dins complexos volcànics intrusius"
+}

@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.960000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.110000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.530000,
+      "word" : "director"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.070000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.250000,
+      "word" : "departament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.000000,
+      "word" : "filologia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.780000,
+      "word" : "llatina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.380000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.470000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.590000,
+      "word" : "universitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.340000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.460000,
+      "word" : "barcelona"
+    }],
+  "text" : "ha estat director del departament de filologia llatina a la universitat de barcelona"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.660000,
+      "word" : "disposa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.560000,
+      "word" : "d'uns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.890000,
+      "word" : "cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.220000,
+      "word" : "mil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.460000,
+      "word" : "combatents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.270000,
+      "word" : "organitzats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.230000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.440000,
+      "word" : "trenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.890000,
+      "word" : "fronts"
+    }],
+  "text" : "disposa d'uns cinc mil combatents organitzats en trenta fronts"
+}

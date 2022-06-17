@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.750000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.110000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.380000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.590000,
+      "word" : "progenitors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.490000,
+      "word" : "eren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.790000,
+      "word" : "d'origen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.180000,
+      "word" : "noruec"
+    }],
+  "text" : "els seus dos progenitors eren d'origen noruec"
+}

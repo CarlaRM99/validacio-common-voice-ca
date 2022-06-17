@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.570000,
+      "word" : "malgrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.170000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.380000,
+      "word" : "origen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.740000,
+      "word" : "medieval"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.280000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.520000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.670000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.850000,
+      "word" : "modificats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.450000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.570000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.660000,
+      "word" : "pas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.870000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.050000,
+      "word" : "temps"
+    }],
+  "text" : "malgrat el seu origen medieval van ser molt modificats amb el pas del temps"
+}

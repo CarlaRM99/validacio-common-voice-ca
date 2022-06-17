@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.480000,
+      "start" : 0.270000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.480000,
+      "word" : "convocatòria"
+    }, {
+      "conf" : 0.414646,
+      "end" : 1.620000,
+      "start" : 1.110000,
+      "word" : "electoral"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.855150,
+      "start" : 1.672118,
+      "word" : "de"
+    }, {
+      "conf" : 0.407327,
+      "end" : 2.369979,
+      "start" : 1.860000,
+      "word" : "surten"
+    }],
+  "text" : "la convocatòria electoral de surten"
+}

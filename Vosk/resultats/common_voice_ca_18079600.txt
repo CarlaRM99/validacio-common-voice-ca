@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.390000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.600000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.930000,
+      "word" : "etapa"
+    }, {
+      "conf" : 0.655975,
+      "end" : 1.290000,
+      "start" : 1.200000,
+      "word" : "el"
+    }, {
+      "conf" : 0.570553,
+      "end" : 1.380000,
+      "start" : 1.290000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.380000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.560000,
+      "word" : "entrenant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.040000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.220000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.250000,
+      "word" : "tolosa"
+    }],
+  "text" : "la primera etapa el va ser entrenant des i tolosa"
+}

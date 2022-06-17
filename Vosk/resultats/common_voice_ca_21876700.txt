@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.690000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.840000,
+      "word" : "porta"
+    }, {
+      "conf" : 0.525085,
+      "end" : 1.980000,
+      "start" : 1.500000,
+      "word" : "quera"
+    }, {
+      "conf" : 0.645353,
+      "end" : 2.490000,
+      "start" : 2.040000,
+      "word" : "dóna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.580000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.670000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.820000,
+      "word" : "pati"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.120000,
+      "word" : "interior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.050000,
+      "word" : "porxat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.860000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.070000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.310000,
+      "word" : "pisos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.790000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 5.910000,
+      "word" : "galeries"
+    }],
+  "text" : "la porta quera dóna a un pati interior porxat amb dos pisos de galeries"
+}

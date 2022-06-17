@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 0.682746,
+      "end" : 1.710000,
+      "start" : 1.440000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.710000,
+      "word" : "l'empat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.160000,
+      "word" : "persisteix"
+    }, {
+      "conf" : 0.427228,
+      "end" : 3.270000,
+      "start" : 3.120000,
+      "word" : "el"
+    }, {
+      "conf" : 0.632521,
+      "end" : 3.510000,
+      "start" : 3.281074,
+      "word" : "lloc"
+    }, {
+      "conf" : 0.580914,
+      "end" : 4.260000,
+      "start" : 3.528696,
+      "word" : "s'adjudicà"
+    }, {
+      "conf" : 0.539746,
+      "end" : 4.500000,
+      "start" : 4.290000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.500000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.620000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.890000,
+      "word" : "antiguitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.730000,
+      "word" : "i"
+    }, {
+      "conf" : 0.694633,
+      "end" : 6.390000,
+      "start" : 5.970000,
+      "word" : "xile"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.410839,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 6.630000,
+      "word" : "continuar"
+    }, {
+      "conf" : 0.867593,
+      "end" : 7.770000,
+      "start" : 7.560000,
+      "word" : "és"
+    }, {
+      "conf" : 0.738617,
+      "end" : 7.860000,
+      "start" : 7.770000,
+      "word" : "que"
+    }, {
+      "conf" : 0.738617,
+      "end" : 7.978371,
+      "start" : 7.860000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.430000,
+      "start" : 7.978371,
+      "word" : "sorteig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.000000,
+      "start" : 8.430000,
+      "word" : "públic"
+    }],
+  "text" : "si l'empat persisteix el lloc s'adjudicà el de més antiguitat i xile per continuar és que un sorteig públic"
+}

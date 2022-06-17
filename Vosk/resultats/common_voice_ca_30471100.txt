@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.500000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.740000,
+      "word" : "puc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.890000,
+      "word" : "arribar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.250000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.280000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.370000,
+      "word" : "placeta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.060000,
+      "word" : "josep"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.540000,
+      "word" : "maria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.080000,
+      "word" : "jaén"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.680000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.220000,
+      "word" : "vuitanta-sis"
+    }],
+  "text" : "com puc arribar a la placeta de josep maria jaén número vuitanta-sis"
+}

@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.510000,
+      "word" : "quan"
+    }, {
+      "conf" : 0.555160,
+      "end" : 1.050000,
+      "start" : 0.900000,
+      "word" : "va"
+    }, {
+      "conf" : 0.555160,
+      "end" : 1.500000,
+      "start" : 1.050000,
+      "word" : "durar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.530000,
+      "word" : "l'edició"
+    }],
+  "text" : "quan va durar l'edició"
+}

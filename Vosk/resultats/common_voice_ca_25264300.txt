@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.720000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.930000,
+      "word" : "kigoma"
+    }, {
+      "conf" : 0.518432,
+      "end" : 2.010000,
+      "start" : 1.380000,
+      "word" : "ximo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.160000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.370000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.670000,
+      "word" : "crítiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.180000,
+      "word" : "positives"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.720000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.840000,
+      "word" : "anglès"
+    }],
+  "text" : "i kigoma ximo va rebre crítiques positives en anglès"
+}

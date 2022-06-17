@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.110000,
+      "word" : "mireia"
+    }, {
+      "conf" : 0.685688,
+      "end" : 1.980000,
+      "start" : 1.740000,
+      "word" : "del"
+    }, {
+      "conf" : 0.507529,
+      "end" : 2.160000,
+      "start" : 1.980000,
+      "word" : "val"
+    }, {
+      "conf" : 0.898210,
+      "end" : 2.760000,
+      "start" : 2.160000,
+      "word" : "alabau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.820000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.970000,
+      "word" : "actuarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.450000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.630000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.690000,
+      "word" : "vocal"
+    }],
+  "text" : "mireia del val alabau que actuarà com a vocal"
+}

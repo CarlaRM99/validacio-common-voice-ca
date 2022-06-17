@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.480000,
+      "word" : "la"
+    }, {
+      "conf" : 0.519334,
+      "end" : 0.946701,
+      "start" : 0.690000,
+      "word" : "lava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.946701,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.260000,
+      "word" : "endurir"
+    }, {
+      "conf" : 0.843338,
+      "end" : 2.096320,
+      "start" : 1.650000,
+      "word" : "formant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.096320,
+      "word" : "la"
+    }, {
+      "conf" : 0.519284,
+      "end" : 2.760000,
+      "start" : 2.220000,
+      "word" : "riolita"
+    }],
+  "text" : "la lava es va endurir formant la riolita"
+}

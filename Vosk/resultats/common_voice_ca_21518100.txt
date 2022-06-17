@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.510000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.750000,
+      "word" : "produir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.230000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.800000,
+      "word" : "personatges"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.550000,
+      "word" : "destacats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.420000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.750000,
+      "word" : "ells"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.140000,
+      "word" : "defensors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.830000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.040000,
+      "word" : "plebeus"
+    }],
+  "text" : "va produir diversos personatges destacats tots ells defensors dels plebeus"
+}

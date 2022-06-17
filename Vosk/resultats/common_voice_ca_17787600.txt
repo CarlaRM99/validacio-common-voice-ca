@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.827159,
+      "end" : 0.780000,
+      "start" : 0.330000,
+      "word" : "venint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.780000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.900000,
+      "word" : "cabrera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.500000,
+      "word" : "d'anoia"
+    }],
+  "text" : "venint de cabrera d'anoia"
+}

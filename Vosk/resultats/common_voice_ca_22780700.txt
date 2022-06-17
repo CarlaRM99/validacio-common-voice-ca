@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.765213,
+      "end" : 1.110000,
+      "start" : 0.960000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.110000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.200000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.500000,
+      "word" : "del"
+    }, {
+      "conf" : 0.934609,
+      "end" : 2.400000,
+      "start" : 1.740000,
+      "word" : "cardinal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.430000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.730000,
+      "word" : "nombres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.240000,
+      "word" : "racionals"
+    }],
+  "text" : "que hi ha del cardinal dels nombres racionals"
+}

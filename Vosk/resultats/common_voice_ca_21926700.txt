@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.665480,
+      "end" : 0.930000,
+      "start" : 0.690000,
+      "word" : "també"
+    }, {
+      "conf" : 0.560805,
+      "end" : 1.080000,
+      "start" : 0.930000,
+      "word" : "té"
+    }, {
+      "conf" : 0.531374,
+      "end" : 1.320000,
+      "start" : 1.092200,
+      "word" : "ús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.320000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.530000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.890000,
+      "word" : "ornamental"
+    }],
+  "text" : "també té ús com planta ornamental"
+}

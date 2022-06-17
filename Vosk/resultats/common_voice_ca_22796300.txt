@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.990000,
+      "word" : "juntament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.590000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.680000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.770000,
+      "word" : "medalla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.280000,
+      "word" : "s'atorgava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.850000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.910000,
+      "word" : "certificat"
+    }],
+  "text" : "juntament amb la medalla s'atorgava un certificat"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.990000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.110000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.500000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.800000,
+      "word" : "ara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.400000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.700000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.910000,
+      "word" : "bé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.510000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.720000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.260000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.440000,
+      "word" : "pura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.680000,
+      "word" : "rutina"
+    }],
+  "text" : "el que s'ha fet fins ara està molt bé però això és pura rutina"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.050000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.380000,
+      "word" : "s'empra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.980000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.160000,
+      "word" : "aparellar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.700000,
+      "word" : "petites"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.210000,
+      "word" : "superfícies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.260000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.410000,
+      "word" : "zones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 4.800000,
+      "word" : "delicades"
+    }],
+  "text" : "també s'empra per aparellar petites superfícies en zones delicades"
+}

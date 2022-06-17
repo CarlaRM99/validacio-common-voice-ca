@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.690000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.900000,
+      "word" : "membres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.320000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.380000,
+      "word" : "l'òrgan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.950000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.250000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.580000,
+      "word" : "abstenir-se"
+    }, {
+      "conf" : 0.558297,
+      "end" : 3.390000,
+      "start" : 3.270000,
+      "word" : "de"
+    }, {
+      "conf" : 0.558297,
+      "end" : 3.780000,
+      "start" : 3.390000,
+      "word" : "votar"
+    }],
+  "text" : "els membres de l'òrgan també poden abstenir-se de votar"
+}

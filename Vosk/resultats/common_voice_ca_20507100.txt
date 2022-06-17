@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.780000,
+      "word" : "mateixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.230000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.789645,
+      "start" : 1.440000,
+      "word" : "lliurar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.830000,
+      "word" : "grècia"
+    }, {
+      "conf" : 0.666429,
+      "end" : 2.700000,
+      "start" : 2.520000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.700000,
+      "word" : "mar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.880000,
+      "word" : "egea"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.810000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.990000,
+      "word" : "àsia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.290000,
+      "word" : "menor"
+    }],
+  "text" : "la mateixa es va lliurar grècia el mar egea i àsia menor"
+}

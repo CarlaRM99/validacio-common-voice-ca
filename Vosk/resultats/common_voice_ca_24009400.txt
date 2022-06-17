@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.909212,
+      "end" : 1.110000,
+      "start" : 0.960000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.909212,
+      "end" : 1.170000,
+      "start" : 1.110000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.170000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.530000,
+      "word" : "petites"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.980000,
+      "word" : "colònies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.520000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.670000,
+      "word" : "nord"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.940000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.090000,
+      "word" : "canadà"
+    }],
+  "text" : "hi ha també petites colònies al nord del canadà"
+}

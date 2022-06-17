@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.856480,
+      "end" : 0.630000,
+      "start" : 0.450000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.630000,
+      "word" : "damunt"
+    }, {
+      "conf" : 0.668480,
+      "end" : 1.230000,
+      "start" : 1.110000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.230000,
+      "word" : "destaca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.710000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.890000,
+      "word" : "clau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.160000,
+      "word" : "pentagonal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.940000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.090000,
+      "word" : "relleu"
+    }],
+  "text" : "al damunt hi destaca una clau pentagonal en relleu"
+}

@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.660000,
+      "word" : "moçambic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.590000,
+      "word" : "sud-àfrica"
+    }],
+  "text" : "moçambic i sud-àfrica"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.630000,
+      "word" : "omple"
+    }, {
+      "conf" : 0.730047,
+      "end" : 1.436354,
+      "start" : 1.200000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.436354,
+      "word" : "superfícies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.250000,
+      "word" : "conca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.700000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 2.880000,
+      "word" : "posteriors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.750000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 3.990000,
+      "word" : "cartílags"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.770000,
+      "word" : "edita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.190000,
+      "word" : "noies"
+    }],
+  "text" : "omple les superfícies conca les posteriors dels cartílags edita noies"
+}

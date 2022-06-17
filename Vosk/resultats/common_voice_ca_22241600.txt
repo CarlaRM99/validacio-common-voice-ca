@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.170000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.320000,
+      "word" : "terreny"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.890000,
+      "word" : "eixut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.880000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.060000,
+      "word" : "predominen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.960000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.170000,
+      "word" : "propietaris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.980000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.100000,
+      "word" : "maspujols"
+    }],
+  "text" : "és un terreny eixut on predominen els propietaris de maspujols"
+}

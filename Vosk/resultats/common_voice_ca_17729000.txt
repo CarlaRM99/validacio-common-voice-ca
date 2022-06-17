@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.893321,
+      "end" : 2.280000,
+      "start" : 2.070000,
+      "word" : "hem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.280000,
+      "word" : "dit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "que"
+    }, {
+      "conf" : 0.853255,
+      "end" : 2.790000,
+      "start" : 2.730000,
+      "word" : "el"
+    }, {
+      "conf" : 0.853255,
+      "end" : 3.480000,
+      "start" : 2.820000,
+      "word" : "comtat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.690000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.110000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.260000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.410000,
+      "word" : "assistència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.010000,
+      "word" : "administrativa"
+    }],
+  "text" : "hem dit que el comtat només té una assistència administrativa"
+}

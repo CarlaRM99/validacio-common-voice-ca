@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.840000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.080000,
+      "word" : "historiadors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.340000,
+      "word" : "destaquen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.000000,
+      "word" : "lentitud"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.510000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.660000,
+      "word" : "resposta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.710000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.920000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.400000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 5.700000,
+      "word" : "bizantins"
+    }],
+  "text" : "els historiadors destaquen la lentitud de resposta per part dels bizantins"
+}

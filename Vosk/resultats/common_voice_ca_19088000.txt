@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.766169,
+      "end" : 1.380000,
+      "start" : 0.840000,
+      "word" : "passeu-lo"
+    }, {
+      "conf" : 0.766169,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.470000,
+      "word" : "cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.710000,
+      "word" : "minuts"
+    }, {
+      "conf" : 0.902474,
+      "end" : 2.265951,
+      "start" : 2.100000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.292678,
+      "word" : "gratinador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.060000,
+      "word" : "evitant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.510000,
+      "word" : "que"
+    }, {
+      "conf" : 0.789166,
+      "end" : 4.170000,
+      "start" : 3.630000,
+      "word" : "sectors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.170000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.260000,
+      "word" : "massa"
+    }],
+  "text" : "passeu-lo en cinc minuts per gratinador evitant que sectors i massa"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.810000,
+      "word" : "meu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.020000,
+      "word" : "sistema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 1.770000,
+      "word" : "preferència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.700000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.090000,
+      "word" : "català"
+    }],
+  "text" : "el meu sistema de preferència és el català"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.840000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.230000,
+      "word" : "dècades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.920000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.220000,
+      "word" : "emprar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.610000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.820000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.090000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.270000,
+      "word" : "automòbils"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.050000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.140000,
+      "word" : "camions"
+    }],
+  "text" : "durant dècades es va emprar en tots els automòbils i camions"
+}

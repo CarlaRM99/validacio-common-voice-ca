@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.680500,
+      "end" : 0.780000,
+      "start" : 0.660000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.780000,
+      "word" : "palau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.230000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.410000,
+      "word" : "benifairó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.010000,
+      "word" : "dels"
+    }, {
+      "conf" : 0.507849,
+      "end" : 2.760000,
+      "start" : 2.250000,
+      "word" : "balls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.940000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.180000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.390000,
+      "word" : "importància"
+    }],
+  "text" : "a palau de benifairó dels balls va tenir gran importància"
+}

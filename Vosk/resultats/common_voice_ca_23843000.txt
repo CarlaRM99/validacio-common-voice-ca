@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.360000,
+      "word" : "estrabó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.990000,
+      "word" : "descriu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.440000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.680000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.860000,
+      "word" : "plana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.160000,
+      "word" : "rodejada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.700000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.820000,
+      "word" : "muntanyes"
+    }],
+  "text" : "estrabó la descriu com una plana rodejada de muntanyes"
+}

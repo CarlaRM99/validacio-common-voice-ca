@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.690000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.960000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.020000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.470000,
+      "word" : "cristalls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 1.980000,
+      "word" : "tetraèdrics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.760000,
+      "word" : "petits"
+    }],
+  "text" : "es troba en forma de cristalls tetraèdrics petits"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.725864,
+      "end" : 0.561387,
+      "start" : 0.420000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.561387,
+      "word" : "elabora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.960000,
+      "word" : "prototips"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.590000,
+      "word" : "verificant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.190000,
+      "word" : "l'ajust"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.610000,
+      "word" : "dels"
+    }, {
+      "conf" : 0.784515,
+      "end" : 3.360000,
+      "start" : 2.790000,
+      "word" : "pedrons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.390000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.660000,
+      "word" : "procés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.110000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.200000,
+      "word" : "confecció"
+    }],
+  "text" : "que elabora prototips verificant l'ajust dels pedrons en el procés de confecció"
+}

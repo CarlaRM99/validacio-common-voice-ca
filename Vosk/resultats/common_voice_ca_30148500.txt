@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.320000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.530000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.890000,
+      "word" : "juny"
+    }, {
+      "conf" : 0.875204,
+      "end" : 2.610000,
+      "start" : 2.310000,
+      "word" : "hauria"
+    }, {
+      "conf" : 0.684491,
+      "end" : 2.970000,
+      "start" : 2.620939,
+      "word" : "d'anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.030000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.240000,
+      "word" : "vilella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.660000,
+      "word" : "baixa"
+    }],
+  "text" : "el dos de juny hauria d'anar a la vilella baixa"
+}

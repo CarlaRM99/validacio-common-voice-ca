@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.390000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.510000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.780000,
+      "word" : "internacional"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.590000,
+      "word" : "mèxic"
+    }, {
+      "conf" : 0.839657,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "en"
+    }, {
+      "conf" : 0.711128,
+      "end" : 2.370000,
+      "start" : 2.190000,
+      "word" : "deu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.370000,
+      "word" : "ocasions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.090000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.330000,
+      "word" : "marcant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.660000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.780000,
+      "word" : "gol"
+    }],
+  "text" : "ha estat internacional amb mèxic en deu ocasions tot marcant un gol"
+}

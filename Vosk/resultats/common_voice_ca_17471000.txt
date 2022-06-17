@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.480000,
+      "start" : 0.180000,
+      "word" : "porc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.480000,
+      "word" : "fiat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.380000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.590000,
+      "word" : "l'any"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.920000,
+      "word" : "gruny"
+    }],
+  "text" : "porc fiat tot l'any gruny"
+}

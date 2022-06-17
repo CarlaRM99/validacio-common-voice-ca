@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.450000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.690000,
+      "word" : "privat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.440000,
+      "word" : "exemple"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.040000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.520000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.790000,
+      "word" : "bany"
+    }, {
+      "conf" : 0.648550,
+      "end" : 3.540000,
+      "start" : 3.300000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.540000,
+      "word" : "d'ocata"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.170000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.320000,
+      "word" : "pot"
+    }, {
+      "conf" : 0.480309,
+      "end" : 5.010000,
+      "start" : 4.590000,
+      "word" : "cordà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 5.010000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.100000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.220000,
+      "word" : "cinturó"
+    }],
+  "text" : "en privat per exemple després d'un bany el d'ocata es pot cordà amb un cinturó"
+}

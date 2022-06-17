@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.720000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.840000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.260000,
+      "word" : "inferior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.010000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.190000,
+      "word" : "façanes"
+    }, {
+      "conf" : 0.550629,
+      "end" : 2.910000,
+      "start" : 2.820000,
+      "word" : "i"
+    }, {
+      "conf" : 0.557624,
+      "end" : 3.000000,
+      "start" : 2.910000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.000000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.150000,
+      "word" : "sòcol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.720000,
+      "word" : "d'estucat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.500000,
+      "word" : "color"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.800000,
+      "word" : "gris"
+    }],
+  "text" : "a la part inferior de les façanes i ha un sòcol d'estucat de color gris"
+}

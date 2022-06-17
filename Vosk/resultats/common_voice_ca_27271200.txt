@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.053936,
+      "start" : 0.660000,
+      "word" : "això"
+    }, {
+      "conf" : 0.708089,
+      "end" : 1.168113,
+      "start" : 1.053936,
+      "word" : "va"
+    }, {
+      "conf" : 0.663540,
+      "end" : 1.530000,
+      "start" : 1.170000,
+      "word" : "portar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.533755,
+      "word" : "l'ascens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.220000,
+      "word" : "partit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.760000,
+      "word" : "whig"
+    }],
+  "text" : "això va portar l'ascens del partit whig"
+}

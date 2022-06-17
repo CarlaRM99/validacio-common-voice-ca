@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.720000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.020000,
+      "word" : "arrels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.530000,
+      "word" : "rizoides"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.580000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.090000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.210000,
+      "word" : "trencar-les"
+    }, {
+      "conf" : 0.646613,
+      "end" : 4.890000,
+      "start" : 4.470000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.950000,
+      "word" : "resultar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.760000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.940000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.030000,
+      "word" : "creixement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.530000,
+      "start" : 6.720000,
+      "word" : "vegetatiu"
+    }, {
+      "conf" : 0.795613,
+      "end" : 7.710000,
+      "start" : 7.620000,
+      "word" : "a"
+    }, {
+      "conf" : 0.795613,
+      "end" : 8.310000,
+      "start" : 7.710000,
+      "word" : "sexual"
+    }],
+  "text" : "té arrels rizoides que el trencar-les poden resultar en el creixement vegetatiu a sexual"
+}

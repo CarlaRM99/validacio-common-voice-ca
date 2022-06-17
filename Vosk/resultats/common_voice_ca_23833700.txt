@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.735912,
+      "end" : 1.170000,
+      "start" : 0.870000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.170000,
+      "word" : "estats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.560000,
+      "word" : "units"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.160000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.610000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.850000,
+      "word" : "espècie"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.300000,
+      "word" : "invasora"
+    }],
+  "text" : "els estats units és una espècie invasora"
+}

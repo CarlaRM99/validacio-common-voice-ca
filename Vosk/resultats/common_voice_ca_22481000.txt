@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.720000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.900000,
+      "word" : "tracta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.350000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.530000,
+      "word" : "edifici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.040000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.340000,
+      "word" : "mitgeres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.090000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.540000,
+      "word" : "altures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.050000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.470000,
+      "word" : "baixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.860000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.920000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.190000,
+      "word" : "pisos"
+    }],
+  "text" : "es tracta d'un edifici entre mitgeres de quatre altures planta baixa i tres pisos"
+}

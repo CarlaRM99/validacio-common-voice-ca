@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.570000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.110000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.410000,
+      "word" : "estada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.070000,
+      "word" : "deien"
+    }, {
+      "conf" : 0.800931,
+      "end" : 2.850000,
+      "start" : 2.670000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.850000,
+      "word" : "palau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.210000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.360000,
+      "word" : "laterà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.020000,
+      "word" : "semblava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.890000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.100000,
+      "word" : "bordell"
+    }],
+  "text" : "durant la seva estada deien el palau del laterà semblava un bordell"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.810000,
+      "word" : "realitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.410000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.620000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.710000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.950000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.100000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.400000,
+      "word" : "partits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.820000,
+      "word" : "polítics"
+    }],
+  "text" : "en realitat és el nom de dos partits polítics"
+}

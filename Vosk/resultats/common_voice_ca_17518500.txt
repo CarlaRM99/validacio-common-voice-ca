@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.817816,
+      "end" : 1.252496,
+      "start" : 0.810000,
+      "word" : "explica"
+    }, {
+      "conf" : 0.517578,
+      "end" : 1.590000,
+      "start" : 1.260000,
+      "word" : "món"
+    }],
+  "text" : "explica món"
+}

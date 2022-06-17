@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.793429,
+      "end" : 1.410000,
+      "start" : 0.750000,
+      "word" : "patrocina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.410000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.680000,
+      "word" : "convenció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.340000,
+      "word" : "anual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.240000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.510000,
+      "word" : "conferència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.050000,
+      "word" : "anual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.320000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.440000,
+      "word" : "negocis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.130000,
+      "word" : "reunions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 5.910000,
+      "word" : "regionals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.930000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.650000,
+      "start" : 7.050000,
+      "word" : "programes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.770000,
+      "start" : 7.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.430000,
+      "start" : 7.770000,
+      "word" : "formació"
+    }],
+  "text" : "patrocina una convenció anual una conferència anual de negocis reunions regionals i programes de formació"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.390000,
+      "start" : 0.180000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.390000,
+      "word" : "catedral"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.140000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.530000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.830000,
+      "word" : "l'antic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.220000,
+      "word" : "règim"
+    }, {
+      "conf" : 0.552930,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "el"
+    }, {
+      "conf" : 0.921795,
+      "end" : 3.180000,
+      "start" : 2.940000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.180000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.270000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.360000,
+      "word" : "consagració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.140000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.380000,
+      "word" : "reis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.620000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.710000,
+      "word" : "frança"
+    }],
+  "text" : "la catedral era durant l'antic règim el lloc de la consagració dels reis de frança"
+}

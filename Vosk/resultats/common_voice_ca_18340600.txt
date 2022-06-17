@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.050000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.762483,
+      "start" : 1.230000,
+      "word" : "programa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.770000,
+      "word" : "oferit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.190000,
+      "word" : "consistirà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.910000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.030000,
+      "word" : "l'allotjament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.750000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.840000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.930000,
+      "word" : "pensió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.350000,
+      "word" : "alimentària"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.040000,
+      "word" : "completa"
+    }],
+  "text" : "el programa oferit consistirà en l'allotjament i la pensió alimentària completa"
+}

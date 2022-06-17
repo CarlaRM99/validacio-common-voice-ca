@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.930000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.170000,
+      "word" : "regnar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.890000,
+      "word" : "uns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.250000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.520000,
+      "word" : "anys"
+    }],
+  "text" : "va regnar uns dos anys"
+}

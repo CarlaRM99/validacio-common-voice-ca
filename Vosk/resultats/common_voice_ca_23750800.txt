@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.300000,
+      "word" : "aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.690000,
+      "word" : "proves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.020000,
+      "word" : "neuropsicològiques"
+    }, {
+      "conf" : 0.781715,
+      "end" : 2.122301,
+      "start" : 2.040000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.122301,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.250000,
+      "word" : "component"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.700000,
+      "word" : "essencial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.150000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.270000,
+      "word" : "procés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.720000,
+      "word" : "realització"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.380000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.470000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.590000,
+      "word" : "valoració"
+    }, {
+      "conf" : 0.968810,
+      "end" : 5.999991,
+      "start" : 5.040000,
+      "word" : "neuropsicològica"
+    }],
+  "text" : "aquestes proves neuropsicològiques en un component essencial del procés de realització de la valoració neuropsicològica"
+}

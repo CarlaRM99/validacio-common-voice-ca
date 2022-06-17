@@ -1,0 +1,104 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.050000,
+      "word" : "francesc"
+    }, {
+      "conf" : 0.440310,
+      "end" : 2.070000,
+      "start" : 1.830000,
+      "word" : "camp"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.110920,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.340000,
+      "word" : "tema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.610000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.880000,
+      "word" : "vegada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.240000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.360000,
+      "word" : "esmenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.840000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.080000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.230000,
+      "word" : "ocell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.890000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.040000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.340000,
+      "word" : "secció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.730000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.820000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.940000,
+      "word" : "sisena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.390000,
+      "word" : "escena"
+    }],
+  "text" : "sant francesc camp aquest tema cada vegada que esmenta el nom d'un ocell en aquesta secció de la sisena escena"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.630000,
+      "word" : "nombroses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.320000,
+      "word" : "persones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.100000,
+      "word" : "inclosos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.760000,
+      "word" : "nens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.150000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.240000,
+      "word" : "gent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.510000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.930000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.170000,
+      "word" : "resultar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.800000,
+      "word" : "ferides"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.310000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.610000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.760000,
+      "word" : "pànic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.180000,
+      "word" : "posterior"
+    }],
+  "text" : "nombroses persones inclosos nens i gent gran van resultar ferides durant el pànic posterior"
+}

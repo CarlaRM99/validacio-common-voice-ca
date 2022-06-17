@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.390000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "font"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.900000,
+      "word" : "sepulcral"
+    }, {
+      "conf" : 0.516330,
+      "end" : 2.010000,
+      "start" : 1.710000,
+      "word" : "estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.010000,
+      "word" : "precedida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.700000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.880000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.030000,
+      "word" : "petit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.420000,
+      "word" : "pati"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.780000,
+      "word" : "pavimentat"
+    }, {
+      "conf" : 0.903774,
+      "end" : 4.739033,
+      "start" : 4.590000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.617756,
+      "end" : 5.310000,
+      "start" : 4.739033,
+      "word" : "mosaic"
+    }],
+  "text" : "la font sepulcral estar precedida per un petit pati pavimentat amb mosaic"
+}

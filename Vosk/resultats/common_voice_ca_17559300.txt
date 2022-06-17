@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 1.050000,
+      "word" : "d"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.110000,
+      "word" : "haver-lo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.470000,
+      "word" : "rebut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.950000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.130000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.340000,
+      "word" : "anteriors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.000000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.180000,
+      "word" : "suposa"
+    }, {
+      "conf" : 0.489799,
+      "end" : 4.200000,
+      "start" : 3.660000,
+      "word" : "l'atorgament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.200000,
+      "word" : "forçós"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.830000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.010000,
+      "word" : "exercicis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.610000,
+      "word" : "posteriors"
+    }],
+  "text" : "el fet d haver-lo rebut en anys anteriors no suposa l'atorgament forçós en exercicis posteriors"
+}

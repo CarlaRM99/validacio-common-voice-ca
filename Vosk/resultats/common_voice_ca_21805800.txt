@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.840000,
+      "word" : "defensava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.530000,
+      "word" : "tanmateix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.280000,
+      "word" : "gelosament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.060000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.240000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.600000,
+      "word" : "vida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.840000,
+      "word" : "privada"
+    }],
+  "text" : "defensava tanmateix gelosament la seva vida privada"
+}

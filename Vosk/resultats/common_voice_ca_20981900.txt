@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.050000,
+      "word" : "gira"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.530000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.680000,
+      "word" : "continuar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.505633,
+      "start" : 2.310000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.520000,
+      "word" : "xile"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.030000,
+      "word" : "perú"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.570000,
+      "word" : "veneçuela"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.440000,
+      "word" : "estats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.920000,
+      "word" : "units"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.370000,
+      "word" : "mèxic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.030000,
+      "word" : "equador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.750000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.560000,
+      "start" : 6.870000,
+      "word" : "colòmbia"
+    }],
+  "text" : "la gira va continuar per xile perú veneçuela estats units mèxic equador i colòmbia"
+}

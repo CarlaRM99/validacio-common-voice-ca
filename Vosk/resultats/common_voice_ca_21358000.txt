@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "l'antic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.290000,
+      "word" : "termenal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.860000,
+      "word" : "res"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.160000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.340000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.400000,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.640000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.730000,
+      "word" : "carena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.090000,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.390000,
+      "word" : "serrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.560000,
+      "word" : "fins"
+    }, {
+      "conf" : 0.825060,
+      "end" : 4.920000,
+      "start" : 4.800000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.920000,
+      "word" : "planell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.310000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.730000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 6.000000,
+      "word" : "martí"
+    }],
+  "text" : "l'antic termenal res i a tota la carena d'aquest serrat fins al planell de sant martí"
+}

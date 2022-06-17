@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.420000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.810000,
+      "word" : "fort"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.080000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.200000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.560000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.770000,
+      "word" : "estrella"
+    }, {
+      "conf" : 0.714705,
+      "end" : 2.490000,
+      "start" : 2.340000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.490000,
+      "word" : "saló"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.850000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.090000,
+      "word" : "fama"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "de"
+    }, {
+      "conf" : 0.925634,
+      "end" : 3.810000,
+      "start" : 3.540000,
+      "word" : "san"
+    }, {
+      "conf" : 0.651939,
+      "end" : 4.350000,
+      "start" : 3.810000,
+      "word" : "luís"
+    }],
+  "text" : "fa fort va rebre una estrella al saló de la fama de san luís"
+}

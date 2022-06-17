@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.260000,
+      "word" : "casen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.680000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.770000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.310000,
+      "word" : "traslladen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.910000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.970000,
+      "word" : "oklahoma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.480000,
+      "word" : "city"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.140000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.296543,
+      "word" : "executar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.830000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.950000,
+      "word" : "estudi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.370000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.490000,
+      "word" : "dansa"
+    }],
+  "text" : "es casen i després es traslladen a oklahoma city per executar un estudi de dansa"
+}

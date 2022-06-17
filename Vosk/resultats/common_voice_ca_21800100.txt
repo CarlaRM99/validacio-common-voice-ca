@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.020000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.380000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.590000,
+      "word" : "expert"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.400000,
+      "word" : "dipòsits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.300000,
+      "word" : "coure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.870000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.990000,
+      "word" : "níquel"
+    }],
+  "text" : "va ser un expert en dipòsits de coure i níquel"
+}

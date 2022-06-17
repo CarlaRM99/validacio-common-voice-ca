@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.920000,
+      "word" : "yo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.460000,
+      "word" : "bloquejador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.300000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.450000,
+      "word" : "situa"
+    }, {
+      "conf" : 0.564670,
+      "end" : 4.350000,
+      "start" : 3.840000,
+      "word" : "enormement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.380000,
+      "word" : "el"
+    }, {
+      "conf" : 0.537523,
+      "end" : 4.920000,
+      "start" : 4.500000,
+      "word" : "matx"
+    }],
+  "text" : "yo bloquejador se situa enormement el matx"
+}

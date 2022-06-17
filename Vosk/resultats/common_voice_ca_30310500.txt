@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.620344,
+      "end" : 0.930000,
+      "start" : 0.630000,
+      "word" : "quan"
+    }, {
+      "conf" : 0.865874,
+      "end" : 1.200000,
+      "start" : 0.930000,
+      "word" : "dura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.204024,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.320000,
+      "word" : "trajecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.920000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.980000,
+      "word" : "autobús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.520000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.820000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.910000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.150000,
+      "word" : "planes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.780000,
+      "word" : "d'hostoles"
+    }],
+  "text" : "quan dura el trajecte en autobús fins a les planes d'hostoles"
+}

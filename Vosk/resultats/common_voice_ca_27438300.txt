@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.900000,
+      "word" : "connecten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.440000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.530000,
+      "word" : "cerebel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 2.010000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.070000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.160000,
+      "word" : "protuberància"
+    }, {
+      "conf" : 0.860785,
+      "end" : 3.390000,
+      "start" : 2.910000,
+      "word" : "anular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.660000,
+      "word" : "el"
+    }, {
+      "conf" : 0.837275,
+      "end" : 3.930000,
+      "start" : 3.780000,
+      "word" : "mar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.939764,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.350000,
+      "word" : "foc"
+    }],
+  "text" : "connecten el cerebel a la protuberància anular i el mar sense foc"
+}

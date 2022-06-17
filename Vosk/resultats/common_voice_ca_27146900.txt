@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.930000,
+      "word" : "vaig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.260000,
+      "word" : "procedir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.860000,
+      "word" : "nervis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.490000,
+      "word" : "molt"
+    }, {
+      "conf" : 0.805621,
+      "end" : 2.880000,
+      "start" : 2.760000,
+      "word" : "en"
+    }, {
+      "conf" : 0.805621,
+      "end" : 3.210000,
+      "start" : 2.880000,
+      "word" : "contra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.210000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.330000,
+      "word" : "meu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.540000,
+      "word" : "parer"
+    }],
+  "text" : "vaig procedir amb nervis molt en contra del meu parer"
+}

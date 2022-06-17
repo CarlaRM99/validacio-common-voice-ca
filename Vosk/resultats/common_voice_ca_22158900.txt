@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.450000,
+      "word" : "castanys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.080000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.230000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.380000,
+      "word" : "catedràtic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.010000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.130000,
+      "word" : "jurisprudència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.000000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.120000,
+      "word" : "ciutats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.480000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.540000,
+      "word" : "barcelona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 4.050000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.080000,
+      "word" : "salamanca"
+    }],
+  "text" : "castanys va ser catedràtic de jurisprudència de les ciutats de barcelona i salamanca"
+}

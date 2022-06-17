@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.840000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 0.960000,
+      "word" : "l'exterior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.800000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.980000,
+      "word" : "potencia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.610000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.700000,
+      "word" : "porta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.270000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.450000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.570000,
+      "word" : "frontó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.020000,
+      "word" : "triangular"
+    }],
+  "text" : "a l'exterior es potencia la porta amb un frontó triangular"
+}

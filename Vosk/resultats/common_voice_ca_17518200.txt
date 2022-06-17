@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.780000,
+      "word" : "període"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.320000,
+      "word" : "d'utilització"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.040000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.220000,
+      "word" : "espais"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.610000,
+      "word" : "públics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.090000,
+      "word" : "coincidirà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.780000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.930000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.050000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.170000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.260000,
+      "word" : "campanya"
+    }],
+  "text" : "el període d'utilització dels espais públics coincidirà amb els de la campanya"
+}

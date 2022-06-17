@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.170000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.380000,
+      "word" : "tracta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.040000,
+      "word" : "relleus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.520000,
+      "word" : "ubicats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.480000,
+      "word" : "en"
+    }, {
+      "conf" : 0.813849,
+      "end" : 4.290000,
+      "start" : 3.720000,
+      "word" : "marcs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.380000,
+      "word" : "trevolats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.370000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.550000,
+      "word" : "pinacles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 6.120000,
+      "word" : "laterals"
+    }],
+  "text" : "es tracta de relleus ubicats en marcs trevolats amb pinacles laterals"
+}

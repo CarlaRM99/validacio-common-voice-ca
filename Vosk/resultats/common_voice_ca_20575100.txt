@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.808543,
+      "end" : 0.750000,
+      "start" : 0.360000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.750000,
+      "word" : "casat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.320000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.573307,
+      "end" : 2.190000,
+      "start" : 1.470000,
+      "word" : "mariàngels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.190000,
+      "word" : "vila"
+    }],
+  "text" : "està casat amb mariàngels vila"
+}

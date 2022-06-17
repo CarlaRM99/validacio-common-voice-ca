@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.410000,
+      "word" : "rep"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.740000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.980000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.250000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "la"
+    }, {
+      "conf" : 0.803375,
+      "end" : 3.210000,
+      "start" : 2.550000,
+      "word" : "menció"
+    }, {
+      "conf" : 0.895016,
+      "end" : 3.510000,
+      "start" : 3.240000,
+      "word" : "bel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.510000,
+      "word" : "fill"
+    }],
+  "text" : "rep aquest nom per la menció bel fill"
+}

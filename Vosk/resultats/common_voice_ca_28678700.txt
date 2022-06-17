@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.720000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.930000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.020000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.320000,
+      "word" : "infància"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.890000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.950000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.130000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.190000,
+      "word" : "l'escola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.700000,
+      "word" : "lincoln"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.420000,
+      "word" : "de"
+    }, {
+      "conf" : 0.555093,
+      "end" : 4.200000,
+      "start" : 3.840000,
+      "word" : "maó"
+    }, {
+      "conf" : 0.705318,
+      "end" : 4.770000,
+      "start" : 4.260000,
+      "word" : "governen"
+    }],
+  "text" : "durant la primera infància va anar a l'escola lincoln de maó governen"
+}

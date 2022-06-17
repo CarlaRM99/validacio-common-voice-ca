@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.690000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.840000,
+      "word" : "crear"
+    }, {
+      "conf" : 0.765116,
+      "end" : 1.650000,
+      "start" : 1.149344,
+      "word" : "l'arxiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.650000,
+      "word" : "d'etnografia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.550000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.640000,
+      "word" : "folklore"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.480000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.660000,
+      "word" : "catalunya"
+    }],
+  "text" : "va crear l'arxiu d'etnografia i folklore de catalunya"
+}

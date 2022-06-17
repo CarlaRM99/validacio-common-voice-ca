@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.930000,
+      "word" : "prèviament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.641201,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.950000,
+      "word" : "càrrec"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.670000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.880000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.060000,
+      "word" : "comandant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.810000,
+      "word" : "destinat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.380000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.440000,
+      "word" : "dalmàcia"
+    }],
+  "text" : "prèviament aquest càrrec va ser comandant destinat a dalmàcia"
+}

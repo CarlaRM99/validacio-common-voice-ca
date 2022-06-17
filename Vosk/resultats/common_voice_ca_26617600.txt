@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.810000,
+      "word" : "nascuda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.320000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.350000,
+      "word" : "baltimore"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.830000,
+      "word" : "maryland"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.520000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150641,
+      "start" : 2.790000,
+      "word" : "graduar"
+    }, {
+      "conf" : 0.716162,
+      "end" : 3.180000,
+      "start" : 3.150641,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.180000,
+      "word" : "l'escola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.630000,
+      "word" : "secundària"
+    }, {
+      "conf" : 0.438955,
+      "end" : 4.620000,
+      "start" : 4.290000,
+      "word" : "oest"
+    }, {
+      "conf" : 0.605124,
+      "end" : 5.249942,
+      "start" : 4.620000,
+      "word" : "ensenyi"
+    }],
+  "text" : "nascuda a baltimore maryland es va graduar a l'escola secundària oest ensenyi"
+}

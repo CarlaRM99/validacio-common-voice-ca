@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.870000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.020000,
+      "word" : "pare"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.320000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.500000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.830000,
+      "word" : "escriptor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.550000,
+      "word" : "martin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.060000,
+      "word" : "amis"
+    }],
+  "text" : "és el pare del també escriptor martin amis"
+}

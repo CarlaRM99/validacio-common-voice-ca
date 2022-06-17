@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.736632,
+      "end" : 1.080000,
+      "start" : 0.660000,
+      "word" : "habita"
+    }, {
+      "conf" : 0.696559,
+      "end" : 1.200000,
+      "start" : 1.110000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.200000,
+      "word" : "brasil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.890000,
+      "word" : "colòmbia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.670000,
+      "word" : "guaiana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.843683,
+      "start" : 3.150000,
+      "word" : "francesa"
+    }, {
+      "conf" : 0.734410,
+      "end" : 4.440000,
+      "start" : 3.843683,
+      "word" : "agullana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.470000,
+      "word" : "perú"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.100000,
+      "word" : "veneçuela"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.790000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 5.880000,
+      "word" : "possiblement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.470000,
+      "start" : 6.930000,
+      "word" : "bolívia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.560000,
+      "start" : 7.470000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.100000,
+      "start" : 7.560000,
+      "word" : "surinam"
+    }],
+  "text" : "habita al brasil colòmbia guaiana francesa agullana perú veneçuela i possiblement bolívia i surinam"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.080000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.290000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.380000,
+      "word" : "text"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.800000,
+      "word" : "automàtic"
+    }, {
+      "conf" : 0.504047,
+      "end" : 2.760000,
+      "start" : 2.640000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.602881,
+      "end" : 2.820000,
+      "start" : 2.760000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.823148,
+      "word" : "textos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.330000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.480000,
+      "word" : "anglès"
+    }],
+  "text" : "en el text automàtic hi ha textos en anglès"
+}

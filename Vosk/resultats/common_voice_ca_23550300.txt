@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.780000,
+      "word" : "d'origen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.350000,
+      "word" : "micènic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.310000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.520000,
+      "word" : "agafar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.880000,
+      "word" : "refinament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.540000,
+      "word" : "sota"
+    }, {
+      "conf" : 0.854421,
+      "end" : 3.990000,
+      "start" : 3.840000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.990000,
+      "word" : "romans"
+    }, {
+      "conf" : 0.652828,
+      "end" : 4.860000,
+      "start" : 4.650000,
+      "word" : "però"
+    }, {
+      "conf" : 0.652828,
+      "end" : 5.040000,
+      "start" : 4.860000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.040000,
+      "word" : "existir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.670000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.820000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.300000,
+      "word" : "cultures"
+    }],
+  "text" : "d'origen micènic va agafar refinament sota els romans però van existir en diverses cultures"
+}

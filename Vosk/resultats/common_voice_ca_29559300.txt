@@ -1,0 +1,104 @@
+{
+  "result" : [{
+      "conf" : 0.842620,
+      "end" : 1.119718,
+      "start" : 0.720000,
+      "word" : "mira"
+    }, {
+      "conf" : 0.421866,
+      "end" : 1.230000,
+      "start" : 1.119718,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "quina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.530000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.860000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.980000,
+      "word" : "millor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.250000,
+      "word" : "manera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.640000,
+      "word" : "d'anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.150000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.450000,
+      "word" : "pla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.720000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.840000,
+      "word" : "montbau"
+    }, {
+      "conf" : 0.859326,
+      "end" : 4.740000,
+      "start" : 4.530000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.740000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.070000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.160000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.280000,
+      "word" : "capella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.850000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.970000,
+      "word" : "can"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.270000,
+      "word" : "caralleu"
+    }],
+  "text" : "mira amb quina és la millor manera d'anar del pla de montbau al carrer de la capella de can caralleu"
+}

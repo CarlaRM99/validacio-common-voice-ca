@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.590000,
+      "word" : "en"
+    }, {
+      "conf" : 0.856559,
+      "end" : 2.340000,
+      "start" : 1.770000,
+      "word" : "dimitir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.520000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.760000,
+      "word" : "nomenat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.270000,
+      "word" : "president"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.810000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.960000,
+      "word" : "tribunal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.530000,
+      "word" : "major"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.980000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.130000,
+      "word" : "comptes"
+    }],
+  "text" : "en dimitir va ser nomenat president del tribunal major de comptes"
+}

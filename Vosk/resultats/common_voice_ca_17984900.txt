@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.900000,
+      "word" : "seguit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.500000,
+      "word" : "anem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.950000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.040000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.220000,
+      "word" : "botiga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.640000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.760000,
+      "word" : "vins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 3.030000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.090000,
+      "word" : "licors"
+    }],
+  "text" : "tot seguit anem a una botiga de vins i licors"
+}

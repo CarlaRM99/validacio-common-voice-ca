@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.840000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.170000,
+      "word" : "situada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.980000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.070000,
+      "word" : "vessant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.400000,
+      "word" : "sud-est"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.000000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.180000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.270000,
+      "word" : "serra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.570000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.660000,
+      "word" : "mont-roig"
+    }],
+  "text" : "està situada en el vessant sud-est de la serra de mont-roig"
+}

@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.676318,
+      "end" : 1.170000,
+      "start" : 0.960000,
+      "word" : "per"
+    }, {
+      "conf" : 0.676318,
+      "end" : 1.260000,
+      "start" : 1.170000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.290000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.650000,
+      "word" : "darrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 1.980000,
+      "word" : "esdeveniment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.730000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.000000,
+      "word" : "flotadors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.630000,
+      "word" : "estan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.900000,
+      "word" : "decorats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.350000,
+      "word" : "íntegrament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.130000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.310000,
+      "word" : "flors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.760000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.910000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.210000,
+      "word" : "materials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 6.660000,
+      "word" : "vegetals"
+    }],
+  "text" : "per a aquest darrer esdeveniment els flotadors estan decorats íntegrament amb flors o altres materials vegetals"
+}

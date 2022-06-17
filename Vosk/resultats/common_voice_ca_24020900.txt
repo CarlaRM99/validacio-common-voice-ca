@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.170000,
+      "word" : "dies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.530000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.710000,
+      "word" : "eleccions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.730000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.940000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.210000,
+      "word" : "decidir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.870000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.080000,
+      "word" : "consell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.710000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.800000,
+      "word" : "unió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.160000,
+      "word" : "europea"
+    }],
+  "text" : "els dies de les eleccions es van decidir pel consell de la unió europea"
+}

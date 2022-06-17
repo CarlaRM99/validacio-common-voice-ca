@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.810270,
+      "end" : 1.110000,
+      "start" : 0.690000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.110000,
+      "word" : "d'arena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.650000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.800000,
+      "word" : "pedra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.190000,
+      "word" : "calcària"
+    }],
+  "text" : "són d'arena i pedra calcària"
+}

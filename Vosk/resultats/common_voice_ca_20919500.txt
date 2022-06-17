@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.540000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.720000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.170000,
+      "word" : "pacífic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.740000,
+      "word" : "occidental"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.730000,
+      "word" : "des"
+    }, {
+      "conf" : 0.624358,
+      "end" : 3.058563,
+      "start" : 2.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.058563,
+      "word" : "indonèsia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.900000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.170000,
+      "word" : "illes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.470000,
+      "word" : "filipines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.670000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.790000,
+      "word" : "austràlia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.420000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 6.720000,
+      "word" : "a"
+    }, {
+      "conf" : 0.848688,
+      "end" : 7.289996,
+      "start" : 6.810000,
+      "word" : "fi"
+    }],
+  "text" : "es troba al pacífic occidental des de indonèsia les illes filipines i austràlia fins a fi"
+}

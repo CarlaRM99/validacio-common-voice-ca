@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.870000,
+      "word" : "figura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.320000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.410000,
+      "word" : "l'hereu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.830000,
+      "word" : "andorra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.490000,
+      "word" : "segueix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.940000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.090000,
+      "word" : "mateixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.510000,
+      "word" : "pauta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.990000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.170000,
+      "word" : "codi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.470000,
+      "word" : "civil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.860000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.950000,
+      "word" : "catalunya"
+    }],
+  "text" : "la figura de l'hereu andorra segueix la mateixa pauta del codi civil de catalunya"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.794499,
+      "end" : 1.020000,
+      "start" : 0.510000,
+      "word" : "truca"
+    }, {
+      "conf" : 0.410678,
+      "end" : 1.110000,
+      "start" : 1.024276,
+      "word" : "el"
+    }, {
+      "conf" : 0.492551,
+      "end" : 1.530000,
+      "start" : 1.192572,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.530000,
+      "word" : "noranta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.220000,
+      "word" : "setanta-nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.836632,
+      "start" : 3.270000,
+      "word" : "zero"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.900000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 4.410000,
+      "word" : "seixanta-sis"
+    }],
+  "text" : "truca el sis noranta setanta-nou zero tres seixanta-sis"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.720000,
+      "word" : "l'objectiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.470000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.680000,
+      "word" : "joc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.100000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.490000,
+      "word" : "esquiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.210000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.360000,
+      "word" : "esquivar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.810000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 3.930000,
+      "word" : "obstacles"
+    }],
+  "text" : "l'objectiu del joc era esquiar i esquivar els obstacles"
+}

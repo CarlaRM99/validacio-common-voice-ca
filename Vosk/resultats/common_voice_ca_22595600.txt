@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.750000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.290000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "i"
+    }, {
+      "conf" : 0.737956,
+      "end" : 2.160000,
+      "start" : 1.890000,
+      "word" : "dóna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.160000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.580000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.760000,
+      "word" : "grup"
+    }, {
+      "conf" : 0.310834,
+      "end" : 3.468765,
+      "start" : 3.090000,
+      "word" : "bornu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.468765,
+      "word" : "unita"
+    }],
+  "text" : "forma part i dóna nom al grup bornu unita"
+}

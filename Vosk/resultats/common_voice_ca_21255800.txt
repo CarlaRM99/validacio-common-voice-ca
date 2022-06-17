@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.570000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.840000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.960000,
+      "word" : "llavors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.710000,
+      "word" : "rep"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.250000,
+      "word" : "visita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.670000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.880000,
+      "word" : "milió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.360000,
+      "word" : "persones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.140000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.470000,
+      "word" : "any"
+    }],
+  "text" : "des de llavors rep la visita d'un milió de persones cada any"
+}

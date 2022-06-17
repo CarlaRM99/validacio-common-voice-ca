@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.110000,
+      "word" : "probablement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.890000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.070000,
+      "word" : "germà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.490000,
+      "word" : "d'elisenda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.090000,
+      "word" : "de"
+    }, {
+      "conf" : 0.634694,
+      "end" : 3.900000,
+      "start" : 3.240000,
+      "word" : "copons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.990000,
+      "word" : "abadessa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.620000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.740000,
+      "word" : "santa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.070000,
+      "word" : "maria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.370000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.490000,
+      "word" : "vallbona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.970000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 6.060000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.210000,
+      "word" : "monges"
+    }],
+  "text" : "probablement era germà d'elisenda de copons abadessa de santa maria de vallbona de les monges"
+}

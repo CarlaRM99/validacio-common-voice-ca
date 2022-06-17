@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.510000,
+      "word" : "segueix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 0.990000,
+      "word" : "l'orientació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.830000,
+      "word" : "l'església"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.280000,
+      "word" : "romànica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.940000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.120000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.540000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.810000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.110000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.290000,
+      "word" : "petita"
+    }],
+  "text" : "segueix l'orientació de l'església romànica però aquesta era molt més petita"
+}

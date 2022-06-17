@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.450000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.600000,
+      "word" : "cicle"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.020000,
+      "word" : "literari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.500000,
+      "word" : "artúric"
+    }, {
+      "conf" : 0.563131,
+      "end" : 2.190000,
+      "start" : 1.980000,
+      "word" : "està"
+    }, {
+      "conf" : 0.832823,
+      "end" : 2.400000,
+      "start" : 2.190000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.405015,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.610000,
+      "word" : "coneguda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.090000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.330000,
+      "word" : "matèria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.810000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.529996,
+      "start" : 3.900000,
+      "word" : "bretanya"
+    }],
+  "text" : "el cicle literari artúric està part més coneguda de matèria de bretanya"
+}

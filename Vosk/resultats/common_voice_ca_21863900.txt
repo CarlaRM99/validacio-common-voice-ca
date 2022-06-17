@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.600000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.840000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.900000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.960000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.230000,
+      "word" : "límit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.620000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.807034,
+      "word" : "escalar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.130000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.340000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.460000,
+      "word" : "pics"
+    }],
+  "text" : "no hi ha temps límit per escalar tots els pics"
+}

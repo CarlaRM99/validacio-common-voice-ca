@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.140000,
+      "word" : "impulsar"
+    }, {
+      "conf" : 0.819446,
+      "end" : 2.128564,
+      "start" : 1.890000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.128564,
+      "word" : "porcioles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.940000,
+      "word" : "construcció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.570000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.750000,
+      "word" : "túnel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.110000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.230000,
+      "word" : "vallvidrera"
+    }],
+  "text" : "impulsar amb porcioles la construcció del túnel de vallvidrera"
+}

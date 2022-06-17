@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.690000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.990000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.260000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.830000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.220000,
+      "word" : "acaballes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.760000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.940000,
+      "word" : "segle"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.270000,
+      "word" : "dinou"
+    }, {
+      "conf" : 0.581708,
+      "end" : 3.922195,
+      "start" : 3.780000,
+      "word" : "que"
+    }, {
+      "conf" : 0.745349,
+      "end" : 4.380000,
+      "start" : 3.922195,
+      "word" : "revifa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.380000,
+      "word" : "l'interès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.890000,
+      "word" : "per"
+    }, {
+      "conf" : 0.754175,
+      "end" : 5.070000,
+      "start" : 5.040000,
+      "word" : "a"
+    }, {
+      "conf" : 0.413482,
+      "end" : 5.280000,
+      "start" : 5.070000,
+      "word" : "crear"
+    }, {
+      "conf" : 0.946411,
+      "end" : 5.640000,
+      "start" : 5.310000,
+      "word" : "d'arreu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.640000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.730000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 5.910000,
+      "word" : "disputes"
+    }],
+  "text" : "no és però fins les acaballes del segle dinou que revifa l'interès per a crear d'arreu de les disputes"
+}

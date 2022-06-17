@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.780000,
+      "word" : "actualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.650000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.890000,
+      "word" : "membre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.520000,
+      "word" : "comitè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.090000,
+      "word" : "científic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.990000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.080000,
+      "word" : "editorial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.860000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.980000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.100000,
+      "word" : "revista"
+    }, {
+      "conf" : 0.433990,
+      "end" : 6.090000,
+      "start" : 5.700000,
+      "word" : "casa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.660000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.320000,
+      "start" : 6.840000,
+      "word" : "milà"
+    }],
+  "text" : "actualment és membre del comitè científic i editorial de la revista casa de milà"
+}

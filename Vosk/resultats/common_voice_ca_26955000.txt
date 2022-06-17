@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.110000,
+      "word" : "podria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.590000,
+      "word" : "haver"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.830000,
+      "word" : "estat"
+    }, {
+      "conf" : 0.612635,
+      "end" : 2.636045,
+      "start" : 2.340000,
+      "word" : "cura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.636045,
+      "word" : "esdeveniment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.210000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.450000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.630000,
+      "word" : "tranquil"
+    }],
+  "text" : "podria haver estat cura esdeveniment molt més tranquil"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.510000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.930000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.230000,
+      "word" : "avantpassats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.220000,
+      "word" : "l'or"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.730000,
+      "word" : "gormands"
+    }, {
+      "conf" : 0.662738,
+      "end" : 3.780000,
+      "start" : 3.450000,
+      "word" : "ton"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.840000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.080000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.410000,
+      "word" : "l'acadèmia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.100000,
+      "word" : "benedictina"
+    }, {
+      "conf" : 0.858272,
+      "end" : 6.331505,
+      "start" : 6.150000,
+      "word" : "de"
+    }, {
+      "conf" : 0.520501,
+      "end" : 6.510000,
+      "start" : 6.331505,
+      "word" : "on"
+    }, {
+      "conf" : 0.520501,
+      "end" : 6.900000,
+      "start" : 6.510000,
+      "word" : "said"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.650000,
+      "start" : 6.960000,
+      "word" : "school"
+    }],
+  "text" : "com els seus avantpassats l'or gormands ton va anar l'acadèmia benedictina de on said school"
+}

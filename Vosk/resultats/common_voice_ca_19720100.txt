@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 0.960000,
+      "word" : "igualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.740000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.040000,
+      "word" : "emprar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.520000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.790000,
+      "word" : "plaques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.180000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.270000,
+      "word" : "cristall"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.840000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.990000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.200000,
+      "word" : "emulsió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.650000,
+      "word" : "ideada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.160000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.310000,
+      "word" : "ell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.460000,
+      "word" : "mateix"
+    }],
+  "text" : "igualment va emprar les plaques de cristall amb una emulsió ideada per ell mateix"
+}

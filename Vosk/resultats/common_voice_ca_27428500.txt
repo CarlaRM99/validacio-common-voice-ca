@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.510000,
+      "word" : "comencem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.320000,
+      "word" : "diuen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.710000,
+      "word" : "salle"
+    }],
+  "text" : "comencem diuen salle"
+}

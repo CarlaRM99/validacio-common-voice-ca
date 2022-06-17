@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.772647,
+      "end" : 1.410000,
+      "start" : 1.020000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.530000,
+      "word" : "llinars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.890000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.040000,
+      "word" : "vallès"
+    }],
+  "text" : "venim de llinars del vallès"
+}

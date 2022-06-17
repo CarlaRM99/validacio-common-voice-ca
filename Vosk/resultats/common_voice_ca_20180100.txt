@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.630000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.750000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.810000,
+      "word" : "moltes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.140000,
+      "word" : "varietats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.740000,
+      "word" : "musli"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.400000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.850000,
+      "word" : "cereals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.434165,
+      "word" : "iogurts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.870000,
+      "word" : "nata"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.350000,
+      "word" : "fruits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.710000,
+      "word" : "secs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.700000,
+      "word" : "o"
+    }, {
+      "conf" : 0.814517,
+      "end" : 6.330000,
+      "start" : 5.820000,
+      "word" : "secs"
+    }],
+  "text" : "hi ha moltes varietats de musli amb diversos cereals iogurts nata fruits secs o secs"
+}

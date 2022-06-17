@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.750000,
+      "word" : "consell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.170000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.350000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.440000,
+      "word" : "jugador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.890000,
+      "word" : "seria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.310000,
+      "word" : "formar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.730000,
+      "word" : "equips"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.180000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.360000,
+      "word" : "trobar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.720000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.930000,
+      "word" : "debilitats"
+    }, {
+      "conf" : 0.724686,
+      "end" : 5.250000,
+      "start" : 4.530000,
+      "word" : "d'aquests"
+    }],
+  "text" : "un consell per un jugador seria formar equips per trobar les debilitats d'aquests"
+}

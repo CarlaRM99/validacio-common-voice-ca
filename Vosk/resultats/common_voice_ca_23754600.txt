@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.750000,
+      "word" : "la"
+    }, {
+      "conf" : 0.321520,
+      "end" : 1.197370,
+      "start" : 1.020000,
+      "word" : "fan"
+    }, {
+      "conf" : 0.915833,
+      "end" : 1.260000,
+      "start" : 1.197370,
+      "word" : "la"
+    }, {
+      "conf" : 0.883477,
+      "end" : 1.740000,
+      "start" : 1.260000,
+      "word" : "tradició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.010000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.220000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.460000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.730000,
+      "word" : "senzillesa"
+    }],
+  "text" : "la fan la tradició és d'una gran senzillesa"
+}

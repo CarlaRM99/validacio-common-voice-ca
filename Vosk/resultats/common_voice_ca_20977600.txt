@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.500000,
+      "word" : "estic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.800000,
+      "word" : "segura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.292898,
+      "start" : 2.190000,
+      "word" : "que"
+    }, {
+      "conf" : 0.321587,
+      "end" : 2.396411,
+      "start" : 2.292898,
+      "word" : "amb"
+    }, {
+      "conf" : 0.731396,
+      "end" : 2.670000,
+      "start" : 2.396411,
+      "word" : "major"
+    }, {
+      "conf" : 0.731396,
+      "end" : 3.360000,
+      "start" : 2.670000,
+      "word" : "d'aconseguir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.360000,
+      "word" : "alguns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.750000,
+      "word" : "papers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.230000,
+      "word" : "encara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.590000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.710000,
+      "word" : "tingui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.010000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.430000,
+      "word" : "veu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.670000,
+      "word" : "d'home"
+    }],
+  "text" : "estic segura que amb major d'aconseguir alguns papers encara que tingui aquesta veu d'home"
+}

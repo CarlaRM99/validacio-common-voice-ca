@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.851828,
+      "end" : 1.020000,
+      "start" : 0.510000,
+      "word" : "víctor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.020000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.170000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.350000,
+      "word" : "el"
+    }, {
+      "conf" : 0.849502,
+      "end" : 2.010000,
+      "start" : 1.440000,
+      "word" : "cinquè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.010000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.220000,
+      "word" : "família"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.940000,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.180000,
+      "word" : "nens"
+    }],
+  "text" : "víctor va ser el cinquè d'una família de nou nens"
+}

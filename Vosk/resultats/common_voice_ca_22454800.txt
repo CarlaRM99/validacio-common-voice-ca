@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.840000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.320000,
+      "word" : "reporter"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.950000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.040000,
+      "word" : "columnista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.880000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.180000,
+      "word" : "trenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.510000,
+      "word" : "anys"
+    }],
+  "text" : "fou reporter i columnista durant trenta anys"
+}

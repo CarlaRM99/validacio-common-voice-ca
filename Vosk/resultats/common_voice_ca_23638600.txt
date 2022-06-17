@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.380000,
+      "word" : "endavant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.980000,
+      "word" : "seguir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.340000,
+      "word" : "publicant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.910000,
+      "word" : "obres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.270000,
+      "word" : "menors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.900000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.140000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.290000,
+      "word" : "populars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.920000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 4.950000,
+      "word" : "entranyables"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.700000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.850000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.970000,
+      "word" : "sèrie"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.360000,
+      "word" : "nova"
+    }],
+  "text" : "en endavant seguir publicant obres menors com les populars i entranyables de la sèrie nova"
+}

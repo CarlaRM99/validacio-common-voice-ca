@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.630202,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "es"
+    }, {
+      "conf" : 0.630202,
+      "end" : 1.230000,
+      "start" : 0.960000,
+      "word" : "digni"
+    }, {
+      "conf" : 0.908587,
+      "end" : 1.560000,
+      "start" : 1.230000,
+      "word" : "homes"
+    }, {
+      "conf" : 0.582659,
+      "end" : 2.220000,
+      "start" : 1.560000,
+      "word" : "medul·lars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.250000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.550000,
+      "word" : "causar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.000000,
+      "word" : "dolor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.570000,
+      "word" : "debilitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.350000,
+      "word" : "o"
+    }, {
+      "conf" : 0.698053,
+      "end" : 4.470000,
+      "start" : 4.440000,
+      "word" : "a"
+    }, {
+      "conf" : 0.698053,
+      "end" : 4.770000,
+      "start" : 4.470000,
+      "word" : "dormir"
+    }, {
+      "conf" : 0.903660,
+      "end" : 5.070000,
+      "start" : 4.770000,
+      "word" : "ment"
+    }, {
+      "conf" : 0.860423,
+      "end" : 5.220000,
+      "start" : 5.130000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.220000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.400000,
+      "word" : "extremitats"
+    }],
+  "text" : "es digni homes medul·lars poden causar dolor debilitat o a dormir ment a les extremitats"
+}

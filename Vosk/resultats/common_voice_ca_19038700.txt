@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.840000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.110000,
+      "word" : "membre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.530000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.620000,
+      "word" : "l'assemblea"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.100000,
+      "word" : "general"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.790000,
+      "word" : "tindrà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.090000,
+      "word" : "dret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.360000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.498482,
+      "word" : "vot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.990000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.110000,
+      "word" : "s'atorgarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.710000,
+      "word" : "vot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.520000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.700000,
+      "word" : "qualitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.834764,
+      "start" : 6.390000,
+      "word" : "aquí"
+    }, {
+      "conf" : 0.441038,
+      "end" : 7.320000,
+      "start" : 6.840000,
+      "word" : "pacífics"
+    }, {
+      "conf" : 0.545214,
+      "end" : 7.560000,
+      "start" : 7.320000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.770000,
+      "start" : 7.620000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.190000,
+      "start" : 7.770000,
+      "word" : "reunió"
+    }],
+  "text" : "cada membre de l'assemblea general tindrà dret a vot i s'atorgarà vot de qualitat aquí pacífics que la reunió"
+}

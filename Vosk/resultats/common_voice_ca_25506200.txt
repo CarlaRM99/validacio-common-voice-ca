@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.663606,
+      "end" : 1.020000,
+      "start" : 0.510000,
+      "word" : "valors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.050000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.140000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.260000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.410000,
+      "word" : "comissaris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.040000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.190000,
+      "word" : "consideren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.700000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.880000,
+      "word" : "pares"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.360000,
+      "word" : "l'euro"
+    }],
+  "text" : "valors i els seus comissaris es consideren els pares de l'euro"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.020000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.200000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.320000,
+      "word" : "instal·lar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.860000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.070000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.160000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.370000,
+      "word" : "marit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.000000,
+      "word" : "gallur"
+    }],
+  "text" : "es va instal·lar amb el seu marit a gallur"
+}

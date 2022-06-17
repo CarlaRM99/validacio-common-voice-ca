@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.420000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.810000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.350000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.440000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.710000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.920000,
+      "word" : "pla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.190000,
+      "word" : "creació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.640000,
+      "word" : "d'ocupació"
+    }],
+  "text" : "això es va fer com a part d'un pla de creació d'ocupació"
+}

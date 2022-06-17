@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.780000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.350000,
+      "word" : "basta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.070000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.280000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.340000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.730000,
+      "word" : "clau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.120000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.300000,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.660000,
+      "word" : "resta"
+    }],
+  "text" : "això basta per a tenir una clau de tota la resta"
+}

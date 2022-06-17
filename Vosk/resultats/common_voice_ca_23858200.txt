@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.630000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.870000,
+      "word" : "mag"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.260000,
+      "word" : "lari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.440000,
+      "word" : "sotmetrà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.310000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.520000,
+      "word" : "sèrie"
+    }, {
+      "conf" : 0.655386,
+      "end" : 3.540000,
+      "start" : 2.820000,
+      "word" : "d'entrenaments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.570000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.690000,
+      "word" : "proves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.200000,
+      "word" : "abans"
+    }, {
+      "conf" : 0.697406,
+      "end" : 4.590000,
+      "start" : 4.530000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.599078,
+      "word" : "confiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.100000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.190000,
+      "word" : "ella"
+    }],
+  "text" : "però mag lari sotmetrà a una sèrie d'entrenaments i proves abans de confiar en ella"
+}

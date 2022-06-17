@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.856064,
+      "end" : 1.140000,
+      "start" : 0.780000,
+      "word" : "tria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.140000,
+      "word" : "l'idioma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.650000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.830000,
+      "word" : "defecte"
+    }],
+  "text" : "tria l'idioma per defecte"
+}

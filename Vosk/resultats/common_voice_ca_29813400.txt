@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.820733,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.750000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.758262,
+      "end" : 1.110000,
+      "start" : 0.990000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.110000,
+      "word" : "passatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.770000,
+      "word" : "parís"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.250000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.640000,
+      "word" : "dotze"
+    }],
+  "text" : "que hi ha el passatge de parís número dotze"
+}

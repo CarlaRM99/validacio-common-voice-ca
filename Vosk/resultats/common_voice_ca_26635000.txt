@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.510000,
+      "word" : "apareix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.960000,
+      "word" : "ara"
+    }, {
+      "conf" : 0.756473,
+      "end" : 1.350000,
+      "start" : 1.170000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.350000,
+      "word" : "anuncis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.980000,
+      "word" : "colgar"
+    }, {
+      "conf" : 0.730256,
+      "end" : 2.550000,
+      "start" : 2.370000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.550000,
+      "word" : "total"
+    }],
+  "text" : "apareix ara els anuncis de colgar té total"
+}

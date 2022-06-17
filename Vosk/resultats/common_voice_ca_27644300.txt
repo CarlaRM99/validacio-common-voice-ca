@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.630000,
+      "word" : "encara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.170000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.410000,
+      "word" : "bisbe"
+    }],
+  "text" : "encara no bisbe"
+}

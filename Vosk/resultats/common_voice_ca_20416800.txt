@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.330000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.540000,
+      "word" : "notòria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 1.020000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.110000,
+      "word" : "persistència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "del"
+    }, {
+      "conf" : 0.364848,
+      "end" : 2.190000,
+      "start" : 1.890000,
+      "word" : "tribal"
+    }, {
+      "conf" : 0.328366,
+      "end" : 2.490000,
+      "start" : 2.190000,
+      "word" : "isma"
+    }, {
+      "conf" : 0.922621,
+      "end" : 2.637574,
+      "start" : 2.520000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.637574,
+      "word" : "àfrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.970000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.210000,
+      "word" : "avui"
+    }],
+  "text" : "és notòria la persistència del tribal isma a àfrica fins avui"
+}

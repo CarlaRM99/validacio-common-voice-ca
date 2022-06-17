@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.170000,
+      "word" : "poesia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.830000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.010000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.370000,
+      "word" : "persona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.300000,
+      "word" : "parlant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.960000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.260000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.410000,
+      "word" : "viu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.220000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.520000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.670000,
+      "word" : "la"
+    }, {
+      "conf" : 0.538550,
+      "end" : 6.480000,
+      "start" : 5.820000,
+      "word" : "preocupa"
+    }],
+  "text" : "és una poesia en primera persona parlant del que viu del que la preocupa"
+}

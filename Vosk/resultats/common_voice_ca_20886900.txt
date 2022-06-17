@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.570000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.140000,
+      "word" : "propostes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.890000,
+      "word" : "s'han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.190000,
+      "word" : "ofert"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.760000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.940000,
+      "word" : "solucionar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.720000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.110000,
+      "word" : "defecte"
+    }],
+  "text" : "diverses propostes s'han ofert per solucionar aquest defecte"
+}

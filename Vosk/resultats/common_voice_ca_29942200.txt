@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.570000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.020000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.410000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.650000,
+      "word" : "existeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.490000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.730000,
+      "word" : "distinció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 3.660000,
+      "word" : "inalterable"
+    }],
+  "text" : "entre que no existeix cap distinció inalterable"
+}

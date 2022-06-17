@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.855488,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.750000,
+      "word" : "segle"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.110000,
+      "word" : "següent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.620000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.920000,
+      "word" : "crear"
+    }, {
+      "conf" : 0.629480,
+      "end" : 2.220000,
+      "start" : 2.130000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.220000,
+      "word" : "districte"
+    }],
+  "text" : "al segle següent es va crear al districte"
+}

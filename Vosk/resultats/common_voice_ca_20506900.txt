@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.727556,
+      "end" : 0.780000,
+      "start" : 0.420000,
+      "word" : "res"
+    }, {
+      "conf" : 0.293736,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "età"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.020000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.470000,
+      "word" : "personalitats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.160000,
+      "word" : "soviètiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.760000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.880000,
+      "word" : "l'època"
+    }],
+  "text" : "res età diverses personalitats soviètiques de l'època"
+}

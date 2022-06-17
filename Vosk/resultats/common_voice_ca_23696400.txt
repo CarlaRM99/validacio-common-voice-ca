@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.810000,
+      "word" : "aquell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.110000,
+      "word" : "moment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.560000,
+      "word" : "s'enfrontaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.640000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.760000,
+      "word" : "set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.090000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.390000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.510000,
+      "word" : "presó"
+    }],
+  "text" : "en aquell moment s'enfrontaven a set anys de presó"
+}

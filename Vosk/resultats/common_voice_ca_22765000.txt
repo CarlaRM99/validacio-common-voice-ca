@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.904159,
+      "end" : 0.780000,
+      "start" : 0.420000,
+      "word" : "cap"
+    }, {
+      "conf" : 0.658573,
+      "end" : 1.410000,
+      "start" : 0.870000,
+      "word" : "ample"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.590000,
+      "word" : "deprimit"
+    }],
+  "text" : "cap ample i deprimit"
+}

@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.810270,
+      "end" : 1.230000,
+      "start" : 0.780000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.230000,
+      "word" : "volcàniques"
+    }],
+  "text" : "són volcàniques"
+}

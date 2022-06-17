@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.780000,
+      "word" : "coronament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.380000,
+      "word" : "superior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.040000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.130000,
+      "word" : "façana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.700000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.940000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.090000,
+      "word" : "fris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.450000,
+      "word" : "decorat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.080000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.260000,
+      "word" : "motius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.710000,
+      "word" : "geomètrics"
+    }],
+  "text" : "el coronament superior de la façana és un fris decorat amb motius geomètrics"
+}

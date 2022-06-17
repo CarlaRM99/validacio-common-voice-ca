@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.990000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.410000,
+      "word" : "produir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.950000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.400000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.820000,
+      "word" : "conflicte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.540000,
+      "word" : "entre"
+    }, {
+      "conf" : 0.848565,
+      "end" : 4.470000,
+      "start" : 3.900000,
+      "word" : "jugador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.860000,
+      "word" : "club"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.340000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.520000,
+      "word" : "afició"
+    }],
+  "text" : "tot això va produir un gran conflicte entre jugador club i afició"
+}

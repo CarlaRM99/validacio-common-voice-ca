@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.540000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.720000,
+      "word" : "descans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.470000,
+      "word" : "propòsit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.220000,
+      "word" : "recuperar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.700000,
+      "word" : "forces"
+    }],
+  "text" : "un descans a propòsit per recuperar forces"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.600000,
+      "word" : "ara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.840000,
+      "word" : "vol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.050000,
+      "word" : "semblar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.680000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.010000,
+      "word" : "moderna"
+    }],
+  "text" : "ara vol semblar més moderna"
+}

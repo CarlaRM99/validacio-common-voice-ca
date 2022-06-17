@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.660000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.020000,
+      "word" : "val"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.350000,
+      "word" : "vell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.830000,
+      "word" : "està"
+    }, {
+      "conf" : 0.977026,
+      "end" : 2.310000,
+      "start" : 2.100000,
+      "word" : "sent"
+    }, {
+      "conf" : 0.845994,
+      "end" : 2.699970,
+      "start" : 2.310000,
+      "word" : "fer-hi"
+    }],
+  "text" : "més val un vell que està sent fer-hi"
+}

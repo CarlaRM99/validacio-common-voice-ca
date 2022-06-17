@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.810270,
+      "end" : 0.780000,
+      "start" : 0.480000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 0.780000,
+      "word" : "pertorbacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.710000,
+      "word" : "veloces"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.790000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.000000,
+      "word" : "emana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.390000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.570000,
+      "word" : "sol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.560000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.860000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.920000,
+      "word" : "fora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.400000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.580000,
+      "word" : "llarg"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.880000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.120000,
+      "word" : "camps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 6.450000,
+      "word" : "magnètics"
+    }],
+  "text" : "són pertorbacions veloces que emana del sol cap a fora al llarg dels camps magnètics"
+}

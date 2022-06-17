@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.810218,
+      "end" : 1.140000,
+      "start" : 0.990000,
+      "word" : "i"
+    }, {
+      "conf" : 0.337256,
+      "end" : 1.350000,
+      "start" : 1.140000,
+      "word" : "se'ls"
+    }, {
+      "conf" : 0.852558,
+      "end" : 1.710000,
+      "start" : 1.350000,
+      "word" : "d'acord"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.735577,
+      "word" : "pare"
+    }],
+  "text" : "i se'ls d'acord pare"
+}

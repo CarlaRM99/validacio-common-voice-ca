@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.320000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.500000,
+      "word" : "menjar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.920000,
+      "word" : "picant"
+    }, {
+      "conf" : 0.576474,
+      "end" : 2.880000,
+      "start" : 2.580000,
+      "word" : "vol"
+    }, {
+      "conf" : 0.576474,
+      "end" : 3.168188,
+      "start" : 2.880000,
+      "word" : "via"
+    }, {
+      "conf" : 0.998693,
+      "end" : 3.809992,
+      "start" : 3.168188,
+      "word" : "abundant"
+    }],
+  "text" : "el menjar picant vol via abundant"
+}

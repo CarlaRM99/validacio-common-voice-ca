@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.320000,
+      "word" : "d'aleshores"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.070000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.160000,
+      "word" : "centrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.730000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.000000,
+      "word" : "atenció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.660000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.810000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.930000,
+      "word" : "vida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.170000,
+      "word" : "acadèmica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.800000,
+      "word" : "docent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.460000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 5.550000,
+      "word" : "investigadora"
+    }],
+  "text" : "des d'aleshores ha centrat la seva atenció en la vida acadèmica docent i investigadora"
+}

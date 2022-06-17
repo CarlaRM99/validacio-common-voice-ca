@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.952424,
+      "end" : 1.830000,
+      "start" : 1.410000,
+      "word" : "venim"
+    }, {
+      "conf" : 0.768296,
+      "end" : 1.950000,
+      "start" : 1.830000,
+      "word" : "de"
+    }, {
+      "conf" : 0.544555,
+      "end" : 2.310000,
+      "start" : 1.950000,
+      "word" : "calvet"
+    }, {
+      "conf" : 0.760819,
+      "end" : 2.760000,
+      "start" : 2.340000,
+      "word" : "d'adri"
+    }],
+  "text" : "venim de calvet d'adri"
+}

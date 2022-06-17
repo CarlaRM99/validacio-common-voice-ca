@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.870000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.560000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.740000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.890000,
+      "word" : "servir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.190000,
+      "word" : "filtrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.700000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.384577,
+      "start" : 2.850000,
+      "word" : "allisar"
+    }, {
+      "conf" : 0.819243,
+      "end" : 3.600000,
+      "start" : 3.390000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.600000,
+      "word" : "resultat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.140000,
+      "word" : "final"
+    }],
+  "text" : "després es fa servir filtrat per allisar el resultat final"
+}

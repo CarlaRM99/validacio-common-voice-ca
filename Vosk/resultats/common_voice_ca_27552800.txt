@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.050000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.140000,
+      "word" : "llavors"
+    }, {
+      "conf" : 0.386121,
+      "end" : 2.270795,
+      "start" : 1.860000,
+      "word" : "agrupa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.280000,
+      "word" : "seguir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.520000,
+      "word" : "publicant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.000000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.330000,
+      "word" : "discs"
+    }, {
+      "conf" : 0.401697,
+      "end" : 4.320000,
+      "start" : 3.960000,
+      "word" : "d'oli"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.320000,
+      "word" : "platí"
+    }],
+  "text" : "des de llavors agrupa seguir publicant altres discs d'oli platí"
+}

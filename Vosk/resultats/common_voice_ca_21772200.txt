@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.830442,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.875087,
+      "word" : "reconstruir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.650000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.740000,
+      "word" : "territori"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.760000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.880000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.060000,
+      "word" : "tornar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.630000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.780000,
+      "word" : "acumular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.440000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.650000,
+      "word" : "fortuna"
+    }],
+  "text" : "va reconstruir el territori i va tornar a acumular una fortuna"
+}

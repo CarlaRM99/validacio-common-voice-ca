@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.570000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.990000,
+      "word" : "base"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.290000,
+      "word" : "quadrada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.950000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.100000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.400000,
+      "word" : "un"
+    }, {
+      "conf" : 0.604662,
+      "end" : 2.937061,
+      "start" : 2.610000,
+      "word" : "cost"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 2.937061,
+      "word" : "troncocònic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.990000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.170000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.653067,
+      "start" : 4.290000,
+      "word" : "anell"
+    }, {
+      "conf" : 0.645104,
+      "end" : 4.800000,
+      "start" : 4.653067,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.800000,
+      "word" : "coronament"
+    }],
+  "text" : "és de base quadrada i té un cost troncocònic amb un anell al coronament"
+}

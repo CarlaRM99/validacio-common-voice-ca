@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.360000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.750000,
+      "word" : "comunitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.440000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.800000,
+      "word" : "cultura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.370000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.610000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.760000,
+      "word" : "restringeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.390000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.810000,
+      "word" : "programari"
+    }],
+  "text" : "aquesta comunitat aquesta cultura no es restringeix més el programari"
+}

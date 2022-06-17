@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.570000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "ser"
+    }, {
+      "conf" : 0.824986,
+      "end" : 1.500000,
+      "start" : 1.050000,
+      "word" : "alumne"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.500000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.650000,
+      "word" : "dibuix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 2.070000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.100000,
+      "word" : "pintura"
+    }, {
+      "conf" : 0.737660,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "d'en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.733581,
+      "word" : "josep"
+    }, {
+      "conf" : 0.773148,
+      "end" : 3.600000,
+      "start" : 3.090000,
+      "word" : "almar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.870000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.140000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.350000,
+      "word" : "onze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.590000,
+      "word" : "anys"
+    }],
+  "text" : "va ser alumne de dibuix i pintura d'en josep almar des dels onze anys"
+}

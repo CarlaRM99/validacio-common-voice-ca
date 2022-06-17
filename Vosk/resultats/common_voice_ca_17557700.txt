@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.904615,
+      "end" : 0.840000,
+      "start" : 0.690000,
+      "word" : "qui"
+    }, {
+      "conf" : 0.683992,
+      "end" : 1.170000,
+      "start" : 0.840000,
+      "word" : "film"
+    }, {
+      "conf" : 0.683992,
+      "end" : 1.740000,
+      "start" : 1.170000,
+      "word" : "matava"
+    }],
+  "text" : "qui film matava"
+}

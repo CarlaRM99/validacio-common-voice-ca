@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.540000,
+      "word" : "l'estada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.080000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.230000,
+      "word" : "gonzález"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.890000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.980000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.100000,
+      "word" : "valència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.790000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.030000,
+      "word" : "considerar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.840000,
+      "word" : "reeixida"
+    }],
+  "text" : "l'estada de gonzález en el valència no pot considerar-se reeixida"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.540000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.930000,
+      "word" : "escollit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.380000,
+      "word" : "senador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.980000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.310000,
+      "word" : "província"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.850000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.940000,
+      "word" : "càceres"
+    }],
+  "text" : "va ser escollit senador per la província de càceres"
+}

@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.630000,
+      "word" : "creu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.930000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.110000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.170000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.500000,
+      "word" : "extraordinàriament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.400000,
+      "word" : "afortunada"
+    }],
+  "text" : "creu que ha estat extraordinàriament afortunada"
+}

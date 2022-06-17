@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.170000,
+      "word" : "g"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.440000,
+      "word" : "sida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.190000,
+      "word" : "publicada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.940000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.270000,
+      "word" : "l'anterior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.720000,
+      "word" : "sentència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.890000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.010000,
+      "word" : "qual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.250000,
+      "word" : "jo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.670000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.820000,
+      "word" : "secretari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.300000,
+      "word" : "judicial"
+    }, {
+      "conf" : 0.618218,
+      "end" : 7.500000,
+      "start" : 7.170000,
+      "word" : "dóna"
+    }, {
+      "conf" : 0.870192,
+      "end" : 7.740000,
+      "start" : 7.500000,
+      "word" : "fe"
+    }],
+  "text" : "g sida i publicada fou l'anterior sentència de la qual jo el secretari judicial dóna fe"
+}

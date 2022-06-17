@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.840000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.900000,
+      "word" : "això"
+    }, {
+      "conf" : 0.853448,
+      "end" : 1.500000,
+      "start" : 1.380000,
+      "word" : "el"
+    }, {
+      "conf" : 0.721042,
+      "end" : 1.860000,
+      "start" : 1.530000,
+      "word" : "culte"
+    }, {
+      "conf" : 0.390889,
+      "end" : 2.310000,
+      "start" : 1.860000,
+      "word" : "trichet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.310000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.490000,
+      "word" : "rebutjar"
+    }, {
+      "conf" : 0.815444,
+      "end" : 3.000000,
+      "start" : 2.910000,
+      "word" : "la"
+    }, {
+      "conf" : 0.815444,
+      "end" : 3.330000,
+      "start" : 3.000000,
+      "word" : "idea"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.330000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.510000,
+      "word" : "complet"
+    }],
+  "text" : "tot i això el culte trichet va rebutjar la idea per complet"
+}

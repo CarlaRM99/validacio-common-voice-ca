@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.690000,
+      "word" : "rotllana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.530000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.740000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.920000,
+      "word" : "mans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.220000,
+      "word" : "agafades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.730000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.790000,
+      "word" : "avall"
+    }],
+  "text" : "en rotllana amb les mans agafades i avall"
+}

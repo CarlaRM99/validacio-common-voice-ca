@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.020000,
+      "word" : "pluja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.380000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.440000,
+      "word" : "vent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.010000,
+      "word" : "herria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.430000,
+      "word" : "les"
+    }, {
+      "conf" : 0.509416,
+      "end" : 2.940000,
+      "start" : 2.610000,
+      "word" : "veles"
+    }, {
+      "conf" : 0.618703,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.060000,
+      "word" : "moment"
+    }],
+  "text" : "pluja i vent herria les veles el moment"
+}

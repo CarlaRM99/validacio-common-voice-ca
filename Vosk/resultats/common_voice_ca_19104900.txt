@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.770000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.010000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.160000,
+      "word" : "afirmació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.298101,
+      "start" : 3.000000,
+      "word" : "arriba"
+    }, {
+      "conf" : 0.699672,
+      "end" : 3.600000,
+      "start" : 3.300000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.720000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 4.050000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.110000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.830000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 4.950000,
+      "word" : "respectuosa"
+    }],
+  "text" : "és una afirmació que arriba si fins i tot i respectuosa"
+}

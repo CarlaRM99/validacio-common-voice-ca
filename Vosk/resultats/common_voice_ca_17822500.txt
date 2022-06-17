@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.500850,
+      "start" : 0.090000,
+      "word" : "comença"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.510000,
+      "word" : "juliol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.140000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.530000,
+      "word" : "fesols"
+    }],
+  "text" : "comença juliol planta fesols"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.450000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.870000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.020000,
+      "word" : "edifici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.590000,
+      "word" : "civil"
+    }, {
+      "conf" : 0.733338,
+      "end" : 2.070000,
+      "start" : 1.980000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.078000,
+      "word" : "planta"
+    }, {
+      "conf" : 0.765869,
+      "end" : 3.390000,
+      "start" : 3.030000,
+      "word" : "pi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.660000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.780000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.262771,
+      "start" : 3.930000,
+      "word" : "jardí"
+    }, {
+      "conf" : 0.851750,
+      "end" : 4.350000,
+      "start" : 4.262771,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.350000,
+      "word" : "circumdant"
+    }],
+  "text" : "és un edifici civil en planta pi i un jardí i circumdant"
+}

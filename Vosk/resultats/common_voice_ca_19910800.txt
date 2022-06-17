@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.140000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.320000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.500000,
+      "word" : "pares"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "es"
+    }, {
+      "conf" : 0.853973,
+      "end" : 2.550000,
+      "start" : 1.980000,
+      "word" : "converteixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.550000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.670000,
+      "word" : "budisme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.360000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.600000,
+      "word" : "ella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.020000,
+      "word" : "àdhuc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.500000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.710000,
+      "word" : "jove"
+    }],
+  "text" : "els seus pares es converteixen el budisme quan ella àdhuc és jove"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.840000,
+      "word" : "text"
+    }, {
+      "conf" : 0.898236,
+      "end" : 1.230000,
+      "start" : 1.140000,
+      "word" : "en"
+    }, {
+      "conf" : 0.529862,
+      "end" : 1.620000,
+      "start" : 1.230000,
+      "word" : "alemany"
+    }, {
+      "conf" : 0.529862,
+      "end" : 1.740000,
+      "start" : 1.620000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.740000,
+      "word" : "proper"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.130000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.310000,
+      "word" : "traducció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.760000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.850000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.970000,
+      "word" : "bíblia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.360000,
+      "word" : "de"
+    }, {
+      "conf" : 0.802940,
+      "end" : 3.900000,
+      "start" : 3.510000,
+      "word" : "luter"
+    }],
+  "text" : "el text en alemany és proper a la traducció de la bíblia de luter"
+}

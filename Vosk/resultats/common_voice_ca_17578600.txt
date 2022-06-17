@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.870000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.200000,
+      "word" : "afers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.680000,
+      "word" : "afectin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.250000,
+      "word" : "membre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.700000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.790000,
+      "word" : "mesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.660000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.810000,
+      "word" : "diputat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.274619,
+      "word" : "afectat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.740000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.950000,
+      "word" : "d'abstenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.520000,
+      "word" : "d'intervenir"
+    }],
+  "text" : "en els afers que afectin un membre de la mesa el diputat afectat s'ha d'abstenir d'intervenir"
+}

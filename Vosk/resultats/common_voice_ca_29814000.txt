@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.730694,
+      "end" : 0.600000,
+      "start" : 0.420000,
+      "word" : "qui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.600000,
+      "word" : "viu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.990000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.200000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.680000,
+      "word" : "papir"
+    }, {
+      "conf" : 0.682936,
+      "end" : 2.760000,
+      "start" : 2.310000,
+      "word" : "número"
+    }, {
+      "conf" : 0.898546,
+      "end" : 3.930000,
+      "start" : 2.781172,
+      "word" : "cinquanta-dos"
+    }],
+  "text" : "qui viu al carrer de papir número cinquanta-dos"
+}

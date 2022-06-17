@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.720000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.964803,
+      "start" : 0.840000,
+      "word" : "mi"
+    }, {
+      "conf" : 0.725872,
+      "end" : 1.140000,
+      "start" : 0.964803,
+      "word" : "m"
+    }, {
+      "conf" : 0.725872,
+      "end" : 1.620000,
+      "start" : 1.140000,
+      "word" : "agraden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.620000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.830000,
+      "word" : "batalles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.760000,
+      "word" : "guerrers"
+    }],
+  "text" : "a mi m agraden les batalles de guerrers"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.080000,
+      "word" : "viu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.380000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.440000,
+      "word" : "tailàndia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.520000,
+      "word" : "l'arxipèlag"
+    }, {
+      "conf" : 0.409726,
+      "end" : 3.540000,
+      "start" : 3.120000,
+      "word" : "indira"
+    }, {
+      "conf" : 0.999386,
+      "end" : 4.109996,
+      "start" : 3.540000,
+      "word" : "nicobar"
+    }],
+  "text" : "viu a tailàndia i l'arxipèlag indira nicobar"
+}

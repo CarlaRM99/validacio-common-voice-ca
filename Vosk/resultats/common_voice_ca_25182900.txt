@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.721237,
+      "end" : 1.350000,
+      "start" : 0.600000,
+      "word" : "curts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.710000,
+      "word" : "continuar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.220000,
+      "word" : "col·laborant"
+    }, {
+      "conf" : 0.826706,
+      "end" : 3.450000,
+      "start" : 3.000000,
+      "word" : "em"
+    }, {
+      "conf" : 0.672258,
+      "end" : 3.900000,
+      "start" : 3.540000,
+      "word" : "creuo"
+    }, {
+      "conf" : 0.672258,
+      "end" : 4.200000,
+      "start" : 3.900000,
+      "word" : "oli"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.440000,
+      "word" : "i"
+    }, {
+      "conf" : 0.786546,
+      "end" : 4.980000,
+      "start" : 4.740000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.980000,
+      "word" : "quins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.760000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 5.910000,
+      "word" : "l'escriptura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.570000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 6.720000,
+      "word" : "còmic"
+    }],
+  "text" : "curts va continuar col·laborant em creuo oli i al quins en l'escriptura del còmic"
+}

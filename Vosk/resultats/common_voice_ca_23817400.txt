@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.514279,
+      "end" : 1.200000,
+      "start" : 0.630000,
+      "word" : "ellis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.230000,
+      "word" : "sospitava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.190000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.280000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.520000,
+      "word" : "territori"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.300000,
+      "word" : "favorable"
+    }, {
+      "conf" : 0.843129,
+      "end" : 4.170000,
+      "start" : 4.080000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.170000,
+      "word" : "rei"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.530000,
+      "word" : "seria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.220000,
+      "word" : "envaït"
+    }],
+  "text" : "ellis sospitava que el seu territori favorable al rei seria envaït"
+}

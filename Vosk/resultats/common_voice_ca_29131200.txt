@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.630000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.870000,
+      "word" : "venen"
+    }, {
+      "conf" : 0.725147,
+      "end" : 1.620000,
+      "start" : 1.470000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.620000,
+      "word" : "camí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.220000,
+      "word" : "cementiri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.030000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.270000,
+      "word" : "gervasi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.080000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 4.470000,
+      "word" : "noranta-quatre"
+    }],
+  "text" : "que venen al camí del cementiri de sant gervasi número noranta-quatre"
+}

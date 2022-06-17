@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.840000,
+      "word" : "l'advocació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.650000,
+      "word" : "mariana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.220000,
+      "word" : "d'aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.670000,
+      "word" : "ermita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.180000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.330000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.600000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.900000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.080000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.410000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.830000,
+      "word" : "fervor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.733086,
+      "start" : 5.190000,
+      "word" : "popular"
+    }, {
+      "conf" : 0.854826,
+      "end" : 5.850000,
+      "start" : 5.733086,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 5.850000,
+      "word" : "teulada"
+    }],
+  "text" : "l'advocació mariana d'aquesta ermita va tenir fins fa poc gran fervor popular a teulada"
+}

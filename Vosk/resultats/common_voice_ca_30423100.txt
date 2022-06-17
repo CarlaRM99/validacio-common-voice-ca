@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.600000,
+      "word" : "afegeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.350000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.440000,
+      "word" : "l'agenda"
+    }, {
+      "conf" : 0.538251,
+      "end" : 2.250000,
+      "start" : 2.040000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.250000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.730000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.940000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.120000,
+      "word" : "leire"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.660000,
+      "word" : "cambra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.500000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.040000,
+      "word" : "seixanta-set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.150000,
+      "word" : "trenta-nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.530000,
+      "start" : 6.870000,
+      "word" : "setanta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.340000,
+      "start" : 7.560000,
+      "word" : "noranta-set"
+    }],
+  "text" : "afegeix a l'agenda al número de la leire cambra sis seixanta-set trenta-nou setanta noranta-set"
+}

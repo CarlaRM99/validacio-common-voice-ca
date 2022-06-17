@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.540000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.690000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.960000,
+      "word" : "eugeni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.710000,
+      "word" : "castanyes"
+    }, {
+      "conf" : 0.543700,
+      "end" : 2.367597,
+      "start" : 2.250000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.367597,
+      "word" : "foc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.820000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.000000,
+      "word" : "llenya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.450000,
+      "word" : "llar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.840000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.930000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.080000,
+      "word" : "ovelles"
+    }, {
+      "conf" : 0.789207,
+      "end" : 4.500000,
+      "start" : 4.440000,
+      "word" : "a"
+    }, {
+      "conf" : 0.789207,
+      "end" : 4.890000,
+      "start" : 4.500000,
+      "word" : "guardar"
+    }],
+  "text" : "per sant eugeni les castanyes al foc la llenya la llar i les ovelles a guardar"
+}

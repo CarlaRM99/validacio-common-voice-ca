@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.930000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.200000,
+      "word" : "gires"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.710000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 1.890000,
+      "word" : "portugal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.730000,
+      "word" : "londres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.480000,
+      "word" : "canadà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.230000,
+      "word" : "àustria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.860000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.950000,
+      "word" : "alemanya"
+    }],
+  "text" : "ha fet gires per portugal londres canadà àustria i alemanya"
+}

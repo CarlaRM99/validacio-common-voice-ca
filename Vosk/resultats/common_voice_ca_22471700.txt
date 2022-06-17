@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.810000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.080000,
+      "word" : "plegat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.620000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 1.800000,
+      "word" : "iniciar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.700000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.880000,
+      "word" : "vista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.270000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.360000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.480000,
+      "word" : "invasió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.930000,
+      "word" : "nazi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.440000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.500000,
+      "word" : "dinamarca"
+    }],
+  "text" : "tot plegat va iniciar-se en vista de la invasió nazi a dinamarca"
+}

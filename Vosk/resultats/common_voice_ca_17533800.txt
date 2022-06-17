@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 0.660000,
+      "word" : "subministrament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.830000,
+      "word" : "tapa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.190000,
+      "word" : "i"
+    }, {
+      "conf" : 0.531915,
+      "end" : 2.670000,
+      "start" : 2.280000,
+      "word" : "mar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.850000,
+      "word" : "tipus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.300000,
+      "word" : "b"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.660000,
+      "word" : "rodona"
+    }, {
+      "conf" : 0.846225,
+      "end" : 4.560000,
+      "start" : 4.350000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.791765,
+      "end" : 4.920000,
+      "start" : 4.560000,
+      "word" : "marc"
+    }, {
+      "conf" : 0.791765,
+      "end" : 5.340000,
+      "start" : 4.920000,
+      "word" : "aparent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.340000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.490000,
+      "word" : "pas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.060000,
+      "word" : "set-cents"
+    }, {
+      "conf" : 0.601859,
+      "end" : 7.380000,
+      "start" : 6.750000,
+      "word" : "mil·límetres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.500000,
+      "start" : 7.380000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.160000,
+      "start" : 7.500000,
+      "word" : "calçada"
+    }],
+  "text" : "subministrament tapa i mar tipus b rodona amb marc aparent de pas set-cents mil·límetres en calçada"
+}

@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.140000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.470000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.770000,
+      "word" : "llibres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.220000,
+      "word" : "electrònics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.000000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.210000,
+      "word" : "problema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.969782,
+      "start" : 3.630000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.992072,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.410000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.530000,
+      "word" : "prestacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.400000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.580000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.700000,
+      "word" : "viabilitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.200000,
+      "start" : 6.390000,
+      "word" : "comercial"
+    }],
+  "text" : "pel que fa als llibres electrònics del problema només estat de prestacions i de viabilitat comercial"
+}

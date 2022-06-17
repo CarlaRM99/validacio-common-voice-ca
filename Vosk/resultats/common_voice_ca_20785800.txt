@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.870000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.080000,
+      "word" : "propòsit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.040000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.250000,
+      "word" : "contribuir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.910000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.000000,
+      "word" : "eixamplar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.840000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.050000,
+      "word" : "dominis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.410000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.530000,
+      "word" : "coneixement"
+    }],
+  "text" : "el seu propòsit era contribuir a eixamplar els dominis del coneixement"
+}

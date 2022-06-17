@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.187176,
+      "start" : 0.840000,
+      "word" : "perquè"
+    }, {
+      "conf" : 0.692757,
+      "end" : 1.320000,
+      "start" : 1.200000,
+      "word" : "la"
+    }, {
+      "conf" : 0.692757,
+      "end" : 1.590000,
+      "start" : 1.320000,
+      "word" : "sala"
+    }, {
+      "conf" : 0.515707,
+      "end" : 1.827300,
+      "start" : 1.590000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.827300,
+      "word" : "inútil"
+    }],
+  "text" : "perquè la sala sant inútil"
+}

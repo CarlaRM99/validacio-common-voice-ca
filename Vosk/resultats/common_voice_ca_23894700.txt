@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.630000,
+      "word" : "l'acció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.140000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.320000,
+      "word" : "múscul"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.890000,
+      "word" : "produeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.400000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.550000,
+      "word" : "rotació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.060000,
+      "word" : "medial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.660000,
+      "word" : "lumen"
+    }],
+  "text" : "l'acció del múscul produeix la rotació medial de lumen"
+}

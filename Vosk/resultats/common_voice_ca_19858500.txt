@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.360000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.510000,
+      "word" : "ciclista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.050000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.170000,
+      "word" : "aconseguia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.740000,
+      "word" : "menys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.040000,
+      "word" : "punts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.670000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.910000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.000000,
+      "word" : "vencedor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.630000,
+      "word" : "general"
+    }],
+  "text" : "el ciclista que aconseguia menys punts era el vencedor de la general"
+}

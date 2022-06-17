@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.806195,
+      "end" : 0.900000,
+      "start" : 0.750000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.806195,
+      "end" : 0.929290,
+      "start" : 0.900000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.929290,
+      "word" : "hagut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.140000,
+      "word" : "algun"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.410000,
+      "word" : "negoci"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.010000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.340000,
+      "word" : "grau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.730000,
+      "word" : "cantonada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.390000,
+      "word" : "grau"
+    }],
+  "text" : "hi ha hagut algun negoci al carrer grau cantonada grau"
+}

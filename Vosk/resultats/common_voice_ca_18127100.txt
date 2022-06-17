@@ -1,0 +1,114 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.750000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.870000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.110000,
+      "word" : "plantes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.710000,
+      "word" : "terreny"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.070000,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.730000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.850000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.030000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.210000,
+      "word" : "deixar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.570000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.660000,
+      "word" : "mal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.900000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.170000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.290000,
+      "word" : "casa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.740000,
+      "word" : "naixien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 5.730000,
+      "word" : "s'esforçaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.600000,
+      "word" : "a"
+    }, {
+      "conf" : 0.814414,
+      "end" : 7.110000,
+      "start" : 6.690000,
+      "word" : "créixer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 7.110000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.680000,
+      "start" : 7.350000,
+      "word" : "cal"
+    }],
+  "text" : "i les plantes amb terreny nou i per no deixar en mal lloc la casa de naixien s'esforçaven a créixer com cal"
+}

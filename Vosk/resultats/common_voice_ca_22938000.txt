@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.990000,
+      "word" : "éssers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.410000,
+      "word" : "humans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.950000,
+      "word" : "perceben"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.610000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.910000,
+      "word" : "freqüència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.720000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.930000,
+      "word" : "zones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.290000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.470000,
+      "word" : "so"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.920000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.130000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.340000,
+      "word" : "to"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.550000,
+      "word" : "diferent"
+    }],
+  "text" : "els éssers humans perceben cada freqüència de les zones del so com un to diferent"
+}

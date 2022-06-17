@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.540000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.660000,
+      "word" : "banda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.410000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.620000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.950000,
+      "word" : "films"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.460000,
+      "word" : "contenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.000000,
+      "word" : "petits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.420000,
+      "word" : "lligams"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 3.960000,
+      "word" : "anecdòtics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.770000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.190000,
+      "word" : "uns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.490000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.550000,
+      "word" : "altres"
+    }],
+  "text" : "a banda els quatre films contenen petits lligams anecdòtics entre uns i altres"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.585831,
+      "end" : 1.680000,
+      "start" : 1.050000,
+      "word" : "urban"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.830000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.010000,
+      "word" : "enterrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.550000,
+      "word" : "cementiri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.390000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.413759,
+      "start" : 3.900000,
+      "word" : "vic"
+    }, {
+      "conf" : 0.730437,
+      "end" : 4.860000,
+      "start" : 4.413759,
+      "word" : "good"
+    }],
+  "text" : "urban va ser enterrat al cementiri de vic good"
+}

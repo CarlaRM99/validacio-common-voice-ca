@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.840000,
+      "word" : "pensava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.350000,
+      "word" : "senyar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.610000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.760000,
+      "word" : "treure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.120000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.330000,
+      "word" : "ulls"
+    }],
+  "text" : "pensava senyar-se i es va treure els ulls"
+}

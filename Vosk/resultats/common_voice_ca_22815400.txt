@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.780000,
+      "word" : "josep"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.170000,
+      "word" : "maria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.440000,
+      "word" : "simó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.860000,
+      "word" : "destacar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.370000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.490000,
+      "word" : "món"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.670000,
+      "word" : "empresarial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.420000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.630000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.690000,
+      "word" : "dirigent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.290000,
+      "word" : "desenvolupant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.070000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.550000,
+      "word" : "càrrecs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 6.240000,
+      "word" : "responsabilitat"
+    }],
+  "text" : "josep maria simó destacar el món empresarial com a dirigent desenvolupant diversos càrrecs de responsabilitat"
+}

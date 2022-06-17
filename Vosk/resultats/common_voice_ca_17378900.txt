@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.540000,
+      "word" : "davant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.870000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.020000,
+      "word" : "problema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.380000,
+      "word" : "servei"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.650000,
+      "word" : "complicat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.340000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.550000,
+      "word" : "se'l"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.730000,
+      "word" : "troba"
+    }],
+  "text" : "davant d'un problema servei complicat no se'l troba"
+}

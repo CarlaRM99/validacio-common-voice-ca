@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.824798,
+      "end" : 1.110000,
+      "start" : 0.930000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.110000,
+      "word" : "comparat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.890000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.130000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.220000,
+      "word" : "concepte"
+    }, {
+      "conf" : 0.501491,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "de"
+    }, {
+      "conf" : 0.423926,
+      "end" : 3.232676,
+      "start" : 2.940000,
+      "word" : "nació"
+    }, {
+      "conf" : 0.309031,
+      "end" : 3.660000,
+      "start" : 3.240000,
+      "word" : "vingut"
+    }],
+  "text" : "s'ha comparat amb el concepte de nació vingut"
+}

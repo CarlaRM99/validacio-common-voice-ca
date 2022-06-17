@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.600000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.140000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.410000,
+      "word" : "color"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.710000,
+      "word" : "verd"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.890000,
+      "word" : "fosc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.460000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.670000,
+      "word" : "l'anvers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.630000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.780000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.870000,
+      "word" : "revers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.380000,
+      "word" : "presenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.010000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.370000,
+      "word" : "marcades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.060000,
+      "word" : "línies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.080000,
+      "start" : 6.480000,
+      "word" : "clares"
+    }],
+  "text" : "són d'un color verd fosc per l'anvers i el revers presenta dues marcades línies clares"
+}

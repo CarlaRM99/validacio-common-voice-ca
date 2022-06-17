@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.771535,
+      "end" : 0.958238,
+      "start" : 0.750000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.958238,
+      "word" : "residus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.710000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.800000,
+      "word" : "complisquen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.310000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.610000,
+      "word" : "requisits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.480000,
+      "word" : "hauran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.960000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.140000,
+      "word" : "gestionats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.950000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.130000,
+      "word" : "empreses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 5.670000,
+      "word" : "certificades"
+    }],
+  "text" : "els residus que no complisquen aquests requisits hauran de ser gestionats per empreses certificades"
+}

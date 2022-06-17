@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.170000,
+      "word" : "senders"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.560000,
+      "word" : "llargs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.490000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.700000,
+      "word" : "troben"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.090000,
+      "word" : "majoritàriament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.350000,
+      "word" : "en"
+    }, {
+      "conf" : 0.636658,
+      "end" : 4.890000,
+      "start" : 4.560000,
+      "word" : "zona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 4.911801,
+      "word" : "salvatges"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 5.760000,
+      "word" : "determinades"
+    }],
+  "text" : "els senders llargs es troben majoritàriament en zona salvatges determinades"
+}

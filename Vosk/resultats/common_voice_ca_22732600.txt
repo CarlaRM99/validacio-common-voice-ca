@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.990000,
+      "word" : "membres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.500000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.680000,
+      "word" : "capítol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.280000,
+      "word" : "d'avui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.850000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.360000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.570000,
+      "word" : "paper"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 3.900000,
+      "word" : "cerimonial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.830000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 4.980000,
+      "word" : "d'assessorament"
+    }],
+  "text" : "els membres del capítol d'avui tenen un paper cerimonial i d'assessorament"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.020000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.170000,
+      "word" : "coneguda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.800000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.190000,
+      "word" : "revolució"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.730000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.940000,
+      "word" : "clavells"
+    }],
+  "text" : "va ser coneguda com la revolució dels clavells"
+}

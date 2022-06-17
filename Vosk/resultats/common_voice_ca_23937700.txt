@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.630000,
+      "word" : "també"
+    }, {
+      "conf" : 0.667273,
+      "end" : 1.530000,
+      "start" : 0.990000,
+      "word" : "dirigí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.530000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.650000,
+      "word" : "construcció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.580000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.790000,
+      "word" : "duanes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.300000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.510000,
+      "word" : "port"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.230000,
+      "word" : "considerades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.190000,
+      "word" : "d'estil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 5.880000,
+      "word" : "historicista"
+    }],
+  "text" : "també dirigí la construcció de les duanes del port considerades d'estil historicista"
+}

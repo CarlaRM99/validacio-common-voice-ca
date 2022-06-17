@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.020000,
+      "word" : "viu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.350000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800788,
+      "start" : 1.410000,
+      "word" : "treballa"
+    }, {
+      "conf" : 0.622315,
+      "end" : 1.830000,
+      "start" : 1.800788,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.830000,
+      "word" : "hèlsinki"
+    }],
+  "text" : "viu i treballa a hèlsinki"
+}

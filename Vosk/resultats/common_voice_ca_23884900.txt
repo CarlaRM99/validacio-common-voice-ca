@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.720000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 0.930000,
+      "word" : "devastació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "de"
+    }, {
+      "conf" : 0.817628,
+      "end" : 2.700000,
+      "start" : 1.920000,
+      "word" : "copenhaguen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.730000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.270000,
+      "word" : "proporcionar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.230000,
+      "word" : "noves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 4.650000,
+      "word" : "oportunitats"
+    }],
+  "text" : "la devastació de copenhaguen però proporcionar noves oportunitats"
+}

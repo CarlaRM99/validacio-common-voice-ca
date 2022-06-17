@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.020000,
+      "word" : "l'aranya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.470000,
+      "word" : "femella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.310000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.430000,
+      "word" : "vegades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.940000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.180000,
+      "word" : "menjar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.690000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.780000,
+      "word" : "mascle"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.410000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 4.980000,
+      "word" : "d'aparellar-se"
+    }],
+  "text" : "l'aranya femella a vegades pot menjar-se el mascle després d'aparellar-se"
+}

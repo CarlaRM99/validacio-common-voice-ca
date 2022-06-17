@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.780000,
+      "word" : "dante"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.440000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.650000,
+      "word" : "estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.920000,
+      "word" : "present"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.580000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.760000,
+      "word" : "l'exhumació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.720000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.870000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.990000,
+      "word" : "devia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.350000,
+      "word" : "haver"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.530000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.980000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.250000,
+      "word" : "profunda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.090000,
+      "word" : "impressió"
+    }],
+  "text" : "dante va estar present en l'exhumació que li devia haver fet una profunda impressió"
+}

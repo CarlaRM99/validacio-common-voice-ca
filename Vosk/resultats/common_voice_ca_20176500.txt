@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.390000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.630000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.750000,
+      "word" : "disposa"
+    }, {
+      "conf" : 0.749587,
+      "end" : 1.470000,
+      "start" : 1.320000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.477512,
+      "word" : "antídot"
+    }],
+  "text" : "no es disposa d'un antídot"
+}

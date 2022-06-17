@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.510000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.720000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.870000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.990000,
+      "word" : "maniobra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.470000,
+      "word" : "suïcida"
+    }],
+  "text" : "va ser una maniobra suïcida"
+}

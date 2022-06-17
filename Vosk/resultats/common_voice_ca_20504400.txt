@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.140000,
+      "word" : "l'art"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.530000,
+      "word" : "beniatjar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.010000,
+      "word" : "sió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.340000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.370000,
+      "word" : "rural"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.060000,
+      "word" : "escassa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.960000,
+      "word" : "així"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.350000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.590000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.710000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.010000,
+      "word" : "grau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.149999,
+      "start" : 5.280000,
+      "word" : "d'ocupació"
+    }],
+  "text" : "l'art beniatjar sió i rural i escassa així com el seu grau d'ocupació"
+}

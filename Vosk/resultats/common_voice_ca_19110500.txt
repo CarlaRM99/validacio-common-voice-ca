@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.871141,
+      "end" : 0.960000,
+      "start" : 0.570000,
+      "word" : "seu"
+    }, {
+      "conf" : 0.712534,
+      "end" : 1.050000,
+      "start" : 0.970851,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.050000,
+      "word" : "menja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.440000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.650000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 1.920000,
+      "word" : "puguis"
+    }],
+  "text" : "seu i menja tant com puguis"
+}

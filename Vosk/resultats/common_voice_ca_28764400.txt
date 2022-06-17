@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.780000,
+      "word" : "així"
+    }, {
+      "conf" : 0.519233,
+      "end" : 1.770000,
+      "start" : 1.380000,
+      "word" : "leer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.785506,
+      "word" : "curta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.340000,
+      "word" : "correspon"
+    }, {
+      "conf" : 0.747484,
+      "end" : 3.180000,
+      "start" : 3.030000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.180000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.330000,
+      "word" : "e"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.510000,
+      "word" : "oberta"
+    }, {
+      "conf" : 0.574075,
+      "end" : 4.376711,
+      "start" : 4.230000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.376711,
+      "word" : "alguns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.800000,
+      "word" : "dialectes"
+    }],
+  "text" : "així leer curta correspon en la e oberta en alguns dialectes"
+}

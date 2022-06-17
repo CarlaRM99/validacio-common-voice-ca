@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.480000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.960000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.230000,
+      "word" : "petits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.560000,
+      "word" : "fragments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.040000,
+      "word" : "d'informació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.670000,
+      "word" : "digital"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.360000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.540000,
+      "word" : "constant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.020000,
+      "word" : "flux"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.380000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.470000,
+      "word" : "circulació"
+    }],
+  "text" : "aquests són petits fragments d'informació digital en constant flux i circulació"
+}

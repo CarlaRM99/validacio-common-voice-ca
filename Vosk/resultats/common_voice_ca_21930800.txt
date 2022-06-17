@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.960000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.140000,
+      "word" : "contingut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.740000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.890000,
+      "word" : "registre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.640000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.850000,
+      "word" : "editat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.300000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.360000,
+      "word" : "mantingut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.080000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.260000,
+      "word" : "científics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 4.950000,
+      "word" : "especialistes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.970000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 6.120000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.360000,
+      "word" : "grup"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.440000,
+      "start" : 6.600000,
+      "word" : "d'organismes"
+    }],
+  "text" : "el contingut del registre és editat i mantingut per científics especialistes en cada grup d'organismes"
+}

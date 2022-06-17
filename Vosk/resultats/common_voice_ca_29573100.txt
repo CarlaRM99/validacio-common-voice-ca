@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.780000,
+      "word" : "quina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.140000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.440000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.560000,
+      "word" : "millor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.830000,
+      "word" : "manera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.536024,
+      "start" : 2.220000,
+      "word" : "d'anar"
+    }, {
+      "conf" : 0.534125,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.730000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.060000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.270000,
+      "word" : "pantà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.720000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.870000,
+      "word" : "tren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.470000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.680000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.980000,
+      "word" : "de"
+    }, {
+      "conf" : 0.537754,
+      "end" : 5.310000,
+      "start" : 5.100000,
+      "word" : "sant"
+    }, {
+      "conf" : 0.537754,
+      "end" : 5.790000,
+      "start" : 5.310000,
+      "word" : "tirs"
+    }],
+  "text" : "quina és la millor manera d'anar al carrer del pantà de tren al carrer de sant tirs"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.870000,
+      "word" : "timbre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.230000,
+      "word" : "corona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.590000,
+      "word" : "reial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.950000,
+      "word" : "tancada"
+    }],
+  "text" : "el timbre corona reial tancada"
+}

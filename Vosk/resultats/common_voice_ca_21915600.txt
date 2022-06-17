@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.570000,
+      "word" : "posteriorment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.590000,
+      "word" : "coronel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.010000,
+      "word" : "director"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.550000,
+      "word" : "l'escola"
+    }, {
+      "conf" : 0.553325,
+      "end" : 3.060000,
+      "start" : 2.970000,
+      "word" : "de"
+    }, {
+      "conf" : 0.412640,
+      "end" : 3.360000,
+      "start" : 3.060000,
+      "word" : "tir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.390000,
+      "word" : "d'infanteria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.110000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.200000,
+      "word" : "madrid"
+    }],
+  "text" : "posteriorment va ser coronel director de l'escola de tir d'infanteria de madrid"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.140000,
+      "word" : "l'anilina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.950000,
+      "word" : "n'és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.190000,
+      "word" : "l'exemple"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.790000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.000000,
+      "word" : "simple"
+    }],
+  "text" : "l'anilina n'és l'exemple més simple"
+}

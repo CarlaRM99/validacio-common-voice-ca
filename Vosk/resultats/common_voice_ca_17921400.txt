@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.807023,
+      "end" : 1.410000,
+      "start" : 0.990000,
+      "word" : "venint"
+    }, {
+      "conf" : 0.655044,
+      "end" : 1.890000,
+      "start" : 1.410000,
+      "word" : "d'elda"
+    }],
+  "text" : "venint d'elda"
+}

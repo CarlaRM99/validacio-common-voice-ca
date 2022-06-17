@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.690000,
+      "word" : "anem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.050000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.140000,
+      "word" : "cànoves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.770000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 1.830000,
+      "word" : "samalús"
+    }],
+  "text" : "anem a cànoves i samalús"
+}

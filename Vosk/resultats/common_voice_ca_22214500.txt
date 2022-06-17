@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.570000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.660000,
+      "word" : "l'anvers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.230000,
+      "word" : "apareix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.830000,
+      "word" : "escut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.130000,
+      "word" : "rectangular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.030000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.270000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.480000,
+      "word" : "àliga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.870000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.990000,
+      "word" : "relleu"
+    }],
+  "text" : "a l'anvers apareix un escut rectangular amb una àliga en relleu"
+}

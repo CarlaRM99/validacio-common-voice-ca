@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.900000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.020000,
+      "word" : "l'amic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.290000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.470000,
+      "word" : "nuvi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.070000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.370000,
+      "word" : "vulgues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.940000,
+      "word" : "veí"
+    }],
+  "text" : "a l'amic del nuvi no vulgues per veí"
+}

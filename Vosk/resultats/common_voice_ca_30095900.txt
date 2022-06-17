@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.740817,
+      "end" : 0.744475,
+      "start" : 0.510000,
+      "word" : "vull"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.744475,
+      "word" : "llegir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.230000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.470000,
+      "word" : "articles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.160000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.400000,
+      "word" : "restaurant"
+    }, {
+      "conf" : 0.563041,
+      "end" : 3.900000,
+      "start" : 3.240000,
+      "word" : "bacó"
+    }],
+  "text" : "vull llegir els articles del restaurant bacó"
+}

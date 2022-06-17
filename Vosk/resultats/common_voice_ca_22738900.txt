@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.699072,
+      "end" : 1.583366,
+      "start" : 0.900000,
+      "word" : "existeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.583366,
+      "word" : "un"
+    }, {
+      "conf" : 0.596220,
+      "end" : 2.340000,
+      "start" : 1.830000,
+      "word" : "times"
+    }, {
+      "conf" : 0.639685,
+      "end" : 3.628091,
+      "start" : 2.700000,
+      "word" : "continuaríem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.628091,
+      "word" : "governades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.310000,
+      "word" : "pels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 5.940000,
+      "word" : "britànics"
+    }, {
+      "conf" : 0.748515,
+      "end" : 7.230000,
+      "start" : 6.960000,
+      "word" : "fent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.530000,
+      "start" : 7.253604,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.490000,
+      "start" : 7.980000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.540000,
+      "start" : 8.520000,
+      "word" : "determinat"
+    }],
+  "text" : "existeix un times continuaríem governades pels britànics fent un temps determinat"
+}

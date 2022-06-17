@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "de"
+    }, {
+      "conf" : 0.497267,
+      "end" : 1.320000,
+      "start" : 0.960000,
+      "word" : "blanc"
+    }, {
+      "conf" : 0.882891,
+      "end" : 1.830000,
+      "start" : 1.410000,
+      "word" : "aus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.830000,
+      "word" : "creia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.310000,
+      "word" : "fermament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.000000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.240000,
+      "word" : "concepte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.930000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.050000,
+      "word" : "teatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.590000,
+      "word" : "protesta"
+    }],
+  "text" : "de blanc aus creia fermament en el concepte de teatre protesta"
+}

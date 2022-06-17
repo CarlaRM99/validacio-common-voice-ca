@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.050000,
+      "word" : "mal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.530000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.740000,
+      "word" : "plomada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.280000,
+      "word" : "que"
+    }, {
+      "conf" : 0.901157,
+      "end" : 2.580000,
+      "start" : 2.400000,
+      "word" : "d'un"
+    }, {
+      "conf" : 0.901157,
+      "end" : 2.760000,
+      "start" : 2.580000,
+      "word" : "gat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.790000,
+      "word" : "l'esgarrapada"
+    }],
+  "text" : "fa més mal una plomada que d'un gat l'esgarrapada"
+}

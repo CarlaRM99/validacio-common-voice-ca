@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.930000,
+      "word" : "cercle"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.530000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.620000,
+      "word" : "creu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.490000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.940000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.180000,
+      "word" : "símbol"
+    }, {
+      "conf" : 0.735857,
+      "end" : 4.050000,
+      "start" : 3.570000,
+      "word" : "solar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.380000,
+      "word" : "encara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.890000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 5.010000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.100000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.310000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 5.730000,
+      "word" : "interpretacions"
+    }],
+  "text" : "el cercle de la creu és un símbol solar encara que hi ha altres interpretacions"
+}

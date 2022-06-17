@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.110000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.500000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.590000,
+      "word" : "dictadura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.160000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.280000,
+      "word" : "primo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.700000,
+      "word" : "rivera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.120000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.390000,
+      "word" : "delegat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.840000,
+      "word" : "governatiu"
+    }],
+  "text" : "durant la dictadura de primo de rivera fou delegat governatiu"
+}

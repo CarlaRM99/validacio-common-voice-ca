@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.836222,
+      "end" : 1.260000,
+      "start" : 0.990000,
+      "word" : "més"
+    }, {
+      "conf" : 0.836222,
+      "end" : 1.680000,
+      "start" : 1.260000,
+      "word" : "talla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.275057,
+      "start" : 1.710000,
+      "word" : "regava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.280000,
+      "word" : "l'entorn"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.790000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.880000,
+      "word" : "l'actual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.270000,
+      "word" : "avinguda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.750000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.840000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.020000,
+      "word" : "corts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.290000,
+      "word" : "valencianes"
+    }],
+  "text" : "més talla regava l'entorn de l'actual avinguda de les corts valencianes"
+}

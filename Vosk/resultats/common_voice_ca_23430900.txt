@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.390000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.630000,
+      "word" : "observar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.530000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.680000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.800000,
+      "word" : "relleu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.580000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.790000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.060000,
+      "word" : "vegetació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.410000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.560000,
+      "word" : "dificulta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.220000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.340000,
+      "word" : "interpretació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 6.150000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.270000,
+      "word" : "l'escena"
+    }],
+  "text" : "pot observar-se en el relleu una gran vegetació que dificulta la interpretació de l'escena"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.050000,
+      "word" : "escolanet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.890000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.160000,
+      "word" : "parròquia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.580000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.670000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.850000,
+      "word" : "joan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.629999,
+      "start" : 3.150000,
+      "word" : "d'horta"
+    }],
+  "text" : "va ser escolanet de la parròquia de sant joan d'horta"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.170000,
+      "word" : "desencís"
+    }, {
+      "conf" : 0.465810,
+      "end" : 2.820000,
+      "start" : 2.010000,
+      "word" : "cinquanta-un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.880000,
+      "word" : "noranta-vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.810000,
+      "word" : "zero"
+    }, {
+      "conf" : 0.819280,
+      "end" : 4.860000,
+      "start" : 4.380000,
+      "word" : "quatre"
+    }, {
+      "conf" : 0.774079,
+      "end" : 5.490000,
+      "start" : 4.920000,
+      "word" : "xiv"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.941982,
+      "start" : 5.760000,
+      "word" : "com"
+    }, {
+      "conf" : 0.726748,
+      "end" : 6.000000,
+      "start" : 5.941982,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.000000,
+      "word" : "telèfon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.420000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.630000,
+      "word" : "javi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.900000,
+      "word" : "piñera"
+    }],
+  "text" : "desencís cinquanta-un noranta-vuit zero quatre xiv com a telèfon del javi piñera"
+}

@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.882461,
+      "end" : 1.080000,
+      "start" : 0.960000,
+      "word" : "a"
+    }, {
+      "conf" : 0.478185,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.260000,
+      "word" : "apareixia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 1.950000,
+      "word" : "subordinat"
+    }],
+  "text" : "a que apareixia subordinat"
+}

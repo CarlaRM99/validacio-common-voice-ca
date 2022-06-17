@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.600000,
+      "word" : "existeixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.410000,
+      "word" : "moltes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.740000,
+      "word" : "versions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.220000,
+      "word" : "preliminars"
+    }, {
+      "conf" : 0.885542,
+      "end" : 3.180000,
+      "start" : 3.000000,
+      "word" : "de"
+    }, {
+      "conf" : 0.667451,
+      "end" : 3.420000,
+      "start" : 3.180000,
+      "word" : "xic"
+    }, {
+      "conf" : 0.777086,
+      "end" : 3.990000,
+      "start" : 3.420000,
+      "word" : "hitita"
+    }],
+  "text" : "existeixen moltes versions preliminars de xic hitita"
+}

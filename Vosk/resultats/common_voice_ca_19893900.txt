@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.020000,
+      "word" : "escriure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.530000,
+      "word" : "trilogia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.980000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.070000,
+      "word" : "novel·les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.550000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.700000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.760000,
+      "word" : "lectors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.090000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.180000,
+      "word" : "grau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.420000,
+      "word" : "mitjà"
+    }],
+  "text" : "va escriure una trilogia de novel·les per a lectors de grau mitjà"
+}

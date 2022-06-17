@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.390000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.810000,
+      "word" : "instruments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.530000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 1.980000,
+      "word" : "importància"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.670000,
+      "word" : "pràcticament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.300000,
+      "word" : "similar"
+    }],
+  "text" : "els tres instruments tenen una importància pràcticament similar"
+}

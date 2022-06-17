@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.810000,
+      "word" : "tenia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.170000,
+      "word" : "prou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.470000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.680000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.860000,
+      "word" : "deutes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.250000,
+      "word" : "d'agricultor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.330000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.420000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.570000,
+      "word" : "volia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.900000,
+      "word" : "embolicats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.470000,
+      "word" : "en"
+    }, {
+      "conf" : 0.755452,
+      "end" : 5.068273,
+      "start" : 4.590000,
+      "word" : "préstecs"
+    }, {
+      "conf" : 0.854771,
+      "end" : 5.490000,
+      "start" : 5.070000,
+      "word" : "nostra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.490000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.580000,
+      "word" : "pesca"
+    }],
+  "text" : "en tenia prou amb els deutes d'agricultor i no volia embolicats en préstecs nostra la pesca"
+}

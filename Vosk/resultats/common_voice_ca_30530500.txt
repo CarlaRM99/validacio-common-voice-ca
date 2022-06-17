@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.932516,
+      "end" : 1.350000,
+      "start" : 0.720000,
+      "word" : "apunta"
+    }, {
+      "conf" : 0.365317,
+      "end" : 1.520666,
+      "start" : 1.350000,
+      "word" : "als"
+    }, {
+      "conf" : 0.887120,
+      "end" : 1.770000,
+      "start" : 1.520666,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.770000,
+      "word" : "vint-i-vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.580000,
+      "word" : "seixanta-cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.750000,
+      "word" : "noranta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.380000,
+      "word" : "quaranta-nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.310000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.520000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.610000,
+      "word" : "telèfon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.210000,
+      "word" : "de"
+    }, {
+      "conf" : 0.410289,
+      "end" : 6.684029,
+      "start" : 6.330000,
+      "word" : "l'acer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.684029,
+      "word" : "mira"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.980000,
+      "start" : 6.990000,
+      "word" : "caldentey"
+    }],
+  "text" : "apunta als sis vint-i-vuit seixanta-cinc noranta quaranta-nou com a telèfon de l'acer mira caldentey"
+}

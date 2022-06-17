@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.703348,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.703348,
+      "end" : 0.959043,
+      "start" : 0.930000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.959043,
+      "word" : "algun"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.200000,
+      "word" : "negoci"
+    }, {
+      "conf" : 0.780577,
+      "end" : 1.950000,
+      "start" : 1.800000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.950000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.280000,
+      "word" : "turó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.730000,
+      "word" : "la"
+    }, {
+      "conf" : 0.595643,
+      "end" : 3.600000,
+      "start" : 2.850000,
+      "word" : "sanitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.600000,
+      "word" : "cantonada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.320000,
+      "word" : "turó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.680000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.800000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 4.920000,
+      "word" : "trinitat"
+    }],
+  "text" : "hi ha algun negoci al carrer turó de la sanitat cantonada turó de la trinitat"
+}

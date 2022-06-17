@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.480000,
+      "start" : 0.360000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.480000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.600000,
+      "word" : "boca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.870000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.050000,
+      "word" : "riu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.590000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.680000,
+      "word" : "l'illa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.010000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.190000,
+      "word" : "diamant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.790000,
+      "word" : "dificulta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.450000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.570000,
+      "word" : "navegació"
+    }],
+  "text" : "a la boca del riu i a l'illa del diamant que dificulta la navegació"
+}

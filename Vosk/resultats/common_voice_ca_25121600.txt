@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 0.870000,
+      "word" : "consulteu"
+    }, {
+      "conf" : 0.695286,
+      "end" : 2.040000,
+      "start" : 1.860000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.040000,
+      "word" : "satèl·lit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.790000,
+      "word" : "seguiment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.510000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.630000,
+      "word" : "retransmissió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.680000,
+      "word" : "dades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.190000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.370000,
+      "word" : "obtenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.850000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.150000,
+      "word" : "detalls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.192069,
+      "start" : 6.750000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.830000,
+      "start" : 7.200000,
+      "word" : "satèl·lit"
+    }],
+  "text" : "consulteu el satèl·lit de seguiment i retransmissió de dades per obtenir més detalls sobre satèl·lit"
+}

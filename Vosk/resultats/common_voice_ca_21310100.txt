@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.140000,
+      "word" : "posteriorment"
+    }, {
+      "conf" : 0.679078,
+      "end" : 2.880000,
+      "start" : 2.460000,
+      "word" : "passar"
+    }, {
+      "conf" : 0.835923,
+      "end" : 2.940000,
+      "start" : 2.880000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.940000,
+      "word" : "domini"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.390000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.690000,
+      "word" : "montoliu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.710000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.830000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.100000,
+      "word" : "tard"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.550000,
+      "word" : "també"
+    }, {
+      "conf" : 0.813434,
+      "end" : 6.090000,
+      "start" : 5.970000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.120000,
+      "word" : "tingui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.540000,
+      "word" : "drets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 6.900000,
+      "word" : "santes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.890000,
+      "start" : 7.350000,
+      "word" : "creus"
+    }],
+  "text" : "posteriorment passar a domini dels montoliu i més tard també hi tingui drets santes creus"
+}

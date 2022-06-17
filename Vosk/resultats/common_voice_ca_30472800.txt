@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.795715,
+      "end" : 1.470000,
+      "start" : 1.260000,
+      "word" : "que"
+    }, {
+      "conf" : 0.700521,
+      "end" : 1.860000,
+      "start" : 1.470000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.950000,
+      "word" : "rous"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.640000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.940000,
+      "word" : "somni"
+    }],
+  "text" : "que se rous en el somni"
+}

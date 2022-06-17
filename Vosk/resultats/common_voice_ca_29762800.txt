@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.910542,
+      "end" : 1.284148,
+      "start" : 0.720000,
+      "word" : "d'ésser"
+    }, {
+      "conf" : 0.257319,
+      "end" : 1.770000,
+      "start" : 1.320000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.791990,
+      "word" : "deu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.130000,
+      "word" : "noranta-nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.030000,
+      "word" : "cinquanta-set"
+    }, {
+      "conf" : 0.623460,
+      "end" : 5.190000,
+      "start" : 4.140000,
+      "word" : "vint-i-quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.220000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.430000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.490000,
+      "word" : "telèfon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 6.120000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.300000,
+      "word" : "nicolàs"
+    }, {
+      "conf" : 0.662362,
+      "end" : 7.560000,
+      "start" : 7.110000,
+      "word" : "dürer"
+    }],
+  "text" : "d'ésser sis deu noranta-nou cinquanta-set vint-i-quatre com a telèfon del nicolàs dürer"
+}

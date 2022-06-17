@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.510000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.110000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.320000,
+      "word" : "membre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.920000,
+      "word" : "presidència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.550000,
+      "word" : "col·lectiva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.300000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.450000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.570000,
+      "word" : "unió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.990000,
+      "word" : "patriòtica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.680000,
+      "word" : "nacional"
+    }],
+  "text" : "també és membre de la presidència col·lectiva de la unió patriòtica nacional"
+}

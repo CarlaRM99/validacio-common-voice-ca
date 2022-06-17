@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.750000,
+      "word" : "francesc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.470000,
+      "word" : "d'assís"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.520000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.580000,
+      "word" : "va"
+    }, {
+      "conf" : 0.745775,
+      "end" : 3.030000,
+      "start" : 2.760000,
+      "word" : "avenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.030000,
+      "word" : "mai"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.390000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.570000,
+      "word" : "isabel"
+    }],
+  "text" : "francesc d'assís no es va avenir mai amb isabel"
+}

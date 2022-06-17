@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.750000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.840000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.080000,
+      "word" : "informació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.070000,
+      "word" : "vegeu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.520000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.640000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.910000,
+      "word" : "oficial"
+    }, {
+      "conf" : 0.765678,
+      "end" : 3.630000,
+      "start" : 3.480000,
+      "word" : "de"
+    }, {
+      "conf" : 0.570117,
+      "end" : 3.900000,
+      "start" : 3.630000,
+      "word" : "mort"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.930000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.080000,
+      "word" : "pega"
+    }],
+  "text" : "per a més informació vegeu el lloc oficial de mort li pega"
+}

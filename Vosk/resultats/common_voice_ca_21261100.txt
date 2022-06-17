@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.050000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.290000,
+      "word" : "murs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.590000,
+      "word" : "estaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.040000,
+      "word" : "decorats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.610000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.760000,
+      "word" : "símbols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.330000,
+      "word" : "religiosos"
+    }],
+  "text" : "els murs estaven decorats amb símbols religiosos"
+}

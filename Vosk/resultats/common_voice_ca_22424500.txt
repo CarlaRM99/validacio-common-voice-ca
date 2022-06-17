@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.540000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.870000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.020000,
+      "word" : "elements"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.530000,
+      "word" : "nil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.800000,
+      "word" : "potents"
+    }, {
+      "conf" : 0.820214,
+      "end" : 2.700000,
+      "start" : 2.400000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.700000,
+      "word" : "divisors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.240000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.390000,
+      "word" : "zero"
+    }],
+  "text" : "tots els elements nil potents són divisors de zero"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.570000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.810000,
+      "word" : "trobava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.380000,
+      "word" : "aquell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.650000,
+      "word" : "moment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.070000,
+      "word" : "sota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.520000,
+      "word" : "jurisdicció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.330000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.510000,
+      "word" : "castell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.990000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.110000,
+      "word" : "cervera"
+    }],
+  "text" : "es trobava en aquell moment sota la jurisdicció del castell de cervera"
+}

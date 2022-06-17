@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.300000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.870000,
+      "word" : "tipus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.260000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.560000,
+      "word" : "fibra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.890000,
+      "word" : "insoluble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.550000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.640000,
+      "word" : "fibra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.940000,
+      "word" : "soluble"
+    }],
+  "text" : "aquests dos tipus són fibra insoluble i fibra soluble"
+}

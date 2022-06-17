@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.540000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.810000,
+      "word" : "l'octubre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.320000,
+      "word" : "trona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.830000,
+      "word" : "neu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.130000,
+      "word" : "dona"
+    }],
+  "text" : "quan l'octubre trona neu dona"
+}

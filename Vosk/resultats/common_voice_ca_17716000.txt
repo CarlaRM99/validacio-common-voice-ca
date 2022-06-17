@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.360000,
+      "start" : 0.180000,
+      "word" : "no"
+    }, {
+      "conf" : 0.814722,
+      "end" : 0.750000,
+      "start" : 0.360000,
+      "word" : "espera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.791117,
+      "word" : "res"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.110000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.230000,
+      "word" : "bo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.590000,
+      "word" : "reunió"
+    }],
+  "text" : "no espera res de bo de la reunió"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 0.960000,
+      "word" : "comercialitza"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.770000,
+      "word" : "fresc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.670000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.940000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.090000,
+      "word" : "no"
+    }, {
+      "conf" : 0.674455,
+      "end" : 3.240000,
+      "start" : 3.180000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.240000,
+      "word" : "gaire"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.570000,
+      "word" : "apreciat"
+    }],
+  "text" : "es comercialitza fresc tot i que no és gaire apreciat"
+}

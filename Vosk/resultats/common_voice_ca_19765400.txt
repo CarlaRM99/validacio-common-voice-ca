@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.282157,
+      "start" : 1.080000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.350000,
+      "word" : "l'antic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.770000,
+      "word" : "imperi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.160000,
+      "word" : "mongol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.790000,
+      "word" : "vegeu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.390000,
+      "word" : "imperi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.870000,
+      "word" : "mongol"
+    }],
+  "text" : "per l'antic imperi mongol vegeu imperi mongol"
+}

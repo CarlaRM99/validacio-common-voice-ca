@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.870000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.050000,
+      "word" : "anomenar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.470000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.560000,
+      "word" : "gos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.160000,
+      "word" : "amanir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.700000,
+      "word" : "bastó"
+    }],
+  "text" : "en anomenar el gos amanir el bastó"
+}

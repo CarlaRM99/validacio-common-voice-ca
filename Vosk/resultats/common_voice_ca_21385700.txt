@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.870000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.260000,
+      "word" : "obra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.680000,
+      "word" : "reflecteix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.310000,
+      "word" : "l'esperit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.790000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.880000,
+      "word" : "l'època"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.570000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.720000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.870000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.080000,
+      "word" : "notables"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.590000,
+      "word" : "influxos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.130000,
+      "word" : "culturals"
+    }],
+  "text" : "és una obra que reflecteix l'esperit de l'època i els seus notables influxos culturals"
+}

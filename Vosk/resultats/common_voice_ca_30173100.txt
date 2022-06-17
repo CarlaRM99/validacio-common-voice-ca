@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.663261,
+      "end" : 1.064731,
+      "start" : 0.630000,
+      "word" : "marca"
+    }, {
+      "conf" : 0.813373,
+      "end" : 1.140000,
+      "start" : 1.064731,
+      "word" : "el"
+    }, {
+      "conf" : 0.617305,
+      "end" : 1.860000,
+      "start" : 1.140000,
+      "word" : "cis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 1.950000,
+      "word" : "quaranta-vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.060000,
+      "word" : "noranta-dos"
+    }, {
+      "conf" : 0.571651,
+      "end" : 4.920000,
+      "start" : 4.290000,
+      "word" : "dotze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 4.950000,
+      "word" : "quaranta-quatre"
+    }],
+  "text" : "marca el cis quaranta-vuit noranta-dos dotze quaranta-quatre"
+}

@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.998584,
+      "end" : 1.170000,
+      "start" : 0.600000,
+      "word" : "gràcia"
+    }, {
+      "conf" : 0.521497,
+      "end" : 1.440000,
+      "start" : 1.200000,
+      "word" : "dels"
+    }, {
+      "conf" : 0.744756,
+      "end" : 1.620000,
+      "start" : 1.440000,
+      "word" : "déus"
+    }, {
+      "conf" : 0.511742,
+      "end" : 1.830000,
+      "start" : 1.620000,
+      "word" : "d'ús"
+    }, {
+      "conf" : 0.320180,
+      "end" : 2.220000,
+      "start" : 1.830000,
+      "word" : "camal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.310000,
+      "word" : "intercanviables"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.450000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.540000,
+      "word" : "tres"
+    }, {
+      "conf" : 0.868791,
+      "end" : 4.050000,
+      "start" : 3.840000,
+      "word" : "per"
+    }, {
+      "conf" : 0.732312,
+      "end" : 4.530000,
+      "start" : 4.140000,
+      "word" : "illa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.620000,
+      "word" : "adapten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.160000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.250000,
+      "word" : "diferents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 5.730000,
+      "word" : "estils"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 6.240000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.360000,
+      "word" : "joc"
+    }],
+  "text" : "gràcia dels déus d'ús camal intercanviables i tres per illa adapten a diferents estils de joc"
+}

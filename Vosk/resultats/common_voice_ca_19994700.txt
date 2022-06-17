@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.050000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.530000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.590000,
+      "word" : "sud-oest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.250000,
+      "word" : "nucli"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.550000,
+      "word" : "urbà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.850000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.970000,
+      "word" : "mont-ral"
+    }],
+  "text" : "es troba al sud-oest del nucli urbà de mont-ral"
+}

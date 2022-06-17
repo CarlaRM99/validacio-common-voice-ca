@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.870000,
+      "word" : "l'escala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.560000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.710000,
+      "word" : "mig"
+    }, {
+      "conf" : 0.505805,
+      "end" : 2.611596,
+      "start" : 2.130000,
+      "word" : "dona"
+    }, {
+      "conf" : 0.941399,
+      "end" : 2.820000,
+      "start" : 2.670000,
+      "word" : "al"
+    }, {
+      "conf" : 0.575309,
+      "end" : 3.450000,
+      "start" : 2.820000,
+      "word" : "celobert"
+    }, {
+      "conf" : 0.915445,
+      "end" : 3.606627,
+      "start" : 3.510000,
+      "word" : "i"
+    }, {
+      "conf" : 0.478861,
+      "end" : 3.688432,
+      "start" : 3.606627,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.688432,
+      "word" : "lavabo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.260000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.470000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.860000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.160000,
+      "word" : "finestra"
+    }],
+  "text" : "l'escala del mig dona al celobert i el lavabo no té cap finestra"
+}

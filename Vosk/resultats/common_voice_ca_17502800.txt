@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.672672,
+      "end" : 0.930000,
+      "start" : 0.630000,
+      "word" : "vam"
+    }, {
+      "conf" : 0.861823,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "gem"
+    }, {
+      "conf" : 0.407907,
+      "end" : 1.710000,
+      "start" : 1.264145,
+      "word" : "espanya"
+    }, {
+      "conf" : 0.543083,
+      "end" : 1.836836,
+      "start" : 1.740000,
+      "word" : "té"
+    }, {
+      "conf" : 0.884842,
+      "end" : 1.872540,
+      "start" : 1.836836,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.886545,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 1.980000,
+      "word" : "bolonyesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.210000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.450000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.630000,
+      "word" : "ampolla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.110000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.200000,
+      "word" : "cabernet-sirà"
+    }],
+  "text" : "vam gem espanya té a la bolonyesa amb una ampolla de cabernet-sirà"
+}

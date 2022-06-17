@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.882211,
+      "end" : 0.810000,
+      "start" : 0.420000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.810000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 0.930000,
+      "word" : "vilabertran"
+    }],
+  "text" : "venim de vilabertran"
+}

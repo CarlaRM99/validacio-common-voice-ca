@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.690000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.320000,
+      "word" : "desinteressats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.550000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.760000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.000000,
+      "word" : "benignes"
+    }],
+  "text" : "no són desinteressats però són benignes"
+}

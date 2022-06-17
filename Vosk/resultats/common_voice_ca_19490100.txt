@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.791798,
+      "end" : 0.630000,
+      "start" : 0.504748,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.630000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.020000,
+      "word" : "famosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.440000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.830000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.040000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.340000,
+      "word" : "cinquanta"
+    }],
+  "text" : "es va fer famosa durant els anys cinquanta"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.736998,
+      "end" : 2.190000,
+      "start" : 1.530000,
+      "word" : "francesc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.212110,
+      "word" : "canta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.610000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.670000,
+      "word" : "tema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.970000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.060000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.420000,
+      "word" : "escena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.810000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.870000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.020000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.260000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.680000,
+      "word" : "intervencions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.400000,
+      "word" : "impliquen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 5.970000,
+      "word" : "sengles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.620000,
+      "start" : 6.480000,
+      "word" : "transposicions"
+    }],
+  "text" : "francesc canta el tema en aquesta escena i les seves diverses intervencions impliquen sengles transposicions"
+}

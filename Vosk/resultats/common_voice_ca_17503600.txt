@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.930000,
+      "word" : "l'any"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "mil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.710000,
+      "word" : "vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.340000,
+      "word" : "l'última"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.790000,
+      "word" : "vegada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.240000,
+      "word" : "que"
+    }, {
+      "conf" : 0.459759,
+      "end" : 3.686580,
+      "start" : 3.360000,
+      "word" : "havíem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.686580,
+      "word" : "renovat"
+    }, {
+      "conf" : 0.733543,
+      "end" : 4.200000,
+      "start" : 4.110000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.200000,
+      "word" : "nostre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.500000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.130000,
+      "word" : "sembla"
+    }, {
+      "conf" : 0.541926,
+      "end" : 5.910000,
+      "start" : 5.760000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.910000,
+      "word" : "segle"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.270000,
+      "word" : "passat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.230000,
+      "start" : 6.801964,
+      "word" : "escala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.070000,
+      "start" : 7.230000,
+      "word" : "tecnològica"
+    }],
+  "text" : "l'any dos mil vuit l'última vegada que havíem renovat el nostre lloc sembla al segle passat escala tecnològica"
+}

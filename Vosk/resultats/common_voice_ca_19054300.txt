@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.750000,
+      "word" : "eulàlia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "puig"
+    }, {
+      "conf" : 0.781781,
+      "end" : 2.100000,
+      "start" : 1.530000,
+      "word" : "capmany"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.910000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.090000,
+      "word" : "actuarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.420000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.570000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.630000,
+      "word" : "presidenta"
+    }],
+  "text" : "eulàlia puig capmany que actuarà com a presidenta"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.384191,
+      "end" : 1.080000,
+      "start" : 1.020000,
+      "word" : "a"
+    }, {
+      "conf" : 0.542735,
+      "end" : 1.231004,
+      "start" : 1.088764,
+      "word" : "més"
+    }, {
+      "conf" : 0.420753,
+      "end" : 1.500000,
+      "start" : 1.231004,
+      "word" : "prompte"
+    }, {
+      "conf" : 0.699112,
+      "end" : 1.710000,
+      "start" : 1.523459,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.710000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.890000,
+      "word" : "decoratives"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.460000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120282,
+      "start" : 2.610000,
+      "word" : "fullatge"
+    }, {
+      "conf" : 0.914576,
+      "end" : 3.150000,
+      "start" : 3.120282,
+      "word" : "i"
+    }, {
+      "conf" : 0.817833,
+      "end" : 3.510000,
+      "start" : 3.153134,
+      "word" : "branques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.510000,
+      "word" : "platejats"
+    }],
+  "text" : "a més prompte són molt decoratives el fullatge i branques platejats"
+}

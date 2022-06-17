@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.840000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.140000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "molí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.530000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.680000,
+      "word" : "poble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.490000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.670000,
+      "word" : "anava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.150000,
+      "word" : "sent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.720000,
+      "word" : "arrendat"
+    }],
+  "text" : "era el molí del poble que anava sent arrendat"
+}

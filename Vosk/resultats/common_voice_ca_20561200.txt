@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.080000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.320000,
+      "word" : "taula"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.860000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.070000,
+      "word" : "piri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.761133,
+      "start" : 2.310000,
+      "word" : "forma"
+    }, {
+      "conf" : 0.836492,
+      "end" : 2.820000,
+      "start" : 2.761133,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.910000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.000000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.120000,
+      "word" : "superfície"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.780000,
+      "word" : "plana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.290000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.500000,
+      "word" : "obertura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.040000,
+      "word" : "acústica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.580000,
+      "word" : "circular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 6.240000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 6.360000,
+      "word" : "colpeja"
+    }, {
+      "conf" : 0.625998,
+      "end" : 7.050000,
+      "start" : 6.810000,
+      "word" : "d'or"
+    }],
+  "text" : "la taula és piri forma i i de superfície plana amb obertura acústica circular i colpeja d'or"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.290000,
+      "word" : "informació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.920000,
+      "word" : "serà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.280000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.400000,
+      "word" : "transmesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.000000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.300000,
+      "word" : "diferents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.750000,
+      "word" : "capes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.110000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.230000,
+      "word" : "xarxa"
+    }],
+  "text" : "aquesta informació serà la transmesa per les diferents capes de xarxa"
+}

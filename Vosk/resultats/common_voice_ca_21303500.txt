@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.761742,
+      "end" : 1.320000,
+      "start" : 1.200000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.320000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.590000,
+      "word" : "pis"
+    }, {
+      "conf" : 0.509767,
+      "end" : 2.040000,
+      "start" : 1.950000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.216566,
+      "end" : 2.280000,
+      "start" : 2.040000,
+      "word" : "sua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.280984,
+      "word" : "porta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.580000,
+      "word" : "d'entrada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.300000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.600000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.260000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.650000,
+      "word" : "pedra"
+    }],
+  "text" : "el primer pis hi sua porta d'entrada i altres dues també de pedra"
+}

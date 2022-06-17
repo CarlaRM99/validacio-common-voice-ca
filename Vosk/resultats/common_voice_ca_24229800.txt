@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.990000,
+      "word" : "això"
+    }, {
+      "conf" : 0.668556,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.710000,
+      "word" : "deu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.220000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.550000,
+      "word" : "l'esquelet"
+    }, {
+      "conf" : 0.561229,
+      "end" : 3.207593,
+      "start" : 3.150000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.207593,
+      "word" : "examinar"
+    }, {
+      "conf" : 0.508959,
+      "end" : 4.170000,
+      "start" : 3.810000,
+      "word" : "patir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.177559,
+      "word" : "artritis"
+    }],
+  "text" : "això es deu al fet que l'esquelet i examinar patir artritis"
+}

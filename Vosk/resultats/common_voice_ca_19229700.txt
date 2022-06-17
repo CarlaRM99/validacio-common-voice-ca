@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.600000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.900000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "tenia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.789014,
+      "start" : 1.530000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.920000,
+      "word" : "poder"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.250000,
+      "word" : "judicial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.790000,
+      "word" : "organitzat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.360000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.450000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.510000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.720000,
+      "word" : "interior"
+    }],
+  "text" : "cada estat tenia ja un poder judicial organitzat en el seu interior"
+}

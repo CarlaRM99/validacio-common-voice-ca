@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.930000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.170000,
+      "word" : "peus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.650000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.800000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.190000,
+      "word" : "col·locar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.640000,
+      "word" : "junts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.660000,
+      "word" : "separats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.260000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.350000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.440000,
+      "word" : "distància"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.100000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.190000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.250000,
+      "word" : "participant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 5.970000,
+      "word" : "consideri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.200000,
+      "start" : 6.540000,
+      "word" : "oportuna"
+    }],
+  "text" : "els peus es poden col·locar junts o separats a la distància que el participant consideri oportuna"
+}

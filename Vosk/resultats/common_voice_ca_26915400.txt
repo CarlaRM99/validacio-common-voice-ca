@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.900000,
+      "word" : "compartiran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.620000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.740000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 1.890000,
+      "word" : "coneixements"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.760000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.880000,
+      "word" : "milloraran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.540000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 3.690000,
+      "word" : "comunicacions"
+    }],
+  "text" : "compartiran els seus coneixements i milloraran les comunicacions"
+}

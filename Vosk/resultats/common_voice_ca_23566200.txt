@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.870000,
+      "word" : "a"
+    }, {
+      "conf" : 0.803259,
+      "end" : 1.350000,
+      "start" : 0.990000,
+      "word" : "redós"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.350000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.920000,
+      "word" : "sorgir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.340000,
+      "word" : "veïnat"
+    }, {
+      "conf" : 0.618955,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.940000,
+      "word" : "qual"
+    }, {
+      "conf" : 0.856185,
+      "end" : 3.540000,
+      "start" : 3.270000,
+      "word" : "donà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.540000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.600000,
+      "word" : "nom"
+    }],
+  "text" : "a redós seu va sorgir un veïnat el qual donà el nom"
+}

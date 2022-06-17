@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.990000,
+      "word" : "l'instrument"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.620000,
+      "word" : "marroquí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.400000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.700000,
+      "word" : "forats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.150000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.210000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.570000,
+      "word" : "tub"
+    }],
+  "text" : "l'instrument marroquí té sis forats a cada tub"
+}

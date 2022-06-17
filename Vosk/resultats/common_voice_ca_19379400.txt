@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.720000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.870000,
+      "word" : "consulta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.380000,
+      "word" : "directa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.800000,
+      "word" : "d'alguns"
+    }, {
+      "conf" : 0.693699,
+      "end" : 2.700000,
+      "start" : 2.160000,
+      "word" : "documents"
+    }, {
+      "conf" : 0.693699,
+      "end" : 2.970000,
+      "start" : 2.700000,
+      "word" : "hauria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.090000,
+      "word" : "facilitar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.810000,
+      "word" : "comprensió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.470000,
+      "word" : "del"
+    }, {
+      "conf" : 0.862302,
+      "end" : 5.070000,
+      "start" : 4.680000,
+      "word" : "tema"
+    }],
+  "text" : "la consulta directa d'alguns documents hauria de facilitar la comprensió del tema"
+}

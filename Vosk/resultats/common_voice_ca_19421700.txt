@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.878460,
+      "end" : 0.900000,
+      "start" : 0.330000,
+      "word" : "s'elabora"
+    }, {
+      "conf" : 0.878460,
+      "end" : 1.020000,
+      "start" : 0.900000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.436158,
+      "start" : 1.020000,
+      "word" : "sucre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.500000,
+      "word" : "aigua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.160000,
+      "word" : "condiments"
+    }],
+  "text" : "s'elabora amb sucre aigua i condiments"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.828006,
+      "end" : 0.720000,
+      "start" : 0.480000,
+      "word" : "la"
+    }, {
+      "conf" : 0.828006,
+      "end" : 1.080000,
+      "start" : 0.720000,
+      "word" : "sala"
+    }, {
+      "conf" : 0.828006,
+      "end" : 1.140000,
+      "start" : 1.080000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.140000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.320000,
+      "word" : "obrir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.530000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.590000,
+      "word" : "continuació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.340000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.400000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.640000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.730000,
+      "word" : "poc"
+    }],
+  "text" : "la sala es van obrir a continuació a poc a poc"
+}

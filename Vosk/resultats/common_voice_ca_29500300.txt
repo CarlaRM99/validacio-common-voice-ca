@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.510000,
+      "word" : "apunta"
+    }, {
+      "conf" : 0.461494,
+      "end" : 1.230000,
+      "start" : 1.140000,
+      "word" : "el"
+    }, {
+      "conf" : 0.545353,
+      "end" : 1.650000,
+      "start" : 1.310307,
+      "word" : "sis"
+    }, {
+      "conf" : 0.550420,
+      "end" : 2.220000,
+      "start" : 1.680000,
+      "word" : "quinze"
+    }, {
+      "conf" : 0.635093,
+      "end" : 2.970000,
+      "start" : 2.280000,
+      "word" : "curanta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.030000,
+      "word" : "onze"
+    }, {
+      "conf" : 0.568595,
+      "end" : 4.200000,
+      "start" : 3.630000,
+      "word" : "cel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.290000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.042999,
+      "start" : 4.830000,
+      "word" : "com"
+    }, {
+      "conf" : 0.827657,
+      "end" : 5.130000,
+      "start" : 5.042999,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.130000,
+      "word" : "telèfon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.730000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.850000,
+      "word" : "la"
+    }, {
+      "conf" : 0.713638,
+      "end" : 6.180000,
+      "start" : 5.970000,
+      "word" : "ja"
+    }, {
+      "conf" : 0.713638,
+      "end" : 6.505826,
+      "start" : 6.180000,
+      "word" : "anava"
+    }, {
+      "conf" : 0.778458,
+      "end" : 6.960000,
+      "start" : 6.505826,
+      "word" : "retrat"
+    }],
+  "text" : "apunta el sis quinze curanta onze cel tres com a telèfon de la ja anava retrat"
+}

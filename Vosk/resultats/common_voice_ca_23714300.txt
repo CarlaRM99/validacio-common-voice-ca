@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.870000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.140000,
+      "word" : "obstant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.590000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.070000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.250000,
+      "word" : "derrotar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 2.910000,
+      "word" : "l'exèrcit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.690000,
+      "word" : "mogol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.410000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.650000,
+      "word" : "baltistan"
+    }],
+  "text" : "no obstant això va derrotar l'exèrcit mogol en baltistan"
+}

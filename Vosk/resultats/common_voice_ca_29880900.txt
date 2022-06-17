@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.360000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.510000,
+      "word" : "venen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.020000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.200000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.500000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.740000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.010000,
+      "word" : "reis"
+    }, {
+      "conf" : 0.812170,
+      "end" : 2.760000,
+      "start" : 2.400000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 2.771270,
+      "word" : "setanta-sis"
+    }],
+  "text" : "que venen al carrer dels tres reis número setanta-sis"
+}

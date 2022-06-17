@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.540000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.050000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "any"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.710000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.860000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.280000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.370000,
+      "word" : "trofeu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.910000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.150000,
+      "word" : "món"
+    }],
+  "text" : "també aquest any va rebre el trofeu al món"
+}

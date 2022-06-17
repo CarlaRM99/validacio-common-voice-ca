@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.780000,
+      "word" : "règim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.290000,
+      "word" : "social"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.920000,
+      "word" : "estava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.310000,
+      "word" : "basat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.730000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.820000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.910000,
+      "word" : "sistema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.390000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.510000,
+      "word" : "clans"
+    }],
+  "text" : "el règim social estava basat en el sistema de clans"
+}

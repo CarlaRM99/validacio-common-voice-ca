@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.840000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.080000,
+      "word" : "clorur"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.380000,
+      "word" : "quina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.860000,
+      "word" : "és"
+    }, {
+      "conf" : 0.601959,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "un"
+    }, {
+      "conf" : 0.601959,
+      "end" : 2.430000,
+      "start" : 2.160000,
+      "word" : "antic"
+    }, {
+      "conf" : 0.601959,
+      "end" : 2.636801,
+      "start" : 2.460000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.636801,
+      "word" : "lúdic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.180000,
+      "word" : "històric"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.660000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.780000,
+      "word" : "s'havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.170000,
+      "word" : "utilitzat"
+    }, {
+      "conf" : 0.801417,
+      "end" : 4.739388,
+      "start" : 4.650000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.739388,
+      "word" : "freqüència"
+    }],
+  "text" : "la clorur quina és un antic per lúdic històric que s'havia utilitzat amb freqüència"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.510000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.900000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.110000,
+      "word" : "trastorn"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 1.830000,
+      "word" : "recessiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 2.760000,
+      "word" : "autosòmic"
+    }],
+  "text" : "és un trastorn recessiu autosòmic"
+}

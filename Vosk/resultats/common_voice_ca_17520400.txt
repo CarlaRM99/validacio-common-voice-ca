@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.027875,
+      "start" : 0.630000,
+      "word" : "lot"
+    }, {
+      "conf" : 0.459970,
+      "end" : 1.500000,
+      "start" : 1.050000,
+      "word" : "huit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.560000,
+      "word" : "subministrament"
+    }, {
+      "conf" : 0.889085,
+      "end" : 2.910000,
+      "start" : 2.550000,
+      "word" : "trineu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.910000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.030000,
+      "word" : "wilson"
+    }, {
+      "conf" : 0.612337,
+      "end" : 3.630000,
+      "start" : 3.480000,
+      "word" : "per"
+    }, {
+      "conf" : 0.368338,
+      "end" : 3.690000,
+      "start" : 3.630000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 3.702120,
+      "word" : "neurocirurgia"
+    }],
+  "text" : "lot huit subministrament trineu de wilson per a neurocirurgia"
+}

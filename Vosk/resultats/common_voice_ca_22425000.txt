@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.810270,
+      "end" : 0.960000,
+      "start" : 0.540000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 0.990000,
+      "word" : "cosmopolites"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.040000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.250000,
+      "word" : "troben"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.820000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.910000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.210000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.390000,
+      "word" : "oceans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.960000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.050000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.170000,
+      "word" : "terra"
+    }],
+  "text" : "són cosmopolites i es troben a tots els oceans de la terra"
+}

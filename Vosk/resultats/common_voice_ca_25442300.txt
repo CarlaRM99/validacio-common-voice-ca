@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.020000,
+      "word" : "és"
+    }, {
+      "conf" : 0.527686,
+      "end" : 1.710000,
+      "start" : 1.260000,
+      "word" : "nabiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.860000,
+      "word" : "l'àfrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.370000,
+      "word" : "subsahariana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.270000,
+      "word" : "i"
+    }, {
+      "conf" : 0.999840,
+      "end" : 4.020000,
+      "start" : 3.420000,
+      "word" : "d'aràbia"
+    }],
+  "text" : "és nabiu de l'àfrica subsahariana i d'aràbia"
+}

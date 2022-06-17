@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.540000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.960000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.110000,
+      "word" : "treballar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.650000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.860000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.890000,
+      "word" : "empreses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.400000,
+      "word" : "californianes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.210000,
+      "word" : "fabricants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.810000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.930000,
+      "word" : "mòduls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.470000,
+      "word" : "lunars"
+    }],
+  "text" : "també va treballar per a empreses californianes fabricants de mòduls lunars"
+}

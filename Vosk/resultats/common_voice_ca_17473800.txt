@@ -1,0 +1,104 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.780000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.900000,
+      "word" : "lligava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.440000,
+      "word" : "corda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.950000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.250000,
+      "word" : "posant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.670000,
+      "word" : "prèviament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.571253,
+      "start" : 3.180000,
+      "word" : "menjar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.600000,
+      "word" : "dins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.290000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.500000,
+      "word" : "baixava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 5.010000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.130000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.370000,
+      "word" : "gorga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 5.970000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.240000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.420000,
+      "word" : "fonda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.720000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 6.780000,
+      "word" : "salvatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.680000,
+      "start" : 7.290000,
+      "word" : "millor"
+    }],
+  "text" : "i lligava una corda i posant prèviament menjar dins el baixava a una gorga com més fonda i salvatge millor"
+}

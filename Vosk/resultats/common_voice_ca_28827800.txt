@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.510000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.750000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.840000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.110000,
+      "word" : "cura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.680000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.950000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.130000,
+      "word" : "planten"
+    }, {
+      "conf" : 0.477127,
+      "end" : 2.847775,
+      "start" : 2.760000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.847775,
+      "word" : "zones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.240000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.330000,
+      "word" : "matolls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.110000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.620000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.830000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.130000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.310000,
+      "word" : "males"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.550000,
+      "word" : "herbes"
+    }],
+  "text" : "s'ha de tenir cura si es planten a zones de matolls ja que poden ser males herbes"
+}

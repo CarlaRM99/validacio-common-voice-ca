@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "cal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.050000,
+      "word" : "destacar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.680000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.980000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.130000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.370000,
+      "word" : "estudis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.970000,
+      "word" : "sonia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.390000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.450000,
+      "word" : "sindicat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.080000,
+      "word" : "d'estudiants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 4.650000,
+      "word" : "catòlics"
+    }],
+  "text" : "cal destacar que durant els seus estudis sonia el sindicat d'estudiants catòlics"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.570000,
+      "word" : "generalment"
+    }, {
+      "conf" : 0.524150,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.530000,
+      "word" : "tractament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.070000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.310000,
+      "word" : "condicions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.000000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.270000,
+      "word" : "pulmons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.870000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.050000,
+      "word" : "paret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.410000,
+      "word" : "toràcica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.130000,
+      "word" : "l'esòfag"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 6.000000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 6.150000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.270000,
+      "word" : "diafragma"
+    }],
+  "text" : "generalment el tractament de les condicions dels pulmons la paret toràcica l'esòfag i el diafragma"
+}

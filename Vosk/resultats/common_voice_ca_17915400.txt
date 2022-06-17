@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.712592,
+      "end" : 0.864386,
+      "start" : 0.630000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.864386,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.990000,
+      "word" : "l'ajuntament"
+    }, {
+      "conf" : 0.446461,
+      "end" : 1.830000,
+      "start" : 1.680000,
+      "word" : "ser"
+    }, {
+      "conf" : 0.442104,
+      "end" : 2.452182,
+      "start" : 1.890000,
+      "word" : "rastrejat"
+    }, {
+      "conf" : 0.273172,
+      "end" : 2.850002,
+      "start" : 2.452182,
+      "word" : "anglaterra"
+    }],
+  "text" : "els de l'ajuntament ser rastrejat anglaterra"
+}

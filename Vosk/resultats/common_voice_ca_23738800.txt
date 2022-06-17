@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.739690,
+      "end" : 0.960000,
+      "start" : 0.510000,
+      "word" : "repassa"
+    }, {
+      "conf" : 0.955036,
+      "end" : 1.140000,
+      "start" : 0.962757,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.141349,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.320000,
+      "word" : "antiga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.650000,
+      "word" : "torre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.160000,
+      "word" : "qual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.370000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.550000,
+      "word" : "queda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.760000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.970000,
+      "word" : "resta"
+    }],
+  "text" : "repassa nom d'una antiga torre de la qual no en queda cap resta"
+}

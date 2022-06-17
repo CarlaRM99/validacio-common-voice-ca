@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.020000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.680000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.160000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.460000,
+      "word" : "actuació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.240000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.570000,
+      "word" : "acreditada"
+    }],
+  "text" : "aquesta va ser una actuació no acreditada"
+}

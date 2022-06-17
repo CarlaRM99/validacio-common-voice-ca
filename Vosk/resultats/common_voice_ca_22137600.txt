@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.840000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.110000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.230000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.620000,
+      "word" : "tinent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.010000,
+      "word" : "d'alcaldia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.790000,
+      "word" : "d'origen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.390000,
+      "word" : "llatinoamericà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.530000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.650000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.770000,
+      "word" : "ciutat"
+    }],
+  "text" : "és el primer tinent d'alcaldia d'origen llatinoamericà de la ciutat"
+}

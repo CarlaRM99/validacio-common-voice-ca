@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.450000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 0.594493,
+      "end" : 1.470000,
+      "start" : 0.900000,
+      "word" : "marissa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.710000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.010000,
+      "word" : "aportació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.090000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.210000,
+      "word" : "l'inici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.660000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.780000,
+      "word" : "l'astronomia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.530000,
+      "word" : "espacial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.130000,
+      "word" : "d'infrarojos"
+    }],
+  "text" : "aquesta marissa la seva aportació a l'inici de l'astronomia espacial d'infrarojos"
+}

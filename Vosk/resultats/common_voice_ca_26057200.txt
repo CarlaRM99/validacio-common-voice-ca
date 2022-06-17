@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.420000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.630000,
+      "word" : "zona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.080000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.380000,
+      "word" : "greument"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.860000,
+      "word" : "amenaçat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.730000,
+      "word" : "la"
+    }, {
+      "conf" : 0.668453,
+      "end" : 3.300000,
+      "start" : 2.850000,
+      "word" : "ràpida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.300000,
+      "word" : "erosió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.810000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.930000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.140000,
+      "word" : "dunes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.500000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.620000,
+      "word" : "sorra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.193490,
+      "start" : 5.070000,
+      "word" : "que"
+    }, {
+      "conf" : 0.717554,
+      "end" : 5.280000,
+      "start" : 5.193490,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.288473,
+      "word" : "cobreixen"
+    }],
+  "text" : "la zona està greument amenaçat per la ràpida erosió de les dunes de sorra que la cobreixen"
+}

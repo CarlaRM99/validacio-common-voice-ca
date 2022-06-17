@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.592493,
+      "end" : 0.810000,
+      "start" : 0.540000,
+      "word" : "sa"
+    }, {
+      "conf" : 0.518064,
+      "end" : 1.650000,
+      "start" : 0.810000,
+      "word" : "desenterrant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.680000,
+      "word" : "ceràmica"
+    }, {
+      "conf" : 0.548921,
+      "end" : 2.880000,
+      "start" : 2.370000,
+      "word" : "romano"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 2.880000,
+      "word" : "britànica"
+    }, {
+      "conf" : 0.631344,
+      "end" : 4.230000,
+      "start" : 3.870000,
+      "word" : "camp"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.271060,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.410000,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.770000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.860000,
+      "word" : "parròquia"
+    }],
+  "text" : "sa desenterrant ceràmica romano britànica camp de tota la parròquia"
+}

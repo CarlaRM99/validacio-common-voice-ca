@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.633630,
+      "end" : 0.720000,
+      "start" : 0.450000,
+      "word" : "cap"
+    }, {
+      "conf" : 0.684637,
+      "end" : 0.839610,
+      "start" : 0.720000,
+      "word" : "han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.839610,
+      "word" : "fet"
+    }],
+  "text" : "cap han fet"
+}

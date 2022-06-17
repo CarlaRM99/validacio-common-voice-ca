@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.540000,
+      "word" : "quants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.960000,
+      "word" : "països"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.530000,
+      "word" : "mantenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.220000,
+      "word" : "actualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.120000,
+      "word" : "acords"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.720000,
+      "word" : "comercials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.650000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.860000,
+      "word" : "l'iran"
+    }],
+  "text" : "quants països mantenen actualment acords comercials amb l'iran"
+}

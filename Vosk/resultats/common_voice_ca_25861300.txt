@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.780000,
+      "word" : "poble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.230000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.710000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.190000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.370000,
+      "word" : "molts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.700000,
+      "word" : "colonitzadors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.540000,
+      "word" : "afganesos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.380000,
+      "word" : "així"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.830000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.070000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.190000,
+      "word" : "tribus"
+    }, {
+      "conf" : 0.854407,
+      "end" : 6.420000,
+      "start" : 5.700000,
+      "word" : "bancaja"
+    }],
+  "text" : "el poble estat la seu de molts colonitzadors afganesos així com de tribus bancaja"
+}

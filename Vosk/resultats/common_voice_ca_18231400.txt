@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.540000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.660000,
+      "word" : "cosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.472325,
+      "start" : 1.020000,
+      "word" : "donada"
+    }, {
+      "conf" : 0.522784,
+      "end" : 1.560000,
+      "start" : 1.472325,
+      "word" : "en"
+    }, {
+      "conf" : 0.522784,
+      "end" : 1.740000,
+      "start" : 1.560000,
+      "word" : "oli"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.740000,
+      "word" : "cerques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.220000,
+      "word" : "taps"
+    }],
+  "text" : "a cosa donada en oli cerques taps"
+}

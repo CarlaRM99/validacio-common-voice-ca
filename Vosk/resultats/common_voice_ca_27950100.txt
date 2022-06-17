@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.480000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.990000,
+      "word" : "relats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.560000,
+      "word" : "crims"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.980000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.250000,
+      "word" : "enginyós"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.790000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.880000,
+      "word" : "trepidant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.540000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.720000,
+      "word" : "he"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.840000,
+      "word" : "vist"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.080000,
+      "word" : "mai"
+    }],
+  "text" : "un dels relats de crims més enginyós i trepidant que he vist mai"
+}

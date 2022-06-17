@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.614868,
+      "end" : 0.570000,
+      "start" : 0.450000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.570000,
+      "word" : "longitud"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.140000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.200000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.290000,
+      "word" : "traça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.710000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.890000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.160000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.370000,
+      "word" : "rioja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.880000,
+      "word" : "és"
+    }, {
+      "conf" : 0.773861,
+      "end" : 3.150000,
+      "start" : 3.060000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.156784,
+      "word" : "seixanta-tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.870000,
+      "word" : "metres"
+    }],
+  "text" : "la longitud de la traça pel carrer de la rioja és de seixanta-tres metres"
+}

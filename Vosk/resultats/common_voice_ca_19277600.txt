@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "anem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.900000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.960000,
+      "word" : "tordera"
+    }],
+  "text" : "anem a tordera"
+}

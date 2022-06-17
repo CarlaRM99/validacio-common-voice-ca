@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.510000,
+      "word" : "boix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.960000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.140000,
+      "word" : "negar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.980000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.160000,
+      "word" : "hagués"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.460000,
+      "word" : "comès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.090000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.390000,
+      "word" : "delicte"
+    }],
+  "text" : "boix va negar que si hagués comès cap delicte"
+}

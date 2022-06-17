@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.390000,
+      "start" : 0.180000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.390000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.570000,
+      "word" : "clima"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.930000,
+      "word" : "tropical"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.560000,
+      "word" : "sec"
+    }],
+  "text" : "té un clima tropical sec"
+}

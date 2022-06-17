@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.750000,
+      "word" : "família"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.290000,
+      "word" : "boston"
+    }, {
+      "conf" : 0.712755,
+      "end" : 2.610000,
+      "start" : 1.920000,
+      "word" : "continua"
+    }, {
+      "conf" : 0.763035,
+      "end" : 3.300000,
+      "start" : 2.610000,
+      "word" : "administren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.300000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.450000,
+      "word" : "finca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.900000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.140000,
+      "word" : "cavalls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 4.830000,
+      "word" : "emfatitzant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.850000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.030000,
+      "word" : "conservació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.110000,
+      "start" : 6.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.040000,
+      "start" : 7.110000,
+      "word" : "naturalesa"
+    }],
+  "text" : "la família boston continua administren la finca dels cavalls emfatitzant la conservació de la naturalesa"
+}

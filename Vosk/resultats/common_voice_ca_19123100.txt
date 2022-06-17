@@ -1,0 +1,119 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.840000,
+      "word" : "conducció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.290000,
+      "word" : "serà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.682009,
+      "start" : 1.590000,
+      "word" : "de"
+    }, {
+      "conf" : 0.391218,
+      "end" : 1.950000,
+      "start" : 1.682009,
+      "word" : "pb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.000923,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.190000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.280000,
+      "word" : "tres-cents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.850000,
+      "word" : "quinze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.210000,
+      "word" : "mil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.390000,
+      "word" : "límetres"
+    }, {
+      "conf" : 0.779474,
+      "end" : 4.020000,
+      "start" : 3.900000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.020000,
+      "word" : "veu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.260000,
+      "word" : "atmosferes"
+    }, {
+      "conf" : 0.860249,
+      "end" : 5.340000,
+      "start" : 4.800000,
+      "word" : "depressió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.340000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.460000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.610000,
+      "word" : "longitud"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.090000,
+      "word" : "total"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.420000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.960000,
+      "start" : 6.540000,
+      "word" : "dos-cents"
+    }, {
+      "conf" : 0.757919,
+      "end" : 7.500000,
+      "start" : 6.960000,
+      "word" : "quaranta-tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.040000,
+      "start" : 7.500000,
+      "word" : "metres"
+    }],
+  "text" : "la conducció serà de pb ser de tres-cents quinze mil límetres i veu atmosferes depressió amb una longitud total de dos-cents quaranta-tres metres"
+}

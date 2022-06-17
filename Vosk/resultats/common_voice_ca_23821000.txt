@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.510000,
+      "word" : "proliferació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.170000,
+      "word" : "cel·lular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.920000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.130000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.280000,
+      "word" : "activitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.910000,
+      "word" : "consumeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.480000,
+      "word" : "energia"
+    }],
+  "text" : "la proliferació cel·lular és una activitat que consumeix energia"
+}

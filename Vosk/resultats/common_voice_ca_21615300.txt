@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.900000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.470000,
+      "word" : "lideratge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.190000,
+      "word" : "pamina"
+    }, {
+      "conf" : 0.611576,
+      "end" : 3.090000,
+      "start" : 2.580000,
+      "word" : "ondes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.120000,
+      "word" : "l'hegemonia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.780000,
+      "word" : "de"
+    }, {
+      "conf" : 0.850362,
+      "end" : 4.230000,
+      "start" : 3.870000,
+      "word" : "tebes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.230000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.350000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.440000,
+      "word" : "esfondrar"
+    }],
+  "text" : "sense el lideratge de pamina ondes l'hegemonia de tebes es va esfondrar"
+}

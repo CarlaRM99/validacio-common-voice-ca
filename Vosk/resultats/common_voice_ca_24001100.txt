@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.750000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.110000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.440000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.560000,
+      "word" : "història"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.040000,
+      "word" : "oficial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.790000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.120000,
+      "word" : "podia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.480000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.690000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.870000,
+      "word" : "composició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.590000,
+      "word" : "romana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.190000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.340000,
+      "word" : "buscava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.030000,
+      "word" : "atreure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.540000,
+      "word" : "l'atenció"
+    }],
+  "text" : "això fou la història oficial però podia ser una composició romana que buscava atreure l'atenció"
+}

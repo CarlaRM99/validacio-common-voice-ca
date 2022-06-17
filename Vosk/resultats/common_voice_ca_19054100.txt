@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.660000,
+      "word" : "george"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.140000,
+      "word" : "washington"
+    }, {
+      "conf" : 0.531128,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 0.999158,
+      "end" : 2.429990,
+      "start" : 1.770000,
+      "word" : "presidia"
+    }],
+  "text" : "george washington de presidia"
+}

@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.630000,
+      "word" : "susan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.380000,
+      "word" : "troben"
+    }, {
+      "conf" : 0.631600,
+      "end" : 2.370000,
+      "start" : 2.040000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.400000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.550000,
+      "word" : "dirigir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.180000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.510000,
+      "word" : "coreografiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.680000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.890000,
+      "word" : "vestits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.460000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.640000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 5.790000,
+      "word" : "dissenyat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.570000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.780000,
+      "word" : "william"
+    }, {
+      "conf" : 0.908442,
+      "end" : 7.915558,
+      "start" : 7.770000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.220000,
+      "start" : 7.915558,
+      "word" : "ibi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.580000,
+      "start" : 8.220000,
+      "word" : "l'ong"
+    }],
+  "text" : "susan es troben tant va dirigir com coreografiar els vestits van ser dissenyat per william a ibi l'ong"
+}

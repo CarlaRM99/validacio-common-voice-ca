@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.600000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.720000,
+      "word" : "quina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.080000,
+      "word" : "hora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.380000,
+      "word" : "passa"
+    }, {
+      "conf" : 0.670505,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.890000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.190000,
+      "word" : "autobús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.700000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.880000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.120000,
+      "word" : "valls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.450000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.570000,
+      "word" : "valira"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.170000,
+      "word" : "l'onze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.590000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.680000,
+      "word" : "juliol"
+    }],
+  "text" : "a quina hora passa el primer autobús per les valls de valira l'onze de juliol"
+}

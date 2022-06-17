@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.781466,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.990000,
+      "word" : "formaran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.590000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.800000,
+      "word" : "família"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.310000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.520000,
+      "word" : "fills"
+    }],
+  "text" : "i formaran una família amb sis fills"
+}

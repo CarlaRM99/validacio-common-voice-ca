@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.780000,
+      "word" : "cohabitació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.500000,
+      "word" : "d'aquests"
+    }, {
+      "conf" : 0.832850,
+      "end" : 2.400000,
+      "start" : 1.890000,
+      "word" : "caos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.400000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.610000,
+      "word" : "prou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.850000,
+      "word" : "comú"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.660000,
+      "word" : "particularment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.590000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.980000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.130000,
+      "word" : "parelles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 5.640000,
+      "word" : "reproductores"
+    }],
+  "text" : "la cohabitació d'aquests caos és prou comú particularment entre les parelles reproductores"
+}

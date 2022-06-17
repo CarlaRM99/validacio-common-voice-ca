@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.636436,
+      "end" : 1.140000,
+      "start" : 0.630000,
+      "word" : "work"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.410000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.680000,
+      "word" : "emigrar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.010000,
+      "word" : "després"
+    }, {
+      "conf" : 0.730457,
+      "end" : 2.580000,
+      "start" : 2.430000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.580000,
+      "word" : "estats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.910000,
+      "word" : "units"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.300000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.480000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.570000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.379995,
+      "start" : 3.780000,
+      "word" : "pares"
+    }],
+  "text" : "work va emigrar després als estats units amb els seus pares"
+}

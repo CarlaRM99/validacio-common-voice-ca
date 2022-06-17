@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.420000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.630000,
+      "word" : "construïda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.290000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.380000,
+      "word" : "maçoneria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "i"
+    }, {
+      "conf" : 0.730255,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.310000,
+      "word" : "afegitons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.970000,
+      "word" : "ciment"
+    }],
+  "text" : "és construïda amb maçoneria i té afegitons de ciment"
+}

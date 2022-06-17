@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.849948,
+      "end" : 1.020000,
+      "start" : 0.540000,
+      "word" : "quines"
+    }, {
+      "conf" : 0.336957,
+      "end" : 1.530000,
+      "start" : 1.050000,
+      "word" : "parades"
+    }, {
+      "conf" : 0.832363,
+      "end" : 1.740000,
+      "start" : 1.530000,
+      "word" : "fa"
+    }, {
+      "conf" : 0.907657,
+      "end" : 2.370000,
+      "start" : 1.750869,
+      "word" : "l'autobús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.520000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.000000,
+      "word" : "parlava"
+    }],
+  "text" : "quines parades fa l'autobús que va a parlava"
+}

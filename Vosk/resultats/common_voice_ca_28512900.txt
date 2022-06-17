@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.488403,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.969084,
+      "end" : 1.284501,
+      "start" : 0.990000,
+      "word" : "baixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.290000,
+      "word" : "bristol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.710000,
+      "word" : "connecti"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.130000,
+      "word" : "cat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.670000,
+      "word" : "espectre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.360000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.630000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.750000,
+      "word" : "publicar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.200000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.440000,
+      "word" : "sèries"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.800000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 5.010000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.070000,
+      "word" : "seva"
+    }, {
+      "conf" : 0.999912,
+      "end" : 6.059999,
+      "start" : 5.250000,
+      "word" : "existència"
+    }],
+  "text" : "amb baixa bristol connecti cat espectre només va publicar tres sèries durant la seva existència"
+}

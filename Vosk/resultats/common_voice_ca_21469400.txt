@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.630000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.870000,
+      "word" : "do"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.050000,
+      "word" : "major"
+    }],
+  "text" : "en do major"
+}

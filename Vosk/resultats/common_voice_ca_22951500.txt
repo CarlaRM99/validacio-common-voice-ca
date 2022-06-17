@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.420000,
+      "word" : "l'acompanyen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.350000,
+      "word" : "figueres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.950000,
+      "word" : "nogueres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.580000,
+      "word" : "moreres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.090000,
+      "word" : "blanques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.720000,
+      "word" : "llúpols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.290000,
+      "word" : "esbarzers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.010000,
+      "word" : "canyissos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.730000,
+      "word" : "malves"
+    }, {
+      "conf" : 0.600216,
+      "end" : 6.870000,
+      "start" : 6.330000,
+      "word" : "morillas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.990000,
+      "word" : "paret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.590000,
+      "start" : 7.470000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.920000,
+      "start" : 7.590000,
+      "word" : "bolets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.310000,
+      "start" : 7.920000,
+      "word" : "blanc"
+    }],
+  "text" : "l'acompanyen figueres nogueres moreres blanques llúpols esbarzers canyissos malves morillas de paret i bolets blanc"
+}

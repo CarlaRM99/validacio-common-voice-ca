@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.510000,
+      "word" : "porta"
+    }, {
+      "conf" : 0.793910,
+      "end" : 1.620000,
+      "start" : 1.230000,
+      "word" : "dóna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.620000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.950000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.010000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.130000,
+      "word" : "petit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.610000,
+      "word" : "pati"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.150000,
+      "word" : "d'accés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.720000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.870000,
+      "word" : "escala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.200000,
+      "word" : "metàl·lica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.721777,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.830000,
+      "word" : "planta"
+    }],
+  "text" : "la porta dóna lloc a un petit pati d'accés amb escala metàl·lica la planta"
+}

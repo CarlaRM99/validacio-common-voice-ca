@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.870000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.110000,
+      "word" : "capelles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.860000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.250000,
+      "word" : "quadrada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.940000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.270000,
+      "word" : "obertures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.110000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.290000,
+      "word" : "costats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 4.770000,
+      "word" : "contigus"
+    }],
+  "text" : "les capelles de planta quadrada tenen obertures als costats contigus"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.570000,
+      "word" : "compost"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.410000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.620000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.040000,
+      "word" : "baixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.460000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.580000,
+      "word" : "pis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.000000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.480000,
+      "word" : "golfes"
+    }],
+  "text" : "compost per planta baixa i pis sense golfes"
+}

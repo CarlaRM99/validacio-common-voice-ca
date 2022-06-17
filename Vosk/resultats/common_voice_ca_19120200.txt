@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.960000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.564796,
+      "start" : 1.050000,
+      "word" : "document"
+    }, {
+      "conf" : 0.579929,
+      "end" : 2.040000,
+      "start" : 1.590000,
+      "word" : "emès"
+    }, {
+      "conf" : 0.581509,
+      "end" : 2.517746,
+      "start" : 2.340000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.517746,
+      "word" : "beneficiari"
+    }, {
+      "conf" : 0.904675,
+      "end" : 4.140000,
+      "start" : 3.510000,
+      "word" : "acceptarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.140000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.320000,
+      "word" : "condicions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.770000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.920000,
+      "word" : "préstec"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 5.910000,
+      "word" : "inclòs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 6.930000,
+      "word" : "el"
+    }, {
+      "conf" : 0.624931,
+      "end" : 7.320000,
+      "start" : 7.140000,
+      "word" : "pla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.440000,
+      "start" : 7.342504,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.190000,
+      "start" : 7.440000,
+      "word" : "venciments"
+    }],
+  "text" : "en el document emès per beneficiari acceptarà les condicions del préstec inclòs el pla de venciments"
+}

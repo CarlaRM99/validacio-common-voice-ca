@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.768367,
+      "end" : 1.110000,
+      "start" : 0.840000,
+      "word" : "dona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.110000,
+      "word" : "peculiaritat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.830000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.890000,
+      "word" : "l'edifici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.490000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.640000,
+      "word" : "torre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.940000,
+      "word" : "coronada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.450000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.660000,
+      "word" : "panell"
+    }],
+  "text" : "dona peculiaritat a l'edifici la torre coronada amb un panell"
+}

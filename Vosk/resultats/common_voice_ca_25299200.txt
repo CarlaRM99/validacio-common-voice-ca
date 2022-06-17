@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.810000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.110000,
+      "word" : "bon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.530000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.770000,
+      "word" : "frontera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.460000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.843642,
+      "end" : 3.270000,
+      "start" : 2.700000,
+      "word" : "kenya"
+    }],
+  "text" : "el bon a la frontera amb kenya"
+}

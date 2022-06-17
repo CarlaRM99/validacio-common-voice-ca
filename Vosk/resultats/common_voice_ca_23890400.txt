@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.350000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.650000,
+      "word" : "aviat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.310000,
+      "word" : "queda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.640000,
+      "word" : "petit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.180000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.300000,
+      "word" : "obsolet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.990000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.140000,
+      "word" : "es"
+    }, {
+      "conf" : 0.585326,
+      "end" : 4.735151,
+      "start" : 4.260000,
+      "word" : "decideix"
+    }, {
+      "conf" : 0.719934,
+      "end" : 5.130000,
+      "start" : 4.789341,
+      "word" : "lugar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.130000,
+      "word" : "l'envelat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.730000,
+      "word" : "situat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 6.300000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 6.390000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 6.510000,
+      "word" : "platja"
+    }],
+  "text" : "molt aviat queda petit i obsolet i es decideix lugar l'envelat situat a la platja"
+}

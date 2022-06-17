@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.735985,
+      "end" : 0.690000,
+      "start" : 0.480000,
+      "word" : "què"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.690000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.990000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.080000,
+      "word" : "president"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.770000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.950000,
+      "word" : "parlament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.580000,
+      "word" : "flamenc"
+    }],
+  "text" : "què és el president del parlament flamenc"
+}

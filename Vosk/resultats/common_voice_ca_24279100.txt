@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.750000,
+      "word" : "línia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.230000,
+      "word" : "lateral"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.819999,
+      "start" : 1.830000,
+      "word" : "incompleta"
+    }],
+  "text" : "la línia lateral incompleta"
+}

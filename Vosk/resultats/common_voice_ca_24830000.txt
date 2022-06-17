@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.406994,
+      "end" : 1.020000,
+      "start" : 0.630000,
+      "word" : "vàter"
+    }, {
+      "conf" : 0.898347,
+      "end" : 1.620000,
+      "start" : 1.036409,
+      "word" : "cohorts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.010000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.190000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.400000,
+      "word" : "fills"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.730000,
+      "word" : "vius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.780000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.020000,
+      "word" : "filla"
+    }, {
+      "conf" : 0.860208,
+      "end" : 5.220000,
+      "start" : 4.530000,
+      "word" : "bean"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.490000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.610000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.700000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 5.880000,
+      "word" : "germà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.320000,
+      "start" : 6.570000,
+      "word" : "brandon"
+    }],
+  "text" : "vàter cohorts té dos fills vius una filla bean i el seu germà brandon"
+}

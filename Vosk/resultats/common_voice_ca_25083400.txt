@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.960000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.140000,
+      "word" : "quedar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.410000,
+      "word" : "assegut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.920000,
+      "word" : "mirant"
+    }, {
+      "conf" : 0.562652,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.370000,
+      "word" : "cel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.700000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.000000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.180000,
+      "word" : "bona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.450000,
+      "word" : "estona"
+    }],
+  "text" : "es va quedar assegut mirant al cel durant una bona estona"
+}

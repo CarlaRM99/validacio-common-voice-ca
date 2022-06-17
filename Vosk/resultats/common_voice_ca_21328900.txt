@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.630000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "estudiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "arts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.500000,
+      "word" : "escèniques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.220000,
+      "word" : "l'acadèmia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.790000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.970000,
+      "word" : "música"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.390000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.450000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.630000,
+      "word" : "arts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.840000,
+      "word" : "escèniques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.560000,
+      "word" : "bratislava"
+    }],
+  "text" : "va estudiar arts escèniques en l'acadèmia de la música i les arts escèniques de bratislava"
+}

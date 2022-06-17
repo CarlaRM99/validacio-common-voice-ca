@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.390000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.810000,
+      "word" : "normalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 1.620000,
+      "word" : "ectoparàsits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.730000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.880000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.970000,
+      "word" : "festa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.630000,
+      "word" : "copèpodes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.560000,
+      "word" : "isòpodes"
+    }, {
+      "conf" : 0.801280,
+      "end" : 5.880000,
+      "start" : 5.610000,
+      "word" : "tant"
+    }, {
+      "conf" : 0.696907,
+      "end" : 5.970000,
+      "start" : 5.880000,
+      "word" : "a"
+    }, {
+      "conf" : 0.696907,
+      "end" : 6.090000,
+      "start" : 5.970000,
+      "word" : "i"
+    }, {
+      "conf" : 0.696907,
+      "end" : 6.720000,
+      "start" : 6.090000,
+      "word" : "dacis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.740000,
+      "start" : 6.810000,
+      "word" : "amfípodes"
+    }, {
+      "conf" : 0.829848,
+      "end" : 8.370000,
+      "start" : 7.800000,
+      "word" : "il·lustrar"
+    }, {
+      "conf" : 0.809373,
+      "end" : 8.730000,
+      "start" : 8.370000,
+      "word" : "code"
+    }],
+  "text" : "són normalment ectoparàsits que i festa copèpodes isòpodes tant a i dacis amfípodes il·lustrar code"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.900000,
+      "word" : "flors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.350000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.650000,
+      "word" : "blanques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.400000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.610000,
+      "word" : "flairoses"
+    }],
+  "text" : "les flors són blanques i molt flairoses"
+}

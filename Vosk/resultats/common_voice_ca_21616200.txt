@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.540000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.990000,
+      "word" : "símptomes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.500000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.830000,
+      "word" : "ocórrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.250000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.340000,
+      "word" : "sobte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.760000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.850000,
+      "word" : "desenvolupant-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.660000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.930000,
+      "word" : "mesos"
+    }],
+  "text" : "aquests símptomes poden ocórrer de sobte o desenvolupant-se durant mesos"
+}

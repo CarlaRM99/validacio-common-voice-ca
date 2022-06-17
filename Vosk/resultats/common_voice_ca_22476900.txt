@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.630000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.780000,
+      "word" : "camerun"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.230000,
+      "word" : "francès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.920000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.130000,
+      "word" : "superar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.550000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.640000,
+      "word" : "britànic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.300000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.450000,
+      "word" : "producte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.960000,
+      "word" : "nacional"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.410000,
+      "word" : "brut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 4.980000,
+      "word" : "educació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.910000,
+      "word" : "i"
+    }, {
+      "conf" : 0.668009,
+      "end" : 6.660000,
+      "start" : 6.030000,
+      "word" : "facilitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.530000,
+      "start" : 6.679920,
+      "word" : "sanitàries"
+    }],
+  "text" : "el camerun francès va superar el britànic en producte nacional brut educació i facilitat sanitàries"
+}

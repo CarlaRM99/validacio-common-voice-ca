@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.330000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.540000,
+      "word" : "costat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.020000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.140000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.260000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.221477,
+      "start" : 1.890000,
+      "word" : "també"
+    }, {
+      "conf" : 0.647569,
+      "end" : 2.310000,
+      "start" : 2.221477,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.336496,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.520000,
+      "word" : "petita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.850000,
+      "word" : "finestra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.420000,
+      "word" : "bastant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.870000,
+      "word" : "elevada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.440000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.650000,
+      "word" : "enreixat"
+    }],
+  "text" : "al costat de la primera també i una petita finestra bastant elevada amb enreixat"
+}

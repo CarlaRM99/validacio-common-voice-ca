@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.900000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.110000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.503929,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.440000,
+      "word" : "món"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.620000,
+      "word" : "lampista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.490000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.700000,
+      "word" : "carrer"
+    }, {
+      "conf" : 0.591019,
+      "end" : 3.302854,
+      "start" : 3.150000,
+      "word" : "de"
+    }, {
+      "conf" : 0.476388,
+      "end" : 3.450000,
+      "start" : 3.302854,
+      "word" : "l"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.465708,
+      "word" : "alzina"
+    }],
+  "text" : "hi ha al món lampista al carrer de l alzina"
+}

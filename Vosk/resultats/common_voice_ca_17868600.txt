@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.690000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.930000,
+      "word" : "i"
+    }, {
+      "conf" : 0.846906,
+      "end" : 1.080000,
+      "start" : 0.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.080000,
+      "word" : "silenci"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.800000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.160000,
+      "word" : "sentia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "ni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.790000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.970000,
+      "word" : "ànima"
+    }],
+  "text" : "tot i la silenci no se sentia ni una ànima"
+}

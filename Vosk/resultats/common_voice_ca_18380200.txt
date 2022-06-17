@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.450000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.050000,
+      "word" : "cervelló"
+    }],
+  "text" : "venim de cervelló"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.437259,
+      "end" : 1.110000,
+      "start" : 0.600000,
+      "word" : "moià"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.140000,
+      "word" : "llegit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.920000,
+      "word" : "tot"
+    }, {
+      "conf" : 0.566145,
+      "end" : 2.880000,
+      "start" : 2.640000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.566145,
+      "end" : 2.935733,
+      "start" : 2.880000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.935733,
+      "word" : "escrit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.390000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.510000,
+      "word" : "petit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.900000,
+      "word" : "programa"
+    }],
+  "text" : "moià llegit tot hi ha escrit un petit programa"
+}

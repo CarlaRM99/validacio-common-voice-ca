@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.960000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.230000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.402822,
+      "start" : 1.320000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.760731,
+      "end" : 1.614773,
+      "start" : 1.440000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.614773,
+      "word" : "secció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.920000,
+      "word" : "d'arqueologia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.269999,
+      "start" : 2.580000,
+      "word" : "cristiana"
+    }],
+  "text" : "també hi ha més secció d'arqueologia cristiana"
+}

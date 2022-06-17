@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.600000,
+      "word" : "vols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.050000,
+      "word" : "dir"
+    }],
+  "text" : "vols dir"
+}

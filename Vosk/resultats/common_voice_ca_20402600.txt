@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.640683,
+      "end" : 1.110000,
+      "start" : 0.630000,
+      "word" : "cobert"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.120780,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.230000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.410000,
+      "word" : "teulada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.010000,
+      "word" : "vessants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.520000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.580000,
+      "word" : "laterals"
+    }],
+  "text" : "cobert amb una teulada de vessants a laterals"
+}

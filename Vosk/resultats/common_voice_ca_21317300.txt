@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.330000,
+      "word" : "abans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.720000,
+      "word" : "d'això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.290000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.770000,
+      "word" : "dedicava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.520000,
+      "word" : "cantant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.000000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.120000,
+      "word" : "dutxa"
+    }],
+  "text" : "abans d'això només es dedicava a cantant la dutxa"
+}

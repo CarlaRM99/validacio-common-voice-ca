@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.690000,
+      "word" : "val"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.050000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.350000,
+      "word" : "callar"
+    }],
+  "text" : "val més callar"
+}

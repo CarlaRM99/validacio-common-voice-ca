@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 0.990000,
+      "word" : "nord-americans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.920000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.070000,
+      "word" : "assabentar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.700000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.000000,
+      "word" : "reds"
+    }, {
+      "conf" : 0.734437,
+      "end" : 3.720000,
+      "start" : 3.360000,
+      "word" : "trix"
+    }, {
+      "conf" : 0.633552,
+      "end" : 4.110000,
+      "start" : 3.720000,
+      "word" : "estava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.140000,
+      "word" : "portar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.470000,
+      "word" : "armes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.800000,
+      "word" : "florida"
+    }],
+  "text" : "els nord-americans es van assabentar que els reds trix estava portar armes de florida"
+}

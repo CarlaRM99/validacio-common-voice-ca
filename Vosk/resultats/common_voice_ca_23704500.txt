@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.780000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.900000,
+      "word" : "publicat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.590000,
+      "word" : "obres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.980000,
+      "word" : "d'història"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.520000,
+      "word" : "bretanya"
+    }, {
+      "conf" : 0.581136,
+      "end" : 3.630000,
+      "start" : 3.510000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.630000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.660000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 3.960000,
+      "word" : "condecorat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.190000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.370000,
+      "word" : "l'orde"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.120000,
+      "word" : "l'ermini"
+    }],
+  "text" : "ha publicat obres d'història de bretanya i ha estat condecorat amb l'orde de l'ermini"
+}

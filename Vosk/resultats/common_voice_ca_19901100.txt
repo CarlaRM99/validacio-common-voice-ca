@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.960000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.620000,
+      "word" : "l'esdevenidor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.670000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.180000,
+      "word" : "l'àmbit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.720000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.810000,
+      "word" : "treball"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.470000,
+      "word" : "mai"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.010000,
+      "word" : "l'objecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.610000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.700000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 5.820000,
+      "word" : "prospectiva"
+    }],
+  "text" : "per tant l'esdevenidor és l'àmbit de treball mai l'objecte de la prospectiva"
+}

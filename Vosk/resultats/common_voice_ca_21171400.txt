@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.380000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.830000,
+      "word" : "església"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.460000,
+      "word" : "sufragània"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.360000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.510000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.600000,
+      "word" : "parròquia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.140000,
+      "word" : "de"
+    }, {
+      "conf" : 0.666582,
+      "end" : 4.500000,
+      "start" : 4.200000,
+      "word" : "caça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.500000,
+      "word" : "fabra"
+    }],
+  "text" : "era església sufragània de la parròquia de caça fabra"
+}

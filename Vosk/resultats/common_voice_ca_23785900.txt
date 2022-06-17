@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.850959,
+      "end" : 0.660000,
+      "start" : 0.480000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.660000,
+      "word" : "cinema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.380000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.530000,
+      "word" : "vocació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.070000,
+      "word" : "comercial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 2.970000,
+      "word" : "especialment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.870000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.050000,
+      "word" : "nord-americà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.070000,
+      "word" : "sol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.460000,
+      "word" : "doblar-se"
+    }],
+  "text" : "el cinema amb vocació comercial especialment el nord-americà sol doblar-se"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.690000,
+      "word" : "romans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.260000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.410000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.800000,
+      "word" : "últim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.310000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.580000,
+      "word" : "acabar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.090000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.360000,
+      "word" : "ella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.810000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.020000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.140000,
+      "word" : "quedar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.500000,
+      "word" : "embarassada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.190000,
+      "word" : "d'ell"
+    }],
+  "text" : "els romans amb aquest últim va acabar quan ella es va quedar embarassada d'ell"
+}

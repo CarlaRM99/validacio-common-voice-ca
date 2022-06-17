@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.630000,
+      "word" : "buscava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.410000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.620000,
+      "word" : "millors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.070000,
+      "word" : "músics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.700000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.970000,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.300000,
+      "word" : "mena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 3.810000,
+      "word" : "d'esdeveniments"
+    }],
+  "text" : "buscava els millors músics per a tota mena d'esdeveniments"
+}

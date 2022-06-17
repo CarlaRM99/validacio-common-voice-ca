@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.240000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.540000,
+      "word" : "excavacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.290000,
+      "word" : "realitzades"
+    }, {
+      "conf" : 0.722989,
+      "end" : 2.190000,
+      "start" : 2.010000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.190000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.370000,
+      "word" : "voltants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.060000,
+      "word" : "han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.210000,
+      "word" : "permès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.840000,
+      "word" : "trobar-hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.260000,
+      "word" : "restes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.890000,
+      "word" : "ceràmica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.610000,
+      "word" : "almohade"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 6.420000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 6.510000,
+      "word" : "posterior"
+    }],
+  "text" : "les excavacions realitzades als seus voltants han permès trobar-hi restes de ceràmica almohade i posterior"
+}

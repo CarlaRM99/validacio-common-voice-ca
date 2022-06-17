@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.750000,
+      "word" : "solució"
+    }, {
+      "conf" : 0.814753,
+      "end" : 1.401899,
+      "start" : 1.260000,
+      "word" : "bé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.416601,
+      "word" : "consisteix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.160000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.400000,
+      "word" : "variant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.760000,
+      "word" : "que"
+    }, {
+      "conf" : 0.890357,
+      "end" : 3.630000,
+      "start" : 2.880000,
+      "word" : "circula"
+    }, {
+      "conf" : 0.546254,
+      "end" : 4.080000,
+      "start" : 3.930000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.080000,
+      "word" : "sud"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.380000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.470000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.560000,
+      "word" : "carretera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.010000,
+      "word" : "actual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 5.850000,
+      "word" : "allunyant-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.570000,
+      "word" : "uns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.200000,
+      "start" : 6.720000,
+      "word" : "cinc-cents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.890000,
+      "start" : 7.200000,
+      "word" : "metres"
+    }],
+  "text" : "la solució bé consisteix en una variant que circula pel sud de la carretera actual allunyant-se uns cinc-cents metres"
+}

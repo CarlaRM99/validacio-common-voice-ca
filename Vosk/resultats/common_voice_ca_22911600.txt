@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.540000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.020000,
+      "word" : "llibres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.560000,
+      "word" : "han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.740000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.100000,
+      "word" : "traduïts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.760000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.850000,
+      "word" : "trenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.300000,
+      "word" : "idiomes"
+    }],
+  "text" : "els seus llibres han estat traduïts a trenta idiomes"
+}

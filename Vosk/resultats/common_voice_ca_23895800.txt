@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.781332,
+      "end" : 0.780000,
+      "start" : 0.480000,
+      "word" : "vam"
+    }, {
+      "conf" : 0.852754,
+      "end" : 1.140000,
+      "start" : 0.780000,
+      "word" : "prendre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.140000,
+      "word" : "llavors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.680000,
+      "word" : "tasca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.070000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.160000,
+      "word" : "reflectir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.940000,
+      "word" : "llum"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.210000,
+      "word" : "local"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.690000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.780000,
+      "word" : "l'aquarel·la"
+    }],
+  "text" : "vam prendre llavors la tasca de reflectir la llum local a l'aquarel·la"
+}

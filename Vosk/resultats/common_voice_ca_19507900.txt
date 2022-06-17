@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.990000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.470000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.680000,
+      "word" : "nord"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.100000,
+      "word" : "d'austràlia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.060000,
+      "word" : "i"
+    }, {
+      "conf" : 0.535285,
+      "end" : 3.300000,
+      "start" : 3.210000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.300000,
+      "word" : "sud"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.540000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.900000,
+      "word" : "papua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.530000,
+      "word" : "nova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.860000,
+      "word" : "guinea"
+    }],
+  "text" : "es troba al nord d'austràlia i al sud de papua nova guinea"
+}

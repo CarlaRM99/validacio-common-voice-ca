@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.320000,
+      "word" : "nivell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.800000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.040000,
+      "word" : "finestra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.460000,
+      "word" : "rectangular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.060000,
+      "word" : "horitzontal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.170000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.320000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.879367,
+      "start" : 4.500000,
+      "word" : "porta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.890000,
+      "word" : "balconera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.150000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.330000,
+      "word" : "barana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.170000,
+      "start" : 6.720000,
+      "word" : "forja"
+    }],
+  "text" : "el primer nivell una finestra rectangular horitzontal i una porta balconera amb barana de forja"
+}

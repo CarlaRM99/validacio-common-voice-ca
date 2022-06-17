@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.330290,
+      "end" : 1.108322,
+      "start" : 0.660000,
+      "word" : "està"
+    }, {
+      "conf" : 0.482053,
+      "end" : 1.319340,
+      "start" : 1.110000,
+      "word" : "dels"
+    }, {
+      "conf" : 0.941064,
+      "end" : 1.410000,
+      "start" : 1.319340,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.410000,
+      "word" : "rescatar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.860000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.980000,
+      "word" : "expedició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.640000,
+      "word" : "de"
+    }, {
+      "conf" : 0.722017,
+      "end" : 3.180000,
+      "start" : 2.820000,
+      "word" : "sara"
+    }, {
+      "conf" : 0.532219,
+      "end" : 3.780000,
+      "start" : 3.240000,
+      "word" : "aquella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.200000,
+      "word" : "enviada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.830000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.920000,
+      "word" : "descobrir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.880000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.240000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.480000,
+      "word" : "havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.780000,
+      "word" : "passat"
+    }],
+  "text" : "està dels va rescatar una expedició de sara aquella enviada a descobrir que els havia passat"
+}

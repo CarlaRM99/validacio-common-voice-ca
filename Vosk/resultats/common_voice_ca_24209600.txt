@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.480000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.720000,
+      "word" : "porta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.470000,
+      "word" : "migdia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.040000,
+      "word" : "conserva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.700000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.820000,
+      "word" : "ferramenta"
+    }, {
+      "conf" : 0.999869,
+      "end" : 4.259999,
+      "start" : 3.510000,
+      "word" : "original"
+    }],
+  "text" : "la porta a migdia conserva la ferramenta original"
+}

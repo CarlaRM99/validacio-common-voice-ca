@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.140000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.410000,
+      "word" : "instància"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.040000,
+      "word" : "produeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.730000,
+      "word" : "l'assentament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.570000,
+      "word" : "mil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.930000,
+      "word" : "cent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.320000,
+      "word" : "quaranta-sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.220000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.370000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.490000,
+      "word" : "diari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 5.940000,
+      "word" : "dos-cents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.560000,
+      "start" : 6.630000,
+      "word" : "trenta-sis"
+    }],
+  "text" : "la instància produeix l'assentament mil cent quaranta-sis en el diari dos-cents trenta-sis"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.635506,
+      "end" : 1.740000,
+      "start" : 1.290000,
+      "word" : "vegeu"
+    }, {
+      "conf" : 0.791097,
+      "end" : 2.280000,
+      "start" : 1.740000,
+      "word" : "l'arbre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.310000,
+      "word" : "genealògic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.420000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.510000,
+      "word" : "continuació"
+    }],
+  "text" : "vegeu l'arbre genealògic a continuació"
+}

@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.510000,
+      "word" : "comptes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.050000,
+      "word" : "clars"
+    }, {
+      "conf" : 0.400527,
+      "end" : 2.370000,
+      "start" : 1.950000,
+      "word" : "honrem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.400000,
+      "word" : "cares"
+    }],
+  "text" : "comptes clars honrem cares"
+}

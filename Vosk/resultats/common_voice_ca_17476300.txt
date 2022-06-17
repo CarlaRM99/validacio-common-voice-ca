@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.870000,
+      "word" : "acomiaden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.410000,
+      "word" : "obrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.950000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.310000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.550000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.640000,
+      "word" : "veu"
+    }],
+  "text" : "acomiaden obrer això és el que es veu"
+}

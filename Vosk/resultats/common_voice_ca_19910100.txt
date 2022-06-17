@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.660000,
+      "word" : "mentrestant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.620000,
+      "word" : "sicília"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.310000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.460000,
+      "word" : "obtenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.820000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.970000,
+      "word" : "govern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.360000,
+      "word" : "autònom"
+    }],
+  "text" : "mentrestant sicília va obtenir un govern autònom"
+}

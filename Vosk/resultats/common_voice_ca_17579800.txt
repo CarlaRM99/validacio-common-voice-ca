@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.660000,
+      "word" : "ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.780000,
+      "word" : "sento"
+    }],
+  "text" : "ho sento"
+}

@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.170000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.260000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.500000,
+      "word" : "moment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.436536,
+      "start" : 2.100000,
+      "word" : "fou"
+    }, {
+      "conf" : 0.590895,
+      "end" : 2.820000,
+      "start" : 2.436536,
+      "word" : "l'obra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 2.940000,
+      "word" : "referència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.131495,
+      "start" : 3.930000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.140000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.350000,
+      "word" : "generació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.160000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.280000,
+      "word" : "romanistes"
+    }],
+  "text" : "en el seu moment fou l'obra de referència per una generació de romanistes"
+}

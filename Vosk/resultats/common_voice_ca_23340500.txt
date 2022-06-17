@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.480000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.840000,
+      "word" : "teatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.350000,
+      "word" : "rep"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.620000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.710000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.010000,
+      "word" : "calderón"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.550000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.640000,
+      "word" : "barca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.210000,
+      "word" : "important"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050358,
+      "start" : 3.720000,
+      "word" : "poeta"
+    }, {
+      "conf" : 0.855118,
+      "end" : 4.080000,
+      "start" : 4.050358,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.080000,
+      "word" : "dramaturg"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.680000,
+      "word" : "espanyol"
+    }],
+  "text" : "aquest teatre rep el nom de calderón de la barca important poeta i dramaturg espanyol"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.990000,
+      "word" : "promoció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.530000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.590000,
+      "word" : "cavall"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.070000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.310000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.610000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.790000,
+      "word" : "necessària"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.420000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.570000,
+      "word" : "raons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 3.930000,
+      "word" : "defensives"
+    }],
+  "text" : "la promoció a cavall pot també ser necessària per raons defensives"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.846418,
+      "start" : 0.510000,
+      "word" : "fou"
+    }, {
+      "conf" : 0.658385,
+      "end" : 1.410000,
+      "start" : 0.846418,
+      "word" : "l'inici"
+    }, {
+      "conf" : 0.715820,
+      "end" : 1.680000,
+      "start" : 1.440000,
+      "word" : "d'uns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.682969,
+      "word" : "brillants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.190000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.580000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.850000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.060000,
+      "word" : "dècades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.570000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.810000,
+      "word" : "seixanta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.260000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.320000,
+      "word" : "setanta"
+    }],
+  "text" : "fou l'inici d'uns brillants anys durant les dècades dels seixanta i setanta"
+}

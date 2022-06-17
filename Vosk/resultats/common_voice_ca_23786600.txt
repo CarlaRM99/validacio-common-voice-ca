@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.570000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 1.020000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.110000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.170000,
+      "word" : "variants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.830000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.950000,
+      "word" : "inclouen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.610000,
+      "word" : "d'altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.090000,
+      "word" : "llavors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.630000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.870000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.050000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.170000,
+      "word" : "gira-sol"
+    }],
+  "text" : "també hi ha variants que inclouen d'altres llavors com les de gira-sol"
+}

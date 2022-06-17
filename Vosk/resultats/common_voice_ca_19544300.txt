@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.930000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.290000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.380000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.500000,
+      "word" : "mantenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.040000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.340000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.850000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.060000,
+      "word" : "segona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.480000,
+      "word" : "guerra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.840000,
+      "word" : "mundial"
+    }],
+  "text" : "això es va mantenir fins després de la segona guerra mundial"
+}

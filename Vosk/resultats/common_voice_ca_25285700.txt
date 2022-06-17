@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 0.510000,
+      "word" : "etimològicament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.890000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.100000,
+      "word" : "mot"
+    }, {
+      "conf" : 0.779342,
+      "end" : 3.150000,
+      "start" : 2.610000,
+      "word" : "assidus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.150000,
+      "word" : "luton"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.780000,
+      "word" : "significa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.224903,
+      "start" : 4.650000,
+      "word" : "crotona"
+    }, {
+      "conf" : 0.625490,
+      "end" : 5.670000,
+      "start" : 5.224903,
+      "word" : "àcid"
+    }],
+  "text" : "etimològicament el mot assidus luton significa crotona àcid"
+}

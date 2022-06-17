@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.840000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.170000,
+      "word" : "herbívors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.800000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.860000,
+      "word" : "mengen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.310000,
+      "word" : "fulles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.850000,
+      "word" : "flors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.300000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.390000,
+      "word" : "fruites"
+    }],
+  "text" : "són herbívors i mengen fulles flors i fruites"
+}

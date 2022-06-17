@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.960000,
+      "word" : "pel·lícula"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.710000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.220000,
+      "word" : "crítiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.820000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.150000,
+      "word" : "negatives"
+    }],
+  "text" : "la pel·lícula va rebre crítiques molt negatives"
+}

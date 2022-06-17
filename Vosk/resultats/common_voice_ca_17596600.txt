@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.660000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.960000,
+      "word" : "bona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.230000,
+      "word" : "lluna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.500000,
+      "word" : "aquella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.980000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.220000,
+      "word" : "nous"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.550000,
+      "word" : "magraners"
+    }, {
+      "conf" : 0.600865,
+      "end" : 3.360000,
+      "start" : 3.090000,
+      "word" : "feren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.360000,
+      "word" : "bondat"
+    }],
+  "text" : "fou bona lluna aquella que els nous magraners feren bondat"
+}

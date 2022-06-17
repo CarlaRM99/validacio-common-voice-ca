@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.810000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.260000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.410000,
+      "word" : "sistema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.830000,
+      "word" : "operatiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.970000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.120000,
+      "word" : "ordinador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.660000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.840000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.020000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.290000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.440000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.590000,
+      "word" : "batibull"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.430000,
+      "word" : "cables"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.910000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.000000,
+      "word" : "metall"
+    }],
+  "text" : "sense un sistema operatiu un ordinador no és més que un batibull de cables i metall"
+}

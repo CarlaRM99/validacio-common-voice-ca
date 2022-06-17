@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.510000,
+      "word" : "decoració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.290000,
+      "word" : "resta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.770000,
+      "word" : "façanes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.670000,
+      "word" : "segueix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.270000,
+      "word" : "línia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.690000,
+      "word" : "ornamental"
+    }],
+  "text" : "la decoració de la resta de façanes segueix línia ornamental"
+}

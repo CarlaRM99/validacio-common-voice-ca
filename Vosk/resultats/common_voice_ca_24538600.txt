@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.570000,
+      "word" : "va"
+    }, {
+      "conf" : 0.733515,
+      "end" : 1.170000,
+      "start" : 0.810000,
+      "word" : "provenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.170000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.350000,
+      "word" : "celtes"
+    }],
+  "text" : "va provenir dels celtes"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.600000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.990000,
+      "word" : "trobareu"
+    }, {
+      "conf" : 0.635124,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.530000,
+      "word" : "cd"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.830000,
+      "word" : "d'instal·lació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.700000,
+      "word" : "l'ubuntu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.330000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.510000,
+      "word" : "d'on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.660000,
+      "word" : "s'iniciarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.170000,
+      "word" : "automàticament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.860000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.980000,
+      "word" : "inserir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.400000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.490000,
+      "word" : "cd"
+    }],
+  "text" : "també trobareu el cd d'instal·lació de l'ubuntu des d'on s'iniciarà automàticament en inserir el cd"
+}

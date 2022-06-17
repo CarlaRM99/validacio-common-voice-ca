@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.810000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.110000,
+      "word" : "necessitats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 1.770000,
+      "word" : "empresarials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.330000,
+      "word" : "variaran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.930000,
+      "word" : "enormement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.830000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.250000,
+      "word" : "períodes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.790000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.880000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.150000,
+      "word" : "diferents"
+    }],
+  "text" : "les necessitats empresarials variaran enormement durant períodes de temps diferents"
+}

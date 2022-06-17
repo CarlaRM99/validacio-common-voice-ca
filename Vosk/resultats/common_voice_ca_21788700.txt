@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.600000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.200000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.470000,
+      "word" : "incorporat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.370000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.460000,
+      "word" : "diferents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.180000,
+      "word" : "arts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.510000,
+      "word" : "teatrals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.110000,
+      "word" : "japoneses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.010000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.340000,
+      "word" : "enllà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.940000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.210000,
+      "word" : "kabuki"
+    }],
+  "text" : "això s'ha incorporat a diferents arts teatrals japoneses més enllà del kabuki"
+}

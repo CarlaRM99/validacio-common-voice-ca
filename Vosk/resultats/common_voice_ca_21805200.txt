@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.734868,
+      "end" : 0.990000,
+      "start" : 0.570000,
+      "word" : "formar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.990000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.230000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.320000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.500000,
+      "word" : "instal·lacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.190000,
+      "word" : "centralitzades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.030000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.869996,
+      "start" : 3.120000,
+      "word" : "calefacció"
+    }],
+  "text" : "formar part de les instal·lacions centralitzades de calefacció"
+}

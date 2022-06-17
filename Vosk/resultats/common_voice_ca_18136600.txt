@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.930000,
+      "word" : "retallades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.590000,
+      "word" : "comencen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.100000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.190000,
+      "word" : "tocar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "la"
+    }, {
+      "conf" : 0.727906,
+      "end" : 2.910000,
+      "start" : 2.640000,
+      "word" : "pera"
+    }, {
+      "conf" : 0.727906,
+      "end" : 3.030000,
+      "start" : 2.910000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.030000,
+      "word" : "veritat"
+    }],
+  "text" : "les retallades comencen a tocar la pera de veritat"
+}

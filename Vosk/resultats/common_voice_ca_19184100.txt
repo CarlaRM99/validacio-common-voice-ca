@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.859378,
+      "end" : 1.558301,
+      "start" : 0.960000,
+      "word" : "sabaté"
+    }, {
+      "conf" : 0.788948,
+      "end" : 1.650000,
+      "start" : 1.558301,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.650000,
+      "word" : "amic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.980000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.040000,
+      "word" : "parent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.000000,
+      "word" : "cal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.300000,
+      "word" : "secà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.990000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.110000,
+      "word" : "dolent"
+    }],
+  "text" : "sabaté i amic o parent cal secà i dolent"
+}

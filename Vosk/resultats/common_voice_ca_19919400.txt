@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.810000,
+      "word" : "l'exterior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.650000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.740000,
+      "word" : "catedral"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.310000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.460000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.700000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.030000,
+      "word" : "modificat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.810000,
+      "word" : "l'època"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.230000,
+      "word" : "barroca"
+    }],
+  "text" : "l'exterior de la catedral va ser molt modificat en l'època barroca"
+}

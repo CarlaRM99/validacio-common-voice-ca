@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.960000,
+      "word" : "vots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.290000,
+      "word" : "blanc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.680000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.010000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.160000,
+      "word" : "considerats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.730000,
+      "word" : "nuls"
+    }],
+  "text" : "els vots en blanc van ser considerats nuls"
+}

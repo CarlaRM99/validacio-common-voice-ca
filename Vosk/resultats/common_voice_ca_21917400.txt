@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.960000,
+      "word" : "paula"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.440000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.620000,
+      "word" : "capaç"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.010000,
+      "word" : "d'absorbir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.730000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.820000,
+      "word" : "empresonar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.720000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.200000,
+      "word" : "éssers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.830000,
+      "word" : "almenys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.280000,
+      "word" : "temporalment"
+    }],
+  "text" : "la paula és capaç d'absorbir i empresonar altres éssers almenys temporalment"
+}

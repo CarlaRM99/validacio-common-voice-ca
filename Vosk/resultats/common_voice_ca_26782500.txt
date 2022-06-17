@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 0.900000,
+      "word" : "desenvolupar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.950000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.130000,
+      "word" : "coop"
+    }, {
+      "conf" : 0.554009,
+      "end" : 3.180000,
+      "start" : 2.670000,
+      "word" : "elogia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.181975,
+      "word" : "cristal·lina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.050000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.140000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.290000,
+      "word" : "cour"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.650000,
+      "word" : "murgia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.310000,
+      "word" : "rígida"
+    }],
+  "text" : "va desenvolupar la coop elogia cristal·lina i la cour murgia rígida"
+}

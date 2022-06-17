@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.050000,
+      "word" : "adults"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.830000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.010000,
+      "word" : "mouen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.370000,
+      "word" : "nedant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.940000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.360000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.450000,
+      "word" : "vegetació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.080000,
+      "word" : "aquàtica"
+    }],
+  "text" : "els adults es mouen nedant entre la vegetació aquàtica"
+}

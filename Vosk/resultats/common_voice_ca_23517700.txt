@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.960000,
+      "word" : "sota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.530000,
+      "word" : "cúpula"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.160000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.499325,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.610000,
+      "word" : "cripta"
+    }],
+  "text" : "sota la cúpula es troba la cripta"
+}

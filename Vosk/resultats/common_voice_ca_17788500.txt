@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.900000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "de"
+    }, {
+      "conf" : 0.999949,
+      "end" : 2.309998,
+      "start" : 1.470000,
+      "word" : "babies"
+    }],
+  "text" : "venim de babies"
+}

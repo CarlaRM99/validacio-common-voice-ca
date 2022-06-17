@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.770595,
+      "end" : 0.952821,
+      "start" : 0.540000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.020000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.140000,
+      "word" : "detingut"
+    }, {
+      "conf" : 0.844920,
+      "end" : 2.820000,
+      "start" : 1.770000,
+      "word" : "seixanta-un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 2.880000,
+      "word" : "immigrants"
+    }],
+  "text" : "que ha detingut seixanta-un immigrants"
+}

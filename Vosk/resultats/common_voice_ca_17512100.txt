@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.313946,
+      "start" : 1.740000,
+      "word" : "orbi"
+    }, {
+      "conf" : 0.837891,
+      "end" : 2.458874,
+      "start" : 2.313946,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.458874,
+      "word" : "amic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.000000,
+      "word" : "l'antic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.810000,
+      "word" : "casa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.260000,
+      "word" : "barca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.620000,
+      "word" : "i"
+    }, {
+      "conf" : 0.768365,
+      "end" : 5.100000,
+      "start" : 4.680000,
+      "word" : "dona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.130000,
+      "word" : "nova"
+    }],
+  "text" : "orbi i amic l'antic casa barca i dona nova"
+}

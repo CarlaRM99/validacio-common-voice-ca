@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.810000,
+      "word" : "desenes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.650000,
+      "word" : "segurament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.220000,
+      "word" : "centenars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.850000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 2.940000,
+      "word" : "persones"
+    }],
+  "text" : "desenes segurament centenars de persones"
+}

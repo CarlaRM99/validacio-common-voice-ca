@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.834586,
+      "end" : 1.680000,
+      "start" : 0.960000,
+      "word" : "s'inicià"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.680000,
+      "word" : "així"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.340000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.610000,
+      "word" : "nova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.850000,
+      "word" : "etapa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.390000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.540000,
+      "word" : "modernització"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.860000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.040000,
+      "word" : "l'estructura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 5.790000,
+      "word" : "productiva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.570000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.710000,
+      "start" : 6.720000,
+      "word" : "organitzativa"
+    }],
+  "text" : "s'inicià així una nova etapa de modernització de l'estructura productiva i organitzativa"
+}

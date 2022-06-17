@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.564669,
+      "end" : 2.323052,
+      "start" : 2.070000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.323052,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.460000,
+      "word" : "dia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.670000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.730000,
+      "word" : "tardor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.390000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.540000,
+      "word" : "tenia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.840000,
+      "word" : "cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.080000,
+      "word" : "anys"
+    }],
+  "text" : "fou un dia de tardor el tenia cinc anys"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.554329,
+      "end" : 0.390000,
+      "start" : 0.300000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.408542,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.510000,
+      "word" : "presència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "del"
+    }, {
+      "conf" : 0.532613,
+      "end" : 1.560000,
+      "start" : 1.200000,
+      "word" : "sol"
+    }, {
+      "conf" : 0.539389,
+      "end" : 2.070000,
+      "start" : 1.620000,
+      "word" : "boca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.070000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.250000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.460000,
+      "word" : "llum"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.760000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.880000,
+      "word" : "cresol"
+    }],
+  "text" : "i la presència del sol boca és la llum del cresol"
+}

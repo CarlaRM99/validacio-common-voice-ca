@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.170000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.440000,
+      "word" : "cursar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.040000,
+      "word" : "estudis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.730000,
+      "word" : "dret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.030000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.450000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.660000,
+      "word" : "d'entusiasme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.680000,
+      "word" : "perquè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.010000,
+      "word" : "aviat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.550000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.760000,
+      "word" : "mostrar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.150000,
+      "word" : "afició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.660000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.440000,
+      "start" : 6.870000,
+      "word" : "teatre"
+    }],
+  "text" : "va cursar estudis de dret sense molt d'entusiasme perquè aviat va mostrar afició pel teatre"
+}

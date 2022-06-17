@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.480000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.960000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.990000,
+      "word" : "jugar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.440000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.500000,
+      "word" : "centrecampista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.520000,
+      "word" : "passant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.880000,
+      "word" : "posteriorment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.510000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840936,
+      "start" : 3.570000,
+      "word" : "jugar"
+    }, {
+      "conf" : 0.677882,
+      "end" : 3.870000,
+      "start" : 3.840936,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.870000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.960000,
+      "word" : "posició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.470000,
+      "word" : "defensa"
+    }],
+  "text" : "començar a jugar com a centrecampista passant posteriorment a jugar a la posició de defensa"
+}

@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.510000,
+      "word" : "l'acreditació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.380000,
+      "word" : "implicarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.920000,
+      "word" : "l'acceptació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.610000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.700000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.850000,
+      "word" : "obligacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.510000,
+      "word" : "expressades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.350000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.530000,
+      "word" : "punt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.890000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.250000,
+      "word" : "punt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.550000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.940000,
+      "word" : "l'annex"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.110000,
+      "start" : 6.660000,
+      "word" : "d'aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.800000,
+      "start" : 7.110000,
+      "word" : "resolució"
+    }],
+  "text" : "l'acreditació implicarà l'acceptació de les obligacions expressades al punt dos punt dos de l'annex d'aquesta resolució"
+}

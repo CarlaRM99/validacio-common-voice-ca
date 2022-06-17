@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.442340,
+      "end" : 1.290000,
+      "start" : 0.810000,
+      "word" : "l'home"
+    }, {
+      "conf" : 0.522819,
+      "end" : 1.656509,
+      "start" : 1.290000,
+      "word" : "l'última"
+    }, {
+      "conf" : 0.595611,
+      "end" : 2.040000,
+      "start" : 1.656509,
+      "word" : "estafa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.040000,
+      "word" : "s'acosta"
+    }],
+  "text" : "l'home l'última estafa s'acosta"
+}

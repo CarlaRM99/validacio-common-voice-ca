@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.646561,
+      "end" : 1.320000,
+      "start" : 1.170000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.320000,
+      "word" : "mes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.680000,
+      "word" : "febrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.950000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.980000,
+      "word" : "març"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.490000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.910000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.120000,
+      "word" : "ventosos"
+    }, {
+      "conf" : 0.518654,
+      "end" : 4.050000,
+      "start" : 3.720000,
+      "word" : "endins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.050000,
+      "word" : "dominants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.590000,
+      "word" : "ponent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.040000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.160000,
+      "word" : "garbí"
+    }],
+  "text" : "els mes de febrer i març són els més ventosos endins dominants de ponent i garbí"
+}

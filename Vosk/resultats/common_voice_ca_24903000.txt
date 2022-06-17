@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.660000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.050000,
+      "word" : "romanov"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.010000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.370000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.550000,
+      "word" : "importar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.120000,
+      "word" : "el"
+    }, {
+      "conf" : 0.817627,
+      "end" : 3.570000,
+      "start" : 3.300000,
+      "word" : "vi"
+    }],
+  "text" : "els romanov també van importar el vi"
+}

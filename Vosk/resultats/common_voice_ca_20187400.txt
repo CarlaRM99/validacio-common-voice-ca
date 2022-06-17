@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.450000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.780000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.870000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "arbres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.320000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.380000,
+      "word" : "banderetes"
+    }, {
+      "conf" : 0.453896,
+      "end" : 2.100000,
+      "start" : 1.950000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.130000,
+      "word" : "bloquejar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.550000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.610000,
+      "word" : "camí"
+    }],
+  "text" : "també hi ha arbres i banderetes per bloquejar el camí"
+}

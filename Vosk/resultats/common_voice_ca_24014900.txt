@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.510000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.750000,
+      "word" : "mort"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.050000,
+      "word" : "accidental"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.010000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.280000,
+      "word" : "esposa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.820000,
+      "word" : "l'any"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.060000,
+      "word" : "següent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.600000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.780000,
+      "word" : "provocar-li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.590000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.800000,
+      "word" : "crisis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 5.310000,
+      "word" : "espiritual"
+    }],
+  "text" : "la mort accidental de la seva esposa l'any següent va provocar-li una crisis espiritual"
+}

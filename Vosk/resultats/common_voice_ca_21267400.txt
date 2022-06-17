@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.230000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.650000,
+      "word" : "uns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.800000,
+      "word" : "relleus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.340000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.490000,
+      "word" : "representen"
+    }, {
+      "conf" : 0.852968,
+      "end" : 3.780000,
+      "start" : 3.240000,
+      "word" : "història"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.793233,
+      "word" : "sagrades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.740000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.890000,
+      "word" : "recorden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.400000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.610000,
+      "word" : "relleus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.960000,
+      "start" : 6.030000,
+      "word" : "florentins"
+    }],
+  "text" : "forma uns relleus que representen història sagrades que recorden els relleus florentins"
+}

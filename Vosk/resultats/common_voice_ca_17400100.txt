@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.560000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.770000,
+      "word" : "vehicles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.130000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.220000,
+      "word" : "transport"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.910000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.060000,
+      "word" : "material"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.930000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.080000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.140000,
+      "word" : "fase"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.410000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.470000,
+      "word" : "construcció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.400000,
+      "word" : "circularan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 6.060000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 6.180000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.300000,
+      "word" : "caixes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.110000,
+      "start" : 6.660000,
+      "word" : "cobertes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.230000,
+      "start" : 7.110000,
+      "word" : "de"
+    }, {
+      "conf" : 0.544926,
+      "end" : 7.590000,
+      "start" : 7.230000,
+      "word" : "l'ona"
+    }],
+  "text" : "els vehicles de transport de material en la fase de construcció circularan amb les caixes cobertes de l'ona"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.900000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.745270,
+      "start" : 1.200000,
+      "word" : "pràctica"
+    }, {
+      "conf" : 0.554263,
+      "end" : 2.100000,
+      "start" : 1.745270,
+      "word" : "atrau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.100000,
+      "word" : "mestres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.790000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.000000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.960000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.080000,
+      "word" : "clavillada"
+    }],
+  "text" : "la pràctica atrau mestres la primera i clavillada"
+}

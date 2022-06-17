@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.839170,
+      "end" : 1.410000,
+      "start" : 0.510000,
+      "word" : "organitza"
+    }, {
+      "conf" : 0.619244,
+      "end" : 2.130000,
+      "start" : 1.530000,
+      "word" : "assigna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.141423,
+      "word" : "i"
+    }, {
+      "conf" : 0.894105,
+      "end" : 2.940000,
+      "start" : 2.190000,
+      "word" : "supervisa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.940000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.150000,
+      "word" : "feines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.540000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.179295,
+      "start" : 3.690000,
+      "word" : "personal"
+    }, {
+      "conf" : 0.654921,
+      "end" : 4.290000,
+      "start" : 4.200000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.290000,
+      "word" : "servei"
+    }],
+  "text" : "organitza assigna i supervisa les feines del personal al servei"
+}

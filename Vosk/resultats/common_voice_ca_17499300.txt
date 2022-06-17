@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.960000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.350000,
+      "word" : "gos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.890000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.070000,
+      "word" : "ajuda"
+    }, {
+      "conf" : 0.647413,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.490000,
+      "word" : "pastor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.060000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.210000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.330000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.570000,
+      "word" : "treball"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.020000,
+      "word" : "vigilant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.650000,
+      "word" : "atentament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.370000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.670000,
+      "word" : "moviment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.330000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.080000,
+      "start" : 6.480000,
+      "word" : "ovelles"
+    }],
+  "text" : "és un gos que ajuda al pastor en el seu treball vigilant atentament cada moviment de les ovelles"
+}

@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 0.951927,
+      "end" : 0.450000,
+      "start" : 0.000000,
+      "word" : "degut"
+    }, {
+      "conf" : 0.468891,
+      "end" : 0.630000,
+      "start" : 0.540000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.810000,
+      "word" : "algun"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.140000,
+      "word" : "dia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.410000,
+      "word" : "tenim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.860000,
+      "word" : "treball"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.541707,
+      "start" : 2.340000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.550000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.090000,
+      "word" : "jo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.270000,
+      "word" : "ja"
+    }, {
+      "conf" : 0.618329,
+      "end" : 3.930000,
+      "start" : 3.420000,
+      "word" : "t'avisaré"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.930000,
+      "word" : "perquè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.230000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.350000,
+      "word" : "deixés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.770000,
+      "word" : "entrar"
+    }],
+  "text" : "degut al si algun dia tenim un treball per fer jo ja t'avisaré perquè el deixés entrar"
+}

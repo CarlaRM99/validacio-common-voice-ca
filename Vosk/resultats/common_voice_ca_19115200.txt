@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.729391,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.780000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.900000,
+      "word" : "bo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.020000,
+      "word" : "que"
+    }, {
+      "conf" : 0.506790,
+      "end" : 1.470000,
+      "start" : 1.170000,
+      "word" : "fóra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.470000,
+      "word" : "l'última"
+    }],
+  "text" : "tant de bo que fóra l'última"
+}

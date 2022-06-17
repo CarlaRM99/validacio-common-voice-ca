@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.540000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.900000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.200000,
+      "word" : "aparença"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.800000,
+      "word" : "semblant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.550000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.790000,
+      "word" : "d'altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.300000,
+      "word" : "civetes"
+    }],
+  "text" : "té una aparença semblant a la d'altres civetes"
+}

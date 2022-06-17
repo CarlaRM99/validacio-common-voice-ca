@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.514626,
+      "end" : 1.470000,
+      "start" : 0.780000,
+      "word" : "shandong"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.560000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.710000,
+      "word" : "formar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.130000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.730000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.910000,
+      "word" : "cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.120000,
+      "word" : "dinasties"
+    }],
+  "text" : "shandong va formar part de les cinc dinasties"
+}

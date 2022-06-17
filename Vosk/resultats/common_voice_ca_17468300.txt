@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.990000,
+      "word" : "així"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.350000,
+      "word" : "elegits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.980000,
+      "word" : "ocuparan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.460000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.610000,
+      "word" : "càrrec"
+    }, {
+      "conf" : 0.829693,
+      "end" : 3.540000,
+      "start" : 3.120000,
+      "word" : "només"
+    }, {
+      "conf" : 0.642097,
+      "end" : 3.690000,
+      "start" : 3.540000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.690000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.110000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.230000,
+      "word" : "resti"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.010000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.190000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.370000,
+      "word" : "eleccions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.970000,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.330000,
+      "word" : "càrrec"
+    }],
+  "text" : "els així elegits ocuparan el càrrec només del temps que resti per les eleccions d'aquest càrrec"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.510000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.780000,
+      "word" : "ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.840000,
+      "word" : "faig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.230000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.380000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.770000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.010000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.370000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.490000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.700000,
+      "word" : "açores"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.480000,
+      "word" : "número"
+    }, {
+      "conf" : 0.549024,
+      "end" : 4.710000,
+      "start" : 3.960000,
+      "word" : "quaranta-u"
+    }],
+  "text" : "com ho faig per anar al carrer de les açores número quaranta-u"
+}

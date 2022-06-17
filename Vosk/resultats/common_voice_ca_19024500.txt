@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.750000,
+      "word" : "contemplació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.560000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.650000,
+      "word" : "bellesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.340000,
+      "word" : "criatures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.330000,
+      "word" : "porta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.660000,
+      "word" : "finalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.350000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.440000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.530000,
+      "word" : "contemplació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.250000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.370000,
+      "word" : "creador"
+    }],
+  "text" : "la contemplació de la bellesa de les criatures porta finalment a la contemplació del creador"
+}

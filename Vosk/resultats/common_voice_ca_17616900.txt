@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.480000,
+      "word" : "correu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.870000,
+      "word" : "correu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.260000,
+      "word" : "minyons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.040000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.190000,
+      "word" : "l'olla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.460000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.610000,
+      "word" : "ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.700000,
+      "word" : "cigrons"
+    }],
+  "text" : "correu correu minyons que l'olla que ho cigrons"
+}

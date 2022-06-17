@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.930000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.140000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.620000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.800000,
+      "word" : "xifres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.370000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.550000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 2.820000,
+      "word" : "comparables"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.750000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.140000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.290000,
+      "word" : "països"
+    }],
+  "text" : "per tant les xifres no són comparables entre els països"
+}

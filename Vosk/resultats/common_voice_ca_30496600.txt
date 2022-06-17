@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.858193,
+      "end" : 0.810000,
+      "start" : 0.540000,
+      "word" : "quan"
+    }, {
+      "conf" : 0.621315,
+      "end" : 1.011521,
+      "start" : 0.810000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 1.011521,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.080000,
+      "word" : "trajecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.560000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.620000,
+      "word" : "autobús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.130000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.430000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.490000,
+      "word" : "madremanya"
+    }],
+  "text" : "quan durant el trajecte en autobús fins a madremanya"
+}

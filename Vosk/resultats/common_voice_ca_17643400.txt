@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.120000,
+      "word" : "assequible"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.840000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.960000,
+      "word" : "fauna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.410000,
+      "word" : "blanco"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.830000,
+      "word" : "metàl·lica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.851803,
+      "start" : 2.730000,
+      "word" : "la"
+    }, {
+      "conf" : 0.629893,
+      "end" : 3.259182,
+      "start" : 2.851803,
+      "word" : "tenen"
+    }, {
+      "conf" : 0.816090,
+      "end" : 3.686758,
+      "start" : 3.300000,
+      "word" : "claror"
+    }, {
+      "conf" : 0.808635,
+      "end" : 3.840000,
+      "start" : 3.686758,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.875741,
+      "word" : "crepuscle"
+    }],
+  "text" : "assequible de fauna blanco metàl·lica a la tenen claror del crepuscle"
+}

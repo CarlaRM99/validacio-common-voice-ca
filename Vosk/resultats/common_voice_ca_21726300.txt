@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.530841,
+      "end" : 1.500000,
+      "start" : 0.900000,
+      "word" : "l'enorme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.500000,
+      "word" : "densitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.010000,
+      "word" : "d'aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.490000,
+      "word" : "estrelles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.420000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.660000,
+      "word" : "confondre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.230000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.350000,
+      "word" : "astrònoms"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.070000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.190000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.340000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.820000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 5.850000,
+      "word" : "estudiar-les"
+    }],
+  "text" : "l'enorme densitat d'aquestes estrelles va confondre els astrònoms que van començar a estudiar-les"
+}

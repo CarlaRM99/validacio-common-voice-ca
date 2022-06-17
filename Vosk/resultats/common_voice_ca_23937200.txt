@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.767663,
+      "end" : 1.140000,
+      "start" : 0.390000,
+      "word" : "divers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.470000,
+      "word" : "zones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.070000,
+      "word" : "herboses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.000000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.210000,
+      "word" : "flors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.170000,
+      "word" : "seques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.770000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 4.890000,
+      "word" : "humides"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 5.910000,
+      "word" : "freqüentment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.230000,
+      "start" : 6.900000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.980000,
+      "start" : 7.230000,
+      "word" : "arbustos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.160000,
+      "start" : 8.040000,
+      "word" : "i"
+    }, {
+      "conf" : 0.721010,
+      "end" : 8.490000,
+      "start" : 8.160000,
+      "word" : "clars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.610000,
+      "start" : 8.490000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.120000,
+      "start" : 8.610000,
+      "word" : "bosc"
+    }],
+  "text" : "divers zones herboses amb flors seques o humides freqüentment entre arbustos i clars de bosc"
+}

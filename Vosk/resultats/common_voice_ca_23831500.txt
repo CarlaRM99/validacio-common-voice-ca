@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.020000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.200000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.470000,
+      "word" : "pare"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.980000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.250000,
+      "word" : "fotògraf"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.910000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.090000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.270000,
+      "word" : "emigrar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.690000,
+      "word" : "d'hongria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.230000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.680000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.770000,
+      "word" : "sobreviure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.340000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.400000,
+      "word" : "l'holocaust"
+    }],
+  "text" : "el seu pare és un fotògraf que va emigrar d'hongria després de sobreviure de l'holocaust"
+}

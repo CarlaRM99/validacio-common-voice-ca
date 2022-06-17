@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.840000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.080000,
+      "word" : "organitzadors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.070000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.460000,
+      "word" : "promouen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.240000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.420000,
+      "word" : "programa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.990000,
+      "word" : "educatiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.590000,
+      "word" : "continu"
+    }],
+  "text" : "els organitzadors també promouen un programa educatiu continu"
+}

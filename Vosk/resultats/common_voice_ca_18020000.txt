@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.690000,
+      "word" : "cal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.930000,
+      "word" : "centrar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.500000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.680000,
+      "word" : "qualitat"
+    }, {
+      "conf" : 0.558348,
+      "end" : 2.820000,
+      "start" : 2.640000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.820000,
+      "word" : "usuaris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.390000,
+      "word" : "finals"
+    }, {
+      "conf" : 0.865756,
+      "end" : 4.347822,
+      "start" : 3.780000,
+      "word" : "rebutjaran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.347822,
+      "word" : "productes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.830000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.920000,
+      "word" : "català"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.310000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.460000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.580000,
+      "word" : "estan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.820000,
+      "word" : "ben"
+    }, {
+      "conf" : 0.509338,
+      "end" : 6.360000,
+      "start" : 6.000000,
+      "word" : "fets"
+    }],
+  "text" : "cal centrar-se en la qualitat els usuaris finals rebutjaran productes en català si no estan ben fets"
+}

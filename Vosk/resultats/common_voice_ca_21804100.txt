@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.600000,
+      "word" : "solament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.230000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.380000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.440000,
+      "word" : "fanàtics"
+    }],
+  "text" : "solament per a fanàtics"
+}

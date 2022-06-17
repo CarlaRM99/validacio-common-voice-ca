@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.170000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.320000,
+      "word" : "substituir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.010000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.250000,
+      "word" : "direcció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.850000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.060000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.180000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.360000,
+      "word" : "nomenat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.870000,
+      "word" : "governador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.620000,
+      "word" : "josep"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.130000,
+      "word" : "vilanova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.700000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.790000,
+      "word" : "vila"
+    }],
+  "text" : "el va substituir en la direcció quan va ser nomenat governador josep vilanova i vila"
+}

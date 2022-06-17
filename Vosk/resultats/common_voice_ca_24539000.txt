@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.420000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.510000,
+      "word" : "optat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.930000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.170000,
+      "word" : "vegades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.830000,
+      "word" : "per"
+    }, {
+      "conf" : 0.810120,
+      "end" : 2.067281,
+      "start" : 2.010000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.067281,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.709193,
+      "start" : 2.130000,
+      "word" : "presidència"
+    }, {
+      "conf" : 0.511667,
+      "end" : 3.300000,
+      "start" : 2.730000,
+      "word" : "rwanda"
+    }],
+  "text" : "ha optat dues vegades per a la presidència rwanda"
+}

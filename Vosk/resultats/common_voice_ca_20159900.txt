@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.050000,
+      "word" : "masia"
+    }, {
+      "conf" : 0.802006,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.680000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.980000,
+      "word" : "cossos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.790000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.180000,
+      "word" : "baixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.510000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.600000,
+      "word" : "pis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.500000,
+      "word" : "coberta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.220000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.340000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.670000,
+      "word" : "aigües"
+    }],
+  "text" : "masia de tres cossos de planta baixa i pis coberta a dues aigües"
+}

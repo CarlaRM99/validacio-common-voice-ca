@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.930000,
+      "word" : "l'edifici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.650000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.680000,
+      "word" : "sofert"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.100000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.550000,
+      "word" : "transformacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.450000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.540000,
+      "word" : "llarg"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.780000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.050000,
+      "word" : "segles"
+    }],
+  "text" : "l'edifici ha sofert diverses transformacions al llarg dels segles"
+}

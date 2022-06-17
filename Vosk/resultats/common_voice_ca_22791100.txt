@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.390000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.810000,
+      "word" : "generalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.380000,
+      "word" : "cristians"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.400000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.610000,
+      "word" : "dividits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.060000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.180000,
+      "word" : "catòlics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.780000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 3.870000,
+      "word" : "protestants"
+    }],
+  "text" : "són generalment cristians però dividits en catòlics i protestants"
+}

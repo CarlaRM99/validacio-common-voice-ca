@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.420000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.510000,
+      "word" : "més"
+    }, {
+      "conf" : 0.499125,
+      "end" : 1.073599,
+      "start" : 0.750000,
+      "word" : "tindran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.073599,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.260000,
+      "word" : "hores"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.440000,
+      "word" : "mensuals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.920000,
+      "word" : "retribuïdes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.228516,
+      "start" : 2.730000,
+      "word" : "acumular"
+    }, {
+      "conf" : 0.878194,
+      "end" : 3.480000,
+      "start" : 3.270000,
+      "word" : "com"
+    }, {
+      "conf" : 0.878194,
+      "end" : 3.810000,
+      "start" : 3.480000,
+      "word" : "pugui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.810000,
+      "word" : "existent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.320000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.440000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.650000,
+      "word" : "membre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.980000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.100000,
+      "word" : "comitè"
+    }],
+  "text" : "a més tindran sis hores mensuals retribuïdes per acumular com pugui existent de cada membre del comitè"
+}

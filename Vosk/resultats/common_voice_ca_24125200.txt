@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.870000,
+      "word" : "tracta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.350000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.530000,
+      "word" : "animal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 1.950000,
+      "word" : "subterrani"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.850000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 2.940000,
+      "word" : "solitari"
+    }],
+  "text" : "es tracta d'un animal subterrani i solitari"
+}

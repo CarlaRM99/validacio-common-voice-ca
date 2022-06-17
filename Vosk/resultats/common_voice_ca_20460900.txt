@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.600000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.110000,
+      "word" : "receptes"
+    }, {
+      "conf" : 0.836883,
+      "end" : 2.337835,
+      "start" : 1.860000,
+      "word" : "emprèn"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.337835,
+      "word" : "menuts"
+    }],
+  "text" : "diverses receptes emprèn menuts"
+}

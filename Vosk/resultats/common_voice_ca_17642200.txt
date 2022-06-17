@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 0.758250,
+      "end" : 1.650000,
+      "start" : 0.990000,
+      "word" : "creixien"
+    }, {
+      "conf" : 0.665175,
+      "end" : 2.023680,
+      "start" : 1.650000,
+      "word" : "aquells"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.023680,
+      "word" : "ceps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.340000,
+      "word" : "escarransits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.180000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.240000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.390000,
+      "word" : "collita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.810000,
+      "word" : "curta"
+    }, {
+      "conf" : 0.690514,
+      "end" : 4.350000,
+      "start" : 4.230000,
+      "word" : "de"
+    }, {
+      "conf" : 0.690514,
+      "end" : 4.710000,
+      "start" : 4.350000,
+      "word" : "junts"
+    }, {
+      "conf" : 0.605074,
+      "end" : 5.220000,
+      "start" : 4.710000,
+      "word" : "defèn"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.550000,
+      "word" : "vivint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.527104,
+      "start" : 5.970000,
+      "word" : "l'anyada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.552896,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.690000,
+      "word" : "bona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 6.990000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.530000,
+      "start" : 7.140000,
+      "word" : "déu"
+    }],
+  "text" : "creixien aquells ceps escarransits i de collita curta de junts defèn vivint l'anyada la bona de déu"
+}

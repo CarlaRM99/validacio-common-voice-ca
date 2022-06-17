@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.720000,
+      "word" : "anem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.990000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.050000,
+      "word" : "torrevella"
+    }],
+  "text" : "anem a torrevella"
+}

@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.750000,
+      "word" : "sempre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.290000,
+      "word" : "cols"
+    }, {
+      "conf" : 0.862011,
+      "end" : 2.610000,
+      "start" : 1.950000,
+      "word" : "amarguen"
+    }],
+  "text" : "sempre cols amarguen"
+}

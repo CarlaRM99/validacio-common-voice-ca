@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.870000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.020000,
+      "word" : "estructura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.590000,
+      "word" : "totalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.100000,
+      "word" : "irregular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.730000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.850000,
+      "word" : "asimètrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.020000,
+      "word" : "estructures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.680000,
+      "word" : "cúbiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.250000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.340000,
+      "word" : "mig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 5.550000,
+      "word" : "cilíndriques"
+    }],
+  "text" : "té una estructura totalment irregular i asimètrica estructures cúbiques i mig cilíndriques"
+}

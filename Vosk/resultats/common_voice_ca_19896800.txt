@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.960000,
+      "word" : "formava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.530000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.010000,
+      "word" : "gent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.250000,
+      "word" : "espanya"
+    }, {
+      "conf" : 0.834506,
+      "end" : 4.200000,
+      "start" : 3.540000,
+      "word" : "onejants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.200000,
+      "word" : "romana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.800000,
+      "word" : "d'origen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.400000,
+      "word" : "plebeu"
+    }],
+  "text" : "formava part de la gent espanya onejants romana d'origen plebeu"
+}

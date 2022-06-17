@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.750000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.050000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.140000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.260000,
+      "word" : "precedents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.040000,
+      "word" : "món"
+    }],
+  "text" : "això no té precedents en el món"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.480000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.690000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.840000,
+      "word" : "veritable"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.560000,
+      "word" : "regne"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.070000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.250000,
+      "word" : "finals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.910000,
+      "word" : "actuar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.390000,
+      "word" : "virtuosament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.380000,
+      "word" : "tindrà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.860000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.070000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.160000,
+      "word" : "premi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.520000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 5.670000,
+      "word" : "felicitat"
+    }],
+  "text" : "en un veritable regne dels finals actuar virtuosament tindrà com a premi la felicitat"
+}

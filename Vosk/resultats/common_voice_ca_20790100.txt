@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.420000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.600000,
+      "word" : "princesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.140000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.230000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.500000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.770000,
+      "word" : "moltes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.100000,
+      "word" : "crítiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.790000,
+      "word" : "deien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.120000,
+      "word" : "d'ella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.450000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.570000,
+      "word" : "posseïa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.080000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.260000,
+      "word" : "personalitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.070000,
+      "word" : "inestable"
+    }],
+  "text" : "la princesa va rebre també moltes crítiques que deien d'ella que posseïa una personalitat inestable"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.952222,
+      "end" : 0.840000,
+      "start" : 0.660000,
+      "word" : "un"
+    }, {
+      "conf" : 0.952222,
+      "end" : 1.230000,
+      "start" : 0.840000,
+      "word" : "altre"
+    }, {
+      "conf" : 0.284062,
+      "end" : 1.440000,
+      "start" : 1.230000,
+      "word" : "pol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.455112,
+      "word" : "reflectit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.370000,
+      "word" : "llicència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.910000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.970000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.120000,
+      "word" : "garantia"
+    }],
+  "text" : "un altre pol reflectit en la llicència és la garantia"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.630000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.050000,
+      "word" : "casos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.470000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.650000,
+      "word" : "vàlvules"
+    }, {
+      "conf" : 0.696831,
+      "end" : 2.730000,
+      "start" : 2.070000,
+      "word" : "utilitzada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.757285,
+      "word" : "solen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.090000,
+      "word" : "estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.360000,
+      "word" : "refrigerades"
+    }, {
+      "conf" : 0.530750,
+      "end" : 4.590000,
+      "start" : 4.050000,
+      "word" : "paraigua"
+    }],
+  "text" : "en aquests casos les vàlvules utilitzada solen estar refrigerades paraigua"
+}

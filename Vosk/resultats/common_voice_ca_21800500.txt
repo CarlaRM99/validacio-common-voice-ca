@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.750000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.522805,
+      "start" : 0.900000,
+      "word" : "radica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.530000,
+      "word" : "l'ajuntament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.910000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.030000,
+      "word" : "l'únic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.510000,
+      "word" : "nucli"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 3.990000,
+      "word" : "població"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.830000,
+      "word" : "aglomerada"
+    }, {
+      "conf" : 0.482985,
+      "end" : 5.760000,
+      "start" : 5.610000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.760000,
+      "word" : "terme"
+    }],
+  "text" : "i radica l'ajuntament i és l'únic nucli de població aglomerada el terme"
+}

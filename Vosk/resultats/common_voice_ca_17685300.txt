@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.690000,
+      "word" : "tall"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.930000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 1.020000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.110000,
+      "word" : "vedella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.590000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.680000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.830000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "bé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.310000,
+      "word" : "estofar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.970000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.180000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.300000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.480000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.630000,
+      "word" : "coll"
+    }],
+  "text" : "el tall de la vedella que va molt bé per estofar és la part del coll"
+}

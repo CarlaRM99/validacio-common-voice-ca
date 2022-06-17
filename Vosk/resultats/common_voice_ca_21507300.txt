@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.020000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.470000,
+      "word" : "recuperació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.160000,
+      "word" : "resulta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.670000,
+      "word" : "evident"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.240000,
+      "word" : "sobretot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.810000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.900000,
+      "word" : "observar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.380000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.560000,
+      "word" : "llindes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.220000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.370000,
+      "word" : "finestres"
+    }],
+  "text" : "aquesta recuperació resulta evident sobretot en observar les llindes de les finestres"
+}

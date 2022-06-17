@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.664643,
+      "end" : 0.886135,
+      "start" : 0.390000,
+      "word" : "lemos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.886135,
+      "word" : "significa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.470000,
+      "word" : "ningú"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.040000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.190000,
+      "word" : "llatí"
+    }],
+  "text" : "lemos significa ningú en llatí"
+}

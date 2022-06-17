@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.807168,
+      "end" : 1.348153,
+      "start" : 1.080000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.348153,
+      "word" : "pèrsia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.980000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.220000,
+      "word" : "bones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.550000,
+      "word" : "relacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.150000,
+      "word" : "foren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.480000,
+      "word" : "assegurades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.230000,
+      "word" : "per"
+    }, {
+      "conf" : 0.580462,
+      "end" : 4.890000,
+      "start" : 4.440000,
+      "word" : "nadir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.280000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.460000,
+      "word" : "tenia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 5.970000,
+      "word" : "simpaties"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.560000,
+      "start" : 6.750000,
+      "word" : "xiïtes"
+    }],
+  "text" : "amb pèrsia les bones relacions foren assegurades per nadir que tenia simpaties xiïtes"
+}

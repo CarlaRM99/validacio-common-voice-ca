@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.050000,
+      "word" : "ompliu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.860000,
+      "word" : "recobriu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.430000,
+      "word" : "totalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.090000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.270000,
+      "word" : "casella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.660000,
+      "word" : "equivocada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.350000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.500000,
+      "word" : "escriviu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.160000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.310000,
+      "word" : "caràcter"
+    }, {
+      "conf" : 0.875153,
+      "end" : 6.480000,
+      "start" : 5.820000,
+      "word" : "correcta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.540000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 6.720000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.810000,
+      "word" : "casella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.740000,
+      "start" : 7.260000,
+      "word" : "següent"
+    }],
+  "text" : "ompliu o recobriu totalment la casella equivocada i escriviu el caràcter correcta en la casella següent"
+}

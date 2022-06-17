@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.850659,
+      "end" : 0.506141,
+      "start" : 0.420000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.506141,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.720000,
+      "word" : "manera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.020000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.350000,
+      "word" : "dada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.560000,
+      "word" : "inversemblant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "i"
+    }, {
+      "conf" : 0.645000,
+      "end" : 3.270000,
+      "start" : 2.790000,
+      "word" : "probablement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.300000,
+      "word" : "falsa"
+    }],
+  "text" : "de tota manera és una dada inversemblant i probablement falsa"
+}

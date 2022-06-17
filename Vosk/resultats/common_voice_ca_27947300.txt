@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.510000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.870000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.990000,
+      "word" : "escriure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.470000,
+      "word" : "poesia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.520000,
+      "word" : "publicar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.240000,
+      "word" : "privat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.780000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.990000,
+      "word" : "volum"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.410000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.500000,
+      "word" : "poesia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.130000,
+      "word" : "eròtica"
+    }],
+  "text" : "també va escriure poesia i va publicar en privat un volum de poesia eròtica"
+}

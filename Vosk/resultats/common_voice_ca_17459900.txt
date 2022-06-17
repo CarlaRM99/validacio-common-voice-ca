@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.660000,
+      "word" : "l'hivern"
+    }, {
+      "conf" : 0.686672,
+      "end" : 1.530000,
+      "start" : 1.170000,
+      "word" : "dona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.530000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.710000,
+      "word" : "cartes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.130000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.310000,
+      "word" : "primavera"
+    }, {
+      "conf" : 0.649567,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "fa"
+    }, {
+      "conf" : 0.870532,
+      "end" : 2.970000,
+      "start" : 2.910000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.970000,
+      "word" : "joc"
+    }],
+  "text" : "l'hivern dona les cartes i la primavera fa el joc"
+}

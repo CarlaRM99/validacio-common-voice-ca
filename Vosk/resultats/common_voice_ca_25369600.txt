@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.170000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.440000,
+      "word" : "empreses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 1.920000,
+      "word" : "internacionals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.760000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.880000,
+      "word" : "tabac"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.330000,
+      "word" : "tenien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.720000,
+      "word" : "contractes"
+    }, {
+      "conf" : 0.807290,
+      "end" : 4.558411,
+      "start" : 4.410000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.558411,
+      "word" : "petits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 4.950000,
+      "word" : "agricultors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.850000,
+      "word" : "preocupa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.450000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 6.750000,
+      "word" : "collita"
+    }],
+  "text" : "les empreses internacionals de tabac tenien contractes amb petits agricultors preocupa la seva collita"
+}

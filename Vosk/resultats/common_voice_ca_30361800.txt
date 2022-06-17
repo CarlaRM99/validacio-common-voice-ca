@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.467520,
+      "end" : 0.934592,
+      "start" : 0.450000,
+      "word" : "telèfon"
+    }, {
+      "conf" : 0.236901,
+      "end" : 1.103753,
+      "start" : 0.976521,
+      "word" : "a"
+    }, {
+      "conf" : 0.661480,
+      "end" : 1.680000,
+      "start" : 1.218011,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.740000,
+      "word" : "veu"
+    }, {
+      "conf" : 0.720020,
+      "end" : 2.840993,
+      "start" : 2.220000,
+      "word" : "xiv"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 2.880000,
+      "word" : "seixanta-quatre"
+    }, {
+      "conf" : 0.999982,
+      "end" : 4.619997,
+      "start" : 3.810000,
+      "word" : "vuitanta-dos"
+    }],
+  "text" : "telèfon a sis veu xiv seixanta-quatre vuitanta-dos"
+}

@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.720000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.810000,
+      "word" : "diferència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.500000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.800000,
+      "word" : "un"
+    }, {
+      "conf" : 0.853089,
+      "end" : 2.404346,
+      "start" : 1.980000,
+      "word" : "meca"
+    }, {
+      "conf" : 0.507007,
+      "end" : 2.640000,
+      "start" : 2.404346,
+      "word" : "si"
+    }, {
+      "conf" : 0.911643,
+      "end" : 2.970000,
+      "start" : 2.700000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.970000,
+      "word" : "maies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.360000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.690000,
+      "word" : "textos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.140000,
+      "word" : "religiosos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.890000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.040000,
+      "word" : "han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.160000,
+      "word" : "sobreviscut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.910000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.210000,
+      "word" : "hui"
+    }],
+  "text" : "a diferència dels un meca si els maies tenen textos religiosos que han sobreviscut fins hui"
+}

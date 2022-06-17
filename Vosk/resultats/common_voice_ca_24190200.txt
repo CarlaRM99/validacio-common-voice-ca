@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.870000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.960000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.170000,
+      "word" : "conceptes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.860000,
+      "word" : "solament"
+    }, {
+      "conf" : 0.604191,
+      "end" : 2.520000,
+      "start" : 2.250000,
+      "word" : "estan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.520000,
+      "word" : "relacionats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.060000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.180000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.270000,
+      "word" : "música"
+    }],
+  "text" : "ja que aquests conceptes no solament estan relacionats amb la música"
+}

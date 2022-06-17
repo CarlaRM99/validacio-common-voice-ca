@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.630000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.780000,
+      "word" : "desenvolupament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.530000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.590000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.800000,
+      "word" : "escala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.520000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.640000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 2.760000,
+      "word" : "recapitulació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.810000,
+      "word" : "completa"
+    }, {
+      "conf" : 0.764267,
+      "end" : 4.680000,
+      "start" : 4.560000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.680000,
+      "word" : "moviment"
+    }],
+  "text" : "un desenvolupament a gran escala i la recapitulació completa al moviment"
+}

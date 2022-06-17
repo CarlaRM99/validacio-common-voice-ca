@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.622721,
+      "end" : 1.155929,
+      "start" : 0.870000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.155929,
+      "word" : "sons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.560000,
+      "word" : "consonàntics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.670000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.240000,
+      "word" : "ser"
+    }, {
+      "conf" : 0.770356,
+      "end" : 4.260000,
+      "start" : 3.750000,
+      "word" : "curts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.373111,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.500000,
+      "word" : "llargs"
+    }],
+  "text" : "els sons consonàntics poden ser curts o llargs"
+}

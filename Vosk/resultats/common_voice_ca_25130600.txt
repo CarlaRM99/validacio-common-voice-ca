@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.463279,
+      "end" : 0.960000,
+      "start" : 0.540000,
+      "word" : "tiro"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.990000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.140000,
+      "word" : "néixer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.620000,
+      "word" : "a"
+    }, {
+      "conf" : 0.626835,
+      "end" : 2.010000,
+      "start" : 1.710000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.424669,
+      "start" : 2.010000,
+      "word" : "visió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.060000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.330000,
+      "word" : "comuna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.780000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.930000,
+      "word" : "departament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.830000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.220000,
+      "word" : "marm"
+    }, {
+      "conf" : 0.844132,
+      "end" : 6.330000,
+      "start" : 6.150000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.330000,
+      "word" : "nord-est"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.230000,
+      "start" : 7.050000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.770000,
+      "start" : 7.230000,
+      "word" : "frança"
+    }],
+  "text" : "tiro va néixer a sant visió una comuna del departament del marm al nord-est de frança"
+}

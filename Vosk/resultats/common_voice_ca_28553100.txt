@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.480000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.660000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.020000,
+      "word" : "estava"
+    }, {
+      "conf" : 0.918187,
+      "end" : 2.223961,
+      "start" : 1.500000,
+      "word" : "forces"
+    }, {
+      "conf" : 0.372787,
+      "end" : 2.790000,
+      "start" : 2.223961,
+      "word" : "sentat"
+    }],
+  "text" : "de fet estava forces sentat"
+}

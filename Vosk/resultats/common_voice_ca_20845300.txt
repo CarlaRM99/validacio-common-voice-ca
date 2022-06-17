@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.840000,
+      "word" : "seguida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.560000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.310000,
+      "word" : "moviment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.820000,
+      "word" : "popular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.420000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.660000,
+      "word" : "començà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.290000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.440000,
+      "word" : "dividir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 4.860000,
+      "word" : "infeccions"
+    }],
+  "text" : "de seguida però el moviment popular es començà a dividir infeccions"
+}

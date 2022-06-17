@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.360000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.540000,
+      "word" : "belga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.960000,
+      "word" : "mai"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.140000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.380000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.530000,
+      "word" : "realment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.920000,
+      "word" : "acceptat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.490000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.670000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.730000,
+      "word" : "moneda"
+    }],
+  "text" : "el belga mai no va ser realment acceptat com a moneda"
+}

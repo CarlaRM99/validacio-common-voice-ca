@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.290000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.541057,
+      "word" : "intèrpret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.190000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.340000,
+      "word" : "comandes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.510000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.720000,
+      "word" : "dos"
+    }, {
+      "conf" : 0.708468,
+      "end" : 4.414769,
+      "start" : 3.960000,
+      "word" : "modes"
+    }, {
+      "conf" : 0.893556,
+      "end" : 5.310000,
+      "start" : 4.414769,
+      "word" : "l'execució"
+    }],
+  "text" : "com intèrpret de comandes té dos modes l'execució"
+}

@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.828109,
+      "end" : 1.260000,
+      "start" : 1.140000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.828109,
+      "end" : 1.350000,
+      "start" : 1.260000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.350000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.560000,
+      "word" : "metges"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.010000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.160000,
+      "word" : "malalts"
+    }],
+  "text" : "hi ha més metges que malalts"
+}

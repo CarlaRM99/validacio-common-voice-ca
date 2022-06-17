@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.050000,
+      "word" : "sols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.500000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.650000,
+      "word" : "subvencionable"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.640000,
+      "word" : "una"
+    }, {
+      "conf" : 0.770293,
+      "end" : 3.240000,
+      "start" : 2.850000,
+      "word" : "pàgina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.240000,
+      "word" : "web"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.540000,
+      "word" : "per"
+    }, {
+      "conf" : 0.450550,
+      "end" : 4.530000,
+      "start" : 3.720000,
+      "word" : "beneficiari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.740000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.860000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.130000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.310000,
+      "word" : "cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.580000,
+      "word" : "darreres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.000000,
+      "word" : "convocatòries"
+    }],
+  "text" : "sols és subvencionable una pàgina web per beneficiari i durant les cinc darreres convocatòries"
+}

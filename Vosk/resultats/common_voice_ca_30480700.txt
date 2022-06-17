@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.652444,
+      "end" : 0.810000,
+      "start" : 0.510000,
+      "word" : "quin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.810000,
+      "word" : "grup"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.020000,
+      "word" : "musical"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.470000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.620000,
+      "word" : "actuar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.980000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.070000,
+      "word" : "festival"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.520000,
+      "word" : "internacional"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.300000,
+      "word" : "benicàssim"
+    }],
+  "text" : "quin grup musical va actuar al festival internacional de benicàssim"
+}

@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.540000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.780000,
+      "word" : "altres"
+    }, {
+      "conf" : 0.986660,
+      "end" : 1.920000,
+      "start" : 1.140000,
+      "word" : "jocs"
+    }],
+  "text" : "en altres jocs"
+}

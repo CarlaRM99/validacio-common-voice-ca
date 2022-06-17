@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.390000,
+      "word" : "ocell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "baixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.260000,
+      "word" : "condició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.130000,
+      "word" : "social"
+    }, {
+      "conf" : 0.584323,
+      "end" : 3.060000,
+      "start" : 2.580000,
+      "word" : "bola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.180000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.420000,
+      "word" : "madura"
+    }],
+  "text" : "ocell de baixa condició social bola poc madura"
+}

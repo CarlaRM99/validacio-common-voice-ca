@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.810000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.020000,
+      "word" : "moviments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.680000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.950000,
+      "word" : "període"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.490000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.700000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.910000,
+      "word" : "segurs"
+    }],
+  "text" : "els seus moviments en aquest període no són segurs"
+}

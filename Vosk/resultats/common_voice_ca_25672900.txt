@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.200000,
+      "word" : "algunes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.710000,
+      "word" : "devolucions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.640000,
+      "word" : "estan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.060000,
+      "word" : "associades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.720000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.780000,
+      "word" : "monopolis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.560000,
+      "word" : "legalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.160000,
+      "word" : "vigents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.212278,
+      "start" : 5.970000,
+      "word" : "com"
+    }, {
+      "conf" : 0.857167,
+      "end" : 6.300000,
+      "start" : 6.212278,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.300000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.420000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.080000,
+      "start" : 6.600000,
+      "word" : "patents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 7.140000,
+      "word" : "o"
+    }, {
+      "conf" : 0.812667,
+      "end" : 7.410000,
+      "start" : 7.260000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.710000,
+      "start" : 7.410000,
+      "word" : "drets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.130000,
+      "start" : 7.710000,
+      "word" : "d'autor"
+    }],
+  "text" : "algunes devolucions estan associades a monopolis legalment vigents com a de les patents o els drets d'autor"
+}

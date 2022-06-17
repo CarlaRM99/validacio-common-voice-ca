@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.200000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.500000,
+      "word" : "tard"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.830000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.070000,
+      "word" : "interpretar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.030000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.210000,
+      "word" : "manera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.630000,
+      "word" : "esporàdica"
+    }],
+  "text" : "més tard es va interpretar de manera esporàdica"
+}

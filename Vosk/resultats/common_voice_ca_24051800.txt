@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.810268,
+      "end" : 0.900000,
+      "start" : 0.480000,
+      "word" : "són"
+    }, {
+      "conf" : 0.708786,
+      "end" : 1.980000,
+      "start" : 0.960000,
+      "word" : "insectívors"
+    }],
+  "text" : "són insectívors"
+}

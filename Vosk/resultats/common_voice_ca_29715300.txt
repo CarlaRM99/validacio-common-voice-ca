@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.744644,
+      "end" : 0.840000,
+      "start" : 0.540000,
+      "word" : "ara"
+    }, {
+      "conf" : 0.691419,
+      "end" : 1.350000,
+      "start" : 0.856136,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.350000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.530000,
+      "word" : "el"
+    }, {
+      "conf" : 0.758945,
+      "end" : 2.100000,
+      "start" : 1.650000,
+      "word" : "cis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.130000,
+      "word" : "vuitanta-quatre"
+    }, {
+      "conf" : 0.571139,
+      "end" : 3.810000,
+      "start" : 3.240000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.840000,
+      "word" : "quaranta-vuit"
+    }, {
+      "conf" : 0.747400,
+      "end" : 5.610000,
+      "start" : 4.710000,
+      "word" : "vuitanta-u"
+    }],
+  "text" : "ara número és el cis vuitanta-quatre sense quaranta-vuit vuitanta-u"
+}

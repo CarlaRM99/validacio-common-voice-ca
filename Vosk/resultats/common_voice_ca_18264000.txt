@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.360000,
+      "word" : "salvador"
+    }, {
+      "conf" : 0.505237,
+      "end" : 1.470000,
+      "start" : 1.200000,
+      "word" : "pujar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.470000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.560000,
+      "word" : "terrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.130000,
+      "word" : "i"
+    }, {
+      "conf" : 0.700639,
+      "end" : 2.640000,
+      "start" : 2.280000,
+      "word" : "baixem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.790000,
+      "word" : "llençols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.240000,
+      "word" : "estesos"
+    }],
+  "text" : "salvador pujar al terrat i baixem els llençols estesos"
+}

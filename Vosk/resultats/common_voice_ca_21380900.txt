@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.510000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.780000,
+      "word" : "continuar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.380000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.560000,
+      "word" : "estudis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.280000,
+      "word" : "obtenint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.730000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.820000,
+      "word" : "batxillerat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.360000,
+      "word" : "literari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.260000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.380000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.530000,
+      "word" : "grau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.920000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.040000,
+      "word" : "sociologia"
+    }],
+  "text" : "va continuar els seus estudis obtenint un batxillerat literari i un grau en sociologia"
+}

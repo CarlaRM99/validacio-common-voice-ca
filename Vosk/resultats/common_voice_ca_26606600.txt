@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.583676,
+      "end" : 0.960000,
+      "start" : 0.570000,
+      "word" : "sí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.140000,
+      "word" : "recordo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.830000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.950000,
+      "word" : "cas"
+    }],
+  "text" : "sí recordo el cas"
+}

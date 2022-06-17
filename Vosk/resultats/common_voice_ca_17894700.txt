@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.570000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.720000,
+      "word" : "testament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.380000,
+      "word" : "caçador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.460000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.700000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.820000,
+      "word" : "fill"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.180000,
+      "word" : "l'escopeta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.170000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.290000,
+      "word" : "per"
+    }, {
+      "conf" : 0.559715,
+      "end" : 5.100000,
+      "start" : 4.530000,
+      "word" : "l'altra"
+    }, {
+      "conf" : 0.636746,
+      "end" : 5.340000,
+      "start" : 5.220000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.340000,
+      "word" : "sarró"
+    }],
+  "text" : "el testament del caçador per un fill l'escopeta i per l'altra al sarró"
+}

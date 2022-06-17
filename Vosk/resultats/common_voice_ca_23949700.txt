@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.750000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.080000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.380000,
+      "word" : "detalls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.860000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.130000,
+      "word" : "de"
+    }, {
+      "conf" : 0.810072,
+      "end" : 2.460000,
+      "start" : 2.220000,
+      "word" : "colors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.490000,
+      "word" : "daurats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.360000,
+      "word" : "representant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.230000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.380000,
+      "word" : "colors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.800000,
+      "word" : "l'estat"
+    }],
+  "text" : "tots aquests detalls són de colors daurats representant els colors de l'estat"
+}

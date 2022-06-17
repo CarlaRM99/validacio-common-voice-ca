@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.780000,
+      "word" : "volia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.260000,
+      "word" : "ser"
+    }, {
+      "conf" : 0.503598,
+      "end" : 1.950000,
+      "start" : 1.440000,
+      "word" : "mestre"
+    }],
+  "text" : "volia ser mestre"
+}

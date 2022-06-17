@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.540000,
+      "word" : "s'alimenten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.380000,
+      "word" : "d'insectes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.190000,
+      "word" : "larves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.670000,
+      "word" : "petits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.240000,
+      "word" : "rèptils"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.870000,
+      "word" : "crancs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.440000,
+      "word" : "i"
+    }, {
+      "conf" : 0.999967,
+      "end" : 5.309993,
+      "start" : 4.530000,
+      "word" : "baies"
+    }],
+  "text" : "s'alimenten d'insectes larves petits rèptils crancs i baies"
+}

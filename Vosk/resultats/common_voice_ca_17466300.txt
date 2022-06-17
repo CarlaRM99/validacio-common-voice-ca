@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.960000,
+      "word" : "feina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.290000,
+      "word" : "treu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.530000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.740000,
+      "word" : "ulls"
+    }],
+  "text" : "la feina treu els ulls"
+}

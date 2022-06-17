@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.780000,
+      "word" : "llibres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.410000,
+      "word" : "camins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.980000,
+      "word" : "i"
+    }, {
+      "conf" : 0.771314,
+      "end" : 2.340000,
+      "start" : 2.070000,
+      "word" : "dia"
+    }, {
+      "conf" : 0.431358,
+      "end" : 2.490000,
+      "start" : 2.340000,
+      "word" : "es"
+    }, {
+      "conf" : 0.660043,
+      "end" : 2.995905,
+      "start" : 2.490000,
+      "word" : "porten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 2.995905,
+      "word" : "saviesa"
+    }],
+  "text" : "llibres camins i dia es porten saviesa"
+}

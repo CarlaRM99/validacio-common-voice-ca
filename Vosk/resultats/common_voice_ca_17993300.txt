@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.640120,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.320000,
+      "word" : "de"
+    }, {
+      "conf" : 0.687282,
+      "end" : 1.830000,
+      "start" : 1.410000,
+      "word" : "redovà"
+    }],
+  "text" : "venim de redovà"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.906380,
+      "end" : 1.320000,
+      "start" : 0.840000,
+      "word" : "tendim"
+    }, {
+      "conf" : 0.906380,
+      "end" : 1.350000,
+      "start" : 1.320000,
+      "word" : "a"
+    }, {
+      "conf" : 0.906380,
+      "end" : 1.620000,
+      "start" : 1.350000,
+      "word" : "roses"
+    }, {
+      "conf" : 0.774075,
+      "end" : 2.130000,
+      "start" : 1.620000,
+      "word" : "cosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.190000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.340000,
+      "word" : "dimarts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.880000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.090000,
+      "word" : "penja"
+    }],
+  "text" : "tendim a roses cosa en dimarts es penja"
+}

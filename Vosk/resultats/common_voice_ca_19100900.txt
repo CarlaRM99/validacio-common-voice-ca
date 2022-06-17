@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.360000,
+      "start" : 0.060000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.360000,
+      "word" : "vols"
+    }, {
+      "conf" : 0.608097,
+      "end" : 1.440000,
+      "start" : 0.750000,
+      "word" : "usar"
+    }, {
+      "conf" : 0.525511,
+      "end" : 2.065564,
+      "start" : 1.650000,
+      "word" : "lliga"
+    }, {
+      "conf" : 0.447801,
+      "end" : 2.550000,
+      "start" : 2.070000,
+      "word" : "clamar"
+    }],
+  "text" : "si vols usar lliga clamar"
+}

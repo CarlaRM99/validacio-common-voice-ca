@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.330000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.870000,
+      "word" : "formes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.260000,
+      "word" : "d'escriptura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.890000,
+      "word" : "pictogràfica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.610000,
+      "word" : "sorgeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.090000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.210000,
+      "word" : "algun"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.690000,
+      "word" : "mitjà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.110000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.200000,
+      "word" : "l'índia"
+    }],
+  "text" : "diverses formes d'escriptura pictogràfica sorgeix en algun mitjà i l'índia"
+}

@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.745277,
+      "end" : 1.800000,
+      "start" : 1.110000,
+      "word" : "percebran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.830000,
+      "word" : "el"
+    }, {
+      "conf" : 0.846701,
+      "end" : 2.370954,
+      "start" : 2.040000,
+      "word" : "plus"
+    }, {
+      "conf" : 0.473885,
+      "end" : 2.430000,
+      "start" : 2.370954,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.437266,
+      "word" : "festiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.720000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.020000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.140000,
+      "word" : "personal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 4.980000,
+      "word" : "servici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.700000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 6.090000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.240000,
+      "word" : "jornada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.440000,
+      "start" : 6.780000,
+      "word" : "mitjana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.590000,
+      "start" : 7.470000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.100000,
+      "start" : 7.590000,
+      "word" : "total"
+    }],
+  "text" : "percebran el plus de festiu tot el personal de servici tant en jornada mitjana o total"
+}

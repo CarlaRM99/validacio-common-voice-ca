@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.840000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.020000,
+      "word" : "hivern"
+    }, {
+      "conf" : 0.799456,
+      "end" : 1.950000,
+      "start" : 1.500000,
+      "word" : "habita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.950000,
+      "word" : "pantans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.490000,
+      "word" : "i"
+    }, {
+      "conf" : 0.895939,
+      "end" : 2.820000,
+      "start" : 2.550000,
+      "word" : "llacs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.820000,
+      "word" : "d'euràsia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.450000,
+      "word" : "meridional"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.200000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.350000,
+      "word" : "àfrica"
+    }],
+  "text" : "en hivern habita pantans i llacs d'euràsia meridional i àfrica"
+}

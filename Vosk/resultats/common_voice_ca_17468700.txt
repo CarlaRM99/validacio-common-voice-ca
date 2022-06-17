@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.844717,
+      "end" : 0.300000,
+      "start" : 0.120000,
+      "word" : "dur"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.390000,
+      "start" : 0.300000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.390000,
+      "word" : "terme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 0.960000,
+      "word" : "l'assessor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.980000,
+      "word" : "assessora"
+    }],
+  "text" : "dur a terme l'assessor o assessora"
+}

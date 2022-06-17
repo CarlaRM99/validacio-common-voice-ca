@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.720000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.930000,
+      "word" : "nau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.140000,
+      "word" : "central"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.680000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.920000,
+      "word" : "coberta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.520000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.700000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.880000,
+      "word" : "volta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.270000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.390000,
+      "word" : "ple"
+    }, {
+      "conf" : 0.891776,
+      "end" : 3.900000,
+      "start" : 3.630000,
+      "word" : "arc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.930000,
+      "word" : "lleugerament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.590000,
+      "word" : "sobrepassada"
+    }],
+  "text" : "la nau central està coberta per una volta de ple arc lleugerament sobrepassada"
+}

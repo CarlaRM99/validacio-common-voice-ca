@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.600000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.960000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.230000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.620000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.010000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.190000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.430000,
+      "word" : "popularitzar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.330000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.600000,
+      "word" : "obres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.960000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.080000,
+      "word" : "genets"
+    }, {
+      "conf" : 0.512657,
+      "end" : 5.220000,
+      "start" : 4.500000,
+      "word" : "mexicans"
+    }],
+  "text" : "durant aquest temps també es va popularitzar les obres de genets mexicans"
+}

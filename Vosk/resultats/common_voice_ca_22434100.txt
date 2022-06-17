@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.660000,
+      "word" : "menjava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.290000,
+      "word" : "principalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.190000,
+      "word" : "caribús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.970000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.240000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.330000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.630000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.020000,
+      "word" : "s'alimentava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.920000,
+      "word" : "castors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 5.850000,
+      "word" : "ratolins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.750000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.380000,
+      "start" : 6.870000,
+      "word" : "d'altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.220000,
+      "start" : 7.380000,
+      "word" : "rosegadors"
+    }],
+  "text" : "menjava principalment caribús tot i que també s'alimentava de castors ratolins i d'altres rosegadors"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.930000,
+      "word" : "territori"
+    }, {
+      "conf" : 0.435877,
+      "end" : 1.920000,
+      "start" : 1.590000,
+      "word" : "tenia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.944784,
+      "word" : "nombroses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.550000,
+      "word" : "rescloses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.330000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.480000,
+      "word" : "acumular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.960000,
+      "word" : "l'aigua"
+    }],
+  "text" : "el territori tenia nombroses rescloses per acumular l'aigua"
+}

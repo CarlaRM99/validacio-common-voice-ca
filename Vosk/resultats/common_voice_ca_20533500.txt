@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.690000,
+      "word" : "es"
+    }, {
+      "conf" : 0.590655,
+      "end" : 1.320000,
+      "start" : 0.930000,
+      "word" : "base"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.470000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.560000,
+      "word" : "capacitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.100000,
+      "word" : "d'alguns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.460000,
+      "word" : "virus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.000000,
+      "word" : "causar"
+    }, {
+      "conf" : 0.585227,
+      "end" : 3.720000,
+      "start" : 3.510000,
+      "word" : "em"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 3.725107,
+      "word" : "aglutinació"
+    }],
+  "text" : "es base en la capacitat d'alguns virus de causar em aglutinació"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.600000,
+      "word" : "havent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.870000,
+      "word" : "acumulat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.350000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.530000,
+      "word" : "suma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.830000,
+      "word" : "suficient"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.880000,
+      "word" : "decideix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.660000,
+      "word" : "jubilar-se"
+    }],
+  "text" : "havent acumulat una suma suficient decideix jubilar-se"
+}

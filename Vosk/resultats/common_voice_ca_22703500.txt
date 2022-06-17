@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.540000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.810000,
+      "word" : "missions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.590000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.251037,
+      "start" : 1.800000,
+      "word" : "ambients"
+    }, {
+      "conf" : 0.438726,
+      "end" : 2.309542,
+      "start" : 2.251037,
+      "word" : "d"
+    }, {
+      "conf" : 0.871268,
+      "end" : 3.000000,
+      "start" : 2.309542,
+      "word" : "infiltració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.781382,
+      "start" : 3.126352,
+      "word" : "infanteria"
+    }, {
+      "conf" : 0.809357,
+      "end" : 3.990000,
+      "start" : 3.781382,
+      "word" : "és"
+    }, {
+      "conf" : 0.436503,
+      "end" : 4.530000,
+      "start" : 4.050000,
+      "word" : "franki"
+    }, {
+      "conf" : 0.970691,
+      "end" : 4.649976,
+      "start" : 4.530000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.649976,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.160000,
+      "word" : "assalts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.580000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.640000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.850000,
+      "word" : "escala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.420000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.720000,
+      "word" : "altres"
+    }],
+  "text" : "les missions en ambients d infiltració infanteria és franki de dos assalts a gran escala entre altres"
+}

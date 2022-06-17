@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.420000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.660000,
+      "word" : "porta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.930000,
+      "word" : "principal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.650000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.800000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.950000,
+      "word" : "obertura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.550000,
+      "word" : "emmarcada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.240000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.360000,
+      "word" : "pedra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.930000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.050000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.440000,
+      "word" : "d'arc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.800000,
+      "word" : "mig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.070000,
+      "word" : "punt"
+    }],
+  "text" : "la porta principal té una obertura emmarcada de pedra en forma d'arc de mig punt"
+}

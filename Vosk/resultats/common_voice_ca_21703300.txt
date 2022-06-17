@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.870000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.170000,
+      "word" : "edifici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.710000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.950000,
+      "word" : "plantes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.610000,
+      "word" : "golfes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.000000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.270000,
+      "word" : "mitgeres"
+    }],
+  "text" : "és un edifici de tres plantes i golfes entre mitgeres"
+}

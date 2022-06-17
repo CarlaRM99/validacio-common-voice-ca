@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.020000,
+      "word" : "encara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.440000,
+      "word" : "potser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040007,
+      "start" : 1.830000,
+      "word" : "més"
+    }, {
+      "conf" : 0.992462,
+      "end" : 2.519994,
+      "start" : 2.040007,
+      "word" : "injust"
+    }],
+  "text" : "encara potser més injust"
+}

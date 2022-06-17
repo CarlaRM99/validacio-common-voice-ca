@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.570000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.690000,
+      "word" : "quina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.020000,
+      "word" : "hora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.260000,
+      "word" : "passa"
+    }, {
+      "conf" : 0.564714,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.920000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.250000,
+      "word" : "autobús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.820000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.000000,
+      "word" : "monistrol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.810000,
+      "word" : "calders"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.590000,
+      "word" : "l'onze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.070000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.160000,
+      "word" : "juliol"
+    }],
+  "text" : "a quina hora passa al primer autobús per monistrol de calders l'onze de juliol"
+}

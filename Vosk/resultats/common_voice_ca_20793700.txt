@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.870000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.140000,
+      "word" : "escultura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.710000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.040000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.250000,
+      "word" : "lleó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.850000,
+      "word" : "estarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.330000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.660000,
+      "word" : "l'entrada"
+    }],
+  "text" : "una escultura gran d'un lleó estarà sobre l'entrada"
+}

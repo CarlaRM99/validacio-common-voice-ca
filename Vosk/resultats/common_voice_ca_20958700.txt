@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.851510,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.964455,
+      "word" : "artista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.560000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.620000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.740000,
+      "word" : "vegada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.100000,
+      "word" : "espontani"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.880000,
+      "word" : "processador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.660000,
+      "word" : "componedor"
+    }, {
+      "conf" : 0.568559,
+      "end" : 4.498375,
+      "start" : 4.440000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.498375,
+      "word" : "improvisador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.700000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 5.880000,
+      "word" : "interacciona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.960000,
+      "start" : 6.810000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.690824,
+      "end" : 7.560000,
+      "start" : 6.960000,
+      "word" : "l'atzar"
+    }],
+  "text" : "un artista a la vegada espontani processador componedor i improvisador que interacciona amb l'atzar"
+}

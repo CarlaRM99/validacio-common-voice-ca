@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.540000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.690000,
+      "word" : "un"
+    }, {
+      "conf" : 0.855319,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "d'aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.355404,
+      "start" : 1.050000,
+      "word" : "atacs"
+    }, {
+      "conf" : 0.504762,
+      "end" : 1.530000,
+      "start" : 1.355404,
+      "word" : "dels"
+    }, {
+      "conf" : 0.471368,
+      "end" : 1.770000,
+      "start" : 1.530000,
+      "word" : "homes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.920000,
+      "word" : "regne"
+    }, {
+      "conf" : 0.820213,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "són"
+    }, {
+      "conf" : 0.926971,
+      "end" : 2.821125,
+      "start" : 2.400000,
+      "word" : "anihilar"
+    }, {
+      "conf" : 0.548491,
+      "end" : 2.940000,
+      "start" : 2.821125,
+      "word" : "gir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.955550,
+      "word" : "només"
+    }, {
+      "conf" : 0.444650,
+      "end" : 3.450294,
+      "start" : 3.396658,
+      "word" : "a"
+    }, {
+      "conf" : 0.652063,
+      "end" : 3.780000,
+      "start" : 3.690000,
+      "word" : "la"
+    }, {
+      "conf" : 0.652063,
+      "end" : 4.170000,
+      "start" : 3.780000,
+      "word" : "consegüent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.190876,
+      "word" : "salvar-se"
+    }],
+  "text" : "en un d'aquests atacs dels homes del regne són anihilar gir només a la consegüent salvar-se"
+}

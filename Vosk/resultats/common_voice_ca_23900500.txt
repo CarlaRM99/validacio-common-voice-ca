@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 0.740980,
+      "end" : 1.189664,
+      "start" : 1.050000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.189664,
+      "word" : "l'inici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.680000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.830000,
+      "word" : "conducte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.340000,
+      "word" : "auditiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.820000,
+      "word" : "intern"
+    }, {
+      "conf" : 0.852806,
+      "end" : 3.840000,
+      "start" : 3.330000,
+      "word" : "s'uneix"
+    }, {
+      "conf" : 0.555084,
+      "end" : 3.930000,
+      "start" : 3.840000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.934416,
+      "word" : "nervi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.290000,
+      "word" : "vestibular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.040000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.190000,
+      "word" : "formar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.610000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.700000,
+      "word" : "nervi"
+    }, {
+      "conf" : 0.691379,
+      "end" : 6.835227,
+      "start" : 6.150000,
+      "word" : "vestibular"
+    }, {
+      "conf" : 0.607194,
+      "end" : 7.428483,
+      "start" : 6.870000,
+      "word" : "xisco"
+    }, {
+      "conf" : 0.655448,
+      "end" : 7.890000,
+      "start" : 7.428483,
+      "word" : "olea"
+    }],
+  "text" : "en l'inici del conducte auditiu intern s'uneix el nervi vestibular per formar el nervi vestibular xisco olea"
+}

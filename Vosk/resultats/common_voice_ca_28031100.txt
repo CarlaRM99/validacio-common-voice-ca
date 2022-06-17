@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.480000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.720000,
+      "word" : "mandíbula"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.200000,
+      "word" : "inferior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.770000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.950000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.160000,
+      "word" : "punta"
+    }, {
+      "conf" : 0.371759,
+      "end" : 2.880000,
+      "start" : 2.520000,
+      "word" : "distal"
+    }, {
+      "conf" : 0.882570,
+      "end" : 3.090000,
+      "start" : 2.910000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.120000,
+      "word" : "fosc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.570000,
+      "word" : "gairebé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.020000,
+      "word" : "negre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.440000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.620000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.770000,
+      "word" : "barbeta"
+    }],
+  "text" : "la mandíbula inferior té una punta distal molt fosc gairebé negre com una barbeta"
+}

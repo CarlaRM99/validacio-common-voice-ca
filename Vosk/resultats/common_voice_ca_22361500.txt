@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.230000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.470000,
+      "word" : "tants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.770000,
+      "word" : "punts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.220000,
+      "word" : "vista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.700000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 2.820000,
+      "word" : "histològics"
+    }, {
+      "conf" : 0.813847,
+      "end" : 4.067796,
+      "start" : 3.810000,
+      "word" : "com"
+    }, {
+      "conf" : 0.482783,
+      "end" : 4.200000,
+      "start" : 4.140000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.200000,
+      "word" : "variants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.860000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.130000,
+      "word" : "cristianisme"
+    }],
+  "text" : "hi ha tants punts de vista que histològics com ha variants del cristianisme"
+}

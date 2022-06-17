@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.870778,
+      "end" : 0.630000,
+      "start" : 0.360000,
+      "word" : "nova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.630000,
+      "word" : "proposa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.110000,
+      "word" : "i"
+    }, {
+      "conf" : 0.612363,
+      "end" : 1.320000,
+      "start" : 1.170000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.320000,
+      "word" : "disposa"
+    }],
+  "text" : "nova proposa i de disposa"
+}

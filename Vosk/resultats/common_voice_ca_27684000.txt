@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "el"
+    }, {
+      "conf" : 0.372526,
+      "end" : 1.290000,
+      "start" : 1.050000,
+      "word" : "fl"
+    }, {
+      "conf" : 0.676143,
+      "end" : 1.830000,
+      "start" : 1.322851,
+      "word" : "unida"
+    }, {
+      "conf" : 0.657478,
+      "end" : 2.100000,
+      "start" : 1.950000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.100000,
+      "word" : "tinent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.490000,
+      "word" : "johnson"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.090000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.210000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.780000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.810000,
+      "word" : "organitzar"
+    }, {
+      "conf" : 0.968619,
+      "end" : 4.860000,
+      "start" : 4.680000,
+      "word" : "i"
+    }, {
+      "conf" : 0.579859,
+      "end" : 5.250000,
+      "start" : 4.890000,
+      "word" : "temps"
+    }, {
+      "conf" : 0.516772,
+      "end" : 5.340000,
+      "start" : 5.250000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.347388,
+      "word" : "rescat"
+    }],
+  "text" : "el fl unida el tinent johnson va començar a organitzar i temps i rescat"
+}

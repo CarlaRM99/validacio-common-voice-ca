@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.780000,
+      "word" : "totes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.170000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.380000,
+      "word" : "enquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.744340,
+      "start" : 1.950000,
+      "word" : "espanyoles"
+    }, {
+      "conf" : 0.457579,
+      "end" : 3.060661,
+      "start" : 2.760000,
+      "word" : "tona"
+    }, {
+      "conf" : 0.794029,
+      "end" : 3.210000,
+      "start" : 3.060661,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.210000,
+      "word" : "contrari"
+    }],
+  "text" : "totes les enquestes espanyoles tona del contrari"
+}

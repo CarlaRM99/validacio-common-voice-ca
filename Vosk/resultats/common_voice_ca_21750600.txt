@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.780000,
+      "word" : "l'obra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.410000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.680000,
+      "word" : "molta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.100000,
+      "word" : "demanda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.760000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 2.940000,
+      "word" : "exhibicions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.080000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.470000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.590000,
+      "word" : "trajectòria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.370000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.490000,
+      "word" : "l'autor"
+    }],
+  "text" : "l'obra té molta demanda en exhibicions sobre la trajectòria de l'autor"
+}

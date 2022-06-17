@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.811121,
+      "end" : 0.570000,
+      "start" : 0.415923,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.570000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.870000,
+      "word" : "lideratge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.440000,
+      "word" : "l'operació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.580000,
+      "word" : "towers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.180000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.300000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.810000,
+      "word" : "creu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.110000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.230000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.320000,
+      "word" : "marina"
+    }],
+  "text" : "el seu lideratge l'operació towers va rebre la creu de la marina"
+}

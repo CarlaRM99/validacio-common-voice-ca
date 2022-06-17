@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.360000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.630000,
+      "word" : "boscos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.140000,
+      "word" : "densos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.890000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.160000,
+      "word" : "alzinars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.270000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.390000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.630000,
+      "word" : "contrades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.230000,
+      "word" : "mediterrànies"
+    }, {
+      "conf" : 0.693665,
+      "end" : 5.700000,
+      "start" : 4.950000,
+      "word" : "marítimes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.790000,
+      "word" : "humides"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.480000,
+      "word" : "o"
+    }, {
+      "conf" : 0.999837,
+      "end" : 7.470000,
+      "start" : 6.630000,
+      "word" : "subhumides"
+    }],
+  "text" : "fa boscos densos els alzinars a les contrades mediterrànies marítimes humides o subhumides"
+}

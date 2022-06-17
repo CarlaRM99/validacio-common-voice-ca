@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.110000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.470000,
+      "word" : "present"
+    }, {
+      "conf" : 0.683547,
+      "end" : 1.889555,
+      "start" : 1.860000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.889555,
+      "word" : "islàndia"
+    }],
+  "text" : "també és present a islàndia"
+}

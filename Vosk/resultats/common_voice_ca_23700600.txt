@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.448169,
+      "end" : 1.080000,
+      "start" : 0.660000,
+      "word" : "passava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.086868,
+      "word" : "normalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.680000,
+      "word" : "edificis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.280000,
+      "word" : "comercials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.887695,
+      "word" : "industrials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.810000,
+      "word" : "magatzems"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.369991,
+      "start" : 4.530000,
+      "word" : "particularment"
+    }],
+  "text" : "passava normalment edificis comercials industrials i magatzems particularment"
+}

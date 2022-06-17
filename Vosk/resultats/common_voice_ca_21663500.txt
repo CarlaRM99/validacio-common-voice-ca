@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.810000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.020000,
+      "word" : "batallons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.530000,
+      "word" : "formats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.980000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.160000,
+      "word" : "mercenaris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.790000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.090000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.270000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.420000,
+      "word" : "desmobilitzats"
+    }],
+  "text" : "els batallons formats per mercenaris també van ser desmobilitzats"
+}

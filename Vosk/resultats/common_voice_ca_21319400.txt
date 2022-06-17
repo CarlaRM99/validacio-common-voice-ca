@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.050000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.320000,
+      "word" : "vendes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.860000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.100000,
+      "word" : "superar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.700000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.910000,
+      "word" : "mig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.300000,
+      "word" : "milió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.810000,
+      "word" : "còpies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.440000,
+      "word" : "arreu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.770000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.950000,
+      "word" : "món"
+    }],
+  "text" : "les vendes van superar el mig milió de còpies arreu del món"
+}

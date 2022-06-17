@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.990000,
+      "word" : "tracta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.680000,
+      "word" : "llengües"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.130000,
+      "word" : "parlades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.760000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.970000,
+      "word" : "jueus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.570000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.690000,
+      "word" : "fortament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.350000,
+      "word" : "influïdes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.100000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.280000,
+      "word" : "les"
+    }, {
+      "conf" : 0.999995,
+      "end" : 5.880000,
+      "start" : 5.460000,
+      "word" : "llengües"
+    }, {
+      "conf" : 0.999988,
+      "end" : 6.629998,
+      "start" : 5.880000,
+      "word" : "romàniques"
+    }],
+  "text" : "es tracta de llengües parlades per jueus i fortament influïdes per les llengües romàniques"
+}

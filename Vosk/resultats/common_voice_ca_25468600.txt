@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.690000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.960000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.290000,
+      "word" : "restes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.010000,
+      "word" : "estan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.929643,
+      "start" : 2.340000,
+      "word" : "enterrades"
+    }, {
+      "conf" : 0.654757,
+      "end" : 2.992394,
+      "start" : 2.940000,
+      "word" : "a"
+    }, {
+      "conf" : 0.800211,
+      "end" : 3.090000,
+      "start" : 2.992394,
+      "word" : "la"
+    }, {
+      "conf" : 0.800211,
+      "end" : 3.540000,
+      "start" : 3.090000,
+      "word" : "reserva"
+    }, {
+      "conf" : 0.607015,
+      "end" : 4.140000,
+      "start" : 3.540000,
+      "word" : "índia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.608869,
+      "start" : 4.290000,
+      "word" : "pam"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.663710,
+      "word" : "qui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.130000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.490000,
+      "word" : "tingui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.150000,
+      "word" : "liam"
+    }, {
+      "conf" : 0.562558,
+      "end" : 7.470000,
+      "start" : 6.720000,
+      "word" : "virginia"
+    }],
+  "text" : "les seves restes estan enterrades a la reserva índia pam qui en tingui liam virginia"
+}

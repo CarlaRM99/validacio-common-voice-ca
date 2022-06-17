@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.260000,
+      "word" : "algunes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.860000,
+      "word" : "d'aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.370000,
+      "word" : "propietats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.150000,
+      "word" : "podrien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.570000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 3.870000,
+      "word" : "especificitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.070000,
+      "word" : "termoestabilitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.300000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.420000,
+      "word" : "moltes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.780000,
+      "word" : "d'altres"
+    }],
+  "text" : "algunes d'aquestes propietats podrien ser especificitat termoestabilitat i moltes d'altres"
+}

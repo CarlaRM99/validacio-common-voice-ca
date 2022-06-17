@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.620000,
+      "word" : "homes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.040000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.280000,
+      "word" : "roba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.520000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.610000,
+      "word" : "seguretat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.720000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.840000,
+      "word" : "cascos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.350000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.440000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.620000,
+      "word" : "zona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.860000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.950000,
+      "word" : "construcció"
+    }],
+  "text" : "homes amb roba de seguretat i cascos en una zona de construcció"
+}

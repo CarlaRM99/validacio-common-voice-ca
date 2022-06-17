@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.870000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.020000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.410000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.650000,
+      "word" : "èxit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.370000,
+      "word" : "perquè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.610000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.700000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.880000,
+      "word" : "vendre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.270000,
+      "word" : "seixanta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.750000,
+      "word" : "mil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.960000,
+      "word" : "còpies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.470000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.650000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.800000,
+      "word" : "any"
+    }],
+  "text" : "va tenir un gran èxit perquè es van vendre seixanta mil còpies en un any"
+}

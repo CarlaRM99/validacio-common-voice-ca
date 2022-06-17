@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.600000,
+      "word" : "vull"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.840000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.200000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.800000,
+      "word" : "dolça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.430000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.580000,
+      "word" : "provença"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.390000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.570000,
+      "word" : "autobús"
+    }],
+  "text" : "vull anar al carrer de dolça de provença amb autobús"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "aviat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.290000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.380000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.560000,
+      "word" : "promogut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.100000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.160000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.700000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.940000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.240000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.390000,
+      "word" : "moviments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 3.930000,
+      "word" : "d'escoltisme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.800000,
+      "word" : "polonesos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.670000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.790000,
+      "word" : "regió"
+    }],
+  "text" : "aviat va ser promogut a cap de tots els moviments d'escoltisme polonesos de la regió"
+}

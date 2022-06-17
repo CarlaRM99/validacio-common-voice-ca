@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.480000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.840000,
+      "word" : "fill"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.200000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.320000,
+      "word" : "hereu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.680000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.950000,
+      "word" : "francesc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.490000,
+      "word" : "agulló"
+    }, {
+      "conf" : 0.219712,
+      "end" : 3.267933,
+      "start" : 2.910000,
+      "word" : "saga"
+    }, {
+      "conf" : 0.755767,
+      "end" : 3.720000,
+      "start" : 3.267933,
+      "word" : "rica"
+    }],
+  "text" : "el seu fill i hereu fou francesc agulló saga rica"
+}

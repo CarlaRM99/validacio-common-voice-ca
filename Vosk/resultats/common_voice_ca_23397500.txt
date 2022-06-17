@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.980000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.460000,
+      "word" : "llibre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.790000,
+      "word" : "m"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.240000,
+      "word" : "estableix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 3.870000,
+      "word" : "l'existència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.770000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.890000,
+      "word" : "nombres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.310000,
+      "word" : "normals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.270000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.450000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 6.660000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.680000,
+      "start" : 6.840000,
+      "word" : "constructiu"
+    }],
+  "text" : "aquest llibre m estableix l'existència de nombres normals però no és constructiu"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.583537,
+      "end" : 0.720000,
+      "start" : 0.300000,
+      "word" : "tingué"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.728685,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.870000,
+      "word" : "enorme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.260000,
+      "word" : "importància"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.950000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.010000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.130000,
+      "word" : "pensament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.670000,
+      "word" : "medieval"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.270000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.480000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.540000,
+      "word" : "filòsof"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.350000,
+      "word" : "religiós"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.130000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.250000,
+      "word" : "metge"
+    }],
+  "text" : "tingué una enorme importància en el pensament medieval com a filòsof religiós i metge"
+}

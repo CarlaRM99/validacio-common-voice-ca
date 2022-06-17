@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.860450,
+      "end" : 1.290000,
+      "start" : 1.080000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.290000,
+      "word" : "març"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.770000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.950000,
+      "word" : "marduix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.370000,
+      "word" : "treu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.730000,
+      "word" : "nas"
+    }],
+  "text" : "al març el marduix treu el nas"
+}

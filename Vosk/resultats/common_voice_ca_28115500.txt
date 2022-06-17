@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.750000,
+      "word" : "ciutat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.380000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.530000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.220000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.430000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.550000,
+      "word" : "assentament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.300000,
+      "word" : "mini"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.870000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.990000,
+      "word" : "voltant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.470000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.590000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.710000,
+      "word" : "zona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.070000,
+      "word" : "minera"
+    }, {
+      "conf" : 0.485337,
+      "end" : 6.750000,
+      "start" : 5.700000,
+      "word" : "envellits"
+    }],
+  "text" : "la ciutat va començar com un assentament mini a voltant de la zona minera envellits"
+}

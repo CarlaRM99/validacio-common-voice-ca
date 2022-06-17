@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.870000,
+      "word" : "gineceu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.590000,
+      "word" : "consisteix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.490000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.670000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.820000,
+      "word" : "ull"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.150000,
+      "word" : "únic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.570000,
+      "word" : "pistil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.200000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.380000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.620000,
+      "word" : "carpels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.280000,
+      "word" : "formant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.970000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.150000,
+      "word" : "ovari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.540000,
+      "word" : "súper"
+    }],
+  "text" : "el gineceu consisteix en un ull únic pistil amb dos carpels formant un ovari súper"
+}

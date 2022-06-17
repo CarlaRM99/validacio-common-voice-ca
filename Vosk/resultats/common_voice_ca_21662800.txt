@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.630000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.960000,
+      "word" : "motllura"
+    }, {
+      "conf" : 0.711882,
+      "end" : 2.340000,
+      "start" : 1.560000,
+      "word" : "diferència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.400000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.640000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.910000,
+      "word" : "pisos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.330000,
+      "word" : "d'altura"
+    }],
+  "text" : "una motllura diferència els dos pisos d'altura"
+}

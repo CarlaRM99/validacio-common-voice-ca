@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.750000,
+      "word" : "ens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.200000,
+      "word" : "explicat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.830000,
+      "word" : "històries"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.340000,
+      "word" : "fascinants"
+    }],
+  "text" : "ens han explicat històries fascinants"
+}

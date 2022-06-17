@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.836088,
+      "end" : 0.840000,
+      "start" : 0.660000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.840000,
+      "word" : "fan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.170000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.710000,
+      "word" : "mides"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.130000,
+      "word" : "normalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.910000,
+      "word" : "diàmetre"
+    }],
+  "text" : "es fan en diverses mides normalment de diàmetre"
+}

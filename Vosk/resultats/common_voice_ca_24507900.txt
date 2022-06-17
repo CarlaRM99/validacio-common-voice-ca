@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.660000,
+      "word" : "el"
+    }, {
+      "conf" : 0.838057,
+      "end" : 1.080000,
+      "start" : 0.810000,
+      "word" : "gra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.089717,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.500000,
+      "word" : "mai"
+    }, {
+      "conf" : 0.529304,
+      "end" : 2.400000,
+      "start" : 1.890000,
+      "word" : "arribà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.610000,
+      "word" : "exercir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.300000,
+      "word" : "professió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.810000,
+      "word" : "mèdica"
+    }],
+  "text" : "el gra tot mai arribà a exercir la professió mèdica"
+}

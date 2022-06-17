@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.809549,
+      "end" : 0.840000,
+      "start" : 0.570000,
+      "word" : "val"
+    }, {
+      "conf" : 0.809549,
+      "end" : 1.170000,
+      "start" : 0.840000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.350000,
+      "word" : "llapis"
+    }, {
+      "conf" : 0.582387,
+      "end" : 2.040000,
+      "start" : 1.740000,
+      "word" : "curt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.400000,
+      "word" : "memòria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.820000,
+      "word" : "llarga"
+    }],
+  "text" : "val més un llapis curt que una memòria llarga"
+}

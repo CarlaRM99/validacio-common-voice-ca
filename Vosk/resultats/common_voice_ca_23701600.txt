@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.590000,
+      "word" : "tanca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.070000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.250000,
+      "word" : "llums"
+    }],
+  "text" : "tanca els llums"
+}

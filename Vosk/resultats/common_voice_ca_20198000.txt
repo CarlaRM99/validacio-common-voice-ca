@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.647014,
+      "end" : 0.960000,
+      "start" : 0.630000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.960000,
+      "word" : "aviat"
+    }, {
+      "conf" : 0.651380,
+      "end" : 1.440000,
+      "start" : 1.350000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.440000,
+      "word" : "govern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.800000,
+      "word" : "regional"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.400000,
+      "word" : "kurdistan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.940000,
+      "word" : "iraquià"
+    }],
+  "text" : "està aviat el govern regional del kurdistan iraquià"
+}

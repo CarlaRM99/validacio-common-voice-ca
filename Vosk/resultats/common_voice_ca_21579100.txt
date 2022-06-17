@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.110000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.290000,
+      "word" : "llacuna"
+    }, {
+      "conf" : 0.837828,
+      "end" : 2.070000,
+      "start" : 1.770000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.070000,
+      "word" : "envoltada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.700000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.000000,
+      "word" : "sèrie"
+    }, {
+      "conf" : 0.653299,
+      "end" : 3.960000,
+      "start" : 3.330000,
+      "word" : "d'idees"
+    }],
+  "text" : "la llacuna està envoltada per una sèrie d'idees"
+}

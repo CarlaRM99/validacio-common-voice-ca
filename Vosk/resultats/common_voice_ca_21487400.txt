@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.840000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.080000,
+      "word" : "dilluns"
+    }, {
+      "conf" : 0.635359,
+      "end" : 1.740000,
+      "start" : 1.650000,
+      "word" : "ho"
+    }, {
+      "conf" : 0.635359,
+      "end" : 2.070000,
+      "start" : 1.740000,
+      "word" : "farien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.190000,
+      "word" : "diari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.460000,
+      "word" : "esportiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.910000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.090000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.120000,
+      "word" : "complement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.540000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.630000,
+      "word" : "l'habitual"
+    }],
+  "text" : "els dilluns ho farien un diari esportiu com a complement de l'habitual"
+}

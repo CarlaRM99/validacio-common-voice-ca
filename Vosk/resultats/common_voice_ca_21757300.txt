@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.840000,
+      "word" : "l'interior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.650000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.010000,
+      "word" : "il·luminat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.640000,
+      "word" : "mitjançant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.360000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.570000,
+      "word" : "finestrons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.260000,
+      "word" : "enreixats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.370000,
+      "word" : "oberts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.940000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 6.060000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.270000,
+      "word" : "parets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 6.630000,
+      "word" : "laterals"
+    }],
+  "text" : "l'interior està il·luminat mitjançant dos finestrons enreixats oberts a les parets laterals"
+}

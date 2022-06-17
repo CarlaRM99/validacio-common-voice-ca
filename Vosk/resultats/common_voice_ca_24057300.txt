@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.678444,
+      "start" : 0.540000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.701556,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.960000,
+      "word" : "mort"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.230000,
+      "word" : "se"
+    }, {
+      "conf" : 0.645700,
+      "end" : 1.950000,
+      "start" : 1.440000,
+      "word" : "suspengué"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.950000,
+      "word" : "l'activitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.580000,
+      "word" : "l'observatori"
+    }],
+  "text" : "a seva mort se suspengué l'activitat de l'observatori"
+}

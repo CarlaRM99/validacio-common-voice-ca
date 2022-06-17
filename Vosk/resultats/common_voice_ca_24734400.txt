@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.450000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.810000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.900000,
+      "word" : "conflicte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.620000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.770000,
+      "word" : "actuar"
+    }, {
+      "conf" : 0.383167,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.310000,
+      "word" : "lloctinent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.000000,
+      "word" : "reial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.390000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.450000,
+      "word" : "l'empordà"
+    }],
+  "text" : "durant el conflicte va actuar de lloctinent reial a l'empordà"
+}

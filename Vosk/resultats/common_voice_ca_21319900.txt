@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.150000,
+      "word" : "l'aparell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.720000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.020000,
+      "word" : "murs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.470000,
+      "word" : "mostra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 1.920000,
+      "word" : "l'evolució"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.940000,
+      "word" : "l'ampliació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.660000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.750000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.840000,
+      "word" : "casa"
+    }],
+  "text" : "l'aparell dels murs mostra l'evolució en l'ampliació de la casa"
+}

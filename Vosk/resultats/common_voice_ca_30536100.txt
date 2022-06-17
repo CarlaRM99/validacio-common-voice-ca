@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.226256,
+      "end" : 1.350000,
+      "start" : 0.930000,
+      "word" : "galta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.410000,
+      "word" : "opera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.860000,
+      "word" : "sota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.160000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.400000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.730000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.820000,
+      "word" : "govern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.180000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.270000,
+      "word" : "consell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.720000,
+      "word" : "electe"
+    }],
+  "text" : "galta opera sota una forma de govern de consell electe"
+}

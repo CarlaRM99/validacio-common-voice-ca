@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.810000,
+      "word" : "música"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.320000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.530000,
+      "word" : "joc"
+    }, {
+      "conf" : 0.516023,
+      "end" : 2.190000,
+      "start" : 1.950000,
+      "word" : "he"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.370000,
+      "word" : "dir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.580000,
+      "word" : "vingui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.940000,
+      "word" : "tècniques"
+    }],
+  "text" : "la música del joc he de dir vingui tècniques"
+}

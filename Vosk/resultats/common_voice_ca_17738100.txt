@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.692892,
+      "end" : 0.630000,
+      "start" : 0.210000,
+      "word" : "venint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.780000,
+      "word" : "cornudella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "de"
+    }, {
+      "conf" : 0.935284,
+      "end" : 1.830000,
+      "start" : 1.470000,
+      "word" : "mans"
+    }],
+  "text" : "venint de cornudella de mans"
+}

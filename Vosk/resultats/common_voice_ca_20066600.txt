@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.020000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.230000,
+      "word" : "mur"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.590000,
+      "word" : "llevant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.220000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.580000,
+      "word" : "adossada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.240000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.289968,
+      "start" : 3.450000,
+      "word" : "sagristia"
+    }],
+  "text" : "la del mur de llevant està adossada a la sagristia"
+}

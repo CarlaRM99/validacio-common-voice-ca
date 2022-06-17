@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.674203,
+      "end" : 1.080000,
+      "start" : 0.720000,
+      "word" : "morir"
+    }, {
+      "conf" : 0.811437,
+      "end" : 1.140000,
+      "start" : 1.080000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.140000,
+      "word" : "guissona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.770000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.950000,
+      "word" : "exercia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.700000,
+      "word" : "notari"
+    }],
+  "text" : "morir a guissona on exercia de notari"
+}

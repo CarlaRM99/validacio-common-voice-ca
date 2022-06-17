@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.750000,
+      "word" : "projectes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.380000,
+      "word" : "tinguin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.680000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.901901,
+      "word" : "objecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.340000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.460000,
+      "word" : "reducció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.000000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.120000,
+      "word" : "l'impacte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.540000,
+      "word" : "ambiental"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.110000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.200000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.320000,
+      "word" : "mitigació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.890000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.040000,
+      "word" : "canvi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.280000,
+      "word" : "climàtic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.940000,
+      "word" : "vint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.300000,
+      "word" : "punts"
+    }],
+  "text" : "projectes que tinguin com objecte la reducció de l'impacte ambiental i la mitigació del canvi climàtic vint punts"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.870000,
+      "word" : "romans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.410000,
+      "word" : "capturar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.010000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.130000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.310000,
+      "word" : "matar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.790000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.970000,
+      "word" : "cabdill"
+    }],
+  "text" : "els romans la van capturar i van matar el seu cabdill"
+}

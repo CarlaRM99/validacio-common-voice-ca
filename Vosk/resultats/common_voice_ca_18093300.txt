@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.390000,
+      "word" : "només"
+    }, {
+      "conf" : 0.583907,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "s'han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.990000,
+      "word" : "afegit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.470000,
+      "word" : "unes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.710000,
+      "word" : "notes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.070000,
+      "word" : "finals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.670000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.820000,
+      "word" : "amplien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.240000,
+      "word" : "algunes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.690000,
+      "word" : "línies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.110000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.230000,
+      "word" : "l'argument"
+    }],
+  "text" : "només s'han afegit unes notes finals que amplien algunes línies de l'argument"
+}

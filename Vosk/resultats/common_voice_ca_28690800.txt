@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.540000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.780000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.080000,
+      "word" : "col·lecció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.680000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.070000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.520000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.670000,
+      "word" : "versions"
+    }, {
+      "conf" : 0.562644,
+      "end" : 3.519546,
+      "start" : 3.360000,
+      "word" : "de"
+    }, {
+      "conf" : 0.437356,
+      "end" : 3.750000,
+      "start" : 3.519546,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.750000,
+      "word" : "crit"
+    }, {
+      "conf" : 0.716270,
+      "end" : 4.526715,
+      "start" : 4.350000,
+      "word" : "de"
+    }, {
+      "conf" : 0.875850,
+      "end" : 4.860000,
+      "start" : 4.526715,
+      "word" : "duen"
+    }, {
+      "conf" : 0.897781,
+      "end" : 5.340000,
+      "start" : 4.920000,
+      "word" : "món"
+    }],
+  "text" : "a la seva col·lecció té una de les versions de del crit de duen món"
+}

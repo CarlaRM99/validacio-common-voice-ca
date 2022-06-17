@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.870000,
+      "word" : "tan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.080000,
+      "word" : "sols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.590000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.770000,
+      "word" : "raïms"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.100000,
+      "word" : "tardans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.150000,
+      "word" : "creixent"
+    }, {
+      "conf" : 0.759220,
+      "end" : 3.750000,
+      "start" : 3.600000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.750000,
+      "word" : "bancal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.200000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.440000,
+      "word" : "proper"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.800000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.860000,
+      "word" : "casa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 5.790000,
+      "word" : "temptaven"
+    }],
+  "text" : "tan sols els raïms tardans creixent al bancal més proper a casa temptaven"
+}

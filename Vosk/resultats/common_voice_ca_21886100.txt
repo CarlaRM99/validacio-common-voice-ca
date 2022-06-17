@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.930000,
+      "word" : "volum"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.320000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.470000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 1.680000,
+      "word" : "exportacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.700000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.120000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.510000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.900000,
+      "word" : "important"
+    }],
+  "text" : "el volum de les exportacions també fou molt important"
+}

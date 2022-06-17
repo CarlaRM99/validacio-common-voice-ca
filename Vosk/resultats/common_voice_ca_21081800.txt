@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.630000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "colors"
+    }, {
+      "conf" : 0.559812,
+      "end" : 1.650000,
+      "start" : 1.290000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.800000,
+      "word" : "blanc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.340000,
+      "word" : "l'emblanquinat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.390000,
+      "word" : "vermell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.050000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.260000,
+      "word" : "maó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.830000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.950000,
+      "word" : "blau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.280000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.400000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.520000,
+      "word" : "fusta"
+    }],
+  "text" : "els colors són blanc de l'emblanquinat vermell del maó i blau de la fusta"
+}

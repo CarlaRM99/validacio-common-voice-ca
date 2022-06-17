@@ -1,0 +1,109 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.840000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.110000,
+      "word" : "informen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.590000,
+      "word" : "d'altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.010000,
+      "word" : "dades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.310000,
+      "word" : "rellevants"
+    }, {
+      "conf" : 0.505602,
+      "end" : 2.966362,
+      "start" : 2.760000,
+      "word" : "dels"
+    }, {
+      "conf" : 0.802813,
+      "end" : 3.390000,
+      "start" : 2.966362,
+      "word" : "centres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.390000,
+      "word" : "tal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.600000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.780000,
+      "word" : "estableix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.260000,
+      "word" : "l'article"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.830000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.190000,
+      "word" : "punts"
+    }, {
+      "conf" : 0.739136,
+      "end" : 5.700000,
+      "start" : 5.490000,
+      "word" : "cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.700000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.880000,
+      "word" : "decret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.270000,
+      "word" : "setanta-cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 7.140000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.440000,
+      "start" : 7.290000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.650000,
+      "start" : 7.440000,
+      "word" : "mil"
+    }, {
+      "conf" : 0.512037,
+      "end" : 7.980000,
+      "start" : 7.650000,
+      "word" : "set"
+    }],
+  "text" : "també informen d'altres dades rellevants dels centres tal com estableix l'article quatre punts cinc del decret setanta-cinc de dos mil set"
+}

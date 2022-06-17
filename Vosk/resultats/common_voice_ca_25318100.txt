@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.536904,
+      "end" : 0.720000,
+      "start" : 0.420000,
+      "word" : "deu"
+    }, {
+      "conf" : 0.663926,
+      "end" : 1.050000,
+      "start" : 0.720000,
+      "word" : "n'hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.110000,
+      "word" : "havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.440000,
+      "word" : "trobat"
+    }, {
+      "conf" : 0.794163,
+      "end" : 2.490000,
+      "start" : 1.860000,
+      "word" : "l'altre"
+    }],
+  "text" : "deu n'hi havia trobat l'altre"
+}

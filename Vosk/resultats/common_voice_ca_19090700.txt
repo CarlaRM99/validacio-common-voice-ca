@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.450000,
+      "word" : "serà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 0.810000,
+      "word" : "subvencionable"
+    }, {
+      "conf" : 0.833203,
+      "end" : 2.070000,
+      "start" : 1.740000,
+      "word" : "l'iva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.190000,
+      "word" : "recuperable"
+    }],
+  "text" : "serà subvencionable l'iva no recuperable"
+}

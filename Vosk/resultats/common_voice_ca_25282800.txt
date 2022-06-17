@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.813808,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.780000,
+      "word" : "gust"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.380000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.650000,
+      "word" : "descriure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.400000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.730000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.000000,
+      "word" : "mica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.420000,
+      "word" : "amarg"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.080000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.350000,
+      "word" : "mica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.710000,
+      "word" : "picant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.400000,
+      "word" : "gens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 5.940000,
+      "word" : "dolç"
+    }],
+  "text" : "el gust es pot descriure com una mica amarg una mica picant gens dolç"
+}

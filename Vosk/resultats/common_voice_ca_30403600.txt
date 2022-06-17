@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.810000,
+      "word" : "guarda"
+    }, {
+      "conf" : 0.585580,
+      "end" : 1.320000,
+      "start" : 1.230000,
+      "word" : "el"
+    }, {
+      "conf" : 0.582350,
+      "end" : 1.890000,
+      "start" : 1.320000,
+      "word" : "cis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 1.950000,
+      "word" : "setanta-dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 2.910000,
+      "word" : "cinquanta-sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 3.990000,
+      "word" : "setanta-quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.010000,
+      "word" : "quaranta-vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.302279,
+      "start" : 6.090000,
+      "word" : "com"
+    }, {
+      "conf" : 0.644710,
+      "end" : 6.360000,
+      "start" : 6.302279,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.360000,
+      "word" : "telèfon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.960000,
+      "start" : 6.870000,
+      "word" : "de"
+    }, {
+      "conf" : 0.449366,
+      "end" : 7.260000,
+      "start" : 6.960000,
+      "word" : "l'ullar"
+    }, {
+      "conf" : 0.569863,
+      "end" : 7.350000,
+      "start" : 7.260000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.920000,
+      "start" : 7.350000,
+      "word" : "gijón"
+    }],
+  "text" : "guarda el cis setanta-dos cinquanta-sis setanta-quatre quaranta-vuit com a telèfon de l'ullar o gijón"
+}

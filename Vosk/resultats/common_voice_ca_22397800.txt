@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.628687,
+      "end" : 0.990000,
+      "start" : 0.450000,
+      "word" : "vera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.050000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.140000,
+      "word" : "obert"
+    }, {
+      "conf" : 0.855044,
+      "end" : 1.950000,
+      "start" : 1.500000,
+      "word" : "botins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.070000,
+      "word" : "núvia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.520000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.610000,
+      "word" : "nova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.910000,
+      "word" : "york"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.300000,
+      "word" : "londres"
+    }, {
+      "conf" : 0.401462,
+      "end" : 4.560000,
+      "start" : 3.930000,
+      "word" : "tokyo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.620000,
+      "word" : "i"
+    }, {
+      "conf" : 0.648578,
+      "end" : 5.400000,
+      "start" : 4.740000,
+      "word" : "sydney"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.460000,
+      "word" : "austràlia"
+    }],
+  "text" : "vera ha obert botins de núvia a nova york londres tokyo i sydney austràlia"
+}

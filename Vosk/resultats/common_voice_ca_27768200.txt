@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.870000,
+      "word" : "comtat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.410000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.890000,
+      "word" : "practica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.550000,
+      "word" : "silvicultura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.510000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.570000,
+      "word" : "l'agricultura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.500000,
+      "word" : "combinada"
+    }],
+  "text" : "el comtat també es practica la silvicultura i l'agricultura combinada"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.570000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.690000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.900000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.960000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.470000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.680000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.800000,
+      "word" : "utilitzada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.520000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.000000,
+      "word" : "merament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.450000,
+      "word" : "decorativa"
+    }],
+  "text" : "a més a més pot ser utilitzada de forma merament decorativa"
+}

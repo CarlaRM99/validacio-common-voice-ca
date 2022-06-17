@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.230000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.410000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.770000,
+      "word" : "períodes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.580000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.790000,
+      "word" : "formació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.720000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.930000,
+      "word" : "relació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.560000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.950000,
+      "word" : "pare"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.190000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.220000,
+      "word" : "fill"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.940000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 6.210000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.390000,
+      "word" : "estreta"
+    }],
+  "text" : "en aquests períodes de formació la relació entre pare i fill és molt estreta"
+}

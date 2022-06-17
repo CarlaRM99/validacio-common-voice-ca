@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.570000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.810000,
+      "word" : "endavant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.290000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.770000,
+      "word" : "anderson"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.820000,
+      "word" : "descobrirà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.690000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.870000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.990000,
+      "word" : "mentir"
+    }],
+  "text" : "més endavant però anderson descobrirà que va mentir"
+}

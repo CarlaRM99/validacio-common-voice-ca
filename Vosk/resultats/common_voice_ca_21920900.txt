@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.720000,
+      "word" : "encara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.170000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.320000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.410000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.650000,
+      "word" : "comuns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.160000,
+      "word" : "eren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.460000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.640000,
+      "word" : "collarets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.300000,
+      "word" : "existien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.110000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.620000,
+      "word" : "polseres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.340000,
+      "word" : "d'aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.850000,
+      "word" : "forma"
+    }],
+  "text" : "encara que els més comuns eren els collarets existien també polseres d'aquesta forma"
+}

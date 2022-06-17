@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.600000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.750000,
+      "word" : "principi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.500000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.620000,
+      "word" : "tancat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.220000,
+      "word" : "feia"
+    }, {
+      "conf" : 0.668226,
+      "end" : 2.970000,
+      "start" : 2.760000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.970000,
+      "word" : "deu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.210000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.270000,
+      "word" : "dotze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.570000,
+      "word" : "troncs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.050000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.230000,
+      "word" : "roure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.560000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.620000,
+      "word" : "boixos"
+    }],
+  "text" : "al principi el tancat es feia amb deu o dotze troncs de roure i boixos"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.690000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.260000,
+      "word" : "marxa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.620000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.710000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.800000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.040000,
+      "word" : "exèrcit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.700000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.820000,
+      "word" : "caure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.180000,
+      "word" : "víctima"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.660000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.840000,
+      "word" : "emboscada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.410000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.729997,
+      "start" : 4.620000,
+      "word" : "irlandesos"
+    }],
+  "text" : "durant una marxa amb el seu exèrcit va caure víctima d'una emboscada dels irlandesos"
+}

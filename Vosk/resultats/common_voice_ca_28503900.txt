@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.560000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.740000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.980000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.220000,
+      "word" : "línia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.580000,
+      "word" : "fina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.000000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.420000,
+      "word" : "l'amor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.900000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.020000,
+      "word" : "l'odi"
+    }],
+  "text" : "hi ha una línia fina entre l'amor i l'odi"
+}

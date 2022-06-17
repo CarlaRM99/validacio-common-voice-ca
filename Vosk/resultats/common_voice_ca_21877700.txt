@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.720000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.840000,
+      "word" : "voltes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.500000,
+      "word" : "fan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.770000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.070000,
+      "word" : "cries"
+    }],
+  "text" : "a voltes fan dues cries"
+}

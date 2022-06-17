@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.630000,
+      "word" : "foment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.140000,
+      "word" : "d'estudis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.860000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 1.980000,
+      "word" : "investigació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.965620,
+      "start" : 2.760000,
+      "word" : "per"
+    }, {
+      "conf" : 0.853993,
+      "end" : 3.030000,
+      "start" : 2.970000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.030000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.120000,
+      "word" : "cerca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.540000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.630000,
+      "word" : "materials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.290000,
+      "word" : "alternatius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.070000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.250000,
+      "word" : "permeten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.880000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 6.030000,
+      "word" : "menor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.390000,
+      "word" : "cost"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.320000,
+      "start" : 6.750000,
+      "word" : "ambiental"
+    }],
+  "text" : "foment d'estudis i investigació per a la cerca de materials alternatius que permeten un menor cost ambiental"
+}

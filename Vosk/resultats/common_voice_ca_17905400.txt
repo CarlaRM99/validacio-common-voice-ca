@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.648468,
+      "end" : 0.630000,
+      "start" : 0.270000,
+      "word" : "venint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.690000,
+      "word" : "santa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.990000,
+      "word" : "margarida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.530000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.710000,
+      "word" : "monjos"
+    }],
+  "text" : "venint de santa margarida i els monjos"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.810000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.080000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.350000,
+      "word" : "adonar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.950000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.160000,
+      "word" : "allò"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.790000,
+      "word" : "agradava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.330000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.870000,
+      "word" : "i"
+    }, {
+      "conf" : 0.518916,
+      "end" : 4.170000,
+      "start" : 3.990000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.170000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.350000,
+      "word" : "quedar"
+    }],
+  "text" : "es va adonar que allò li agradava molt i si va quedar"
+}

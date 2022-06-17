@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.930000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.200000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.560000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.920000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.070000,
+      "word" : "primeres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.520000,
+      "word" : "dones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.000000,
+      "word" : "exercir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.570000,
+      "word" : "l'advocacia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.530000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.590000,
+      "word" : "madrid"
+    }],
+  "text" : "va ser una de les primeres dones exercir l'advocacia a madrid"
+}

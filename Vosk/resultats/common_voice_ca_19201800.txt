@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.930000,
+      "word" : "quantitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.440000,
+      "word" : "màxima"
+    }, {
+      "conf" : 0.886454,
+      "end" : 2.190000,
+      "start" : 2.040000,
+      "word" : "de"
+    }, {
+      "conf" : 0.517179,
+      "end" : 2.341510,
+      "start" : 2.190000,
+      "word" : "mar"
+    }, {
+      "conf" : 0.520091,
+      "end" : 2.400000,
+      "start" : 2.341510,
+      "word" : "el"
+    }, {
+      "conf" : 0.886454,
+      "end" : 3.030000,
+      "start" : 2.400000,
+      "word" : "cansament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.060000,
+      "word" : "estimada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.720000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.990000,
+      "word" : "trenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.320000,
+      "word" : "mil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.530000,
+      "word" : "quilos"
+    }],
+  "text" : "la quantitat màxima de mar el cansament estimada és de trenta mil quilos"
+}

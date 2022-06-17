@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.960000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.140000,
+      "word" : "matrimoni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.680000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.890000,
+      "word" : "sempre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.280000,
+      "word" : "concertat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.970000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.120000,
+      "word" : "interessos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.600000,
+      "word" : "polítics"
+    }, {
+      "conf" : 0.861255,
+      "end" : 4.109827,
+      "start" : 4.080000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.109827,
+      "word" : "econòmics"
+    }],
+  "text" : "el matrimoni era sempre concertat per interessos polítics i econòmics"
+}

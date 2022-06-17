@@ -1,0 +1,104 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.540000,
+      "word" : "recordo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.380000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.620000,
+      "word" : "vàrem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.920000,
+      "word" : "arribar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.340000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "gran"
+    }, {
+      "conf" : 0.638161,
+      "end" : 3.150000,
+      "start" : 2.730000,
+      "word" : "alzina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.150000,
+      "word" : "que"
+    }, {
+      "conf" : 0.567678,
+      "end" : 3.750000,
+      "start" : 3.270000,
+      "word" : "precedeix"
+    }, {
+      "conf" : 0.837613,
+      "end" : 3.870000,
+      "start" : 3.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.870000,
+      "word" : "prat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.260000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.470000,
+      "word" : "família"
+    }, {
+      "conf" : 0.506801,
+      "end" : 5.490000,
+      "start" : 4.890000,
+      "word" : "garcía"
+    }, {
+      "conf" : 0.679083,
+      "end" : 6.090000,
+      "start" : 5.490000,
+      "word" : "empès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.150000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.330000,
+      "word" : "ens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 6.480000,
+      "word" : "esperava"
+    }],
+  "text" : "recordo que quan vàrem arribar a la gran alzina que precedeix el prat la família garcía empès ja ens esperava"
+}

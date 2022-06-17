@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.690000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.780000,
+      "word" : "canvi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.080000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.290000,
+      "word" : "territori"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.950000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.040000,
+      "word" : "d'aliments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.970000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.150000,
+      "word" : "guerrers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.630000,
+      "word" : "ascendeixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.320000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.410000,
+      "word" : "contracor"
+    }],
+  "text" : "a canvi d'un territori i d'aliments els guerrers ascendeixen a contracor"
+}

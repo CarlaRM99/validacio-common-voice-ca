@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.630000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.020000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.140000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.230000,
+      "word" : "indústria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.950000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.160000,
+      "word" : "fibres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.730000,
+      "word" : "tèxtils"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.300000,
+      "word" : "artificials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.350000,
+      "word" : "quants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.160000,
+      "word" : "articles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.790000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.850000,
+      "word" : "cuir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 6.420000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.510000,
+      "word" : "ciment"
+    }],
+  "text" : "també hi ha indústria de fibres tèxtils artificials quants articles de cuir i ciment"
+}

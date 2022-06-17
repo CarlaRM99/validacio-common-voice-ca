@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.900000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.080000,
+      "word" : "població"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.770000,
+      "word" : "rep"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.130000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.220000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.460000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.880000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.060000,
+      "word" : "honor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.600000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.750000,
+      "word" : "henry"
+    }, {
+      "conf" : 0.699871,
+      "end" : 4.530000,
+      "start" : 4.200000,
+      "word" : "rem"
+    }, {
+      "conf" : 0.888695,
+      "end" : 4.950000,
+      "start" : 4.530000,
+      "word" : "sent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.100000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.340000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.520000,
+      "word" : "primers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 5.970000,
+      "word" : "colons"
+    }],
+  "text" : "la població rep el seu nom en honor a henry rem sent un dels primers colons"
+}

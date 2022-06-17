@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.780000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.530000,
+      "word" : "d'aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 1.890000,
+      "word" : "dispositius"
+    }, {
+      "conf" : 0.419649,
+      "end" : 3.420000,
+      "start" : 2.910000,
+      "word" : "proporciona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.464664,
+      "word" : "indicacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.080000,
+      "word" : "visuals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.010000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.160000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.250000,
+      "word" : "seguiment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.880000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.090000,
+      "word" : "director"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.450000,
+      "word" : "musical"
+    }],
+  "text" : "diversos d'aquests dispositius proporciona indicacions visuals per al seguiment del director musical"
+}

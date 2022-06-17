@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.480000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.600000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.720000,
+      "word" : "sortida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.470000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.710000,
+      "word" : "resclosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.490000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.940000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.090000,
+      "word" : "llac"
+    }],
+  "text" : "a la sortida una resclosa forma un llac"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.450000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.720000,
+      "word" : "botzines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.410000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.710000,
+      "word" : "utilitzar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.700000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.880000,
+      "word" : "transmetre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.570000,
+      "word" : "o"
+    }, {
+      "conf" : 0.855883,
+      "end" : 4.020000,
+      "start" : 3.690000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.020000,
+      "word" : "ones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.560000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.860000,
+      "word" : "determinada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 5.640000,
+      "word" : "polarització"
+    }],
+  "text" : "les botzines poden utilitzar per transmetre o rebre ones una determinada polarització"
+}

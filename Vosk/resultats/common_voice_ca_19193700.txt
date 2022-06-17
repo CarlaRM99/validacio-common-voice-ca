@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.690000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.960000,
+      "word" : "val"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.140000,
+      "word" : "fer-ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.530000,
+      "word" : "manar-ho"
+    }],
+  "text" : "més val fer-ho que manar-ho"
+}

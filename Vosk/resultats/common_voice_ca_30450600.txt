@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.519300,
+      "end" : 1.080000,
+      "start" : 0.990000,
+      "word" : "i"
+    }, {
+      "conf" : 0.899356,
+      "end" : 1.200000,
+      "start" : 1.080000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.200000,
+      "word" : "botiga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "i"
+    }, {
+      "conf" : 0.610928,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.920000,
+      "word" : "carrer"
+    }, {
+      "conf" : 0.913530,
+      "end" : 2.760000,
+      "start" : 2.250000,
+      "word" : "arbós"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.790000,
+      "word" : "número"
+    }, {
+      "conf" : 0.818100,
+      "end" : 3.930000,
+      "start" : 3.150000,
+      "word" : "vuitanta-tres"
+    }],
+  "text" : "i de botiga i al carrer arbós número vuitanta-tres"
+}

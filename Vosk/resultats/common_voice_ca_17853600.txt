@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.789508,
+      "end" : 1.809310,
+      "start" : 1.440000,
+      "word" : "doncs"
+    }, {
+      "conf" : 0.601571,
+      "end" : 2.190000,
+      "start" : 1.809310,
+      "word" : "d'elles"
+    }, {
+      "conf" : 0.551075,
+      "end" : 2.460000,
+      "start" : 2.190000,
+      "word" : "cas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.460000,
+      "word" : "no"
+    }, {
+      "conf" : 0.686603,
+      "end" : 3.060000,
+      "start" : 2.610000,
+      "word" : "podien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.060000,
+      "word" : "continuar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.510000,
+      "word" : "així"
+    }],
+  "text" : "doncs d'elles cas no podien continuar així"
+}

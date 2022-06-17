@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.530000,
+      "word" : "l'esquena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.310000,
+      "word" : "tots"
+    }, {
+      "conf" : 0.663217,
+      "end" : 2.700000,
+      "start" : 2.610000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.700000,
+      "word" : "duen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.030000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.180000,
+      "word" : "logotip"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.720000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.810000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.930000,
+      "word" : "colla"
+    }],
+  "text" : "a l'esquena tots hi duen el logotip de la colla"
+}

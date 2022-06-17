@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.840000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.080000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.230000,
+      "word" : "muntura"
+    }, {
+      "conf" : 0.684442,
+      "end" : 1.884632,
+      "start" : 1.740000,
+      "word" : "del"
+    }, {
+      "conf" : 0.770528,
+      "end" : 2.100000,
+      "start" : 1.884632,
+      "word" : "sol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.104002,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.280000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.610000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.790000,
+      "word" : "energia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.180000,
+      "word" : "hidràulica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.930000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.050000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.140000,
+      "word" : "coneixia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890159,
+      "start" : 4.680000,
+      "word" : "com"
+    }, {
+      "conf" : 0.754521,
+      "end" : 4.980000,
+      "start" : 4.890159,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.010000,
+      "word" : "bofill"
+    }],
+  "text" : "era una muntura del sol que no amb energia hidràulica i es coneixia com el bofill"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.750000,
+      "word" : "nodreixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.380000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.500000,
+      "word" : "crustacis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.909999,
+      "start" : 2.250000,
+      "word" : "petits"
+    }],
+  "text" : "es nodreixen de crustacis petits"
+}

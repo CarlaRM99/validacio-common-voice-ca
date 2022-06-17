@@ -1,0 +1,104 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.080000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.350000,
+      "word" : "estava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.770000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.800000,
+      "word" : "prop"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.198368,
+      "start" : 2.070000,
+      "word" : "de"
+    }, {
+      "conf" : 0.383777,
+      "end" : 2.460000,
+      "start" : 2.198368,
+      "word" : "baix"
+    }, {
+      "conf" : 0.913210,
+      "end" : 2.970000,
+      "start" : 2.460000,
+      "word" : "assentar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.970000,
+      "word" : "a"
+    }, {
+      "conf" : 0.628109,
+      "end" : 3.270000,
+      "start" : 3.060000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.360000,
+      "word" : "habituals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.870000,
+      "word" : "dels"
+    }, {
+      "conf" : 0.993932,
+      "end" : 4.530000,
+      "start" : 4.110000,
+      "word" : "nadons"
+    }, {
+      "conf" : 0.358914,
+      "end" : 4.983150,
+      "start" : 4.650000,
+      "word" : "remor"
+    }, {
+      "conf" : 0.769978,
+      "end" : 5.094201,
+      "start" : 4.983150,
+      "word" : "de"
+    }, {
+      "conf" : 0.366476,
+      "end" : 5.310000,
+      "start" : 5.160000,
+      "word" : "déu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.610000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.790000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 5.970000,
+      "word" : "unir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.240000,
+      "word" : "a"
+    }, {
+      "conf" : 0.721400,
+      "end" : 6.900000,
+      "start" : 6.330000,
+      "word" : "l'empresa"
+    }],
+  "text" : "quan estava a prop de baix assentar a més habituals dels nadons remor de déu es van unir a l'empresa"
+}

@@ -1,0 +1,129 @@
+{
+  "result" : [{
+      "conf" : 0.669021,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.960000,
+      "word" : "conseqüència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.680000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.980000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.070000,
+      "word" : "curs"
+    }, {
+      "conf" : 0.852287,
+      "end" : 2.490000,
+      "start" : 2.310000,
+      "word" : "dels"
+    }, {
+      "conf" : 0.977262,
+      "end" : 2.970000,
+      "start" : 2.490000,
+      "word" : "concrets"
+    }, {
+      "conf" : 0.913930,
+      "end" : 3.030000,
+      "start" : 2.970000,
+      "word" : "de"
+    }, {
+      "conf" : 0.421233,
+      "end" : 3.390000,
+      "start" : 3.030000,
+      "word" : "desgavell"
+    }, {
+      "conf" : 0.642810,
+      "end" : 3.930000,
+      "start" : 3.395083,
+      "word" : "xiv"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.960000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.140000,
+      "word" : "serà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.410000,
+      "word" : "aplicable"
+    }, {
+      "conf" : 0.808112,
+      "end" : 5.070000,
+      "start" : 4.980000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.070000,
+      "word" : "currículum"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.670000,
+      "word" : "regulat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 6.270000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.510000,
+      "word" : "reial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.320000,
+      "start" : 6.870000,
+      "word" : "decret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.680000,
+      "start" : 7.380000,
+      "word" : "mil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.920000,
+      "start" : 7.680000,
+      "word" : "cent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.550000,
+      "start" : 7.920000,
+      "word" : "quaranta-sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.640000,
+      "start" : 8.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.790000,
+      "start" : 8.640000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.290116,
+      "start" : 8.790000,
+      "word" : "milions"
+    }],
+  "text" : "en conseqüència durant el curs dels concrets de desgavell xiv no serà aplicable al currículum regulat pel reial decret mil cent quaranta-sis de dos milions"
+}

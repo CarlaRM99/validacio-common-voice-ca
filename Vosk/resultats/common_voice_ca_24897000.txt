@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.720000,
+      "word" : "segons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.380000,
+      "word" : "biografia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.250000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.640000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.850000,
+      "word" : "significava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.570000,
+      "word" : "mantenir-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.260000,
+      "word" : "ferm"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.890000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 5.010000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.130000,
+      "word" : "traducció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.580000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.610000,
+      "word" : "l'anglès"
+    }],
+  "text" : "segons una biografia aquest nom significava mantenir-se ferm en la traducció a l'anglès"
+}

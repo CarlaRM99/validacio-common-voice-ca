@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930039,
+      "start" : 0.390000,
+      "word" : "afegeix"
+    }, {
+      "conf" : 0.990805,
+      "end" : 1.018135,
+      "start" : 0.930039,
+      "word" : "a"
+    }, {
+      "conf" : 0.929219,
+      "end" : 1.545886,
+      "start" : 1.020000,
+      "word" : "l'agenda"
+    }, {
+      "conf" : 0.562838,
+      "end" : 1.710000,
+      "start" : 1.560000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.740000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.070000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "l"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.310000,
+      "word" : "iva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.550000,
+      "word" : "xorro"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.390000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 3.780000,
+      "word" : "vuitanta-vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 4.860000,
+      "word" : "noranta-tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 5.760000,
+      "word" : "quaranta-u"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 6.540000,
+      "word" : "quaranta-dos"
+    }],
+  "text" : "afegeix a l'agenda el número de l iva xorro sis vuitanta-vuit noranta-tres quaranta-u quaranta-dos"
+}

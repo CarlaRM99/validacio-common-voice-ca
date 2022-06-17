@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.800000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.980000,
+      "word" : "diferencia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.790000,
+      "word" : "motocròs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.480000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.930000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.080000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.200000,
+      "word" : "manca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.620000,
+      "word" : "de"
+    }, {
+      "conf" : 0.847373,
+      "end" : 5.100000,
+      "start" : 4.740000,
+      "word" : "salts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.104579,
+      "word" : "artificials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.420000,
+      "word" : "característics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.590000,
+      "start" : 7.410000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.040000,
+      "start" : 7.590000,
+      "word" : "motocròs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.610000,
+      "start" : 8.040000,
+      "word" : "actual"
+    }],
+  "text" : "es diferencia del motocròs però en la manca de salts artificials característics del motocròs actual"
+}

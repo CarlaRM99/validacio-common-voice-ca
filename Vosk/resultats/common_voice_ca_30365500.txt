@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.720000,
+      "word" : "necessito"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.620000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.830000,
+      "word" : "bitllet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.280000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.400000,
+      "word" : "tren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.760000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.940000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.390000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.510000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.750000,
+      "word" : "valls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.320000,
+      "word" : "d'aguilar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.160000,
+      "word" : "dimarts"
+    }],
+  "text" : "necessito un bitllet de tren per anar a les valls d'aguilar dimarts"
+}

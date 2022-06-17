@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.870000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.990000,
+      "word" : "treballat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.560000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.920000,
+      "word" : "molts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.280000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.790000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.000000,
+      "word" : "farmàcia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.570000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.750000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.050000,
+      "word" : "propietat"
+    }],
+  "text" : "ha treballat durant molts anys en una farmàcia de la seva propietat"
+}

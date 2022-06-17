@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.722899,
+      "end" : 0.570000,
+      "start" : 0.450000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.570000,
+      "word" : "final"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 1.020000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.110000,
+      "word" : "crisi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.620000,
+      "word" : "egipte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.250000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.520000,
+      "word" : "alliberada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.240000,
+      "word" : "totes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.570000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.750000,
+      "word" : "pressions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.230000,
+      "word" : "imperialistes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 4.890000,
+      "word" : "occidentals"
+    }],
+  "text" : "al final de la crisi egipte fou alliberada de totes les pressions imperialistes occidentals"
+}

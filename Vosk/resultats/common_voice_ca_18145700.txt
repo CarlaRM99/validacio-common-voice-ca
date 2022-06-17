@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.660000,
+      "word" : "nego"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.200000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.410000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.470000,
+      "word" : "cap"
+    }],
+  "text" : "nego amb el cap"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.729870,
+      "end" : 0.810000,
+      "start" : 0.450000,
+      "word" : "anireu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.810000,
+      "word" : "plegats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.230000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.260000,
+      "word" : "santes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.680000,
+      "word" : "creus"
+    }],
+  "text" : "anireu plegats a santes creus"
+}

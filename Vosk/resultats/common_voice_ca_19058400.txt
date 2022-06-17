@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.360000,
+      "word" : "boix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.900000,
+      "word" : "visitar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.590000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.770000,
+      "word" : "millor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.130000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.160000,
+      "word" : "casa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.460000,
+      "word" : "està"
+    }],
+  "text" : "boix visitar però millor a casa està"
+}

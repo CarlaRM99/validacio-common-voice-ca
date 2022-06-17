@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.050000,
+      "word" : "subvencions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.590000,
+      "word" : "destinades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.130000,
+      "word" : "a"
+    }, {
+      "conf" : 0.668299,
+      "end" : 2.700000,
+      "start" : 2.190000,
+      "word" : "finalitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.709951,
+      "word" : "generals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.180000,
+      "word" : "estan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.450000,
+      "word" : "disponibles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.080000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.230000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.590000,
+      "word" : "vegada"
+    }],
+  "text" : "les subvencions destinades a finalitat generals estan disponibles per primera vegada"
+}

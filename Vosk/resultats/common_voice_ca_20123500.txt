@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.410000,
+      "word" : "així"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.650000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.830000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.890000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.040000,
+      "word" : "reduir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.520000,
+      "word" : "pena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.910000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.970000,
+      "word" : "tan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.150000,
+      "word" : "sols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.390000,
+      "word" : "dos"
+    }, {
+      "conf" : 0.999213,
+      "end" : 4.049998,
+      "start" : 3.630000,
+      "word" : "anys"
+    }],
+  "text" : "així se li va reduir la pena a tan sols dos anys"
+}

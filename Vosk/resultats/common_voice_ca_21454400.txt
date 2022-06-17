@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.766837,
+      "end" : 1.320000,
+      "start" : 0.660000,
+      "word" : "nadir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.380000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.680000,
+      "word" : "assegurar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.190000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.370000,
+      "word" : "bones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.700000,
+      "word" : "relacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.960000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.320000,
+      "word" : "uzbeks"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.130000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.370000,
+      "word" : "pèrsia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.390000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.600000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.230000,
+      "start" : 6.720000,
+      "word" : "tenia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.220000,
+      "start" : 7.230000,
+      "word" : "simpaties"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.780000,
+      "start" : 8.550000,
+      "word" : "xiïtes"
+    }],
+  "text" : "nadir va assegurar les bones relacions dels uzbeks amb pèrsia ja que tenia simpaties xiïtes"
+}

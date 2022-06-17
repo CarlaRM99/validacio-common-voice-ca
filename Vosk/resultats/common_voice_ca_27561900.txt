@@ -1,0 +1,104 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.870000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.110000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.290000,
+      "word" : "temen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.590000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.770000,
+      "word" : "kate"
+    }, {
+      "conf" : 0.587188,
+      "end" : 2.580000,
+      "start" : 2.280000,
+      "word" : "cert"
+    }, {
+      "conf" : 0.890629,
+      "end" : 2.880000,
+      "start" : 2.610000,
+      "word" : "uns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.880000,
+      "word" : "peixos"
+    }, {
+      "conf" : 0.438175,
+      "end" : 3.810000,
+      "start" : 3.300000,
+      "word" : "ballester"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.853145,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.020000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.320000,
+      "word" : "tan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.500000,
+      "word" : "petites"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.130000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.280000,
+      "word" : "sembla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.670000,
+      "word" : "que"
+    }, {
+      "conf" : 0.870115,
+      "end" : 5.911291,
+      "start" : 5.790000,
+      "word" : "no"
+    }, {
+      "conf" : 0.755299,
+      "end" : 5.970000,
+      "start" : 5.911291,
+      "word" : "en"
+    }, {
+      "conf" : 0.870115,
+      "end" : 6.510000,
+      "start" : 5.973959,
+      "word" : "tinguin"
+    }],
+  "text" : "tot i que temen és kate cert uns peixos ballester les tenen tan petites que sembla que no en tinguin"
+}

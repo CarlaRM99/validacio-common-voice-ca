@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.690000,
+      "word" : "anem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.050000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.140000,
+      "word" : "callosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.740000,
+      "word" : "d'en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.980000,
+      "word" : "sarrià"
+    }],
+  "text" : "anem a callosa d'en sarrià"
+}

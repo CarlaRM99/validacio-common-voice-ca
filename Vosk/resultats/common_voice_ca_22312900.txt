@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.510000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.600000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.960000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.230000,
+      "word" : "inventari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.040000,
+      "word" : "béns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.370000,
+      "word" : "mobles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.970000,
+      "word" : "arxiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.390000,
+      "word" : "fotogràfic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.110000,
+      "word" : "actualitzat"
+    }],
+  "text" : "a més té inventari de béns mobles i arxiu fotogràfic actualitzat"
+}

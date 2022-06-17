@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.510000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.720000,
+      "word" : "sobte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.410000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.590000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.520000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.640000,
+      "word" : "vida"
+    }],
+  "text" : "de sobte va començar a la vida"
+}

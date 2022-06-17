@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "següent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.290000,
+      "word" : "diagrama"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.770000,
+      "word" : "mostra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.130000,
+      "word" : "algunes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.520000,
+      "word" : "poblacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.150000,
+      "word" : "properes"
+    }],
+  "text" : "el següent diagrama mostra algunes poblacions properes"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 0.960000,
+      "word" : "l'alquimista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.010000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.190000,
+      "word" : "retirar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.670000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.760000,
+      "word" : "pa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.970000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.150000,
+      "word" : "forn"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.690000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.840000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.990000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.230000,
+      "word" : "apartar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.830000,
+      "word" : "perquè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.160000,
+      "word" : "es"
+    }, {
+      "conf" : 0.659221,
+      "end" : 5.758761,
+      "start" : 5.280000,
+      "word" : "refredà"
+    }, {
+      "conf" : 0.888099,
+      "end" : 6.090000,
+      "start" : 5.758761,
+      "word" : "és"
+    }],
+  "text" : "l'alquimista va retirar el pa del forn i el va apartar perquè es refredà és"
+}

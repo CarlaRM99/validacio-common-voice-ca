@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.540000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.720000,
+      "word" : "aquella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.110000,
+      "word" : "època"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "es"
+    }, {
+      "conf" : 0.500482,
+      "end" : 2.610000,
+      "start" : 1.770000,
+      "word" : "considerava"
+    }, {
+      "conf" : 0.771872,
+      "end" : 3.300000,
+      "start" : 2.640000,
+      "word" : "búlgars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.570000,
+      "word" : "encara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.080000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.230000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.710000,
+      "word" : "enormement"
+    }, {
+      "conf" : 0.981273,
+      "end" : 6.089998,
+      "start" : 5.490000,
+      "word" : "popular"
+    }],
+  "text" : "en aquella època es considerava búlgars encara que era enormement popular"
+}

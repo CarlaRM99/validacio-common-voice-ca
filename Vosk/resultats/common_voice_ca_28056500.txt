@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 0.766186,
+      "end" : 0.900000,
+      "start" : 0.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.900000,
+      "word" : "centre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.410000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.590000,
+      "word" : "desenvolupament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.340000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.460000,
+      "word" : "competències"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.360000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.450000,
+      "word" : "aprenentatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.650000,
+      "word" : "coordina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.250000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.340000,
+      "word" : "reforç"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.820000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.970000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.060000,
+      "word" : "alumnes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.630000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.470000,
+      "start" : 6.780000,
+      "word" : "necessitats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.220000,
+      "start" : 7.470000,
+      "word" : "addicionals"
+    }],
+  "text" : "el centre de desenvolupament de competències i aprenentatge coordina el reforç per a alumnes amb necessitats addicionals"
+}

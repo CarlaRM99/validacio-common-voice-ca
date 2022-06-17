@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.604162,
+      "end" : 0.640638,
+      "start" : 0.510000,
+      "word" : "la"
+    }, {
+      "conf" : 0.395838,
+      "end" : 0.898122,
+      "start" : 0.840000,
+      "word" : "ni"
+    }, {
+      "conf" : 0.604162,
+      "end" : 0.930000,
+      "start" : 0.898122,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.930000,
+      "word" : "filant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.590000,
+      "word" : "vida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.920000,
+      "word" : "passant"
+    }],
+  "text" : "la ni i filant la vida va passant"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.020000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.170000,
+      "word" : "fort"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.800000,
+      "word" : "l'arnès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.340000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.610000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.910000,
+      "word" : "llista"
+    }],
+  "text" : "que fort l'arnès va de cap de llista"
+}

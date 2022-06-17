@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.838471,
+      "end" : 0.570000,
+      "start" : 0.420000,
+      "word" : "qui"
+    }, {
+      "conf" : 0.609891,
+      "end" : 0.960307,
+      "start" : 0.574341,
+      "word" : "aspira"
+    }, {
+      "conf" : 0.522630,
+      "end" : 0.990000,
+      "start" : 0.960307,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.990000,
+      "word" : "totes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.290000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.530000,
+      "word" : "feines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.460000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.730000,
+      "word" : "atents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.030000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.240000,
+      "word" : "matines"
+    }],
+  "text" : "qui aspira a totes les feines més atents a les matines"
+}

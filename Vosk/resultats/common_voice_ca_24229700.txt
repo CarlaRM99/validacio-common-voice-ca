@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.793470,
+      "end" : 1.470000,
+      "start" : 0.870000,
+      "word" : "utilitzin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.590000,
+      "word" : "que"
+    }, {
+      "conf" : 0.858960,
+      "end" : 2.040000,
+      "start" : 1.740000,
+      "word" : "bullin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.040000,
+      "word" : "utilitzar-ne"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.240000,
+      "word" : "llencin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.690000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.840000,
+      "word" : "resta"
+    }],
+  "text" : "utilitzin el que bullin utilitzar-ne i llencin la resta"
+}

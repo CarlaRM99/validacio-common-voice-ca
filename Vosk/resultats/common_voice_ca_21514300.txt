@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.330000,
+      "word" : "la"
+    }, {
+      "conf" : 0.512868,
+      "end" : 1.110000,
+      "start" : 0.600000,
+      "word" : "violencia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.110000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.170000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.320000,
+      "word" : "transmetre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.890000,
+      "word" : "ràpidament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.460000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.610000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.820000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.910000,
+      "word" : "país"
+    }],
+  "text" : "la violencia es va transmetre ràpidament per tot el país"
+}

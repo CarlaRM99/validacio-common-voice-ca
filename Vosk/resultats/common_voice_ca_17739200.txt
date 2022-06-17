@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.826122,
+      "end" : 0.900000,
+      "start" : 0.510000,
+      "word" : "venint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.020000,
+      "word" : "garriguella"
+    }],
+  "text" : "venint de garriguella"
+}

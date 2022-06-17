@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.762465,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.437044,
+      "end" : 1.410000,
+      "start" : 0.960000,
+      "word" : "bols"
+    }],
+  "text" : "amb bols"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.660000,
+      "word" : "tenia"
+    }, {
+      "conf" : 0.639703,
+      "end" : 1.350000,
+      "start" : 1.050000,
+      "word" : "cames"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.360809,
+      "word" : "llargues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 2.010000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.100000,
+      "word" : "probablement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.940000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.120000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.210000,
+      "word" : "corredor"
+    }, {
+      "conf" : 0.555031,
+      "end" : 4.200000,
+      "start" : 3.630000,
+      "word" : "veloç"
+    }],
+  "text" : "tenia cames llargues i probablement era un corredor veloç"
+}

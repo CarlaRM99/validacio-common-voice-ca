@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.870000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.050000,
+      "word" : "model"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.530000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.860000,
+      "word" : "marcs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.280000,
+      "word" : "cognitius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.090000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.630000,
+      "word" : "ens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.840000,
+      "word" : "ensenya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.502189,
+      "start" : 4.350000,
+      "word" : "que"
+    }, {
+      "conf" : 0.734938,
+      "end" : 4.560000,
+      "start" : 4.502189,
+      "word" : "el"
+    }, {
+      "conf" : 0.691989,
+      "end" : 4.890000,
+      "start" : 4.560000,
+      "word" : "nostre"
+    }, {
+      "conf" : 0.749117,
+      "end" : 5.430000,
+      "start" : 4.890000,
+      "word" : "cepell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.460000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.640000,
+      "word" : "funciona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.210000,
+      "word" : "així"
+    }],
+  "text" : "el model dels marcs cognitius però ens ensenya que el nostre cepell no funciona així"
+}

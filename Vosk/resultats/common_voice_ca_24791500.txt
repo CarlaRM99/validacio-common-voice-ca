@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.390000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.630000,
+      "word" : "diòcesi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.410000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.590000,
+      "word" : "veure"
+    }, {
+      "conf" : 0.504553,
+      "end" : 2.490000,
+      "start" : 1.920000,
+      "word" : "alterada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.520000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.670000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.000000,
+      "word" : "fronteres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.690000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.260000,
+      "word" : "vegades"
+    }],
+  "text" : "la diòcesi va veure alterada les seves fronteres diverses vegades"
+}

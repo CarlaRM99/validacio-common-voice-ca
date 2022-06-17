@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.930000,
+      "word" : "delicte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.470000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.530000,
+      "word" : "falta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.460000,
+      "word" : "detenció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.060000,
+      "word" : "il·legal"
+    }],
+  "text" : "delicte o falta detenció il·legal"
+}

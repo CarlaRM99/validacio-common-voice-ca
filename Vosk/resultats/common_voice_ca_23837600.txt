@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.822969,
+      "end" : 1.290000,
+      "start" : 0.510000,
+      "word" : "d'entrenador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.320000,
+      "word" : "josep"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.770000,
+      "word" : "fajol"
+    }],
+  "text" : "d'entrenador josep fajol"
+}

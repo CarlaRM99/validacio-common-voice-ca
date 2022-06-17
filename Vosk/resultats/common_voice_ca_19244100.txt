@@ -1,0 +1,104 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.200000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.590000,
+      "word" : "proposi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.040000,
+      "word" : "resoldre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.550000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.610000,
+      "word" : "conveni"
+    }, {
+      "conf" : 0.670465,
+      "end" : 3.600000,
+      "start" : 3.480000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.600000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.660000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.750000,
+      "word" : "comunicar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.290000,
+      "word" : "a"
+    }, {
+      "conf" : 0.803497,
+      "end" : 4.680000,
+      "start" : 4.350000,
+      "word" : "l'altra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.680000,
+      "word" : "part"
+    }, {
+      "conf" : 0.756034,
+      "end" : 5.160000,
+      "start" : 4.980000,
+      "word" : "per"
+    }, {
+      "conf" : 0.756034,
+      "end" : 5.550000,
+      "start" : 5.160000,
+      "word" : "escrit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.550000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.700000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.880000,
+      "word" : "mesos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.210000,
+      "word" : "d'antelació"
+    }],
+  "text" : "la part que proposi resoldre el conveni o ha de comunicar a l'altra part per escrit amb dos mesos d'antelació"
+}

@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.990000,
+      "word" : "art"
+    }, {
+      "conf" : 0.609720,
+      "end" : 1.470000,
+      "start" : 1.290000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.470000,
+      "word" : "artistes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.980000,
+      "word" : "tractaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.791646,
+      "start" : 2.580000,
+      "word" : "com"
+    }, {
+      "conf" : 0.873044,
+      "end" : 2.850000,
+      "start" : 2.791646,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.880000,
+      "word" : "fenòmens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.360000,
+      "word" : "concrets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.405132,
+      "start" : 3.930000,
+      "word" : "l'espai"
+    }, {
+      "conf" : 0.890562,
+      "end" : 4.530000,
+      "start" : 4.410000,
+      "word" : "el"
+    }, {
+      "conf" : 0.999843,
+      "end" : 5.159998,
+      "start" : 4.530000,
+      "word" : "temps"
+    }],
+  "text" : "amb aquest art als artistes tractaven com a fenòmens concrets l'espai el temps"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.110000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.440000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.500000,
+      "word" : "guerra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.770000,
+      "word" : "civil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.100000,
+      "word" : "espanyola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.640000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.760000,
+      "word" : "marxar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.090000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.120000,
+      "word" : "l'exili"
+    }],
+  "text" : "durant la guerra civil espanyola va marxar a l'exili"
+}

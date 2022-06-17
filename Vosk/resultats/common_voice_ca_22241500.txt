@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.720000,
+      "word" : "regala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.440000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.650000,
+      "word" : "real"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.010000,
+      "word" : "múrcia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.820000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 3.000000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.090000,
+      "word" : "qual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.330000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.900000,
+      "word" : "baixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.500000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.590000,
+      "word" : "segona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.040000,
+      "word" : "divisió"
+    }],
+  "text" : "regala el real múrcia amb el qual també baixa a segona divisió"
+}

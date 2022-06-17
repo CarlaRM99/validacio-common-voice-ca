@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.690000,
+      "word" : "senyores"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.320000,
+      "word" : "diputades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.250000,
+      "word" : "senyors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 2.760000,
+      "word" : "diputats"
+    }],
+  "text" : "senyores diputades senyors diputats"
+}

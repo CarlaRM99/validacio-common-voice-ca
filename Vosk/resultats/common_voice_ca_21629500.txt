@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.260000,
+      "word" : "casa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.650000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.950000,
+      "word" : "mitgeres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.670000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.850000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.120000,
+      "word" : "plantes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.660000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.750000,
+      "word" : "soterrani"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.710000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.950000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.100000,
+      "word" : "façana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.730000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 5.850000,
+      "word" : "composició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.230000,
+      "start" : 6.510000,
+      "word" : "simètrica"
+    }],
+  "text" : "casa entre mitgeres de dues plantes i soterrani amb una façana de composició simètrica"
+}

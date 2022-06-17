@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.420000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.630000,
+      "word" : "especialment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.140000,
+      "word" : "importants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.680000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.890000,
+      "word" : "depredadors"
+    }, {
+      "conf" : 0.997446,
+      "end" : 3.149997,
+      "start" : 2.490000,
+      "word" : "nocturns"
+    }],
+  "text" : "són especialment importants en els depredadors nocturns"
+}

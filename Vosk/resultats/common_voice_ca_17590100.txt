@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.170000,
+      "word" : "cop"
+    }, {
+      "conf" : 0.599877,
+      "end" : 1.680000,
+      "start" : 1.350000,
+      "word" : "baixar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.680000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.770000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.860000,
+      "word" : "imatge"
+    }, {
+      "conf" : 0.659029,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 0.788689,
+      "end" : 3.090000,
+      "start" : 2.340000,
+      "word" : "cd-rom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.150000,
+      "word" : "cal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.795261,
+      "start" : 3.420000,
+      "word" : "crear"
+    }, {
+      "conf" : 0.482894,
+      "end" : 3.870000,
+      "start" : 3.810000,
+      "word" : "en"
+    }, {
+      "conf" : 0.832509,
+      "end" : 4.410000,
+      "start" : 3.870000,
+      "word" : "cd-rom"
+    }, {
+      "conf" : 0.403863,
+      "end" : 4.578616,
+      "start" : 4.410000,
+      "word" : "haver"
+    }, {
+      "conf" : 0.732979,
+      "end" : 4.980000,
+      "start" : 4.593145,
+      "word" : "fitxer"
+    }, {
+      "conf" : 0.938464,
+      "end" : 5.097978,
+      "start" : 4.986569,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.097978,
+      "word" : "heu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.190000,
+      "word" : "descarregat"
+    }],
+  "text" : "un cop baixar de la imatge de cd-rom cal crear en cd-rom haver fitxer que heu descarregat"
+}

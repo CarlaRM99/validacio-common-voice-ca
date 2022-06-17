@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.810000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.960000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.170000,
+      "word" : "coses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.560000,
+      "word" : "notes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.010000,
+      "word" : "fiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.370000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.580000,
+      "word" : "rei"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.940000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.150000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.540000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.750000,
+      "word" : "la"
+    }, {
+      "conf" : 0.654613,
+      "end" : 4.050000,
+      "start" : 3.840000,
+      "word" : "mà"
+    }],
+  "text" : "de tres coses notes de fiar del rei del temps i de la mà"
+}

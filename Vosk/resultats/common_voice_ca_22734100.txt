@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.570000,
+      "word" : "irònicament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.560000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.860000,
+      "word" : "mateix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.310000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.460000,
+      "word" : "passar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.970000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.150000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.330000,
+      "word" : "realització"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.170000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.290000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.410000,
+      "word" : "tesi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.860000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.980000,
+      "word" : "l'efecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.520000,
+      "word" : "mateu"
+    }],
+  "text" : "irònicament això mateix va passar en la realització de la tesi de l'efecte mateu"
+}

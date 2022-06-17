@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.480000,
+      "start" : 0.360000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.480000,
+      "word" : "constructor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.110000,
+      "word" : "faringe"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.650000,
+      "word" : "mitjà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.190000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.370000,
+      "word" : "petit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.670000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.850000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.940000,
+      "word" : "constructor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.540000,
+      "word" : "faringe"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.990000,
+      "word" : "inferior"
+    }],
+  "text" : "el constructor faringe mitjà és més petit que el constructor faringe inferior"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "bisbes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.320000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.530000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.700000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.850000,
+      "word" : "títol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.270000,
+      "word" : "comtal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.140000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.410000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.470000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.590000,
+      "word" : "revolució"
+    }],
+  "text" : "els bisbes van començar el títol comtal fins a la revolució"
+}

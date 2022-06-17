@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.540000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.930000,
+      "word" : "sebollit"
+    }, {
+      "conf" : 0.687848,
+      "end" : 1.620000,
+      "start" : 1.530000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.620000,
+      "word" : "convent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 2.010000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.100000,
+      "word" : "castelló"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.820000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.970000,
+      "word" : "rebé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.270000,
+      "word" : "veneració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.870000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 4.050000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.110000,
+      "word" : "màrtir"
+    }],
+  "text" : "fou sebollit el convent de castelló on rebé veneració com a màrtir"
+}

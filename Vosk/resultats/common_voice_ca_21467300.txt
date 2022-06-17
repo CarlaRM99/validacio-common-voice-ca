@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.900000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 1.050000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.110000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.440000,
+      "word" : "finestres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.950000,
+      "word" : "quadrades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.550000,
+      "word" : "pedra"
+    }],
+  "text" : "hi ha quatre finestres quadrades de pedra"
+}

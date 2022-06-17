@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.140000,
+      "word" : "la"
+    }, {
+      "conf" : 0.762821,
+      "end" : 1.680000,
+      "start" : 1.290000,
+      "word" : "pintura"
+    }, {
+      "conf" : 0.762821,
+      "end" : 1.740000,
+      "start" : 1.680000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.740000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.221149,
+      "start" : 1.800000,
+      "word" : "exemple"
+    }, {
+      "conf" : 0.571611,
+      "end" : 2.280000,
+      "start" : 2.221149,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.280000,
+      "word" : "l'última"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.610000,
+      "word" : "etapa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.000000,
+      "word" : "mestre"
+    }],
+  "text" : "la pintura és un exemple de l'última etapa del mestre"
+}

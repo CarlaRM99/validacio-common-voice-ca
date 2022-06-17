@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.750000,
+      "word" : "sota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.230000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.410000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.650000,
+      "word" : "líders"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.310000,
+      "word" : "postguerra"
+    }, {
+      "conf" : 0.604758,
+      "end" : 3.240000,
+      "start" : 3.060000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.240000,
+      "word" : "moviment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.840000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.990000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.590000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.620000,
+      "word" : "florir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.980000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.130000,
+      "word" : "nou"
+    }],
+  "text" : "sota els seus líders de la postguerra al moviment va començar a florir de nou"
+}

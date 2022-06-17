@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.655790,
+      "end" : 0.690000,
+      "start" : 0.330000,
+      "word" : "venint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.690000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.780000,
+      "word" : "real"
+    }],
+  "text" : "venint de real"
+}

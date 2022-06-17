@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.327223,
+      "end" : 1.290000,
+      "start" : 1.200000,
+      "word" : "el"
+    }, {
+      "conf" : 0.277124,
+      "end" : 1.461132,
+      "start" : 1.290000,
+      "word" : "ser"
+    }, {
+      "conf" : 0.991633,
+      "end" : 1.770000,
+      "start" : 1.470000,
+      "word" : "buscar"
+    }, {
+      "conf" : 0.316707,
+      "end" : 2.160000,
+      "start" : 1.770000,
+      "word" : "mante"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.175635,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.280000,
+      "word" : "néixer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.760000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 2.970000,
+      "word" : "arequipa"
+    }],
+  "text" : "el ser buscar mante va néixer a arequipa"
+}

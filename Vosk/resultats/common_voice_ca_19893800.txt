@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.960000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.140000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.830000,
+      "word" : "java"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.520000,
+      "word" : "borneo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.750000,
+      "word" : "malàisia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.100000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.190000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.310000,
+      "word" : "conca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.640000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.790000,
+      "word" : "riu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.030000,
+      "word" : "mekong"
+    }],
+  "text" : "es troba a java borneo malàisia i la conca del riu mekong"
+}

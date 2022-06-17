@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.927176,
+      "end" : 1.230000,
+      "start" : 0.930000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.260000,
+      "word" : "talent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.970000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.210000,
+      "word" : "jutge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.660000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.870000,
+      "word" : "jurat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.230000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.530000,
+      "word" : "iguals"
+    }],
+  "text" : "aquest talent del jutge i el jurat són iguals"
+}

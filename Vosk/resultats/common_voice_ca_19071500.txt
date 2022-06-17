@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.600000,
+      "word" : "dirigir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.050000,
+      "word" : "instruments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.500000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.620000,
+      "word" : "permeten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.040000,
+      "word" : "donar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.220000,
+      "word" : "transparència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.910000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.970000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.060000,
+      "word" : "informació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.510000,
+      "word" : "urbanística"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.020000,
+      "word" : "vigent"
+    }],
+  "text" : "dirigir els instruments que permeten donar transparència de la informació urbanística vigent"
+}

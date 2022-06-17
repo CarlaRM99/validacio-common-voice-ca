@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.780000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.840000,
+      "word" : "senyal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.200000,
+      "word" : "d'agraïment"
+    }, {
+      "conf" : 0.522467,
+      "end" : 2.130000,
+      "start" : 1.980000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.130000,
+      "word" : "club"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.400000,
+      "word" : "decidir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.820000,
+      "word" : "afegir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.210000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.300000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.540000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.630000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.750000,
+      "word" : "ciutat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.380000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.560000,
+      "word" : "nom"
+    }],
+  "text" : "com a senyal d'agraïment al club decidir afegir el nom de la ciutat el nom"
+}

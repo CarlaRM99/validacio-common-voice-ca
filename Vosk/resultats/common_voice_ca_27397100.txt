@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.639655,
+      "end" : 1.230000,
+      "start" : 0.660000,
+      "word" : "serbis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.230000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.380000,
+      "word" : "conegut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.860000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.040000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.250000,
+      "word" : "biografies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.940000,
+      "word" : "de"
+    }, {
+      "conf" : 0.405106,
+      "end" : 3.420000,
+      "start" : 3.120000,
+      "word" : "platí"
+    }, {
+      "conf" : 0.396152,
+      "end" : 3.630000,
+      "start" : 3.420000,
+      "word" : "mil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.658659,
+      "word" : "lenin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.530000,
+      "word" : "josef"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.070000,
+      "word" : "stalin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 6.030000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.150000,
+      "word" : "leon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.480000,
+      "word" : "trotsky"
+    }],
+  "text" : "serbis és conegut per les biografies de platí mil lenin josef stalin i leon trotsky"
+}

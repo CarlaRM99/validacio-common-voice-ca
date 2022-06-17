@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.380000,
+      "word" : "proposar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.070000,
+      "word" : "formulació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.850000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.970000,
+      "word" : "zones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.540000,
+      "word" : "requereixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.230000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.440000,
+      "word" : "protecció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.980000,
+      "word" : "especial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.790000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.970000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.301858,
+      "start" : 6.120000,
+      "word" : "fa"
+    }, {
+      "conf" : 0.537769,
+      "end" : 6.330000,
+      "start" : 6.301858,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 6.450000,
+      "word" : "contaminació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.470000,
+      "start" : 7.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.920000,
+      "start" : 7.470000,
+      "word" : "l'aire"
+    }],
+  "text" : "proposar la formulació de zones que requereixen una protecció especial pel que fa a la contaminació de l'aire"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.510000,
+      "word" : "olivella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.200000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.440000,
+      "word" : "pere"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.800000,
+      "word" : "ribes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.130000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.190000,
+      "word" : "sitges"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.790000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.120000,
+      "word" : "l'escut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.600000,
+      "word" : "oficialitzat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.440000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.650000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.800000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.890000,
+      "word" : "bandera"
+    }],
+  "text" : "olivella sant pere de ribes i sitges tenen l'escut oficialitzat però no la bandera"
+}

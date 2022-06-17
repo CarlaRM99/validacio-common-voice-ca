@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.840000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.170000,
+      "word" : "dades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.440000,
+      "word" : "d'àudio"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.950000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.100000,
+      "word" : "codifica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.610000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.700000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.790000,
+      "word" : "format"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.150000,
+      "word" : "identificat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.251321,
+      "start" : 4.080000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.260000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.350000,
+      "word" : "capçalera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.950000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.070000,
+      "word" : "l'arxiu"
+    }],
+  "text" : "les dades d'àudio es codifica en el format identificat per la capçalera de l'arxiu"
+}

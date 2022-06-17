@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.840000,
+      "word" : "aquí"
+    }, {
+      "conf" : 0.786484,
+      "end" : 1.350000,
+      "start" : 1.020000,
+      "word" : "s'acaba"
+    }, {
+      "conf" : 0.786484,
+      "end" : 1.410000,
+      "start" : 1.350000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.530000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.710000,
+      "word" : "avantatges"
+    }],
+  "text" : "però aquí s'acaba en els seus avantatges"
+}

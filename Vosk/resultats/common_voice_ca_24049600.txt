@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.617686,
+      "end" : 0.870000,
+      "start" : 0.720000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.870000,
+      "word" : "municipi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.560000,
+      "word" : "comprengué"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.190000,
+      "word" : "també"
+    }, {
+      "conf" : 0.648403,
+      "end" : 2.970000,
+      "start" : 2.790000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.970000,
+      "word" : "poble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.420000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.570000,
+      "word" : "rocabertí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.590000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.740000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.010000,
+      "word" : "salvador"
+    }],
+  "text" : "al municipi comprengué també el poble de rocabertí de sant salvador"
+}

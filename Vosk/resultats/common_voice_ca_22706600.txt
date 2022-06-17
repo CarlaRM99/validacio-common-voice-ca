@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.540000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.660000,
+      "word" : "havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.990000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.140000,
+      "word" : "pis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.470000,
+      "word" : "ferradura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.160000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.370000,
+      "word" : "butaques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 2.910000,
+      "word" : "numerades"
+    }],
+  "text" : "hi havia un pis de ferradura amb butaques numerades"
+}

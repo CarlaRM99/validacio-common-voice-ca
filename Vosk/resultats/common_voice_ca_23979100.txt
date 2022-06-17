@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.020000,
+      "word" : "aconseguir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.620000,
+      "word" : "nombrosos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.160000,
+      "word" : "campionats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.730000,
+      "word" : "nacionals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.390000,
+      "word" : "i"
+    }, {
+      "conf" : 0.737224,
+      "end" : 3.750000,
+      "start" : 3.540000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.750000,
+      "word" : "campionats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.260000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.410000,
+      "word" : "món"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.680000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.800000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.890000,
+      "word" : "modalitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.400000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.490000,
+      "word" : "velocitat"
+    }],
+  "text" : "aconseguir nombrosos campionats nacionals i tres campionats del món de la modalitat de velocitat"
+}

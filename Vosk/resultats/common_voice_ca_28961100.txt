@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.763405,
+      "end" : 0.660000,
+      "start" : 0.480000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.660000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.200000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.500000,
+      "word" : "gaià"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.920000,
+      "word" : "cantonada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.520000,
+      "word" : "baladre"
+    }],
+  "text" : "que hi ha al carrer gaià cantonada baladre"
+}

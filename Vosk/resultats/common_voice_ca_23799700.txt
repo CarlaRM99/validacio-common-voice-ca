@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.600000,
+      "word" : "contràriament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.410000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.500000,
+      "word" : "paó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.860000,
+      "word" : "blau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.490000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.820000,
+      "word" : "ocell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.180000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.300000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.480000,
+      "word" : "espècie"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.990000,
+      "word" : "amenaçada"
+    }],
+  "text" : "contràriament el paó blau aquest ocell és una espècie amenaçada"
+}

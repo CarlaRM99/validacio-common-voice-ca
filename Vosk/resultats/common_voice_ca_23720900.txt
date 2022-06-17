@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.540000,
+      "word" : "carta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.870000,
+      "word" : "d'arquelau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.560000,
+      "word" : "encara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.920000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.010000,
+      "word" : "conserva"
+    }],
+  "text" : "la carta d'arquelau encara es conserva"
+}

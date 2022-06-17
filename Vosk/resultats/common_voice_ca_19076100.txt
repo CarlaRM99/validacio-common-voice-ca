@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.330000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.750000,
+      "word" : "darrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.050000,
+      "word" : "dia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.530000,
+      "word" : "fira"
+    }],
+  "text" : "era el darrer dia de la fira"
+}

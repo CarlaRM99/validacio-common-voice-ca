@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.840000,
+      "word" : "ell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.170000,
+      "word" : "sostenia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.800000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.980000,
+      "word" : "déu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.490000,
+      "word" : "ara"
+    }, {
+      "conf" : 0.762333,
+      "end" : 3.090000,
+      "start" : 2.730000,
+      "word" : "estava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.090000,
+      "word" : "castigant"
+    }, {
+      "conf" : 0.771225,
+      "end" : 4.230000,
+      "start" : 4.020000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.230000,
+      "word" : "musulmans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.920000,
+      "word" : "pels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.190000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.239997,
+      "start" : 5.460000,
+      "word" : "pecats"
+    }],
+  "text" : "ell sostenia que déu ara estava castigant els musulmans pels seus pecats"
+}

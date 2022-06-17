@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.120000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.540000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.630000,
+      "word" : "vilassar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.990000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.080000,
+      "word" : "mar"
+    }],
+  "text" : "venim de vilassar de mar"
+}

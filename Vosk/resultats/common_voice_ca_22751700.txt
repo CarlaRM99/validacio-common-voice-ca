@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.930000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.140000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.290000,
+      "word" : "departament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.040000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.220000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.370000,
+      "word" : "tribut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.856140,
+      "start" : 2.820000,
+      "word" : "a"
+    }, {
+      "conf" : 0.730390,
+      "end" : 2.970000,
+      "start" : 2.856140,
+      "word" : "l"
+    }, {
+      "conf" : 0.730390,
+      "end" : 3.240000,
+      "start" : 2.970000,
+      "word" : "heroi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.240000,
+      "word" : "indígena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.930000,
+      "word" : "lempira"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.130000,
+      "word" : "originari"
+    }, {
+      "conf" : 0.850094,
+      "end" : 6.060000,
+      "start" : 5.760000,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 6.060000,
+      "word" : "lloc"
+    }],
+  "text" : "el nom del departament és un tribut a l heroi indígena lempira originari d'aquest lloc"
+}

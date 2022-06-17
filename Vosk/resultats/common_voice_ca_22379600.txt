@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.570000,
+      "word" : "oposat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.350000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.530000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.680000,
+      "word" : "formació"
+    }, {
+      "conf" : 0.651855,
+      "end" : 2.700000,
+      "start" : 2.490000,
+      "word" : "que"
+    }, {
+      "conf" : 0.555971,
+      "end" : 2.821559,
+      "start" : 2.700000,
+      "word" : "no"
+    }, {
+      "conf" : 0.466970,
+      "end" : 2.880000,
+      "start" : 2.821559,
+      "word" : "ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.880000,
+      "word" : "ferradura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.660000,
+      "word" : "d'alberta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.380000,
+      "word" : "canadà"
+    }],
+  "text" : "oposat en la formació que no ho ferradura d'alberta canadà"
+}

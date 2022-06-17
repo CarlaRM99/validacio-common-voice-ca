@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.720000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.960000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.140000,
+      "word" : "softcatalà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.980000,
+      "word" : "volem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.280000,
+      "word" : "agrair"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.550000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.640000,
+      "word" : "confiança"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.210000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.300000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.420000,
+      "word" : "centenars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.930000,
+      "word" : "de"
+    }, {
+      "conf" : 0.810666,
+      "end" : 4.350000,
+      "start" : 4.050000,
+      "word" : "morts"
+    }, {
+      "conf" : 0.810666,
+      "end" : 4.890000,
+      "start" : 4.350000,
+      "word" : "visitaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.040000,
+      "word" : "dipositen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.640000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 5.700000,
+      "word" : "nosaltres"
+    }],
+  "text" : "des de softcatalà volem agrair la confiança que els centenars de morts visitaven dipositen en nosaltres"
+}

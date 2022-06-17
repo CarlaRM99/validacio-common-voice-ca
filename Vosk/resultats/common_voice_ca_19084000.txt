@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.020000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.230000,
+      "word" : "immolació"
+    }],
+  "text" : "és una immolació"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.080000,
+      "word" : "habita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.530000,
+      "word" : "zones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 1.890000,
+      "word" : "humanitzades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.790000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.000000,
+      "word" : "terres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.390000,
+      "word" : "altes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.840000,
+      "word" : "d'etiòpia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.680000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.489996,
+      "start" : 4.800000,
+      "word" : "somàlia"
+    }],
+  "text" : "habita zones humanitzades de les terres altes d'etiòpia i somàlia"
+}

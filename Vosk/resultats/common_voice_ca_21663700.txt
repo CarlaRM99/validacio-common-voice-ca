@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.660000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.840000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.170000,
+      "word" : "paper"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.800000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.010000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.490000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.670000,
+      "word" : "premi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 3.030000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.090000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.180000,
+      "word" : "interpretació"
+    }],
+  "text" : "per aquest paper va rebre el premi a la interpretació"
+}

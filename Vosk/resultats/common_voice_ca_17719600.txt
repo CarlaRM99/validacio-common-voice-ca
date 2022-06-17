@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.870336,
+      "end" : 0.660000,
+      "start" : 0.330000,
+      "word" : "nil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.660000,
+      "word" : "dugueren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.547181,
+      "start" : 1.200000,
+      "word" : "sense"
+    }, {
+      "conf" : 0.572698,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "que"
+    }, {
+      "conf" : 0.572698,
+      "end" : 1.789028,
+      "start" : 1.680000,
+      "word" : "ell"
+    }, {
+      "conf" : 0.545595,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "el"
+    }, {
+      "conf" : 0.903971,
+      "end" : 2.520000,
+      "start" : 1.920000,
+      "word" : "demanara"
+    }],
+  "text" : "nil dugueren sense que ell el demanara"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.510000,
+      "word" : "sovint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.260000,
+      "word" : "veu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.530000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.890000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.100000,
+      "word" : "sinònim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.730000,
+      "word" : "de"
+    }, {
+      "conf" : 0.640035,
+      "end" : 3.780000,
+      "start" : 3.480000,
+      "word" : "twin"
+    }, {
+      "conf" : 0.546141,
+      "end" : 4.110000,
+      "start" : 3.780000,
+      "word" : "king"
+    }, {
+      "conf" : 0.874367,
+      "end" : 4.620000,
+      "start" : 4.200000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.920000,
+      "word" : "good"
+    }, {
+      "conf" : 0.939808,
+      "end" : 5.850000,
+      "start" : 5.280000,
+      "word" : "mòdic"
+    }],
+  "text" : "sovint es veu com un sinònim de twin king o good mòdic"
+}

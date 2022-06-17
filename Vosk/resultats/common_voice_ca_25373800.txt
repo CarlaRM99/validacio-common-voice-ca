@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.690000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 0.990000,
+      "word" : "composicions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.800000,
+      "word" : "corals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.340000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.790000,
+      "word" : "vocals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.690000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 3.750000,
+      "word" : "instrumentals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.100000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.220000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.520000,
+      "word" : "dos"
+    }],
+  "text" : "les composicions corals poden ser vocals i instrumentals o tots dos"
+}

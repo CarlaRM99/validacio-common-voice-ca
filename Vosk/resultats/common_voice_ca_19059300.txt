@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.900000,
+      "word" : "vell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.440000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.680000,
+      "word" : "li"
+    }, {
+      "conf" : 0.450400,
+      "end" : 2.250000,
+      "start" : 1.800000,
+      "word" : "donis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.310000,
+      "word" : "vi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.550000,
+      "word" : "novell"
+    }],
+  "text" : "el vell no li donis vi novell"
+}

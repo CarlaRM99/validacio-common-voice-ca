@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.450000,
+      "word" : "brigada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.560000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.770000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.040000,
+      "word" : "ferit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.580000,
+      "word" : "bala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.000000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.180000,
+      "word" : "el"
+    }, {
+      "conf" : 0.599417,
+      "end" : 3.810000,
+      "start" : 3.300000,
+      "word" : "pit"
+    }],
+  "text" : "brigada on fou ferit de bala en el pit"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.690000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.020000,
+      "word" : "noi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.590000,
+      "word" : "inhibit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.310000,
+      "word" : "sembla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.700000,
+      "word" : "donar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.940000,
+      "word" : "confiança"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.660000,
+      "word" : "gràcies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.080000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.140000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.350000,
+      "word" : "missatge"
+    }],
+  "text" : "aquest noi inhibit sembla donar confiança gràcies al seu missatge"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.390000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.810000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.960000,
+      "word" : "néixer"
+    }, {
+      "conf" : 0.846506,
+      "end" : 2.040000,
+      "start" : 1.380000,
+      "word" : "augusta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.160000,
+      "word" : "geòrgia"
+    }],
+  "text" : "gran va néixer augusta geòrgia"
+}

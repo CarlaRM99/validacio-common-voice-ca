@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.485990,
+      "end" : 0.682621,
+      "start" : 0.510000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.682621,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.050000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.410000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.500000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.590000,
+      "word" : "ciutat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.920000,
+      "word" : "cabdal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.310000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.400000,
+      "word" : "bratislava"
+    }],
+  "text" : "té la seva seu a la ciutat cabdal de bratislava"
+}

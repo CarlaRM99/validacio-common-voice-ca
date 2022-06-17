@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "així"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.990000,
+      "word" : "facilita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.560000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.710000,
+      "word" : "usuaris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.250000,
+      "word" : "finals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.730000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.880000,
+      "word" : "instal·lació"
+    }, {
+      "conf" : 0.361270,
+      "end" : 3.480000,
+      "start" : 3.390000,
+      "word" : "del"
+    }, {
+      "conf" : 0.998634,
+      "end" : 4.079994,
+      "start" : 3.480000,
+      "word" : "sistema"
+    }],
+  "text" : "així es facilita als usuaris finals la instal·lació del sistema"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.450000,
+      "word" : "quants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.128873,
+      "start" : 0.810000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.209338,
+      "word" : "modificacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.160000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.370000,
+      "word" : "caldre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.910000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.210000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.390000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.540000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 3.960000,
+      "word" : "adoptat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.699999,
+      "start" : 4.650000,
+      "word" : "definitivament"
+    }],
+  "text" : "quants anys modificacions van caldre fins que va ser adoptat definitivament"
+}

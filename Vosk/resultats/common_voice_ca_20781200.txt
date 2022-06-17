@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.540000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.200000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.560000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.830000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.950000,
+      "word" : "govern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.400000,
+      "word" : "homosexual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.210000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.390000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.630000,
+      "word" : "país"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.170000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.350000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.470000,
+      "word" : "tercer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.890000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.100000,
+      "word" : "món"
+    }],
+  "text" : "fou el primer cap de govern homosexual del seu país i el tercer del món"
+}

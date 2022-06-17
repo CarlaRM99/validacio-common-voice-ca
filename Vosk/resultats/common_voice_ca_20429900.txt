@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.990000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.140000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.470000,
+      "word" : "a"
+    }, {
+      "conf" : 0.666314,
+      "end" : 2.310000,
+      "start" : 1.530000,
+      "word" : "sudamèrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.370000,
+      "word" : "nord"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.670000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.820000,
+      "word" : "perú"
+    }],
+  "text" : "es troba a sudamèrica nord del perú"
+}

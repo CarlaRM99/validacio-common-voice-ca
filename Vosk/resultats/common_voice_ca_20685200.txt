@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.050000,
+      "word" : "aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.620000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 1.980000,
+      "word" : "tradicions"
+    }, {
+      "conf" : 0.807416,
+      "end" : 3.210000,
+      "start" : 3.030000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.210000,
+      "word" : "ritu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 3.660000,
+      "word" : "constantinoble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.220000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.400000,
+      "word" : "desenvolupà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.300000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.420000,
+      "word" : "partir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.750000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 6.900000,
+      "word" : "ritu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.100000,
+      "start" : 7.350000,
+      "word" : "antioquè"
+    }],
+  "text" : "aquestes dues tradicions el ritu de constantinoble es desenvolupà a partir del ritu antioquè"
+}

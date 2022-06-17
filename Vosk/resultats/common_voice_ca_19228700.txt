@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.913121,
+      "end" : 1.200000,
+      "start" : 0.870000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.583116,
+      "start" : 1.200000,
+      "word" : "així"
+    }, {
+      "conf" : 0.306949,
+      "end" : 1.767111,
+      "start" : 1.620000,
+      "word" : "em"
+    }, {
+      "conf" : 0.947004,
+      "end" : 2.070000,
+      "start" : 1.767111,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.070000,
+      "word" : "límit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.640000,
+      "word" : "l'aparell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.210000,
+      "word" : "seria"
+    }, {
+      "conf" : 0.907839,
+      "end" : 4.110000,
+      "start" : 3.540000,
+      "word" : "destruït"
+    }],
+  "text" : "si així em d'aquest límit l'aparell seria destruït"
+}

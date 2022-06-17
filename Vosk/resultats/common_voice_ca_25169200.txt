@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.390000,
+      "word" : "finalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.110000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.380000,
+      "word" : "identificar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.130000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.310000,
+      "word" : "cultiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.820000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.000000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.240000,
+      "word" : "exportació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.900000,
+      "word" : "rendible"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.590000,
+      "word" : "gràcies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.160000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.400000,
+      "word" : "esforços"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 6.030000,
+      "word" : "del"
+    }, {
+      "conf" : 0.923236,
+      "end" : 6.660000,
+      "start" : 6.210000,
+      "word" : "colon"
+    }, {
+      "conf" : 0.830039,
+      "end" : 7.080000,
+      "start" : 6.690000,
+      "word" : "john"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.560000,
+      "start" : 7.080000,
+      "word" : "rol"
+    }],
+  "text" : "finalment es va identificar un cultiu amb una exportació rendible gràcies als esforços del colon john rol"
+}

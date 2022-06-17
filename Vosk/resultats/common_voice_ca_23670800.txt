@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.471390,
+      "start" : 0.780000,
+      "word" : "prefereixen"
+    }, {
+      "conf" : 0.886729,
+      "end" : 1.950000,
+      "start" : 1.471390,
+      "word" : "l'ombra"
+    }],
+  "text" : "prefereixen l'ombra"
+}

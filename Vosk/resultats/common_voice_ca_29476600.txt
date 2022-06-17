@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.585616,
+      "end" : 0.840000,
+      "start" : 0.570000,
+      "word" : "quan"
+    }, {
+      "conf" : 0.945256,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "dura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.050000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.140000,
+      "word" : "viatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.560000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.620000,
+      "word" : "autobús"
+    }, {
+      "conf" : 0.539321,
+      "end" : 2.520000,
+      "start" : 2.160000,
+      "word" : "sisa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.610000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.970000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.030000,
+      "word" : "santa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.330000,
+      "word" : "cristina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.870000,
+      "word" : "d'aro"
+    }],
+  "text" : "quan dura el viatge en autobús sisa fins a santa cristina d'aro"
+}

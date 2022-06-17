@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.357937,
+      "end" : 0.930000,
+      "start" : 0.630000,
+      "word" : "k"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 0.990000,
+      "word" : "ubicacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.830000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.890000,
+      "word" : "santa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.280000,
+      "word" : "mònica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.910000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.030000,
+      "word" : "marina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.510000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.690000,
+      "word" : "rei"
+    }],
+  "text" : "k ubicacions a santa mònica i marina del rei"
+}

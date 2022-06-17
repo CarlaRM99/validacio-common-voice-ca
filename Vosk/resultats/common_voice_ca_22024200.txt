@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.900000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.230000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.500000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.620000,
+      "word" : "provocar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.070000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.160000,
+      "word" : "naixement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.910000,
+      "word" : "moviment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.540000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.750000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.870000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.200000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.320000,
+      "word" : "cano"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.740000,
+      "word" : "separat"
+    }],
+  "text" : "aquest fet va provocar el naixement d'un moviment per un estat de cano separat"
+}

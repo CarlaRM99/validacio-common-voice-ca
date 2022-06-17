@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.480000,
+      "word" : "estrenat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.140000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.410000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.590000,
+      "word" : "diversos"
+    }, {
+      "conf" : 0.791890,
+      "end" : 2.220000,
+      "start" : 2.160000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.220000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.490000,
+      "word" : "funcionar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.970000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.150000,
+      "word" : "assignatures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.780000,
+      "word" : "vocals"
+    }],
+  "text" : "estrenat són molt diversos i poden funcionar com assignatures vocals"
+}

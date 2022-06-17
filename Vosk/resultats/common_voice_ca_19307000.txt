@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "anem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.990000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.200000,
+      "word" : "jordi"
+    }, {
+      "conf" : 0.999918,
+      "end" : 2.279999,
+      "start" : 1.530000,
+      "word" : "desvalls"
+    }],
+  "text" : "anem a sant jordi desvalls"
+}

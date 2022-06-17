@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.050000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.230000,
+      "word" : "setembre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.770000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.010000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.220000,
+      "word" : "mil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.550000,
+      "word" : "onze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.330000,
+      "word" : "eren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.720000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.050000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.260000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.320000,
+      "word" : "cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.950000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.100000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 5.670000,
+      "word" : "respectivament"
+    }],
+  "text" : "en setembre del dos mil onze eren sis com a cinc i sis respectivament"
+}

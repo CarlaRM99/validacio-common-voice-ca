@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.300000,
+      "start" : 0.030000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.300000,
+      "word" : "d'ahir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.570000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.690000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "tia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.050000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.170000,
+      "word" : "s'acaba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.500000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.590000,
+      "word" : "trobar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.830000,
+      "word" : "bé"
+    }],
+  "text" : "des d'ahir que la tia no s'acaba de trobar bé"
+}
