@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.020000,
+      "word" : "anem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.320000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.410000,
+      "word" : "menjador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.160000,
+      "word" : "allí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.520000,
+      "word" : "fresqueja"
+    }],
+  "text" : "anem al menjador allí fresqueja"
+}

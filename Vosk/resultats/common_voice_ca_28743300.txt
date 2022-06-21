@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.660000,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.080000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.200000,
+      "word" : "música"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.710000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.890000,
+      "word" : "lletra"
+    }, {
+      "conf" : 0.759374,
+      "end" : 2.730000,
+      "start" : 2.430000,
+      "word" : "ell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.940000,
+      "word" : "john"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.300000,
+      "word" : "paul"
+    }, {
+      "conf" : 0.694208,
+      "end" : 4.140000,
+      "start" : 3.600000,
+      "word" : "jonc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.500000,
+      "word" : "accepta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.280000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.430000,
+      "word" : "s'indiqui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 6.030000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.150000,
+      "word" : "contrari"
+    }],
+  "text" : "tota la música i la lletra ell de john paul jonc accepta on s'indiqui el contrari"
+}

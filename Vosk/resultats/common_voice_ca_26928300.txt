@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.450000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.050000,
+      "word" : "refresc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.710000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.980000,
+      "word" : "comú"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.460000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.790000,
+      "word" : "l'estiu"
+    }],
+  "text" : "és un refresc molt comú durant l'estiu"
+}

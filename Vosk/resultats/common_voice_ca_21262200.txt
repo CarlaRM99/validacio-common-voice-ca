@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.788968,
+      "end" : 1.080000,
+      "start" : 0.390000,
+      "word" : "habiten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.140000,
+      "word" : "zones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.590000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.680000,
+      "word" : "praderia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.460000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.580000,
+      "word" : "cultius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.120000,
+      "word" : "herbacis"
+    }],
+  "text" : "habiten zones de praderia i cultius herbacis"
+}

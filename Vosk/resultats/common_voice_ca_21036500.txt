@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.960000,
+      "word" : "veïna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.380000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.530000,
+      "word" : "barri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.860000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.100000,
+      "word" : "manresà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.850000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.030000,
+      "word" : "badalona"
+    }],
+  "text" : "veïna del barri del manresà de badalona"
+}

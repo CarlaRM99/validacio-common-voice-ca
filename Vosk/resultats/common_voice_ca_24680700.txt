@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.870000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.140000,
+      "word" : "manifestacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.010000,
+      "word" : "pictogràfica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.790000,
+      "word" : "representen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.390000,
+      "word" : "ideogrames"
+    }, {
+      "conf" : 0.786626,
+      "end" : 4.680000,
+      "start" : 4.080000,
+      "word" : "abstractes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.680000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.860000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.040000,
+      "word" : "imaginari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.610000,
+      "word" : "grupal"
+    }],
+  "text" : "les manifestacions pictogràfica representen ideogrames abstractes del seu imaginari grupal"
+}

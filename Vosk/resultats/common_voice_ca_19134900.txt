@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.827980,
+      "end" : 0.775119,
+      "start" : 0.690000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.775119,
+      "word" : "el"
+    }, {
+      "conf" : 0.528781,
+      "end" : 1.320000,
+      "start" : 0.870000,
+      "word" : "primari"
+    }],
+  "text" : "i el primari"
+}

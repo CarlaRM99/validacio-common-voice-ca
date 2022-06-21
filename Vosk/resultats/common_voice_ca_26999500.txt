@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "qui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.960000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.080000,
+      "word" : "guanyar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.350000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.410000,
+      "word" : "partit"
+    }, {
+      "conf" : 0.782836,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "de"
+    }, {
+      "conf" : 0.782836,
+      "end" : 2.220000,
+      "start" : 1.890000,
+      "word" : "nit"
+    }],
+  "text" : "qui va guanyar el partit de nit"
+}

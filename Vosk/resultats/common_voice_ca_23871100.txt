@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.480000,
+      "start" : 0.300000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.480000,
+      "word" : "passa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.720000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "altres"
+    }, {
+      "conf" : 0.873911,
+      "end" : 1.648246,
+      "start" : 1.050000,
+      "word" : "emperadrius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.648246,
+      "word" : "romanes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "sap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.730000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.880000,
+      "word" : "poca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.120000,
+      "word" : "cosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.360000,
+      "word" : "d'ella"
+    }],
+  "text" : "com passa amb altres emperadrius romanes se sap molt poca cosa d'ella"
+}

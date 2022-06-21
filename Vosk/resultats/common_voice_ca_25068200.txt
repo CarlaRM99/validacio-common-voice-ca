@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.630000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.050000,
+      "word" : "escriure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.500000,
+      "word" : "sota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.770000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.830000,
+      "word" : "pseudònim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.370000,
+      "word" : "de"
+    }, {
+      "conf" : 0.619259,
+      "end" : 3.120000,
+      "start" : 2.730000,
+      "word" : "pol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.150000,
+      "word" : "píndar"
+    }],
+  "text" : "també va escriure sota el pseudònim de pol píndar"
+}

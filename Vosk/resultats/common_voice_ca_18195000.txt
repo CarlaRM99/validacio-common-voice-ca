@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.810000,
+      "word" : "llenç"
+    }, {
+      "conf" : 0.525136,
+      "end" : 1.530000,
+      "start" : 1.110000,
+      "word" : "blanca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.541363,
+      "word" : "subjectava"
+    }, {
+      "conf" : 0.746258,
+      "end" : 2.340000,
+      "start" : 2.190000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.340000,
+      "word" : "braços"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.000000,
+      "word" : "col·locat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.540000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.630000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.720000,
+      "word" : "creu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.410000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.650000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.710000,
+      "word" : "quedat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.040000,
+      "word" : "buida"
+    }],
+  "text" : "el llenç blanca subjectava els braços és col·locat a la creu que ha quedat buida"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.780000,
+      "word" : "fígols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.470000,
+      "word" : "pertanyia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.190000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.340000,
+      "word" : "la"
+    }, {
+      "conf" : 0.761693,
+      "end" : 3.090000,
+      "start" : 2.460000,
+      "word" : "batlle"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.300000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.570000,
+      "word" : "ducat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.110000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.170000,
+      "word" : "cardona"
+    }],
+  "text" : "fígols pertanyia a la batlle i el ducat de cardona"
+}

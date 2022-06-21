@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.611167,
+      "end" : 0.660000,
+      "start" : 0.480000,
+      "word" : "és"
+    }, {
+      "conf" : 0.879407,
+      "end" : 1.050000,
+      "start" : 0.660000,
+      "word" : "llisquen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.053618,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.230000,
+      "word" : "l'aire"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.650000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "al"
+    }, {
+      "conf" : 0.719121,
+      "end" : 2.310000,
+      "start" : 1.890000,
+      "word" : "darrere"
+    }, {
+      "conf" : 0.546921,
+      "end" : 2.580000,
+      "start" : 2.310000,
+      "word" : "està"
+    }, {
+      "conf" : 0.867436,
+      "end" : 2.640000,
+      "start" : 2.580000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.640000,
+      "word" : "sol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.970000,
+      "word" : "baix"
+    }],
+  "text" : "és llisquen per l'aire i al darrere està al sol baix"
+}

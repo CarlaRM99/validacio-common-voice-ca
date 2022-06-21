@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.450000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.660000,
+      "word" : "tracta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.170000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.410000,
+      "word" : "masia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.950000,
+      "word" : "formada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.520000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.700000,
+      "word" : "diferents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.210000,
+      "word" : "cossos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.690000,
+      "word" : "construïts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.380000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.500000,
+      "word" : "èpoques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 4.950000,
+      "word" : "diferents"
+    }],
+  "text" : "es tracta d'una masia formada per diferents cossos construïts en èpoques diferents"
+}

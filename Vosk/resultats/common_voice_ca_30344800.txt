@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.170000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "quin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.530000,
+      "word" : "any"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.890000,
+      "word" : "estava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.370000,
+      "word" : "prevista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.090000,
+      "word" : "l'exposició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.170000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.290000,
+      "word" : "barcelona"
+    }],
+  "text" : "per a quin any estava prevista l'exposició a barcelona"
+}

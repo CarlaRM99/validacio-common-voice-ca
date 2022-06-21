@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.510000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.840000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.170000,
+      "word" : "primeres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.620000,
+      "word" : "actuacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.730000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.030000,
+      "word" : "ésser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.900000,
+      "word" : "sobretot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.190000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.400000,
+      "word" : "música"
+    }, {
+      "conf" : 0.556492,
+      "end" : 6.240000,
+      "start" : 6.090000,
+      "word" : "i"
+    }],
+  "text" : "les seves primeres actuacions van ésser sobretot de música i"
+}

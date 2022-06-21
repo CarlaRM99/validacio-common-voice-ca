@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.864927,
+      "end" : 1.106176,
+      "start" : 0.720000,
+      "word" : "baixa"
+    }, {
+      "conf" : 0.547201,
+      "end" : 1.200000,
+      "start" : 1.106176,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.200000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.710000,
+      "word" : "torres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.340000,
+      "word" : "marina"
+    }],
+  "text" : "baixa el carrer de torres de marina"
+}

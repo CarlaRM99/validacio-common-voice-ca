@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.600000,
+      "word" : "mengem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.140000,
+      "word" : "oi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.500000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.680000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.800000,
+      "word" : "rierol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.460000,
+      "word" : "provenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.060000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.330000,
+      "word" : "tribu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.750000,
+      "word" : "ameríndia"
+    }],
+  "text" : "mengem oi i el rierol provenen d'una tribu ameríndia"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.776342,
+      "end" : 1.500000,
+      "start" : 0.930000,
+      "word" : "formen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.500000,
+      "word" : "simbiosi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.220000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.370000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.490000,
+      "word" : "formigues"
+    }],
+  "text" : "formen simbiosi amb les formigues"
+}

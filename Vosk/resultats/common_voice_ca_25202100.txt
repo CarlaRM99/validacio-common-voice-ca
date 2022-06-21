@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.480000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.660000,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.990000,
+      "word" : "manera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.560000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.770000,
+      "word" : "disputa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.340000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.460000,
+      "word" : "contribució"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.180000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.300000,
+      "word" : "l'entrevista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.080000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.260000,
+      "word" : "pastís"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 4.830000,
+      "word" : "d'aniversari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.670000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.820000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.940000,
+      "word" : "pèrdua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 6.390000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.510000,
+      "word" : "ser"
+    }, {
+      "conf" : 0.518190,
+      "end" : 6.780000,
+      "start" : 6.690000,
+      "word" : "ho"
+    }, {
+      "conf" : 0.518190,
+      "end" : 7.140000,
+      "start" : 6.780000,
+      "word" : "són"
+    }],
+  "text" : "de tota manera es disputa la contribució de l'entrevista del pastís d'aniversari de la pèrdua de ser ho són"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.510000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.660000,
+      "word" : "dedica"
+    }, {
+      "conf" : 0.806040,
+      "end" : 1.050000,
+      "start" : 0.990000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.050000,
+      "word" : "ciclisme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.620000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.710000,
+      "word" : "pista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.310000,
+      "word" : "especialitzant-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.360000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.450000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.540000,
+      "word" : "velocitat"
+    }],
+  "text" : "es dedica al ciclisme en pista especialitzant-se en la velocitat"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.750000,
+      "word" : "llicencià"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.620000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.710000,
+      "word" : "l'escola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.310000,
+      "word" : "politècnica"
+    }],
+  "text" : "es llicencià a l'escola politècnica"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.660000,
+      "word" : "quines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.020000,
+      "word" : "botigues"
+    }, {
+      "conf" : 0.583711,
+      "end" : 1.590000,
+      "start" : 1.530000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.748443,
+      "end" : 1.740000,
+      "start" : 1.590000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.920000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.220000,
+      "word" : "d'ivorra"
+    }],
+  "text" : "quines botigues hi ha al carrer d'ivorra"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.730617,
+      "end" : 1.350000,
+      "start" : 1.110000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.710000,
+      "word" : "joan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.010000,
+      "word" : "trona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.880000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.150000,
+      "word" : "nous"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.420000,
+      "word" : "escorten"
+    }],
+  "text" : "si per sant joan trona les nous escorten"
+}

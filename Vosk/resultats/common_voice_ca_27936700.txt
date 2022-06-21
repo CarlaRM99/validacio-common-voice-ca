@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.678247,
+      "end" : 0.990000,
+      "start" : 0.570000,
+      "word" : "fuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.020000,
+      "word" : "rising"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.980000,
+      "word" : "moltes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.430000,
+      "word" : "preguntes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.940000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.120000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.570000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.660000,
+      "word" : "voltant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.960000,
+      "word" : "de"
+    }, {
+      "conf" : 0.995699,
+      "end" : 4.949999,
+      "start" : 4.050000,
+      "word" : "l'organització"
+    }],
+  "text" : "fuit rising moltes preguntes van començar al voltant de l'organització"
+}

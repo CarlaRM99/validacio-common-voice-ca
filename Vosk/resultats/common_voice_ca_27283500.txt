@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.270000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.600000,
+      "word" : "partit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.990000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.110000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.230000,
+      "word" : "anunciat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.710000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.310000,
+      "word" : "wilson"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.790000,
+      "word" : "fos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.030000,
+      "word" : "triat"
+    }],
+  "text" : "aquest partit va ser anunciat després que wilson fos triat"
+}

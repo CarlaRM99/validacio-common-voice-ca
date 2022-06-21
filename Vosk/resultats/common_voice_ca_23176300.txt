@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.390000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.570000,
+      "word" : "originari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.170000,
+      "word" : "mèxic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.680000,
+      "word" : "hondures"
+    }, {
+      "conf" : 0.583174,
+      "end" : 2.456564,
+      "start" : 2.370000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.456564,
+      "word" : "nicaragua"
+    }],
+  "text" : "és originari de mèxic hondures i nicaragua"
+}

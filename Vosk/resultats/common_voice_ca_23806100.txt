@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.480000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.960000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.890000,
+      "word" : "d'un"
+    }, {
+      "conf" : 0.871087,
+      "end" : 2.520000,
+      "start" : 2.160000,
+      "word" : "bisbe"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.523867,
+      "word" : "cristià"
+    }],
+  "text" : "fou seu d'un bisbe cristià"
+}

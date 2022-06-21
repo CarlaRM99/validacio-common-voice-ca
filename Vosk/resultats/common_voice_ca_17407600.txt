@@ -1,0 +1,124 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.170000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.380000,
+      "word" : "proposaran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.190000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.370000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.430000,
+      "word" : "màxim"
+    }, {
+      "conf" : 0.546053,
+      "end" : 3.240000,
+      "start" : 2.940000,
+      "word" : "sent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.240000,
+      "word" : "preguntes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.930000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.110000,
+      "word" : "les"
+    }, {
+      "conf" : 0.520665,
+      "end" : 4.590000,
+      "start" : 4.290000,
+      "word" : "claus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.590000,
+      "word" : "correspondran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.280000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.640000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.910000,
+      "word" : "deu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 6.090000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 6.240000,
+      "word" : "cent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.630000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.750000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.500000,
+      "start" : 6.900000,
+      "word" : "vint-i-cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.680000,
+      "start" : 7.530000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.040000,
+      "start" : 7.680000,
+      "word" : "cent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.400000,
+      "start" : 8.250000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.910000,
+      "start" : 8.400000,
+      "word" : "programa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.240000,
+      "start" : 8.910000,
+      "word" : "comú"
+    }],
+  "text" : "es proposaran com a màxim sent preguntes de les claus correspondran entre un deu per cent i un vint-i-cinc per cent el programa comú"
+}

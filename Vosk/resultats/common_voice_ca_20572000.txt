@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.480000,
+      "word" : "bastoners"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.230000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.350000,
+      "word" : "grallers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.860000,
+      "word" : "d'olot"
+    }],
+  "text" : "bastoners i grallers d'olot"
+}

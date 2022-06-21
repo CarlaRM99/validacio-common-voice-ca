@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 0.428065,
+      "end" : 0.816438,
+      "start" : 0.360000,
+      "word" : "jerry"
+    }, {
+      "conf" : 0.328734,
+      "end" : 1.110000,
+      "start" : 0.816438,
+      "word" : "can"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.140000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.410000,
+      "word" : "suïcidar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.920000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.310000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.400000,
+      "word" : "patir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.670000,
+      "word" : "càncer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.090000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.240000,
+      "word" : "pulmó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.540000,
+      "word" : "terminal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.170000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.762817,
+      "start" : 4.290000,
+      "word" : "eficient"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.860000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.130000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.340000,
+      "word" : "temps"
+    }],
+  "text" : "jerry can es va suïcidar després de patir càncer de pulmó terminal i eficient durant molt temps"
+}

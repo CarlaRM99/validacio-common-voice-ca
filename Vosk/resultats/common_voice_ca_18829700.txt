@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.420000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.600000,
+      "word" : "modificarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.380000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.830000,
+      "word" : "cas"
+    }, {
+      "conf" : 0.522618,
+      "end" : 2.187895,
+      "start" : 2.070000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.187895,
+      "word" : "projecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.640000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.700000,
+      "word" : "restauració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.270000,
+      "word" : "ambiental"
+    }],
+  "text" : "es modificarà si és el cas el projecte de restauració ambiental"
+}

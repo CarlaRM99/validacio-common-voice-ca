@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.780000,
+      "word" : "home"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.170000,
+      "word" : "roba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.590000,
+      "word" : "esportiva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.280000,
+      "word" : "intenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.850000,
+      "word" : "agafar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.330000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.570000,
+      "word" : "pilota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.050000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.140000,
+      "word" : "beisbol"
+    }],
+  "text" : "un home roba esportiva intenta agafar una pilota de beisbol"
+}

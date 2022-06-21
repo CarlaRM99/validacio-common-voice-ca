@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.960000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.470000,
+      "word" : "situació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.400000,
+      "word" : "actua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.910000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.120000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.210000,
+      "word" : "procés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.600000,
+      "word" : "selectiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.560000,
+      "word" : "en"
+    }, {
+      "conf" : 0.765138,
+      "end" : 4.860000,
+      "start" : 4.710000,
+      "word" : "què"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.860000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.950000,
+      "word" : "organismes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.700000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 6.000000,
+      "word" : "ben"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.180000,
+      "word" : "adaptats"
+    }],
+  "text" : "aquesta situació actua com a procés selectiu en què els organismes més ben adaptats"
+}

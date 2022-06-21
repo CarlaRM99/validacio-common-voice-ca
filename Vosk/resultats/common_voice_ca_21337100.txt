@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.050000,
+      "word" : "dins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.470000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.770000,
+      "word" : "sèrie"
+    }, {
+      "conf" : 0.835160,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.520000,
+      "word" : "numeració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.390000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.480000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.630000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.810000,
+      "word" : "correlativa"
+    }],
+  "text" : "dins de cada sèrie la numeració ha de ser correlativa"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.510000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.660000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.260000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.650000,
+      "word" : "presenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.370000,
+      "word" : "reticle"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.120000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.210000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.330000,
+      "word" : "cama"
+    }],
+  "text" : "a més també presenta reticle a la cama"
+}

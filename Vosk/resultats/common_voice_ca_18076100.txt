@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.570000,
+      "word" : "volia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.930000,
+      "word" : "semblar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.320000,
+      "word" : "amable"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.400000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.700000,
+      "word" : "feia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.970000,
+      "word" : "oferiments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.720000,
+      "word" : "resultaven"
+    }, {
+      "conf" : 0.578697,
+      "end" : 5.100000,
+      "start" : 4.320000,
+      "word" : "sarcasmes"
+    }],
+  "text" : "volia semblar amable i per això feia oferiments que resultaven sarcasmes"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.510000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.810000,
+      "word" : "filosofia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.650000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 1.830000,
+      "word" : "positivisme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.820000,
+      "word" : "lògic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.630000,
+      "word" : "manifestarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.410000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.560000,
+      "word" : "qualsevol"
+    }, {
+      "conf" : 0.636094,
+      "end" : 6.060000,
+      "start" : 5.310000,
+      "word" : "ocuparse"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 6.060000,
+      "word" : "del"
+    }, {
+      "conf" : 0.645591,
+      "end" : 6.990000,
+      "start" : 6.330000,
+      "word" : "no-res"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 7.170000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.560000,
+      "start" : 7.410000,
+      "word" : "un"
+    }, {
+      "conf" : 0.999614,
+      "end" : 8.519996,
+      "start" : 7.560000,
+      "word" : "contrasentit"
+    }],
+  "text" : "la filosofia del positivisme lògic manifestarà que qualsevol ocuparse del no-res és un contrasentit"
+}

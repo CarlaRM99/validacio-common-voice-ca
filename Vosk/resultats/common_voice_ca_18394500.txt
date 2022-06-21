@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.330000,
+      "word" : "venim"
+    }, {
+      "conf" : 0.898732,
+      "end" : 1.680000,
+      "start" : 1.140000,
+      "word" : "d'alta"
+    }, {
+      "conf" : 0.898732,
+      "end" : 2.100000,
+      "start" : 1.680000,
+      "word" : "full"
+    }],
+  "text" : "venim d'alta full"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.720000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.930000,
+      "word" : "jugar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.440000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.620000,
+      "word" : "partit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.040000,
+      "word" : "contra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.370000,
+      "word" : "alemanya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.060000,
+      "word" : "marcant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.510000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.630000,
+      "word" : "gol"
+    }],
+  "text" : "va jugar un partit contra alemanya marcant un gol"
+}

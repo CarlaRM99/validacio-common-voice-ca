@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.960000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.380000,
+      "word" : "platja"
+    }, {
+      "conf" : 0.765580,
+      "end" : 2.190000,
+      "start" : 1.860000,
+      "word" : "compta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.190000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.280000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.370000,
+      "word" : "distintiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.090000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.210000,
+      "word" : "bandera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.540000,
+      "word" : "blava"
+    }],
+  "text" : "aquesta platja compta amb el distintiu de bandera blava"
+}

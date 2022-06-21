@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.720000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.930000,
+      "word" : "ella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.260000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.410000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.919995,
+      "start" : 1.500000,
+      "word" : "poder"
+    }],
+  "text" : "i ella no va poder"
+}

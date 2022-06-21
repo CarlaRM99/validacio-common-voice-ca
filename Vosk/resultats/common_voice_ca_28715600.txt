@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.480000,
+      "word" : "dit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.810000,
+      "word" : "neguin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.350000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.560000,
+      "word" : "buscar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 1.980000,
+      "word" : "posteriorment"
+    }, {
+      "conf" : 0.718648,
+      "end" : 3.240000,
+      "start" : 3.030000,
+      "word" : "un"
+    }, {
+      "conf" : 0.718648,
+      "end" : 3.600000,
+      "start" : 3.240000,
+      "word" : "altre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.600000,
+      "word" : "comprador"
+    }],
+  "text" : "dit neguin va buscar posteriorment un altre comprador"
+}

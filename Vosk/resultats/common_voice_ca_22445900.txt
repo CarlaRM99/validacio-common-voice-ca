@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.810000,
+      "word" : "capital"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.200000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.290000,
+      "word" : "l'estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.010000,
+      "word" : "ciutat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.520000,
+      "word" : "boxa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.880000,
+      "word" : "que"
+    }, {
+      "conf" : 0.695152,
+      "end" : 3.120000,
+      "start" : 3.030000,
+      "word" : "la"
+    }, {
+      "conf" : 0.695152,
+      "end" : 3.570000,
+      "start" : 3.120000,
+      "word" : "quaresma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.810000,
+      "word" : "originalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.620000,
+      "word" : "anomenada"
+    }, {
+      "conf" : 0.523486,
+      "end" : 5.340000,
+      "start" : 5.220000,
+      "word" : "no"
+    }, {
+      "conf" : 0.523486,
+      "end" : 5.575244,
+      "start" : 5.340000,
+      "word" : "van"
+    }, {
+      "conf" : 0.425606,
+      "end" : 5.664189,
+      "start" : 5.580000,
+      "word" : "a"
+    }, {
+      "conf" : 0.380091,
+      "end" : 5.970000,
+      "start" : 5.664189,
+      "word" : "quera"
+    }],
+  "text" : "la capital de l'estat és la ciutat de boxa que la quaresma originalment anomenada no van a quera"
+}

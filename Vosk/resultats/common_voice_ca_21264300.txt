@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.360000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.630000,
+      "word" : "batalla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.110000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.230000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.440000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.620000,
+      "word" : "victòria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.250000,
+      "word" : "quasi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.760000,
+      "word" : "decisiva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.450000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.660000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.870000,
+      "word" : "tropes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.230000,
+      "word" : "britàniques"
+    }],
+  "text" : "la batalla va ser una victòria quasi decisiva per les tropes britàniques"
+}

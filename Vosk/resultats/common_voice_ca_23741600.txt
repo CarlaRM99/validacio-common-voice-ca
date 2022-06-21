@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.360000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.690000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "guerra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.050000,
+      "word" : "civil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.380000,
+      "word" : "espanyola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.860000,
+      "word" : "abastar"
+    }, {
+      "conf" : 0.686825,
+      "end" : 2.640000,
+      "start" : 2.250000,
+      "word" : "l'escola"
+    }, {
+      "conf" : 0.855590,
+      "end" : 3.060000,
+      "start" : 2.640000,
+      "word" : "espanyola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.060000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.180000,
+      "word" : "roma"
+    }],
+  "text" : "durant la guerra civil espanyola abastar l'escola espanyola de roma"
+}

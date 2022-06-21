@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.330000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.570000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.660000,
+      "word" : "mínim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.996573,
+      "word" : "empúries"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.470000,
+      "word" : "haver"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.680000,
+      "word" : "deixat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 2.010000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.100000,
+      "word" : "galeta"
+    }],
+  "text" : "com a mínim empúries haver deixat la galeta"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.930000,
+      "word" : "ous"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.320000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.680000,
+      "word" : "sal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.040000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.250000,
+      "word" : "fan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "bé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.760000,
+      "word" : "ni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.940000,
+      "word" : "mal"
+    }],
+  "text" : "ous sense sal no fan bé ni mal"
+}

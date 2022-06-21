@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.360000,
+      "word" : "masia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.840000,
+      "word" : "formada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.500000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.590000,
+      "word" : "conjunt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.010000,
+      "word" : "construccions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.000000,
+      "word" : "formen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.330000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.480000,
+      "word" : "pati"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.750000,
+      "word" : "central"
+    }],
+  "text" : "masia formada per un conjunt de construccions que formen un pati central"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.600000,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.870000,
+      "word" : "veritat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.230000,
+      "word" : "projectiva"
+    }, {
+      "conf" : 0.610157,
+      "end" : 1.830000,
+      "start" : 1.770000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.830000,
+      "word" : "completa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.400000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.580000,
+      "word" : "recíproc"
+    }, {
+      "conf" : 0.590774,
+      "end" : 3.330000,
+      "start" : 3.240000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.346484,
+      "word" : "sempre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.660000,
+      "word" : "cert"
+    }],
+  "text" : "tota veritat projectiva és completa però recíproc no sempre cert"
+}

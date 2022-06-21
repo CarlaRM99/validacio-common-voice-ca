@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.780000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.260000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.440000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.710000,
+      "word" : "denominar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.280000,
+      "word" : "carena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.910000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.090000,
+      "word" : "volum"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.480000,
+      "word" : "submergit"
+    }],
+  "text" : "també es pot denominar carena al volum submergit"
+}

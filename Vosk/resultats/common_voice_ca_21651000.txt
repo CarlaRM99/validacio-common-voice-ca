@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.690000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.050000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.170000,
+      "word" : "disposava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.860000,
+      "word" : "bisos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.280000,
+      "word" : "infraroig"
+    }, {
+      "conf" : 0.816046,
+      "end" : 3.810000,
+      "start" : 3.630000,
+      "word" : "per"
+    }, {
+      "conf" : 0.816046,
+      "end" : 3.870000,
+      "start" : 3.810000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.875519,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.080000,
+      "word" : "conducció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.770000,
+      "word" : "nocturna"
+    }],
+  "text" : "també es disposava de bisos infraroig per a una conducció nocturna"
+}

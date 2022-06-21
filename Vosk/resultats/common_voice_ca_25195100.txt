@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.502301,
+      "end" : 1.140000,
+      "start" : 0.870000,
+      "word" : "e"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.170000,
+      "word" : "susan"
+    }, {
+      "conf" : 0.523359,
+      "end" : 2.160000,
+      "start" : 1.710000,
+      "word" : "llars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.190000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.370000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.490000,
+      "word" : "unir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.760000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.850000,
+      "word" : "ell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.180000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.330000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.510000,
+      "word" : "escrits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.900000,
+      "word" : "inicials"
+    }],
+  "text" : "e susan llars es va unir a ell en els escrits inicials"
+}

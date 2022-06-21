@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.420000,
+      "word" : "porta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.870000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.990000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.290000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.470000,
+      "word" : "riu"
+    }, {
+      "conf" : 0.345197,
+      "end" : 2.160000,
+      "start" : 1.740000,
+      "word" : "dai"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.310000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.490000,
+      "word" : "travessa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.970000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.060000,
+      "word" : "departament"
+    }],
+  "text" : "porta el nom del riu dai que travessa el departament"
+}

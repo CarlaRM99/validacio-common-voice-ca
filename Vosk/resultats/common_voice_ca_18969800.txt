@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.786907,
+      "end" : 1.950000,
+      "start" : 1.140000,
+      "word" : "fusió"
+    }, {
+      "conf" : 0.694032,
+      "end" : 2.665583,
+      "start" : 1.980000,
+      "word" : "subjecten"
+    }, {
+      "conf" : 0.677952,
+      "end" : 2.750078,
+      "start" : 2.665583,
+      "word" : "a"
+    }, {
+      "conf" : 0.820884,
+      "end" : 3.240000,
+      "start" : 2.760000,
+      "word" : "casona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.270000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.420000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.570000,
+      "word" : "finalitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.290000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.500000,
+      "word" : "garantir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.160000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.310000,
+      "word" : "seva"
+    }, {
+      "conf" : 0.687445,
+      "end" : 6.360000,
+      "start" : 5.700000,
+      "word" : "singularitat"
+    }, {
+      "conf" : 0.961399,
+      "end" : 6.630000,
+      "start" : 6.360000,
+      "word" : "dins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 6.630000,
+      "word" : "del"
+    }, {
+      "conf" : 0.695561,
+      "end" : 7.230000,
+      "start" : 6.810000,
+      "word" : "vehicle"
+    }],
+  "text" : "fusió subjecten a casona amb la finalitat de garantir la seva singularitat dins del vehicle"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.538155,
+      "end" : 1.440000,
+      "start" : 1.230000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.440000,
+      "word" : "cim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.394762,
+      "start" : 1.800000,
+      "word" : "mateix"
+    }, {
+      "conf" : 0.825417,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.490000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.580000,
+      "word" : "instal·lat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.210000,
+      "word" : "equips"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 3.720000,
+      "word" : "radiocomunicacions"
+    }],
+  "text" : "al cim mateix hi ha instal·lat equips de radiocomunicacions"
+}

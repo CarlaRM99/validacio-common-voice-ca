@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.480000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.260000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.350000,
+      "word" : "bisbal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.770000,
+      "word" : "d'empordà"
+    }],
+  "text" : "venim de la bisbal d'empordà"
+}

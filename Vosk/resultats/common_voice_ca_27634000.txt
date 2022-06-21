@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.840000,
+      "word" : "adolescents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.560000,
+      "word" : "fan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.950000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.220000,
+      "word" : "barbacoa"
+    }, {
+      "conf" : 0.626886,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.060000,
+      "word" : "parc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.450000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.570000,
+      "word" : "torren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.050000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.290000,
+      "word" : "mica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.620000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.710000,
+      "word" : "menjar"
+    }],
+  "text" : "els adolescents fan una barbacoa al parc i torren una mica de menjar"
+}

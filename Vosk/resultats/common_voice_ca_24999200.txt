@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.840000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.170000,
+      "word" : "flors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.590000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.770000,
+      "word" : "batejar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.340000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.550000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.640000,
+      "word" : "sobrenom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.300000,
+      "word" : "de"
+    }, {
+      "conf" : 0.543390,
+      "end" : 3.900000,
+      "start" : 3.690000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.900000,
+      "word" : "pequín"
+    }, {
+      "conf" : 0.713407,
+      "end" : 4.650000,
+      "start" : 4.290000,
+      "word" : "esos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.770000,
+      "word" : "l'oceà"
+    }],
+  "text" : "les flors es van batejar amb el sobrenom de els pequín esos de l'oceà"
+}

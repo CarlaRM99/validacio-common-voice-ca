@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.540000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.720000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 1.080000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.110000,
+      "word" : "bulgària"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.830000,
+      "word" : "turquia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.580000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.760000,
+      "word" : "probablement"
+    }, {
+      "conf" : 0.742646,
+      "end" : 3.930000,
+      "start" : 3.570000,
+      "word" : "l'eix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.937721,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.020000,
+      "word" : "grècia"
+    }],
+  "text" : "es troba a bulgària turquia i probablement l'eix de grècia"
+}

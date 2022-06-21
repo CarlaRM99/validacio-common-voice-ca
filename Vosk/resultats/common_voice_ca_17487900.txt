@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.930000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.080000,
+      "word" : "governs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.590000,
+      "word" : "moren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.950000,
+      "word" : "ordinària"
+    }, {
+      "conf" : 0.344766,
+      "end" : 3.360000,
+      "start" : 3.060000,
+      "word" : "perill"
+    }],
+  "text" : "els governs moren ordinària perill"
+}

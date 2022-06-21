@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.990000,
+      "word" : "crítics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.620000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.800000,
+      "word" : "atacar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.310000,
+      "word" : "campanya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.000000,
+      "word" : "per"
+    }, {
+      "conf" : 0.779209,
+      "end" : 3.420000,
+      "start" : 3.240000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.420000,
+      "word" : "discriminatòria"
+    }],
+  "text" : "els crítics van atacar la campanya per ser discriminatòria"
+}

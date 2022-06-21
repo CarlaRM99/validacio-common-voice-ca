@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.870000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.050000,
+      "word" : "castell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.590000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.770000,
+      "word" : "llavors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.160000,
+      "word" : "refet"
+    }, {
+      "conf" : 0.603297,
+      "end" : 3.090000,
+      "start" : 2.670000,
+      "word" : "prenent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.090000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.180000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.870000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.050000,
+      "word" : "veiem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.440000,
+      "word" : "avui"
+    }],
+  "text" : "el castell va ser llavors refet prenent la forma que veiem avui"
+}

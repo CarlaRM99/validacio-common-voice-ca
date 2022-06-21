@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.508101,
+      "end" : 1.410000,
+      "start" : 0.900000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.410000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.560000,
+      "word" : "nadal"
+    }],
+  "text" : "venim de nadal"
+}

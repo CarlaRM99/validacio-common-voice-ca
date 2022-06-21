@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.750000,
+      "word" : "s'incorporà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.807763,
+      "start" : 1.590000,
+      "word" : "com"
+    }, {
+      "conf" : 0.528020,
+      "end" : 1.890000,
+      "start" : 1.807763,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 1.890000,
+      "word" : "contrabaixista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 3.000000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.090000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.210000,
+      "word" : "principal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.750000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.870000,
+      "word" : "l'escala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.860000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.130000,
+      "word" : "son"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.400000,
+      "word" : "pare"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.820000,
+      "word" : "la"
+    }, {
+      "conf" : 0.786083,
+      "end" : 6.420000,
+      "start" : 6.000000,
+      "word" : "fundar"
+    }],
+  "text" : "s'incorporà com a contrabaixista a la principal de l'escala quan son pare la fundar"
+}

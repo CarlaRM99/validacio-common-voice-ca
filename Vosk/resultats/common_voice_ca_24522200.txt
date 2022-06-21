@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.900000,
+      "word" : "línies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.440000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.620000,
+      "word" : "codi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.010000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.340000,
+      "word" : "presentades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.120000,
+      "word" : "numerades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.780000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.870000,
+      "word" : "permet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.320000,
+      "word" : "cercar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.950000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.040000,
+      "word" : "reemplaçar"
+    }],
+  "text" : "les línies del codi són presentades numerades i permet cercar i reemplaçar"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.540000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.140000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.350000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.530000,
+      "word" : "lavabo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.160000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.520000,
+      "word" : "mirall"
+    }],
+  "text" : "si hi ha un lavabo amb un mirall"
+}

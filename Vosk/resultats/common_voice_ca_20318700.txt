@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.450000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.660000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.930000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.170000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.260000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.410000,
+      "word" : "zones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.800000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.010000,
+      "word" : "aïllades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.640000,
+      "word" : "namíbia"
+    }],
+  "text" : "es troba en una de les zones més aïllades de namíbia"
+}

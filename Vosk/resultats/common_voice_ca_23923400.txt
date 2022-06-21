@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.907460,
+      "end" : 0.834693,
+      "start" : 0.720000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.834693,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.960000,
+      "word" : "museu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.410000,
+      "word" : "tèxtil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.980000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.100000,
+      "word" : "d'indumentària"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.060000,
+      "word" : "barcelona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.140000,
+      "word" : "se'n"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.440000,
+      "word" : "conserven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.100000,
+      "word" : "diverses"
+    }],
+  "text" : "en el museu tèxtil i d'indumentària de barcelona se'n conserven diverses"
+}

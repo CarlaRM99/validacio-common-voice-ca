@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.804412,
+      "end" : 1.110000,
+      "start" : 0.690000,
+      "word" : "formar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.110000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.530000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.650000,
+      "word" : "muntanyes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.370000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.670000,
+      "word" : "bus"
+    }],
+  "text" : "formar part de les muntanyes del bus"
+}

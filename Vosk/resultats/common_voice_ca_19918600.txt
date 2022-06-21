@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.781412,
+      "end" : 0.900000,
+      "start" : 0.720000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.913115,
+      "word" : "acord"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.470000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.620000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.770000,
+      "word" : "s'accedeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.520000,
+      "word" : "mitjançant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.150000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.330000,
+      "word" : "escala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.810000,
+      "word" : "caragol"
+    }],
+  "text" : "i acord al que s'accedeix mitjançant una escala de caragol"
+}

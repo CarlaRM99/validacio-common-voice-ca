@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.570000,
+      "word" : "personalitats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.380000,
+      "word" : "vulnerables"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.070000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.160000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.250000,
+      "word" : "moguin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.610000,
+      "word" : "sempre"
+    }, {
+      "conf" : 0.596791,
+      "end" : 3.090000,
+      "start" : 3.000000,
+      "word" : "al"
+    }, {
+      "conf" : 0.865845,
+      "end" : 3.300000,
+      "start" : 3.090000,
+      "word" : "so"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.304025,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.420000,
+      "word" : "marqui"
+    }, {
+      "conf" : 0.788369,
+      "end" : 3.840000,
+      "start" : 3.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.840000,
+      "word" : "mercat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.440000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.560000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.710000,
+      "word" : "publicitat"
+    }],
+  "text" : "personalitats vulnerables que es moguin sempre al so que marqui el mercat i la publicitat"
+}

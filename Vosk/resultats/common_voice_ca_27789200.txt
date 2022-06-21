@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.480000,
+      "word" : "totes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.870000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.050000,
+      "word" : "monedes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.998239,
+      "start" : 1.590000,
+      "word" : "tenen"
+    }, {
+      "conf" : 0.607961,
+      "end" : 2.820000,
+      "start" : 2.010000,
+      "word" : "inscripcions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.820000,
+      "word" : "idèntiques"
+    }, {
+      "conf" : 0.814950,
+      "end" : 3.810000,
+      "start" : 3.630000,
+      "word" : "en"
+    }, {
+      "conf" : 0.814950,
+      "end" : 4.380000,
+      "start" : 3.810000,
+      "word" : "serbi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.500000,
+      "word" : "usant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.010000,
+      "word" : "l'alfabet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.640000,
+      "word" : "ciríl·lic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.330000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.450000,
+      "word" : "l'alfabet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.560000,
+      "start" : 7.080000,
+      "word" : "llatí"
+    }],
+  "text" : "totes les monedes tenen inscripcions idèntiques en serbi usant l'alfabet ciríl·lic i l'alfabet llatí"
+}

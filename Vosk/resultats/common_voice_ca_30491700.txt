@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "acabar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.500000,
+      "word" : "estudis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.400000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.550000,
+      "word" : "dedicar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.970000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.030000,
+      "word" : "viatjar"
+    }],
+  "text" : "quan va acabar els estudis es va dedicar a viatjar"
+}

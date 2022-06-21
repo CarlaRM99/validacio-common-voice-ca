@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.110000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.770000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.980000,
+      "word" : "edificis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.640000,
+      "word" : "l'església"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.150000,
+      "word" : "oficial"
+    }, {
+      "conf" : 0.882144,
+      "end" : 3.958661,
+      "start" : 3.720000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.958661,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.350000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.470000,
+      "word" : "diners"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.800000,
+      "word" : "fiscals"
+    }],
+  "text" : "només els edificis de l'església oficial van rebre els diners fiscals"
+}

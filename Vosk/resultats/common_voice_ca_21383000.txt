@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.720000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.050000,
+      "word" : "fonts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.470000,
+      "word" : "georgianes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.520000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.700000,
+      "word" : "fan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.090000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.240000,
+      "word" : "responsable"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.110000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.230000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.320000,
+      "word" : "conversió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.010000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.190000,
+      "word" : "país"
+    }, {
+      "conf" : 0.540786,
+      "end" : 5.880000,
+      "start" : 5.700000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 5.880000,
+      "word" : "cristianisme"
+    }],
+  "text" : "les fonts georgianes el fan el responsable de la conversió del país al cristianisme"
+}

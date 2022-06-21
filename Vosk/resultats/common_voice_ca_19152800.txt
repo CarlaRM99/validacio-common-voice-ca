@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.960000,
+      "word" : "pulmonia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.890000,
+      "word" : "mal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.160000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.280000,
+      "word" : "costat"
+    }, {
+      "conf" : 0.998369,
+      "end" : 3.480000,
+      "start" : 3.270000,
+      "word" : "tant"
+    }, {
+      "conf" : 0.999999,
+      "end" : 3.600000,
+      "start" : 3.480000,
+      "word" : "el"
+    }, {
+      "conf" : 0.989097,
+      "end" : 3.840000,
+      "start" : 3.600000,
+      "word" : "cul"
+    }, {
+      "conf" : 0.989097,
+      "end" : 4.320000,
+      "start" : 3.840000,
+      "word" : "tapat"
+    }],
+  "text" : "per la pulmonia i mal de costat tant el cul tapat"
+}

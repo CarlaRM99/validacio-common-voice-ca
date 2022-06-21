@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "els"
+    }, {
+      "conf" : 0.793968,
+      "end" : 1.230000,
+      "start" : 0.990000,
+      "word" : "ossos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.230000,
+      "word" : "nasals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.950000,
+      "word" : "sobresurten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.730000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.820000,
+      "word" : "resta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.090000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.180000,
+      "word" : "la"
+    }, {
+      "conf" : 0.999991,
+      "end" : 3.599998,
+      "start" : 3.270000,
+      "word" : "cara"
+    }],
+  "text" : "els ossos nasals sobresurten de la resta de la cara"
+}

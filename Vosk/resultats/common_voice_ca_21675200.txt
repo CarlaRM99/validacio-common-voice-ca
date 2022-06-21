@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.690000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.990000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "del"
+    }, {
+      "conf" : 0.706094,
+      "end" : 2.070000,
+      "start" : 1.500000,
+      "word" : "darrere"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.340000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.520000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.640000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.850000,
+      "word" : "dipòsit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.450000,
+      "word" : "d'obra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.810000,
+      "word" : "vista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.200000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.260000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.380000,
+      "word" : "base"
+    }],
+  "text" : "a la part del darrere hi ha un dipòsit d'obra vista a la base"
+}

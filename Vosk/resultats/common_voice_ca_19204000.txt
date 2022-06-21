@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.810000,
+      "word" : "tranquil·litat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.770000,
+      "word" : "bons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.980000,
+      "word" : "aliments"
+    }],
+  "text" : "tranquil·litat i bons aliments"
+}

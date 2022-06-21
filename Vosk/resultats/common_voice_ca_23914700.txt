@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.270000,
+      "word" : "l'artista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.990000,
+      "word" : "lluís"
+    }, {
+      "conf" : 0.973786,
+      "end" : 1.650000,
+      "start" : 1.560000,
+      "word" : "a"
+    }, {
+      "conf" : 0.659446,
+      "end" : 1.800000,
+      "start" : 1.650000,
+      "word" : "mà"
+    }, {
+      "conf" : 0.659446,
+      "end" : 2.100000,
+      "start" : 1.800000,
+      "word" : "d"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.280000,
+      "word" : "n'és"
+    }, {
+      "conf" : 0.875678,
+      "end" : 2.668774,
+      "start" : 2.580000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.668774,
+      "word" : "responsable"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.390000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.480000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.600000,
+      "word" : "darrera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.990000,
+      "word" : "reforma"
+    }],
+  "text" : "l'artista lluís a mà d n'és el responsable de la darrera reforma"
+}

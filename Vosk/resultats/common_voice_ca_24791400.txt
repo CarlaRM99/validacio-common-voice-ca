@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.690000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.900000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.230000,
+      "word" : "columna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.950000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.130000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.280000,
+      "word" : "vendre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.730000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.120000,
+      "word" : "diaris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.600000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.780000,
+      "word" : "país"
+    }],
+  "text" : "la seva columna es va vendre altres diaris del país"
+}

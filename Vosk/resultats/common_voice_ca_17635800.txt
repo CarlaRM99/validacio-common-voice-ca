@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.690000,
+      "word" : "mongetes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.650000,
+      "word" : "sempre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.190000,
+      "word" : "eren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.430000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.580000,
+      "word" : "ganxet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.570000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.690000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.840000,
+      "word" : "mongets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.680000,
+      "word" : "havien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.250000,
+      "word" : "ser"
+    }, {
+      "conf" : 0.893339,
+      "end" : 5.880000,
+      "start" : 5.670000,
+      "word" : "del"
+    }, {
+      "conf" : 0.893339,
+      "end" : 6.060000,
+      "start" : 5.880000,
+      "word" : "món"
+    }, {
+      "conf" : 0.893339,
+      "end" : 6.630000,
+      "start" : 6.060000,
+      "word" : "ros"
+    }],
+  "text" : "les mongetes sempre eren del ganxet i els mongets havien de ser del món ros"
+}

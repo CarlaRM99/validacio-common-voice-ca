@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.300000,
+      "word" : "ensems"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.112332,
+      "start" : 0.900000,
+      "word" : "fou"
+    }, {
+      "conf" : 0.636061,
+      "end" : 1.167740,
+      "start" : 1.112332,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.167740,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.380000,
+      "word" : "teòleg"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.267837,
+      "start" : 1.830000,
+      "word" : "filòleg"
+    }, {
+      "conf" : 0.594579,
+      "end" : 2.371417,
+      "start" : 2.280000,
+      "word" : "i"
+    }, {
+      "conf" : 0.760639,
+      "end" : 3.030000,
+      "start" : 2.460000,
+      "word" : "sageta"
+    }],
+  "text" : "ensems fou un gran teòleg filòleg i sageta"
+}

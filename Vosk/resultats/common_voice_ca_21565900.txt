@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.990000,
+      "word" : "ciutat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.380000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.500000,
+      "word" : "viena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.070000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.250000,
+      "word" : "estava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.610000,
+      "word" : "llesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.180000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.390000,
+      "word" : "sostenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.960000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.110000,
+      "word" : "setge"
+    }],
+  "text" : "la ciutat de viena no estava llesta per sostenir un setge"
+}

@@ -1,0 +1,109 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.840000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.020000,
+      "word" : "conflictes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.680000,
+      "word" : "socials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.190000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.400000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.640000,
+      "word" : "enllà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.090000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.240000,
+      "word" : "dicotomies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.050000,
+      "word" : "incorporades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.040000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.160000,
+      "word" : "mà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.310000,
+      "word" : "d'obra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.670000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.700000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 5.880000,
+      "word" : "capital"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 6.660000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.530000,
+      "start" : 6.810000,
+      "word" : "inclouen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.920000,
+      "start" : 7.560000,
+      "word" : "grups"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.820000,
+      "start" : 7.920000,
+      "word" : "innombrables"
+    }],
+  "text" : "els conflictes socials van més enllà de les dicotomies incorporades de la mà d'obra i del capital i inclouen grups innombrables"
+}

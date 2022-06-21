@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.810000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.930000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.020000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.290000,
+      "word" : "creació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.920000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.070000,
+      "word" : "fundació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.700000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.790000,
+      "word" : "rebut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.150000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.540000,
+      "word" : "cinc-centes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.110000,
+      "word" : "contribucions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.770000,
+      "word" : "econòmiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.340000,
+      "word" : "d'empreses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.940000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.000000,
+      "word" : "particulars"
+    }],
+  "text" : "des de la seva creació la fundació ha rebut més de cinc-centes contribucions econòmiques d'empreses i particulars"
+}

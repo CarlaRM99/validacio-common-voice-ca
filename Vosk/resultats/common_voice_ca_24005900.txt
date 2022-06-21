@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.267330,
+      "start" : 1.080000,
+      "word" : "una"
+    }, {
+      "conf" : 0.581390,
+      "end" : 1.530000,
+      "start" : 1.267330,
+      "word" : "etapa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.530000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.201711,
+      "start" : 1.650000,
+      "word" : "cautxú"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.250000,
+      "word" : "cobria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.670000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.000000,
+      "word" : "coll"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.270000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.360000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.450000,
+      "word" : "coberta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.380000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.500000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.650000,
+      "word" : "fonia"
+    }],
+  "text" : "una etapa de cautxú cobria tot el coll de la coberta i es fonia"
+}

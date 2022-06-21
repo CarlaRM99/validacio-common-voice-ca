@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.450000,
+      "word" : "un"
+    }, {
+      "conf" : 0.863886,
+      "end" : 1.260000,
+      "start" : 0.660000,
+      "word" : "biògraf"
+    }, {
+      "conf" : 0.863886,
+      "end" : 1.470000,
+      "start" : 1.290000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.470000,
+      "word" : "descriu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.010000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.280000,
+      "word" : "dur"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.580000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.760000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.000000,
+      "word" : "roca"
+    }],
+  "text" : "un biògraf pel descriu més dur que una roca"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "és"
+    }, {
+      "conf" : 0.780459,
+      "end" : 1.560000,
+      "start" : 1.050000,
+      "word" : "notable"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.590000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.770000,
+      "word" : "guanyés"
+    }, {
+      "conf" : 0.698519,
+      "end" : 2.490000,
+      "start" : 2.190000,
+      "word" : "quedar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.499044,
+      "word" : "globus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.940000,
+      "word" : "d'or"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.360000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.630000,
+      "word" : "vegada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.140000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.290000,
+      "word" : "n'era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.650000,
+      "word" : "nominada"
+    }],
+  "text" : "és notable que guanyés quedar globus d'or cada vegada que n'era nominada"
+}

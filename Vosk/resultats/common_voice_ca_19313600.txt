@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.900000,
+      "word" : "inclús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.620000,
+      "word" : "podrà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 1.950000,
+      "word" : "imitar-los"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.180000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.300000,
+      "word" : "reformular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.020000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.410000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.590000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.740000,
+      "word" : "termes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.160000,
+      "word" : "fixats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.790000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 6.000000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.150000,
+      "word" : "mesa"
+    }],
+  "text" : "inclús podrà imitar-los a reformular les en els termes fixats per la mesa"
+}

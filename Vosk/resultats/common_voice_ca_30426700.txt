@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.750000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.140000,
+      "word" : "mesures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.710000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.890000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.040000,
+      "word" : "prorroguen"
+    }, {
+      "conf" : 0.513593,
+      "end" : 3.300000,
+      "start" : 2.850000,
+      "word" : "afecta"
+    }, {
+      "conf" : 0.746666,
+      "end" : 3.480000,
+      "start" : 3.330000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.480000,
+      "word" : "funcionaris"
+    }],
+  "text" : "les mesures que es prorroguen afecta als funcionaris"
+}

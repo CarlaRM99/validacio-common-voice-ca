@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.240000,
+      "word" : "governaran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.050000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.350000,
+      "word" : "ciutat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.770000,
+      "word" : "marroquina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.280000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.550000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.730000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.790000,
+      "word" : "temps"
+    }],
+  "text" : "governaran a aquesta ciutat marroquina durant molt de temps"
+}

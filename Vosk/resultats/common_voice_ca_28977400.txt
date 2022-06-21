@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.647736,
+      "end" : 1.440000,
+      "start" : 1.200000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.440000,
+      "word" : "qui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.620000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.920000,
+      "word" : "reunir"
+    }, {
+      "conf" : 0.807200,
+      "end" : 3.180000,
+      "start" : 2.790000,
+      "word" : "ahir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.270000,
+      "word" : "pedro"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.540000,
+      "word" : "sánchez"
+    }],
+  "text" : "amb qui es va reunir ahir pedro sánchez"
+}

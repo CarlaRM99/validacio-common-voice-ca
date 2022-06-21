@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.630000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.140000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.290000,
+      "word" : "dedicà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.920000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.010000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.190000,
+      "word" : "classes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.640000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.730000,
+      "word" : "teatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.330000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.450000,
+      "word" : "infants"
+    }],
+  "text" : "també es dedicà a fer classes de teatre a infants"
+}

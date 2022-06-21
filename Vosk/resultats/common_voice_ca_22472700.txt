@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.810000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.020000,
+      "word" : "incendi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.560000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.710000,
+      "word" : "destruir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.190000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.400000,
+      "word" : "còpies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.940000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.030000,
+      "word" : "cinta"
+    }],
+  "text" : "un incendi va destruir les còpies de la cinta"
+}

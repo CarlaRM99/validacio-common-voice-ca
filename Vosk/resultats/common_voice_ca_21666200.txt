@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.110000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.320000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.650000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.860000,
+      "word" : "gener"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.310000,
+      "word" : "març"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.910000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.450000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.750000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 3.900000,
+      "word" : "inundacions"
+    }],
+  "text" : "té lloc del gener al març i també durant les inundacions"
+}

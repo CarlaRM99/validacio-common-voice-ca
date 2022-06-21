@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.660000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.020000,
+      "word" : "unitats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.500000,
+      "word" : "individuals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.400000,
+      "word" : "coneixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.880000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.120000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.360000,
+      "word" : "contingents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.410000,
+      "word" : "cadets"
+    }],
+  "text" : "les unitats individuals es coneixen com a contingents de cadets"
+}

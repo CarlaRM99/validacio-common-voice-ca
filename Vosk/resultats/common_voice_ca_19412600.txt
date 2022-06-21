@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.567253,
+      "end" : 1.080000,
+      "start" : 0.720000,
+      "word" : "iran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.110000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.320000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.530000,
+      "word" : "dret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.890000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.980000,
+      "word" : "usar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.250000,
+      "word" : "l'energia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660994,
+      "start" : 3.000000,
+      "word" : "atòmica"
+    }, {
+      "conf" : 0.456771,
+      "end" : 3.750000,
+      "start" : 3.660994,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.750000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.200000,
+      "word" : "civils"
+    }],
+  "text" : "iran no té dret a usar l'energia atòmica amb fins civils"
+}

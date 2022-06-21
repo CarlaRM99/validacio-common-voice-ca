@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.630000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.780000,
+      "word" : "continuació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.530000,
+      "word" : "estudiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.070000,
+      "word" : "informalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.970000,
+      "word" : "geografia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.720000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.810000,
+      "word" : "astronomia"
+    }],
+  "text" : "a continuació estudiar informalment geografia i astronomia"
+}

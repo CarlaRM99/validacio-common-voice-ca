@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.801786,
+      "end" : 0.930000,
+      "start" : 0.660000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.195145,
+      "start" : 0.930000,
+      "word" : "vol"
+    }, {
+      "conf" : 0.709538,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "gata"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.530000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.770000,
+      "word" : "fills"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.130000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.280000,
+      "word" : "se'ls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.520000,
+      "word" : "menja"
+    }],
+  "text" : "tant vol gata seus fills que se'ls menja"
+}

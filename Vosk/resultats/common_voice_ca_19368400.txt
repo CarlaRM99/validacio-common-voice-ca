@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.420000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.720000,
+      "word" : "impostes"
+    }, {
+      "conf" : 0.820214,
+      "end" : 2.040000,
+      "start" : 1.710000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.040000,
+      "word" : "ornades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.730000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.910000,
+      "word" : "motius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.300000,
+      "word" : "decoratius"
+    }],
+  "text" : "les impostes són ornades amb motius decoratius"
+}

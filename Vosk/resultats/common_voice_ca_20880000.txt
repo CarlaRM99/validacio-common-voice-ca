@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.660000,
+      "word" : "anteriorment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.650000,
+      "word" : "havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.920000,
+      "word" : "treballat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.940000,
+      "word" : "institut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.540000,
+      "word" : "recerca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.320000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.440000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.530000,
+      "word" : "universitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.160000,
+      "word" : "estatal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.700000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.820000,
+      "word" : "moscou"
+    }],
+  "text" : "anteriorment havia treballat en un institut de recerca a la universitat estatal de moscou"
+}

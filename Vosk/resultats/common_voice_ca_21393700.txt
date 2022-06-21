@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.650739,
+      "end" : 1.680000,
+      "start" : 1.020000,
+      "word" : "l'envolta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.680000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.770000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.040000,
+      "word" : "jardí"
+    }],
+  "text" : "l'envolta un gran jardí"
+}

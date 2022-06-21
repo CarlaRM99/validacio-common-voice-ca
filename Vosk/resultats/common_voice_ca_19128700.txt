@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.870000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.200000,
+      "word" : "últim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.500000,
+      "word" : "cas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.830000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 1.950000,
+      "word" : "celebració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.700000,
+      "word" : "d'aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.120000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.270000,
+      "word" : "podrà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.540000,
+      "word" : "demorar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.170000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.320000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.500000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.620000,
+      "word" : "deu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.830000,
+      "word" : "dies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.100000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.250000,
+      "word" : "que"
+    }, {
+      "conf" : 0.506792,
+      "end" : 5.640000,
+      "start" : 5.370000,
+      "word" : "fóra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.640000,
+      "word" : "sol·licitada"
+    }],
+  "text" : "en aquest últim cas la celebració d'aquesta no podrà demorar-se per més de deu dies des que fóra sol·licitada"
+}

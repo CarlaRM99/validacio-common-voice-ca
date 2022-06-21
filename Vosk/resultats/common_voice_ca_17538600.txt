@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.230000,
+      "word" : "imaginem-nos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.040000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.340000,
+      "word" : "pretenem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.000000,
+      "word" : "poder"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.360000,
+      "word" : "votar"
+    }, {
+      "conf" : 0.500361,
+      "end" : 3.960000,
+      "start" : 3.750000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.960000,
+      "word" : "nostres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.029331,
+      "start" : 4.380000,
+      "word" : "ajuntaments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.070000,
+      "word" : "juntes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.670000,
+      "word" : "districte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.330000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.450000,
+      "word" : "horari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.780000,
+      "word" : "d'oficina"
+    }],
+  "text" : "imaginem-nos que només pretenem poder votar els nostres ajuntaments juntes de districte en horari d'oficina"
+}

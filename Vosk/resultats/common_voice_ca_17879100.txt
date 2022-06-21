@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.672228,
+      "end" : 1.140000,
+      "start" : 0.660000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.140000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.350000,
+      "word" : "far"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.650000,
+      "word" : "d'empordà"
+    }],
+  "text" : "venim del far d'empordà"
+}

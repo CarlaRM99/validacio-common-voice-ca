@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.540000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.630000,
+      "word" : "finals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.990000,
+      "word" : "d'any"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.440000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.620000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.770000,
+      "word" : "unir"
+    }, {
+      "conf" : 0.501661,
+      "end" : 2.340000,
+      "start" : 2.160000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.340000,
+      "word" : "partit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.850000,
+      "word" : "comunista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.810000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.900000,
+      "word" : "xina"
+    }],
+  "text" : "a finals d'any es va unir al partit comunista de la xina"
+}

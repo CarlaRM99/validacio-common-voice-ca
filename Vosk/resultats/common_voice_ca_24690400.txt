@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.870000,
+      "word" : "acord"
+    }, {
+      "conf" : 0.909676,
+      "end" : 1.890000,
+      "start" : 1.260000,
+      "word" : "especial"
+    }, {
+      "conf" : 0.681349,
+      "end" : 2.065023,
+      "start" : 1.890000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.487732,
+      "end" : 2.490000,
+      "start" : 2.070000,
+      "word" : "japó"
+    }],
+  "text" : "un acord especial amb japó"
+}

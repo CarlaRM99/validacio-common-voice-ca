@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.380516,
+      "end" : 0.930000,
+      "start" : 0.660000,
+      "word" : "i"
+    }, {
+      "conf" : 0.722946,
+      "end" : 2.010000,
+      "start" : 0.960000,
+      "word" : "s'enfrontà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.340000,
+      "word" : "dona"
+    }],
+  "text" : "i s'enfrontà a la dona"
+}

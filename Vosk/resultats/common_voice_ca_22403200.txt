@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.900000,
+      "word" : "musell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.470000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.710000,
+      "word" : "puntegut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.580000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.850000,
+      "word" : "ulls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.090000,
+      "word" : "grans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.720000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 3.930000,
+      "word" : "vibrisses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.650000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 4.950000,
+      "word" : "llargues"
+    }],
+  "text" : "el musell és puntegut els ulls grans i les vibrisses molt llargues"
+}

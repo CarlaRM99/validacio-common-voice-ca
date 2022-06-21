@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.735413,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "es"
+    }, {
+      "conf" : 0.735413,
+      "end" : 2.490000,
+      "start" : 1.980000,
+      "word" : "precisa"
+    }, {
+      "conf" : 0.735413,
+      "end" : 2.730000,
+      "start" : 2.490000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.940000,
+      "word" : "causa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.360000,
+      "word" : "d'aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.810000,
+      "word" : "declaració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.920000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.070000,
+      "word" : "fra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.310000,
+      "word" : "bernat"
+    }, {
+      "conf" : 0.702711,
+      "end" : 6.450000,
+      "start" : 5.970425,
+      "word" : "reconeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.458919,
+      "word" : "l'àngel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.840000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 7.050000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.440000,
+      "start" : 7.140000,
+      "word" : "tal"
+    }],
+  "text" : "es precisa molt a causa d'aquesta declaració que fra bernat reconeix l'àngel com a tal"
+}

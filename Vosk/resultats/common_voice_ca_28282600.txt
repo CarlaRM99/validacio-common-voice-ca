@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.601908,
+      "start" : 0.300000,
+      "word" : "no"
+    }, {
+      "conf" : 0.605821,
+      "end" : 0.659408,
+      "start" : 0.601908,
+      "word" : "ho"
+    }, {
+      "conf" : 0.562527,
+      "end" : 1.310512,
+      "start" : 0.659408,
+      "word" : "intentàvem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.310512,
+      "word" : "guanyar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.560000,
+      "word" : "punts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.010000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.400000,
+      "word" : "punt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.610000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.700000,
+      "word" : "vista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.940000,
+      "word" : "polític"
+    }],
+  "text" : "no ho intentàvem guanyar punts des del punt de vista polític"
+}

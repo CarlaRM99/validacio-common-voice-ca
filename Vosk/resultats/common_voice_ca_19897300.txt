@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.660000,
+      "word" : "l'última"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.170000,
+      "word" : "temporada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.220000,
+      "word" : "actiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.670000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.820000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.060000,
+      "word" : "llicència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.630000,
+      "word" : "espanyola"
+    }],
+  "text" : "l'última temporada en actiu va tenir llicència espanyola"
+}

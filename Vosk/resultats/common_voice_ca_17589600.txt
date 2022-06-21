@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.890000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.130000,
+      "word" : "quota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.460000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.580000,
+      "word" : "transport"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.300000,
+      "word" : "inclou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.080000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.290000,
+      "word" : "quilometratge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 5.010000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.070000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.190000,
+      "word" : "preu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.580000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.730000,
+      "word" : "hores"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.030000,
+      "word" : "treball"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.420000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.080000,
+      "start" : 6.600000,
+      "word" : "personal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.200000,
+      "start" : 7.080000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.890000,
+      "start" : 7.200000,
+      "word" : "l'ortopèdia"
+    }],
+  "text" : "la quota del transport inclou el quilometratge i el preu de les hores de treball del personal de l'ortopèdia"
+}

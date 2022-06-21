@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.498927,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "pa"
+    }, {
+      "conf" : 0.809357,
+      "end" : 1.050000,
+      "start" : 0.923013,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.080000,
+      "word" : "plata"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.500000,
+      "word" : "ni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.650000,
+      "word" : "panses"
+    }],
+  "text" : "pa de plata ni panses"
+}

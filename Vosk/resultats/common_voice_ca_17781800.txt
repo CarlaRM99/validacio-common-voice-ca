@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.534994,
+      "end" : 0.870000,
+      "start" : 0.510000,
+      "word" : "marín"
+    }, {
+      "conf" : 0.767953,
+      "end" : 0.960000,
+      "start" : 0.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.960000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.170000,
+      "word" : "martí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.530000,
+      "word" : "vell"
+    }],
+  "text" : "marín de sant martí vell"
+}

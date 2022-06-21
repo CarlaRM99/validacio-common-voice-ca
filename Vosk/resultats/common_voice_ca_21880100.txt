@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.480000,
+      "word" : "ell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.780000,
+      "word" : "intenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.260000,
+      "word" : "seguir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.560000,
+      "word" : "operant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.400000,
+      "word" : "sola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.760000,
+      "word" : "mà"
+    }],
+  "text" : "ell intenta seguir operant amb una sola mà"
+}

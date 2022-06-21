@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.540000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.690000,
+      "word" : "territori"
+    }, {
+      "conf" : 0.820879,
+      "end" : 1.465808,
+      "start" : 1.380000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.465808,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.710000,
+      "word" : "influït"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.130000,
+      "word" : "pels"
+    }, {
+      "conf" : 0.854299,
+      "end" : 2.610000,
+      "start" : 2.340000,
+      "word" : "black"
+    }, {
+      "conf" : 0.541699,
+      "end" : 3.000000,
+      "start" : 2.610000,
+      "word" : "food"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.270000,
+      "word" : "i"
+    }, {
+      "conf" : 0.842758,
+      "end" : 4.050000,
+      "start" : 3.390000,
+      "word" : "alçar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.170000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.320000,
+      "word" : "els"
+    }, {
+      "conf" : 0.265161,
+      "end" : 4.890000,
+      "start" : 4.500000,
+      "word" : "qui"
+    }],
+  "text" : "el territori ha estat influït pels black food i alçar-se i els qui"
+}

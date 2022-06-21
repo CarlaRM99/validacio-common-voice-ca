@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.630000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.200000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.740000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.490000,
+      "word" : "súper"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.970000,
+      "word" : "marines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.540000,
+      "word" : "pit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.780000,
+      "word" : "falles"
+    }],
+  "text" : "també va tenir diversos súper marines pit falles"
+}

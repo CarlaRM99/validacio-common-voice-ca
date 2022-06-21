@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.540000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.720000,
+      "word" : "referències"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.320000,
+      "word" : "posteriors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.100000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.160000,
+      "word" : "càrrec"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.610000,
+      "word" : "l'àngel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.540000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.810000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.930000,
+      "word" : "que"
+    }, {
+      "conf" : 0.791270,
+      "end" : 4.470000,
+      "start" : 4.080000,
+      "word" : "donaran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.530000,
+      "word" : "cos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.830000,
+      "word" : "finalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.370000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.460000,
+      "word" : "tema"
+    }],
+  "text" : "les referències posteriors a càrrec de l'àngel són les que donaran cos finalment el tema"
+}

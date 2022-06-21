@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.464094,
+      "end" : 0.630000,
+      "start" : 0.450000,
+      "word" : "qui"
+    }, {
+      "conf" : 0.464094,
+      "end" : 0.920291,
+      "start" : 0.630000,
+      "word" : "neix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.920291,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.020000,
+      "word" : "focus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.530000,
+      "word" : "d'afectats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.250000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.520000,
+      "word" : "destacat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.180000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.270000,
+      "word" : "espanya"
+    }],
+  "text" : "qui neix el focus d'afectats més destacat a espanya"
+}

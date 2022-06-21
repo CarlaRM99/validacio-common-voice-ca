@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.660000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.750000,
+      "word" : "continuació"
+    }, {
+      "conf" : 0.809422,
+      "end" : 1.798754,
+      "start" : 1.530000,
+      "word" : "caldrà"
+    }, {
+      "conf" : 0.564654,
+      "end" : 2.490614,
+      "start" : 1.798754,
+      "word" : "especificar-ho"
+    }, {
+      "conf" : 0.748314,
+      "end" : 3.023744,
+      "start" : 2.490614,
+      "word" : "viatjaria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.030000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.120000,
+      "word" : "persona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.540000,
+      "word" : "interessada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.230000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.290000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.830000,
+      "word" : "quant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.130000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.250000,
+      "word" : "temps"
+    }],
+  "text" : "a continuació caldrà especificar-ho viatjaria la persona interessada i durant quant de temps"
+}

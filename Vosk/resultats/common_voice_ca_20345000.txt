@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.674779,
+      "end" : 0.900000,
+      "start" : 0.540000,
+      "word" : "au"
+    }, {
+      "conf" : 0.343874,
+      "end" : 1.260000,
+      "start" : 0.930000,
+      "word" : "fer"
+    }, {
+      "conf" : 0.924253,
+      "end" : 1.563410,
+      "start" : 1.320000,
+      "word" : "més"
+    }, {
+      "conf" : 0.438277,
+      "end" : 1.697189,
+      "start" : 1.590760,
+      "word" : "en"
+    }, {
+      "conf" : 0.812842,
+      "end" : 1.890000,
+      "start" : 1.710000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.950000,
+      "word" : "cambra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.250000,
+      "word" : "de"
+    }, {
+      "conf" : 0.808502,
+      "end" : 3.060000,
+      "start" : 2.340000,
+      "word" : "representants"
+    }, {
+      "conf" : 0.590131,
+      "end" : 3.330000,
+      "start" : 3.189735,
+      "word" : "els"
+    }, {
+      "conf" : 0.597579,
+      "end" : 4.140000,
+      "start" : 3.450000,
+      "word" : "consells"
+    }],
+  "text" : "au fer més en la cambra de representants els consells"
+}

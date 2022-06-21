@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.900000,
+      "word" : "tanmateix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.830000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.310000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.520000,
+      "word" : "setmanes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.300000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.510000,
+      "word" : "quedar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.750000,
+      "word" : "aprovada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.320000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.440000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.650000,
+      "word" : "innocència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.340000,
+      "word" : "davant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.640000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.790000,
+      "word" : "autoritats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.270000,
+      "word" : "eclesiàstiques"
+    }],
+  "text" : "tanmateix després de dues setmanes va quedar aprovada la seva innocència davant les autoritats eclesiàstiques"
+}

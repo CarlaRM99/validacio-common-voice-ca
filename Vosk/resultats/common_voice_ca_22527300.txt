@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.870000,
+      "word" : "canvi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.470000,
+      "word" : "torna"
+    }, {
+      "conf" : 0.715804,
+      "end" : 1.977659,
+      "start" : 1.920000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.977659,
+      "word" : "adquirir"
+    }, {
+      "conf" : 0.800054,
+      "end" : 2.760000,
+      "start" : 2.340000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 2.765998,
+      "word" : "resistència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.720000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.930000,
+      "word" : "cop"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.320000,
+      "word" : "entren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.830000,
+      "word" : "repòs"
+    }],
+  "text" : "en canvi torna a adquirir aquesta resistència un cop entren repòs"
+}

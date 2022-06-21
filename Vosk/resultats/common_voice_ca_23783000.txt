@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.750000,
+      "word" : "cada"
+    }, {
+      "conf" : 0.582409,
+      "end" : 1.680000,
+      "start" : 1.050000,
+      "word" : "electrodo"
+    }, {
+      "conf" : 0.931746,
+      "end" : 2.130000,
+      "start" : 1.740000,
+      "word" : "manté"
+    }, {
+      "conf" : 0.773354,
+      "end" : 2.640000,
+      "start" : 2.130000,
+      "word" : "atrets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.700000,
+      "word" : "els"
+    }, {
+      "conf" : 0.676202,
+      "end" : 3.210000,
+      "start" : 2.910000,
+      "word" : "guions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.300000,
+      "word" : "càrrega"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.690000,
+      "word" : "elèctrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.140000,
+      "word" : "oposada"
+    }],
+  "text" : "cada electrodo manté atrets els guions de càrrega elèctrica oposada"
+}

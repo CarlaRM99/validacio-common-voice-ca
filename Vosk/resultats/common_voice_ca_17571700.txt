@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.600000,
+      "word" : "atribueixo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.230000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.320000,
+      "word" : "potestat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.980000,
+      "word" : "parental"
+    }, {
+      "conf" : 0.828267,
+      "end" : 2.700000,
+      "start" : 2.550000,
+      "word" : "del"
+    }, {
+      "conf" : 0.828267,
+      "end" : 2.910000,
+      "start" : 2.700000,
+      "word" : "fi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.910000,
+      "word" : "comú"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.510000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.690000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 3.870000,
+      "word" : "progenitors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.650000,
+      "word" : "conjuntament"
+    }],
+  "text" : "atribueixo la potestat parental del fi comú els dos progenitors conjuntament"
+}

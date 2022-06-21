@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.133850,
+      "start" : 0.750000,
+      "word" : "màgia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.163850,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.290000,
+      "word" : "m'agrada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.680000,
+      "word" : "gaire"
+    }],
+  "text" : "la màgia no m'agrada gaire"
+}

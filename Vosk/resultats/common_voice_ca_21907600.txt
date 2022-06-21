@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.050000,
+      "word" : "deixar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.440000,
+      "word" : "marit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.980000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.250000,
+      "word" : "filla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "i"
+    }, {
+      "conf" : 0.852038,
+      "end" : 3.600000,
+      "start" : 3.300000,
+      "word" : "set"
+    }, {
+      "conf" : 0.608517,
+      "end" : 4.230000,
+      "start" : 3.600000,
+      "word" : "nets"
+    }],
+  "text" : "va deixar marit una filla i set nets"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.110000,
+      "word" : "d'elits"
+    }, {
+      "conf" : 0.898812,
+      "end" : 2.040000,
+      "start" : 1.710000,
+      "word" : "rifa"
+    }, {
+      "conf" : 0.549400,
+      "end" : 2.100000,
+      "start" : 2.040000,
+      "word" : "el"
+    }, {
+      "conf" : 0.467960,
+      "end" : 2.460000,
+      "start" : 2.100000,
+      "word" : "man"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.550000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.790000,
+      "word" : "l'únic"
+    }, {
+      "conf" : 0.607446,
+      "end" : 3.570000,
+      "start" : 3.210000,
+      "word" : "pap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.630000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.810000,
+      "word" : "queda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.170000,
+      "word" : "a"
+    }, {
+      "conf" : 0.719845,
+      "end" : 4.660630,
+      "start" : 4.290000,
+      "word" : "love"
+    }, {
+      "conf" : 0.878637,
+      "end" : 5.250000,
+      "start" : 4.710000,
+      "word" : "parc"
+    }],
+  "text" : "d'elits rifa el man és l'únic pap que queda a love parc"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.570000,
+      "word" : "mai"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.230000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.500000,
+      "word" : "meva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.890000,
+      "word" : "vida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.490000,
+      "word" : "vaig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.970000,
+      "word" : "robar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.690000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.900000,
+      "word" : "rellotge"
+    }],
+  "text" : "mai a la meva vida vaig robar un rellotge"
+}

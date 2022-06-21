@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.510000,
+      "word" : "l'austenita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.350000,
+      "word" : "estri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.800000,
+      "word" : "clínica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.490000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "la"
+    }, {
+      "conf" : 0.879701,
+      "end" : 3.300000,
+      "start" : 3.000000,
+      "word" : "veí"
+    }, {
+      "conf" : 0.740094,
+      "end" : 3.540000,
+      "start" : 3.300000,
+      "word" : "to"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.540000,
+      "word" : "calcita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.200000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.350000,
+      "word" : "monoclínica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.310000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.400000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.550000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.790000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.060000,
+      "word" : "dunita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.960000,
+      "start" : 6.720000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.710000,
+      "start" : 6.960000,
+      "word" : "tribunal"
+    }],
+  "text" : "l'austenita estri clínica però la veí to calcita és monoclínica i la per als dunita és tribunal"
+}

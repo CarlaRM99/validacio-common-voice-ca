@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.480000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.630000,
+      "word" : "localitza"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.170000,
+      "word" : "completament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.950000,
+      "word" : "dins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.310000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.400000,
+      "word" : "província"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "de"
+    }, {
+      "conf" : 0.849389,
+      "end" : 3.510000,
+      "start" : 3.000000,
+      "word" : "columbia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.510000,
+      "word" : "britànica"
+    }],
+  "text" : "es localitza completament dins de la província de columbia britànica"
+}

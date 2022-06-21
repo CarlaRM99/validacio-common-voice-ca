@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.420000,
+      "word" : "si"
+    }, {
+      "conf" : 0.695842,
+      "end" : 1.050000,
+      "start" : 0.750000,
+      "word" : "fóra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.050000,
+      "word" : "dissabte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.620000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.710000,
+      "word" : "festiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.400000,
+      "word" : "l'acte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.060000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.300000,
+      "word" : "celebraria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.900000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.960000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.260000,
+      "word" : "dia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.530000,
+      "word" : "hàbil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.860000,
+      "word" : "següent"
+    }],
+  "text" : "si fóra dissabte o festiu l'acte se celebraria el primer dia hàbil següent"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.506549,
+      "end" : 0.750000,
+      "start" : 0.210000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.840000,
+      "word" : "jardins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.830000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.190000,
+      "word" : "desaparèixer"
+    }, {
+      "conf" : 0.613599,
+      "end" : 3.780000,
+      "start" : 3.510000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.780000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.990000,
+      "word" : "després"
+    }, {
+      "conf" : 0.859663,
+      "end" : 4.759788,
+      "start" : 4.590000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.759788,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.040000,
+      "word" : "urbanitzant-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.150000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.330000,
+      "word" : "passeig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.780000,
+      "word" : "de"
+    }, {
+      "conf" : 0.999934,
+      "end" : 7.410000,
+      "start" : 6.900000,
+      "word" : "gràcia"
+    }],
+  "text" : "aquests jardins van desaparèixer poc anys després en anar urbanitzant-se el passeig de gràcia"
+}

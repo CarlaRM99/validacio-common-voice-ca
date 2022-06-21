@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.568799,
+      "end" : 1.080000,
+      "start" : 0.990000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.080000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.200000,
+      "word" : "jugar"
+    }, {
+      "conf" : 0.854080,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "tot"
+    }, {
+      "conf" : 0.751033,
+      "end" : 1.707344,
+      "start" : 1.590000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.707344,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.920000,
+      "word" : "partits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.850000,
+      "word" : "i"
+    }, {
+      "conf" : 0.851616,
+      "end" : 3.330000,
+      "start" : 2.940000,
+      "word" : "marcar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.111050,
+      "start" : 3.364452,
+      "word" : "trenta-nou"
+    }, {
+      "conf" : 0.906814,
+      "end" : 4.560000,
+      "start" : 4.111050,
+      "word" : "alts"
+    }],
+  "text" : "hi va jugar tot els sis partits i marcar trenta-nou alts"
+}

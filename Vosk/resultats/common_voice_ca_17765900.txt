@@ -1,0 +1,9 @@
+{
+  "result" : [{
+      "conf" : 0.615347,
+      "end" : 0.747870,
+      "start" : 0.360000,
+      "word" : "venim"
+    }],
+  "text" : "venim"
+}

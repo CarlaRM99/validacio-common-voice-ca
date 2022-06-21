@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.880041,
+      "end" : 2.130000,
+      "start" : 1.410000,
+      "word" : "debades"
+    }, {
+      "conf" : 0.590260,
+      "end" : 2.460000,
+      "start" : 2.130000,
+      "word" : "miren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.580000,
+      "word" : "trobar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.000000,
+      "word" : "manera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.360000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.480000,
+      "word" : "conjurar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.080000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.290000,
+      "word" : "desgràcies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.920000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.040000,
+      "word" : "preveuen"
+    }],
+  "text" : "debades miren de trobar la manera de conjurar les desgràcies que preveuen"
+}

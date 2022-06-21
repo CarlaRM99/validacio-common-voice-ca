@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.709432,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.870000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.020000,
+      "word" : "adaptar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 1.920000,
+      "word" : "condicions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.910000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.060000,
+      "word" : "requeria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.720000,
+      "word" : "l'arxiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.440000,
+      "word" : "municipal"
+    }],
+  "text" : "es va adaptar a les condicions que requeria l'arxiu municipal"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.600000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.840000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.230000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.290000,
+      "word" : "europa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.130000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.310000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.550000,
+      "word" : "bretanya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.210000,
+      "word" : "finlàndia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.020000,
+      "word" : "noruega"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.620000,
+      "word" : "bèlgica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.250000,
+      "word" : "alemanya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 5.910000,
+      "word" : "dinamarca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 7.170000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.950000,
+      "start" : 7.350000,
+      "word" : "txèquia"
+    }],
+  "text" : "es troba a europa la gran bretanya finlàndia noruega bèlgica alemanya dinamarca i txèquia"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.870000,
+      "word" : "continuar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.410000,
+      "word" : "publicant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.950000,
+      "word" : "escrits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.520000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.760000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.000000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.300000,
+      "word" : "salut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.870000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.050000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.919998,
+      "start" : 4.200000,
+      "word" : "deteriorar"
+    }],
+  "text" : "va continuar publicant escrits fins que la seva salut es va deteriorar"
+}

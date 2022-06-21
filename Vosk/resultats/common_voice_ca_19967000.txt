@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.884732,
+      "end" : 1.230000,
+      "start" : 0.690000,
+      "word" : "ambdues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.230000,
+      "word" : "seqüències"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.040000,
+      "word" : "testifiquen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.760000,
+      "word" : "l'estabilitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "que"
+    }, {
+      "conf" : 0.690184,
+      "end" : 3.900000,
+      "start" : 3.810000,
+      "word" : "han"
+    }, {
+      "conf" : 0.690184,
+      "end" : 4.500000,
+      "start" : 3.900000,
+      "word" : "conservat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.530000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.860000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.040000,
+      "word" : "alfabets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.640000,
+      "word" : "derivat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.090000,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.480000,
+      "word" : "tipus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.650000,
+      "start" : 6.840000,
+      "word" : "d'escriptura"
+    }],
+  "text" : "ambdues seqüències testifiquen l'estabilitat que han conservat tots els alfabets derivat d'aquest tipus d'escriptura"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.500000,
+      "word" : "carrabina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.220000,
+      "word" : "blanc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.610000,
+      "word" : "fix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.000000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.240000,
+      "word" : "quart"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.870000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.960000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.110000,
+      "word" : "carrabina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.950000,
+      "word" : "blanc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.370000,
+      "word" : "sec"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.640000,
+      "word" : "novè"
+    }],
+  "text" : "en carrabina blanc fix fou quart i en carrabina blanc sec novè"
+}

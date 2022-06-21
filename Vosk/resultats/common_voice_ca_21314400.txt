@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.870000,
+      "word" : "milers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.440000,
+      "word" : "xinesos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.220000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.550000,
+      "word" : "morir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.970000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.180000,
+      "word" : "mines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.020000,
+      "word" : "abans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.500000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.650000,
+      "word" : "domini"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.040000,
+      "word" : "britànic"
+    }],
+  "text" : "milers de xinesos van morir a les mines abans del domini britànic"
+}

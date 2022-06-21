@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.540000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.870000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.960000,
+      "word" : "esdevenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.440000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.560000,
+      "word" : "màxim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.980000,
+      "word" : "anotador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.580000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.670000,
+      "word" : "història"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.060000,
+      "word" : "de"
+    }, {
+      "conf" : 0.993868,
+      "end" : 3.839997,
+      "start" : 3.150000,
+      "word" : "l'eurolliga"
+    }],
+  "text" : "també va esdevenir el màxim anotador de la història de l'eurolliga"
+}

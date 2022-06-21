@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.914699,
+      "end" : 0.930000,
+      "start" : 0.720000,
+      "word" : "dins"
+    }, {
+      "conf" : 0.914699,
+      "end" : 1.080000,
+      "start" : 0.930000,
+      "word" : "les"
+    }, {
+      "conf" : 0.841426,
+      "end" : 1.500000,
+      "start" : 1.110000,
+      "word" : "magnòlies"
+    }],
+  "text" : "dins les magnòlies"
+}

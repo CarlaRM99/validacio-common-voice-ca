@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.420000,
+      "word" : "popularment"
+    }, {
+      "conf" : 0.465020,
+      "end" : 1.650000,
+      "start" : 1.350000,
+      "word" : "homes"
+    }, {
+      "conf" : 0.465020,
+      "end" : 1.871549,
+      "start" : 1.650000,
+      "word" : "tenen"
+    }, {
+      "conf" : 0.635755,
+      "end" : 1.980000,
+      "start" : 1.871549,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.980000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.310000,
+      "word" : "cadí"
+    }, {
+      "conf" : 0.563428,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "al"
+    }, {
+      "conf" : 0.575302,
+      "end" : 3.210000,
+      "start" : 2.940000,
+      "word" : "cadí"
+    }, {
+      "conf" : 0.575302,
+      "end" : 3.510000,
+      "start" : 3.210000,
+      "word" : "nen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.540000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.630000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.750000,
+      "word" : "pedraforca"
+    }],
+  "text" : "popularment homes tenen el nom de cadí al cadí nen i el pedraforca"
+}

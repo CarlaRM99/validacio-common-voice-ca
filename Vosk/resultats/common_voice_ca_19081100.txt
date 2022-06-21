@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.750000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.900000,
+      "word" : "igual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.290000,
+      "word" : "indiferència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.220000,
+      "word" : "mostrar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.790000,
+      "word" : "en"
+    }, {
+      "conf" : 0.588329,
+      "end" : 3.600000,
+      "start" : 2.970000,
+      "word" : "sentir-la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.600000,
+      "word" : "cantar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.020000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.170000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.290000,
+      "word" : "pont"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.530000,
+      "word" : "tenia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.860000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.220000,
+      "word" : "ulls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.670000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.820000,
+      "word" : "ella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.060000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.200000,
+      "start" : 6.510000,
+      "word" : "solament"
+    }],
+  "text" : "i igual indiferència va mostrar en sentir-la cantar que el pont tenia sis ulls i ella dos solament"
+}

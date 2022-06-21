@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.660000,
+      "word" : "actualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.710000,
+      "word" : "carters"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.220000,
+      "word" : "fan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.460000,
+      "word" : "servir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.970000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.390000,
+      "word" : "mitjans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.840000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.930000,
+      "word" : "transport"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.560000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.740000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.890000,
+      "word" : "moto"
+    }],
+  "text" : "actualment els carters fan servir altres mitjans de transport com la moto"
+}

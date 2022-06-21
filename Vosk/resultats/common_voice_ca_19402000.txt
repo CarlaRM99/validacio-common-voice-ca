@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.570000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 0.960000,
+      "word" : "enregistraren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.800000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.010000,
+      "word" : "discos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.820000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.030000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.210000,
+      "word" : "considerats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.810000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.960000,
+      "word" : "alguns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.410000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.650000,
+      "word" : "millors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 5.010000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.100000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.220000,
+      "word" : "música"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.580000,
+      "word" : "catalana"
+    }],
+  "text" : "només enregistraren dos discos però són considerats per alguns dels millors de la música catalana"
+}

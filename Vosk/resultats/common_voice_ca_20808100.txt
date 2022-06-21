@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.390000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.540000,
+      "word" : "insígnia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.990000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.140000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.230000,
+      "word" : "mateixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.890000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.100000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.370000,
+      "word" : "gorra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.670000,
+      "word" : "com"
+    }, {
+      "conf" : 0.935407,
+      "end" : 2.970000,
+      "start" : 2.850000,
+      "word" : "per"
+    }, {
+      "conf" : 0.935407,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "la"
+    }, {
+      "conf" : 0.784313,
+      "end" : 3.300000,
+      "start" : 3.090000,
+      "word" : "boca"
+    }, {
+      "conf" : 0.784313,
+      "end" : 3.780000,
+      "start" : 3.300000,
+      "word" : "màniga"
+    }],
+  "text" : "la insígnia era la mateixa tant per la gorra com per la boca màniga"
+}

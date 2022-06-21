@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.916377,
+      "end" : 1.350000,
+      "start" : 0.720000,
+      "word" : "s'agafava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.380000,
+      "word" : "mitjançant"
+    }, {
+      "conf" : 0.744469,
+      "end" : 2.188420,
+      "start" : 2.040000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.188420,
+      "word" : "abraçadora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.760000,
+      "word" : "central"
+    }],
+  "text" : "s'agafava mitjançant una abraçadora central"
+}

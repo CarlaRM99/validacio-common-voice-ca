@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.810000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.020000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.440000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.620000,
+      "word" : "tracta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.040000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.250000,
+      "word" : "espècie"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 2.850000,
+      "word" : "desacreditada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.810000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.020000,
+      "word" : "l'associació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.190000,
+      "word" : "mineralògica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.390000,
+      "word" : "internacional"
+    }],
+  "text" : "per tant es tracta d'una espècie desacreditada per l'associació mineralògica internacional"
+}

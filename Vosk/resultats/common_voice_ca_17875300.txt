@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.798763,
+      "end" : 1.230000,
+      "start" : 0.690000,
+      "word" : "venir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.530000,
+      "word" : "castellfollit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.180000,
+      "word" : "riubregós"
+    }],
+  "text" : "venir de castellfollit de riubregós"
+}

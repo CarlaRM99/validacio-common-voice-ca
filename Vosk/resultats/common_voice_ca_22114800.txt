@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.630000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.780000,
+      "word" : "centre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "urbà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.530000,
+      "word" : "d'aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.010000,
+      "word" : "ciutat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.520000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.120000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.510000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.750000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.020000,
+      "word" : "ciutat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.590000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.710000,
+      "word" : "l'est"
+    }],
+  "text" : "el centre urbà d'aquesta ciutat forma part del gran ciutat de l'est"
+}

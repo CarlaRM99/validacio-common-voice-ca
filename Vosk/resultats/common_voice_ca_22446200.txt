@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.720000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.930000,
+      "word" : "venerat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.530000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.740000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.190000,
+      "word" : "confessions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.760000,
+      "word" : "cristianes"
+    }],
+  "text" : "és venerat per diverses confessions cristianes"
+}

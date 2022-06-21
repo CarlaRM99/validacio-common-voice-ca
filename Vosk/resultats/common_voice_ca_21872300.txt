@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.565347,
+      "end" : 1.080000,
+      "start" : 0.540000,
+      "word" : "sí"
+    }, {
+      "conf" : 0.809890,
+      "end" : 1.500000,
+      "start" : 1.200000,
+      "word" : "vaig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.530000,
+      "word" : "ceràmica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.340000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.520000,
+      "word" : "l'era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.790000,
+      "word" : "bizantina"
+    }],
+  "text" : "sí vaig ceràmica de l'era bizantina"
+}

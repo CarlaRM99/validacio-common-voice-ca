@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.480000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.840000,
+      "word" : "aquell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.140000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.590000,
+      "word" : "desenvolupar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.250000,
+      "word" : "l'especialitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.970000,
+      "word" : "mèdica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.390000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.480000,
+      "word" : "l'acupuntura"
+    }],
+  "text" : "durant aquell temps va desenvolupar l'especialitat mèdica de l'acupuntura"
+}

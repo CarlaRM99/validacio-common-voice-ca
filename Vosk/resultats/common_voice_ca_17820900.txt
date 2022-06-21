@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.270000,
+      "word" : "la"
+    }, {
+      "conf" : 0.755208,
+      "end" : 1.140000,
+      "start" : 0.510000,
+      "word" : "matilda"
+    }, {
+      "conf" : 0.730254,
+      "end" : 2.160000,
+      "start" : 1.800000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.490000,
+      "word" : "halitosi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.840000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.140000,
+      "word" : "canta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.530000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.710000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.890000,
+      "word" : "àngels"
+    }],
+  "text" : "la matilda té halitosi però canta com els àngels"
+}

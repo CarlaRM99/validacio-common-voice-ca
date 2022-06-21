@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.930000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.140000,
+      "word" : "riu"
+    }, {
+      "conf" : 0.896961,
+      "end" : 1.560000,
+      "start" : 1.440000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.896961,
+      "end" : 1.830000,
+      "start" : 1.560000,
+      "word" : "donat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.830000,
+      "word" : "nom"
+    }, {
+      "conf" : 0.783006,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "al"
+    }, {
+      "conf" : 0.783006,
+      "end" : 2.820000,
+      "start" : 2.220000,
+      "word" : "homònim"
+    }, {
+      "conf" : 0.397967,
+      "end" : 3.300000,
+      "start" : 2.850000,
+      "word" : "comtat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.300000,
+      "word" : "tradicional"
+    }],
+  "text" : "el riu ha donat nom al homònim comtat tradicional"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.510000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.750000,
+      "word" : "comissió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.200000,
+      "word" : "presidida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.740000,
+      "word" : "pel"
+    }, {
+      "conf" : 0.796331,
+      "end" : 2.250000,
+      "start" : 1.920000,
+      "word" : "país"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.310000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.520000,
+      "word" : "rector"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.000000,
+      "word" : "administraven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.720000,
+      "word" : "capital"
+    }],
+  "text" : "una comissió presidida pel país i el rector administraven capital"
+}

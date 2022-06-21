@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.960000,
+      "word" : "l'adaptació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.680000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.920000,
+      "word" : "drames"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.280000,
+      "word" : "deixés"
+    }, {
+      "conf" : 0.681993,
+      "end" : 2.940000,
+      "start" : 2.700000,
+      "word" : "pi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 3.000000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.090000,
+      "word" : "l'escena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.600000,
+      "word" : "alemanya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.290000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.440000,
+      "word" : "valgué"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.770000,
+      "word" : "mèrits"
+    }, {
+      "conf" : 0.502527,
+      "end" : 6.150000,
+      "start" : 5.220000,
+      "word" : "especials"
+    }],
+  "text" : "l'adaptació dels drames deixés pi a l'escena alemanya li valgué mèrits especials"
+}

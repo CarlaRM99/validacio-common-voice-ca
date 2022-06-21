@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.960000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.530000,
+      "word" : "condemnar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.340000,
+      "word" : "uns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.730000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.270000,
+      "word" : "dotze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.690000,
+      "word" : "oficials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.500000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.650000,
+      "word" : "molts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.950000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.250000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.460000,
+      "word" : "presentar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.940000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.030000,
+      "word" : "dimissió"
+    }],
+  "text" : "també es va condemnar a uns altres dotze oficials i molts més van presentar la dimissió"
+}

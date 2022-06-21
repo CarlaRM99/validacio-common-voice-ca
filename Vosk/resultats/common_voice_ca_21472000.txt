@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.050000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.230000,
+      "word" : "excel·lent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.620000,
+      "word" : "vista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.220000,
+      "word" : "l'extrem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.610000,
+      "word" : "nord"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.820000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.970000,
+      "word" : "llac"
+    }],
+  "text" : "hi ha una excel·lent vista de l'extrem nord del llac"
+}

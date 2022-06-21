@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.300000,
+      "word" : "s'entendrà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.930000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 1.020000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.110000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.440000,
+      "word" : "projecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.980000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.100000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.190000,
+      "word" : "llista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.940000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.210000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.330000,
+      "word" : "projecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.810000,
+      "word" : "prioritari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.680000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.830000,
+      "word" : "així"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.100000,
+      "word" : "correlativament"
+    }],
+  "text" : "s'entendrà que el primer projecte de la llista és el projecte prioritari i així correlativament"
+}

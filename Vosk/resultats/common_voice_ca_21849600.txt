@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.570000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.170000,
+      "word" : "obra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.560000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.800000,
+      "word" : "traduïda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.370000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.460000,
+      "word" : "català"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.910000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.150000,
+      "word" : "membre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.540000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.630000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.750000,
+      "word" : "cancelleria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.530000,
+      "word" : "reial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.160000,
+      "word" : "jaume"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.730000,
+      "word" : "conesa"
+    }],
+  "text" : "aquesta obra fou traduïda al català pel membre de la cancelleria reial jaume conesa"
+}

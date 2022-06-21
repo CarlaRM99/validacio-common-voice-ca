@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.140000,
+      "word" : "els"
+    }, {
+      "conf" : 0.506108,
+      "end" : 1.830000,
+      "start" : 1.380000,
+      "word" : "verds"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.980000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.310000,
+      "word" : "representants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.060000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.210000,
+      "word" : "l'assemblea"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.750000,
+      "word" : "nacional"
+    }],
+  "text" : "els verds no tenen representants en l'assemblea nacional"
+}

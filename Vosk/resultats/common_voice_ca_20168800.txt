@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.930000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.020000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.440000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.710000,
+      "word" : "anàlegs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.310000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.640000,
+      "word" : "solucions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.240000,
+      "word" : "barates"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.110000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.230000,
+      "word" : "costoses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.890000,
+      "word" : "impressions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.640000,
+      "word" : "color"
+    }],
+  "text" : "a més els anàlegs són solucions barates a costoses impressions de color"
+}

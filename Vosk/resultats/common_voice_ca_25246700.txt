@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.409377,
+      "end" : 0.930000,
+      "start" : 0.810000,
+      "word" : "o"
+    }, {
+      "conf" : 0.785524,
+      "end" : 1.650000,
+      "start" : 0.944365,
+      "word" : "carril"
+    }, {
+      "conf" : 0.572787,
+      "end" : 2.370000,
+      "start" : 1.770000,
+      "word" : "eibar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.670000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.880000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.030000,
+      "word" : "banda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.390000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.510000,
+      "word" : "suport"
+    }, {
+      "conf" : 0.696502,
+      "end" : 4.110000,
+      "start" : 3.990000,
+      "word" : "d"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.110000,
+      "word" : "ericsson"
+    }, {
+      "conf" : 0.731691,
+      "end" : 4.590000,
+      "start" : 4.470000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.590000,
+      "word" : "disc"
+    }],
+  "text" : "o carril eibar és la banda de suport d ericsson el disc"
+}

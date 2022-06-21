@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.912235,
+      "end" : 1.260000,
+      "start" : 1.140000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.260000,
+      "word" : "pendent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.662111,
+      "word" : "excessiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.730000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.940000,
+      "word" : "limitant"
+    }, {
+      "conf" : 0.906937,
+      "end" : 3.660000,
+      "start" : 3.510000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.660000,
+      "word" : "l'autorització"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.350000,
+      "word" : "noves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.620000,
+      "word" : "edificacions"
+    }],
+  "text" : "o pendent excessiu pot ser limitant en l'autorització de noves edificacions"
+}

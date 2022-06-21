@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.200000,
+      "word" : "publicitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.800000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.040000,
+      "word" : "advocats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.003139,
+      "start" : 2.790000,
+      "word" : "és"
+    }, {
+      "conf" : 0.862893,
+      "end" : 3.690000,
+      "start" : 3.003139,
+      "word" : "lícita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.170000,
+      "word" : "excepte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.650000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.710000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.860000,
+      "word" : "casos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.670000,
+      "word" : "en"
+    }, {
+      "conf" : 0.740243,
+      "end" : 6.060000,
+      "start" : 5.850000,
+      "word" : "què"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.060000,
+      "word" : "sigui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 6.480000,
+      "word" : "expressament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.890000,
+      "start" : 7.290000,
+      "word" : "prohibida"
+    }],
+  "text" : "la publicitat dels advocats és lícita excepte en els casos en què sigui expressament prohibida"
+}

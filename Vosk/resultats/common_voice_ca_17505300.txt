@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "per"
+    }, {
+      "conf" : 0.731854,
+      "end" : 1.338932,
+      "start" : 1.050000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.338932,
+      "word" : "sants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.680000,
+      "word" : "i"
+    }, {
+      "conf" : 0.780997,
+      "end" : 2.070000,
+      "start" : 1.770000,
+      "word" : "pels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.070000,
+      "word" : "morts"
+    }, {
+      "conf" : 0.741003,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.730000,
+      "word" : "sembres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.330000,
+      "word" : "blat"
+    }, {
+      "conf" : 0.637976,
+      "end" : 4.320000,
+      "start" : 3.750000,
+      "word" : "colliràs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.320000,
+      "word" : "escardots"
+    }],
+  "text" : "per tots sants i pels morts si sembres blat colliràs escardots"
+}

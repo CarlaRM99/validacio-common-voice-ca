@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.600000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.080000,
+      "word" : "versió"
+    }, {
+      "conf" : 0.730255,
+      "end" : 1.980000,
+      "start" : 1.740000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 1.980000,
+      "word" : "taulellets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.760000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.850000,
+      "word" : "colors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.450000,
+      "word" : "enlloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 3.900000,
+      "word" : "d'etiquetes"
+    }],
+  "text" : "aquesta versió té taulellets de colors enlloc d'etiquetes"
+}

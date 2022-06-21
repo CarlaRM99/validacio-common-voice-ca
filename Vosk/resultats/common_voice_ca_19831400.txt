@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.360000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.630000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.720000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.170000,
+      "word" : "família"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.590000,
+      "word" : "roig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.040000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.310000,
+      "word" : "propietària"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.970000,
+      "word" : "d'alguns"
+    }, {
+      "conf" : 0.803102,
+      "end" : 3.870000,
+      "start" : 3.390000,
+      "word" : "criadors"
+    }, {
+      "conf" : 0.880123,
+      "end" : 3.960000,
+      "start" : 3.870000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.963596,
+      "word" : "el"
+    }, {
+      "conf" : 0.999675,
+      "end" : 4.559999,
+      "start" : 4.080000,
+      "word" : "poble"
+    }],
+  "text" : "no en va la família roig va ser propietària d'alguns criadors en el poble"
+}

@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.110000,
+      "word" : "l'ensenyança"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.070000,
+      "word" : "centrada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.880000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.030000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.210000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.330000,
+      "word" : "aprèn"
+    }],
+  "text" : "l'ensenyança centrada en el que aprèn"
+}

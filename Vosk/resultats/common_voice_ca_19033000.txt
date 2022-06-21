@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.660000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.050000,
+      "word" : "plantacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.160000,
+      "word" : "utilitzaran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.090000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.510000,
+      "word" : "exclusiva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.770000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.160000,
+      "word" : "espècies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 6.000000,
+      "word" : "autòctones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.380000,
+      "start" : 6.840000,
+      "word" : "pròpies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.560000,
+      "start" : 7.380000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.920000,
+      "start" : 7.560000,
+      "word" : "lloc"
+    }],
+  "text" : "les plantacions utilitzaran de forma exclusiva les espècies autòctones pròpies del lloc"
+}

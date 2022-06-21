@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.570000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.690000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.050000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.970541,
+      "start" : 1.230000,
+      "word" : "revifada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.019459,
+      "word" : "l'interès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.730000,
+      "word" : "artús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.270000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.420000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.600000,
+      "word" : "contes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.990000,
+      "word" : "artúrics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.100000,
+      "word" : "no"
+    }, {
+      "conf" : 0.631678,
+      "end" : 5.490000,
+      "start" : 5.340000,
+      "word" : "se"
+    }, {
+      "conf" : 0.756937,
+      "end" : 5.970000,
+      "start" : 5.490000,
+      "word" : "allargar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.030000,
+      "word" : "indefinidament"
+    }],
+  "text" : "a més la revifada l'interès per artús i els contes artúrics no se allargar indefinidament"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.350000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.530000,
+      "word" : "mal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.740000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.220000,
+      "word" : "bona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.550000,
+      "word" : "cara"
+    }],
+  "text" : "el mal temps bona cara"
+}

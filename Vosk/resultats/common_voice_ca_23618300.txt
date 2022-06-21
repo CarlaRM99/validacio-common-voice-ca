@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.832709,
+      "end" : 1.853282,
+      "start" : 1.230000,
+      "word" : "misèria"
+    }, {
+      "conf" : 0.478660,
+      "end" : 2.158235,
+      "start" : 1.860000,
+      "word" : "vicente"
+    }, {
+      "conf" : 0.521340,
+      "end" : 2.250000,
+      "start" : 2.158235,
+      "word" : "de"
+    }, {
+      "conf" : 0.600278,
+      "end" : 2.880000,
+      "start" : 2.250000,
+      "word" : "campllong"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.910000,
+      "word" : "renunciar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.450000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.480000,
+      "word" : "participar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.260000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.470000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.770000,
+      "word" : "darrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.190000,
+      "word" : "moment"
+    }],
+  "text" : "misèria vicente de campllong renunciar a participar en el darrer moment"
+}

@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.390000,
+      "word" : "absolutament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.050000,
+      "word" : "d'acord"
+    }],
+  "text" : "absolutament d'acord"
+}

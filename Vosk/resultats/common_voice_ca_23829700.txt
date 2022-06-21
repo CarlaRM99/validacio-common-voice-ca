@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.720000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.990000,
+      "word" : "forçar"
+    }, {
+      "conf" : 0.565212,
+      "end" : 2.190000,
+      "start" : 1.530000,
+      "word" : "xarxes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.250000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.340000,
+      "word" : "retirar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.180000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.270000,
+      "word" : "sardes"
+    }],
+  "text" : "van forçar xarxes a retirar-se a sardes"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.510000,
+      "word" : "és"
+    }, {
+      "conf" : 0.817911,
+      "end" : 1.195327,
+      "start" : 0.990000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.195327,
+      "word" : "rar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.500000,
+      "word" : "vagabund"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.400000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.610000,
+      "word" : "nord"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.090000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.300000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.390000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.630000,
+      "word" : "àrea"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.020000,
+      "word" : "reproducció"
+    }],
+  "text" : "és un rar vagabund al nord de la seva àrea de reproducció"
+}

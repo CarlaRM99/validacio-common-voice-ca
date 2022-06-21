@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.696593,
+      "end" : 0.540000,
+      "start" : 0.330000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.540000,
+      "word" : "pie"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.080000,
+      "word" : "obeeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.800000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.010000,
+      "word" : "estem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.340000,
+      "word" : "junts"
+    }],
+  "text" : "el pie obeeix quan estem junts"
+}

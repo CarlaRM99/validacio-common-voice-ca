@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.810000,
+      "word" : "obtenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.440000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.620000,
+      "word" : "títol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.070000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.160000,
+      "word" : "llicenciat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.970000,
+      "word" : "filosofia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.720000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.780000,
+      "word" : "lletres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.410000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.560000,
+      "word" : "posteriorment"
+    }, {
+      "conf" : 0.511987,
+      "end" : 5.880000,
+      "start" : 5.670000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.880000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.000000,
+      "word" : "teologia"
+    }],
+  "text" : "va obtenir el títol de llicenciat en filosofia i lletres i posteriorment al de teologia"
+}

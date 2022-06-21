@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.630000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.750000,
+      "word" : "l'interior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.260000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.410000,
+      "word" : "conserva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.950000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.040000,
+      "word" : "celler"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.460000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.610000,
+      "word" : "havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.850000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.210000,
+      "word" : "l'antiga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.690000,
+      "word" : "cuina"
+    }],
+  "text" : "a l'interior es conserva un celler que havia estat l'antiga cuina"
+}

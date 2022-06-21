@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.540000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.870000,
+      "word" : "darrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.140000,
+      "word" : "any"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.380000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.500000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.620000,
+      "word" : "doctorar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.190000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.340000,
+      "word" : "física"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.940000,
+      "word" : "teòrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.510000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.810000,
+      "word" : "universitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.560000,
+      "word" : "parís"
+    }],
+  "text" : "aquest darrer any es va doctorar en física teòrica per la universitat de parís"
+}

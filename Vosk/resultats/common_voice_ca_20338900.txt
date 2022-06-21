@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.020000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.140000,
+      "word" : "realitzat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.710000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.160000,
+      "word" : "presentacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.090000,
+      "word" : "conferències"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.930000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.020000,
+      "word" : "classes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.380000,
+      "word" : "magistrals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.310000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.490000,
+      "word" : "conservatoris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.420000,
+      "word" : "escoles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.950000,
+      "start" : 6.930000,
+      "word" : "universitats"
+    }],
+  "text" : "ha realitzat diverses presentacions conferències i classes magistrals per conservatoris escoles universitats"
+}

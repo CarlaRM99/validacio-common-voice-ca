@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.839096,
+      "end" : 0.990000,
+      "start" : 0.420000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.290000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.590000,
+      "word" : "pensava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.280000,
+      "word" : "jo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.550000,
+      "word" : "també"
+    }],
+  "text" : "si això pensava jo també"
+}

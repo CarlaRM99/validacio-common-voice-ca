@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.570000,
+      "word" : "l'aigua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.140000,
+      "word" : "surt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.500000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.680000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.800000,
+      "word" : "boca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.100000,
+      "word" : "d'un"
+    }, {
+      "conf" : 0.871917,
+      "end" : 2.610000,
+      "start" : 2.340000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.640000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.910000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.000000,
+      "word" : "ferro"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.510000,
+      "word" : "igual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.930000,
+      "word" : "que"
+    }, {
+      "conf" : 0.690126,
+      "end" : 4.350000,
+      "start" : 4.050000,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.350000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.440000,
+      "word" : "columna"
+    }],
+  "text" : "l'aigua surt per la boca d'un del fet de ferro igual que tota la columna"
+}

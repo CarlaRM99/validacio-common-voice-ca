@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "diari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.320000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.530000,
+      "word" : "publicat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.370000,
+      "word" : "posteriorment"
+    }],
+  "text" : "el seu diari fou publicat posteriorment"
+}

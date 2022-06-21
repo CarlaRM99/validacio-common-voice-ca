@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.390000,
+      "word" : "quines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.720000,
+      "word" : "institucions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.530000,
+      "word" : "dius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.920000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.980000,
+      "word" : "seran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.280000,
+      "word" : "presents"
+    }],
+  "text" : "quines institucions dius que hi seran presents"
+}

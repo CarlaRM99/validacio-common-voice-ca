@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.510000,
+      "word" : "també"
+    }, {
+      "conf" : 0.712074,
+      "end" : 1.290000,
+      "start" : 1.140000,
+      "word" : "o"
+    }, {
+      "conf" : 0.459096,
+      "end" : 1.590000,
+      "start" : 1.290000,
+      "word" : "rock"
+    }, {
+      "conf" : 0.530331,
+      "end" : 1.980000,
+      "start" : 1.590000,
+      "word" : "siguen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.980000,
+      "word" : "lliure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.460000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.700000,
+      "word" : "solució"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.270000,
+      "word" : "dins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.570000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.810000,
+      "word" : "masses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.320000,
+      "word" : "d'aigua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.830000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.950000,
+      "word" : "terra"
+    }],
+  "text" : "també o rock siguen lliure en solució dins les masses d'aigua de la terra"
+}

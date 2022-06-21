@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.871002,
+      "end" : 1.077802,
+      "start" : 0.720000,
+      "word" : "tenia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.077802,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.470000,
+      "word" : "somni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.370000,
+      "word" : "volia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "ser"
+    }, {
+      "conf" : 0.999702,
+      "end" : 3.450000,
+      "start" : 2.910000,
+      "word" : "cantant"
+    }],
+  "text" : "tenia només un somni volia ser cantant"
+}

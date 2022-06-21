@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.960000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.080000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.230000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.770000,
+      "word" : "s'enfrontaren"
+    }, {
+      "conf" : 0.822701,
+      "end" : 2.820000,
+      "start" : 2.640000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.820000,
+      "word" : "deu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.060000,
+      "word" : "equips"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.480000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.810000,
+      "word" : "dèbils"
+    }],
+  "text" : "a la primera s'enfrontaren els deu equips més dèbils"
+}

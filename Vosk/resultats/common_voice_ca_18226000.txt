@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.660000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.960000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.080000,
+      "word" : "meló"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.410000,
+      "word" : "d'alger"
+    }, {
+      "conf" : 0.683872,
+      "end" : 2.310000,
+      "start" : 2.070000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.310000,
+      "word" : "insensible"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.060000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.270000,
+      "word" : "tendrors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.750000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.900000,
+      "word" : "llaurador"
+    }, {
+      "conf" : 0.683873,
+      "end" : 4.590000,
+      "start" : 4.380000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.590000,
+      "word" : "sofert"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.460000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.700000,
+      "word" : "creixia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 6.150000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.360000,
+      "word" : "cal"
+    }],
+  "text" : "però el meló d'alger tant insensible les tendrors del llaurador tant sofert no creixia com cal"
+}

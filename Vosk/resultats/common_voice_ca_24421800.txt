@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.450000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.600000,
+      "word" : "casa"
+    }, {
+      "conf" : 0.826765,
+      "end" : 1.320000,
+      "start" : 0.900000,
+      "word" : "ferret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.350000,
+      "word" : "llopis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.890000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.190000,
+      "word" : "edifici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.580000,
+      "word" : "aïllat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.300000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.450000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.900000,
+      "word" : "gairebé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.230000,
+      "word" : "quadrada"
+    }],
+  "text" : "la casa ferret llopis és un edifici aïllat de planta gairebé quadrada"
+}

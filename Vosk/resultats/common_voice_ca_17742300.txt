@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.815360,
+      "end" : 1.080000,
+      "start" : 0.750000,
+      "word" : "venint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.170000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.350000,
+      "word" : "feliu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.830000,
+      "word" : "llobregat"
+    }],
+  "text" : "venint de sant feliu de llobregat"
+}

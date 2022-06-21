@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.367216,
+      "end" : 0.892996,
+      "start" : 0.510000,
+      "word" : "agafem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.892996,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.050000,
+      "word" : "cassola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.560000,
+      "word" : "poseu-hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.980000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.070000,
+      "word" : "raig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.400000,
+      "word" : "d'oli"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.940000,
+      "word" : "sofregiu-hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.720000,
+      "word" : "ceba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.050000,
+      "word" : "picada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.470000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.710000,
+      "word" : "quinze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.040000,
+      "word" : "minuts"
+    }],
+  "text" : "agafem una cassola poseu-hi un raig d'oli i sofregiu-hi la ceba picada durant quinze minuts"
+}

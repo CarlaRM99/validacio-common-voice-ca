@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.110000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.500000,
+      "word" : "produït"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.950000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.220000,
+      "word" : "junta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.670000,
+      "word" : "moneda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.060000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.210000,
+      "word" : "l'àfrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.690000,
+      "word" : "oriental"
+    }],
+  "text" : "va ser produït per la junta de moneda de l'àfrica oriental"
+}

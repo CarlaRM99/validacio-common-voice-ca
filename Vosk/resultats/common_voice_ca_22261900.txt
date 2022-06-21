@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.514252,
+      "end" : 1.110000,
+      "start" : 0.690000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.110000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.200000,
+      "word" : "extreia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.830000,
+      "word" : "criolita"
+    }],
+  "text" : "si i extreia criolita"
+}

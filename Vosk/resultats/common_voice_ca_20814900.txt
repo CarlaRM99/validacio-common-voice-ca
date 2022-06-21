@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.510000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.720000,
+      "word" : "obstant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.050000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.710000,
+      "word" : "deixar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.920000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.980000,
+      "word" : "programa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.370000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.490000,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.940000,
+      "word" : "final"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.330000,
+      "word" : "l'any"
+    }],
+  "text" : "no obstant això va deixar el programa de nou al final de l'any"
+}

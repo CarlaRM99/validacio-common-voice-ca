@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.750000,
+      "word" : "destinat"
+    }, {
+      "conf" : 0.587339,
+      "end" : 1.950000,
+      "start" : 1.320000,
+      "word" : "menysprear"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.950000,
+      "word" : "l'ordre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.340000,
+      "word" : "reglamentat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.240000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.330000,
+      "word" : "sol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.570000,
+      "word" : "tindre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.900000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.050000,
+      "word" : "tirada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.530000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.590000,
+      "word" : "créixer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.010000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.250000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.400000,
+      "word" : "toca"
+    }],
+  "text" : "destinat menysprear l'ordre reglamentat i sol tindre una tirada a créixer on no toca"
+}

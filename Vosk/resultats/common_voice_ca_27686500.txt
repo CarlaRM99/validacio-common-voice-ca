@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.600000,
+      "word" : "dia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.050000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.230000,
+      "word" : "sorpreses"
+    }],
+  "text" : "dia més sorpreses"
+}

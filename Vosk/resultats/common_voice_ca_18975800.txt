@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.750000,
+      "word" : "abans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.080000,
+      "word" : "d'instal·lar·lo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.800000,
+      "word" : "llegir"
+    }, {
+      "conf" : 0.773337,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "un"
+    }, {
+      "conf" : 0.568661,
+      "end" : 2.490000,
+      "start" : 2.326819,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.490000,
+      "word" : "requeriments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.781265,
+      "start" : 3.240000,
+      "word" : "maquinari"
+    }, {
+      "conf" : 0.784643,
+      "end" : 3.840000,
+      "start" : 3.781265,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.840000,
+      "word" : "programari"
+    }],
+  "text" : "abans d'instal·lar·lo llegir un els requeriments de maquinari i programari"
+}

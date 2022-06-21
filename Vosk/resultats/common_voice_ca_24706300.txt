@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.810000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.050000,
+      "word" : "dreta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.590000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.250000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.460000,
+      "word" : "altra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.287546,
+      "start" : 2.730000,
+      "word" : "aparador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.300000,
+      "word" : "encastat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.440000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.590000,
+      "word" : "segueix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.100000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.220000,
+      "word" : "mateix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.580000,
+      "word" : "disseny"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 6.180000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.300000,
+      "word" : "l'anterior"
+    }],
+  "text" : "a la dreta sobre una altra aparador encastat que segueix el mateix disseny que l'anterior"
+}

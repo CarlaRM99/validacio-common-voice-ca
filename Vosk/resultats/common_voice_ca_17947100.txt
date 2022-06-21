@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.547820,
+      "end" : 0.750000,
+      "start" : 0.390000,
+      "word" : "venint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.750000,
+      "word" : "de"
+    }, {
+      "conf" : 0.999808,
+      "end" : 1.229999,
+      "start" : 0.870000,
+      "word" : "biar"
+    }],
+  "text" : "venint de biar"
+}

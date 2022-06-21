@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.990000,
+      "word" : "tema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.380000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.590000,
+      "word" : "compost"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.190000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.340000,
+      "word" : "escrit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.940000,
+      "word" : "ell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.120000,
+      "word" : "mateix"
+    }],
+  "text" : "el tema la compost i escrit ell mateix"
+}

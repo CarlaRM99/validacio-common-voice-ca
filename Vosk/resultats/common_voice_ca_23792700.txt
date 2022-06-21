@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 0.840000,
+      "word" : "tanmateix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.890000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.100000,
+      "word" : "soci"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.610000,
+      "word" : "d'aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.090000,
+      "word" : "empresa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.080000,
+      "word" : "nega"
+    }, {
+      "conf" : 0.589649,
+      "end" : 4.617073,
+      "start" : 4.560000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.617073,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.040000,
+      "word" : "versió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.370000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.580000,
+      "word" : "fets"
+    }],
+  "text" : "tanmateix un soci d'aquesta empresa nega a aquesta versió dels fets"
+}

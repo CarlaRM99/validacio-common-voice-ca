@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.630000,
+      "word" : "tinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.930000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.080000,
+      "word" : "mica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.320000,
+      "word" : "d'insomni"
+    }, {
+      "conf" : 0.819565,
+      "end" : 2.130000,
+      "start" : 1.980000,
+      "word" : "em"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.130000,
+      "word" : "penso"
+    }],
+  "text" : "tinc una mica d'insomni em penso"
+}

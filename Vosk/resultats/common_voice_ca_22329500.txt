@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.690189,
+      "end" : 0.630000,
+      "start" : 0.450000,
+      "word" : "i"
+    }, {
+      "conf" : 0.690189,
+      "end" : 0.720000,
+      "start" : 0.630000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.720000,
+      "word" : "minories"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.470000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.560000,
+      "word" : "sedis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.070000,
+      "word" : "tàrtares"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.670000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.730000,
+      "word" : "ucraïneses"
+    }],
+  "text" : "i a minories a sedis tàrtares i ucraïneses"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.630000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.050000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.230000,
+      "word" : "matèries"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.860000,
+      "word" : "bàsiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.520000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.820000,
+      "word" : "calafats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.630000,
+      "word" : "era"
+    }, {
+      "conf" : 0.575586,
+      "end" : 4.560000,
+      "start" : 3.870000,
+      "word" : "l'estopa"
+    }],
+  "text" : "una de les matèries bàsiques dels calafats era l'estopa"
+}

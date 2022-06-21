@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.669174,
+      "end" : 0.870000,
+      "start" : 0.480000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.140000,
+      "word" : "roca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.380000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.530000,
+      "word" : "vallès"
+    }],
+  "text" : "venim de la roca del vallès"
+}

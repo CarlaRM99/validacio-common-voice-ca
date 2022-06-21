@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.750000,
+      "word" : "canvi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.350000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.800000,
+      "word" : "es"
+    }, {
+      "conf" : 0.778618,
+      "end" : 2.490000,
+      "start" : 1.950000,
+      "word" : "podien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.550000,
+      "word" : "instal·lar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.120000,
+      "word" : "manualment"
+    }],
+  "text" : "en canvi aquests es podien instal·lar manualment"
+}

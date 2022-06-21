@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.900000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.470000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.710000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.770000,
+      "word" : "fundador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.310000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.340000,
+      "word" : "dirigent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.820000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.000000,
+      "word" : "partit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.420000,
+      "word" : "comunista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.020000,
+      "word" : "clandestí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.740000,
+      "word" : "colòmbia"
+    }],
+  "text" : "també era el fundador i dirigent del partit comunista clandestí de colòmbia"
+}

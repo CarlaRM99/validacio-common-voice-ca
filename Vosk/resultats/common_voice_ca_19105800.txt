@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.870000,
+      "word" : "gent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.140000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.260000,
+      "word" : "vol"
+    }, {
+      "conf" : 0.523143,
+      "end" : 1.620000,
+      "start" : 1.440000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.710000,
+      "word" : "negocis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.310000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.370000,
+      "word" : "tirar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.670000,
+      "word" : "endavant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.090000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.270000,
+      "word" : "si"
+    }, {
+      "conf" : 0.714310,
+      "end" : 3.870000,
+      "start" : 3.390000,
+      "word" : "mateixes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.870000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.990000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.080000,
+      "word" : "utilitza"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.500000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.680000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.770000,
+      "word" : "xarxa"
+    }],
+  "text" : "la gent que vol que negocis i tirar endavant per si mateixes la que utilitza més la xarxa"
+}

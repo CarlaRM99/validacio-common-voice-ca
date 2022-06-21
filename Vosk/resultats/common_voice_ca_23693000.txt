@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.020000,
+      "word" : "divisió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.980000,
+      "word" : "reproduir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.610000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.760000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.330000,
+      "word" : "ocasions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.020000,
+      "word" : "creant-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.830000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.280000,
+      "word" : "taifes"
+    }],
+  "text" : "la divisió es va reproduir en diverses ocasions creant-se més taifes"
+}

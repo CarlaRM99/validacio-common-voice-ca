@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.780000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.870000,
+      "word" : "succeir"
+    }, {
+      "conf" : 0.626098,
+      "end" : 2.370000,
+      "start" : 1.890000,
+      "word" : "allen"
+    }, {
+      "conf" : 0.572064,
+      "end" : 3.150000,
+      "start" : 2.454178,
+      "word" : "abans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.180000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.420000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.480000,
+      "word" : "líder"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.780000,
+      "word" : "liberal"
+    }],
+  "text" : "el va succeir allen abans com a líder liberal"
+}

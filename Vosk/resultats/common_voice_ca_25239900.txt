@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.480000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.780000,
+      "word" : "atribuït"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.440000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.560000,
+      "word" : "flux"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.980000,
+      "word" : "d'aigua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.370000,
+      "word" : "dolça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.820000,
+      "word" : "baixant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.240000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.360000,
+      "word" : "l'estuari"
+    }],
+  "text" : "s'ha atribuït al flux d'aigua dolça baixant de l'estuari"
+}

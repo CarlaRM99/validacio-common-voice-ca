@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.110000,
+      "word" : "ella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.440000,
+      "word" : "havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.680000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.160000,
+      "word" : "model"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.460000,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.790000,
+      "word" : "quadre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.570000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.750000,
+      "word" : "mostra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.170000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.260000,
+      "word" : "beatriu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.920000,
+      "word" : "dante"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.310000,
+      "word" : "alighieri"
+    }, {
+      "conf" : 0.758712,
+      "end" : 6.630000,
+      "start" : 6.150000,
+      "word" : "orant"
+    }],
+  "text" : "ella havia estat la model d'aquest quadre que mostra la beatriu de dante alighieri orant"
+}

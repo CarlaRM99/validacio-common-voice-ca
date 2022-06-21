@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.540000,
+      "word" : "l'actual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.200000,
+      "word" : "auditor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.890000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.220000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.370000,
+      "word" : "demòcrata"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.120000,
+      "word" : "escot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.720000,
+      "word" : "astringent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.590000,
+      "word" : "expresident"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.460000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.610000,
+      "word" : "districte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 6.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.300000,
+      "word" : "manhattan"
+    }],
+  "text" : "l'actual auditor és el demòcrata escot astringent expresident del districte de manhattan"
+}

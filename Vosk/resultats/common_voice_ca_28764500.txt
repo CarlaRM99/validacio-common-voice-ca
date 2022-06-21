@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.870000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.566741,
+      "start" : 1.170000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.710000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.950000,
+      "word" : "gairebé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.550000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.760000,
+      "word" : "organització"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.390000,
+      "word" : "benèfica"
+    }],
+  "text" : "el primer lloc era gairebé una organització benèfica"
+}

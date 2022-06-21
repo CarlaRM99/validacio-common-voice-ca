@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.470000,
+      "word" : "es"
+    }, {
+      "conf" : 0.665843,
+      "end" : 1.890000,
+      "start" : 1.650000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.900025,
+      "word" : "madagascar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.490000,
+      "word" : "reunió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.940000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.000000,
+      "word" : "maurici"
+    }],
+  "text" : "es troba madagascar reunió i maurici"
+}

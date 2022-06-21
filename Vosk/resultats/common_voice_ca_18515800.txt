@@ -1,0 +1,114 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.870000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.260000,
+      "word" : "ocorre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.890000,
+      "word" : "ja"
+    }, {
+      "conf" : 0.810050,
+      "end" : 2.310000,
+      "start" : 2.070000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.310000,
+      "word" : "damunt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.730000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.820000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.910000,
+      "word" : "festa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.270000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.360000,
+      "word" : "santa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.660000,
+      "word" : "bàrbara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.170000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.290000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.350000,
+      "word" : "punt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.590000,
+      "word" : "de"
+    }, {
+      "conf" : 0.768622,
+      "end" : 5.124586,
+      "start" : 4.680000,
+      "word" : "veure-li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.124586,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.250000,
+      "word" : "barba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.700000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.790000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 6.000000,
+      "word" : "nicolau"
+    }],
+  "text" : "quan això ocorre ja són damunt de la festa de santa bàrbara i a punt de veure-li la barba a sant nicolau"
+}

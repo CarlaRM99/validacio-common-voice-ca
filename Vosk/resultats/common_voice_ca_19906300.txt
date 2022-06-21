@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.630000,
+      "word" : "s'utilitza"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.440000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.680000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.830000,
+      "word" : "el"
+    }, {
+      "conf" : 0.888576,
+      "end" : 2.250000,
+      "start" : 1.950000,
+      "word" : "camp"
+    }, {
+      "conf" : 0.888576,
+      "end" : 2.580000,
+      "start" : 2.250000,
+      "word" : "llis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.580000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.940000,
+      "word" : "l'afegit"
+    }, {
+      "conf" : 0.547986,
+      "end" : 3.978345,
+      "start" : 3.540000,
+      "word" : "d'alguna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.978345,
+      "word" : "emblema"
+    }],
+  "text" : "s'utilitza tant amb el camp llis com amb l'afegit d'alguna emblema"
+}

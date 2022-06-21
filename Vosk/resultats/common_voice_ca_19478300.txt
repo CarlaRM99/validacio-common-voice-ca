@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.660000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.380000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.590000,
+      "word" : "alguns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.100000,
+      "word" : "trossos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.670000,
+      "word" : "improductius"
+    }, {
+      "conf" : 0.999989,
+      "end" : 3.840000,
+      "start" : 3.720000,
+      "word" : "i"
+    }, {
+      "conf" : 0.999955,
+      "end" : 4.499999,
+      "start" : 3.840000,
+      "word" : "bosquina"
+    }],
+  "text" : "també hi ha alguns trossos improductius i bosquina"
+}

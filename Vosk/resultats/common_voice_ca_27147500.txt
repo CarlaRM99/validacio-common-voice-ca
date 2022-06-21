@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.634144,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "en"
+    }, {
+      "conf" : 0.412045,
+      "end" : 1.530000,
+      "start" : 1.170000,
+      "word" : "xat"
+    }, {
+      "conf" : 0.756515,
+      "end" : 1.800000,
+      "start" : 1.590000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.920000,
+      "word" : "administrador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.550000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.700000,
+      "word" : "museu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.030000,
+      "word" : "d'art"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.210000,
+      "word" : "modern"
+    }],
+  "text" : "en xat van ser administrador del museu d'art modern"
+}

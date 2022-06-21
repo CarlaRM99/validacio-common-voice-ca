@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.510000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.900000,
+      "word" : "tard"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.230000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.380000,
+      "word" : "declarar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.890000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.160000,
+      "word" : "suïcidis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.850000,
+      "word" : "eren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.300000,
+      "word" : "realitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.050000,
+      "word" : "assassinats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 4.950000,
+      "word" : "extrajudicials"
+    }],
+  "text" : "més tard va declarar que els suïcidis eren en realitat assassinats extrajudicials"
+}

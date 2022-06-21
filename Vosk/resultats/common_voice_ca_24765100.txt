@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.930000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.170000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.530000,
+      "word" : "baixa"
+    }, {
+      "conf" : 0.811895,
+      "end" : 2.400000,
+      "start" : 1.830000,
+      "word" : "inclous"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.490000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.700000,
+      "word" : "portals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.210000,
+      "word" : "d'arc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.450000,
+      "word" : "rebaixat"
+    }],
+  "text" : "la planta baixa inclous tres portals d'arc rebaixat"
+}

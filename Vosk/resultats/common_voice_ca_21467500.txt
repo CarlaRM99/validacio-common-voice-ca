@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.902663,
+      "end" : 1.354062,
+      "start" : 1.170000,
+      "word" : "diu"
+    }, {
+      "conf" : 0.683740,
+      "end" : 1.470000,
+      "start" : 1.354062,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.470000,
+      "word" : "sud"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.770000,
+      "word" : "laos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.310000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.490000,
+      "word" : "vietnam"
+    }],
+  "text" : "diu al sud de laos i del vietnam"
+}

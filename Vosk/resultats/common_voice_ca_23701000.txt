@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.840000,
+      "word" : "allà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.560000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.800000,
+      "word" : "exercir"
+    }, {
+      "conf" : 0.495072,
+      "end" : 2.643750,
+      "start" : 2.340000,
+      "word" : "d'assessor"
+    }, {
+      "conf" : 0.504928,
+      "end" : 2.880000,
+      "start" : 2.643750,
+      "word" : "assessor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 2.970000,
+      "word" : "conferenciant"
+    }],
+  "text" : "allà va exercir d'assessor assessor i conferenciant"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.420000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.630000,
+      "word" : "parròquia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.350000,
+      "word" : "és"
+    }, {
+      "conf" : 0.625266,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.770000,
+      "word" : "sud"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.310000,
+      "word" : "ciutat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "de"
+    }, {
+      "conf" : 0.481280,
+      "end" : 3.180000,
+      "start" : 2.940000,
+      "word" : "lot"
+    }, {
+      "conf" : 0.655047,
+      "end" : 3.570000,
+      "start" : 3.195562,
+      "word" : "l'ou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.750000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.930000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.290000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.530000,
+      "word" : "mercat"
+    }],
+  "text" : "la parròquia és el sud de la ciutat de lot l'ou que té un mercat"
+}

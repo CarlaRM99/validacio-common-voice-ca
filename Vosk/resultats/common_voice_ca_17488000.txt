@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.419983,
+      "end" : 0.751107,
+      "start" : 0.570000,
+      "word" : "que"
+    }, {
+      "conf" : 0.397794,
+      "end" : 0.989756,
+      "start" : 0.751107,
+      "word" : "vols"
+    }, {
+      "conf" : 0.319822,
+      "end" : 1.350000,
+      "start" : 0.989756,
+      "word" : "ser"
+    }],
+  "text" : "que vols ser"
+}

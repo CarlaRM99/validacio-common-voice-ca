@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.540000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.720000,
+      "word" : "troba"
+    }, {
+      "conf" : 0.844569,
+      "end" : 1.350000,
+      "start" : 1.170000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.350000,
+      "word" : "japó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.950000,
+      "word" : "taiwan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.610000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.850000,
+      "word" : "filipines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.570000,
+      "word" : "malàisia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.320000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.410000,
+      "word" : "vanuatu"
+    }],
+  "text" : "es troba al japó taiwan les filipines malàisia i vanuatu"
+}

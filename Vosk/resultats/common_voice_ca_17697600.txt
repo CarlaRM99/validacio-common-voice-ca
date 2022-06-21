@@ -1,0 +1,134 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.960000,
+      "word" : "aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.560000,
+      "word" : "expliquen"
+    }, {
+      "conf" : 0.803672,
+      "end" : 2.400000,
+      "start" : 2.280000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.400000,
+      "word" : "vuitanta-vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.090000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.240000,
+      "word" : "cent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.510000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.600000,
+      "word" : "l'import"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.110000,
+      "word" : "net"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.470000,
+      "word" : "negocis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.010000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.160000,
+      "word" : "sistema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.670000,
+      "word" : "territorial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.810000,
+      "word" : "i"
+    }, {
+      "conf" : 0.742419,
+      "end" : 7.020000,
+      "start" : 6.930000,
+      "word" : "el"
+    }, {
+      "conf" : 0.872715,
+      "end" : 7.680000,
+      "start" : 7.028958,
+      "word" : "setanta-u"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.890000,
+      "start" : 7.680000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.950000,
+      "start" : 7.890000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.190000,
+      "start" : 7.950000,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.340000,
+      "start" : 8.190000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.640000,
+      "start" : 8.340000,
+      "word" : "cent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.850000,
+      "start" : 8.640000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.090000,
+      "start" : 8.850000,
+      "word" : "llocs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.180000,
+      "start" : 9.090000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.630000,
+      "start" : 9.180000,
+      "word" : "treball"
+    }],
+  "text" : "aquestes expliquen el vuitanta-vuit per cent de l'import net de negocis del sistema territorial i el setanta-u com a nou per cent dels llocs de treball"
+}

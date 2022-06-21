@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.750000,
+      "word" : "demostrar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.320000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.470000,
+      "word" : "seqüència"
+    }, {
+      "conf" : 0.473539,
+      "end" : 2.340827,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 0.769755,
+      "end" : 2.970000,
+      "start" : 2.420518,
+      "word" : "vegi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.360000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.510000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.660000,
+      "word" : "seminari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.500000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.620000,
+      "word" : "l'institut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.730000,
+      "word" : "música"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.380000,
+      "start" : 6.510000,
+      "word" : "d'atlanta"
+    }],
+  "text" : "va demostrar la seqüència de vegi en un seminari a l'institut de música d'atlanta"
+}

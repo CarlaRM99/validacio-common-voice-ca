@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.260000,
+      "word" : "conseqüències"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.040000,
+      "word" : "polítiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.730000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.060000,
+      "word" : "responsabilitzar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 4.050000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.110000,
+      "word" : "govern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.530000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.620000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.710000,
+      "word" : "generalitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 5.520000,
+      "word" : "d'improvisació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.080000,
+      "start" : 6.690000,
+      "word" : "davant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 7.080000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.190000,
+      "start" : 7.260000,
+      "word" : "dificultats"
+    }],
+  "text" : "les conseqüències polítiques van ser responsabilitzar el govern de la generalitat d'improvisació davant les dificultats"
+}

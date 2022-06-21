@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.110000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.620000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.040000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.400000,
+      "word" : "espècies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.000000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.150000,
+      "word" : "pi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 3.960000,
+      "word" : "endèmiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.830000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.040000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.190000,
+      "word" : "antilles"
+    }],
+  "text" : "és una de les set espècies de pi endèmiques de les antilles"
+}

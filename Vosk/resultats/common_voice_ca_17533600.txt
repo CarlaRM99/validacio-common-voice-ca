@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.480000,
+      "word" : "tothom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.930000,
+      "word" : "tenia"
+    }, {
+      "conf" : 0.856468,
+      "end" : 1.800000,
+      "start" : 1.320000,
+      "word" : "karaoke"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 1.920000,
+      "word" : "caragoleres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.060000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.240000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.360000,
+      "word" : "posaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.810000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.410000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.008513,
+      "start" : 4.560000,
+      "word" : "dejunar"
+    }, {
+      "conf" : 0.682936,
+      "end" : 5.340000,
+      "start" : 5.040000,
+      "word" : "plom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.370000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.670000,
+      "word" : "mes"
+    }],
+  "text" : "tothom tenia karaoke caragoleres on es posaven a de a dejunar plom d'un mes"
+}

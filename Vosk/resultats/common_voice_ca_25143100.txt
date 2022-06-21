@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.900000,
+      "word" : "brou"
+    }, {
+      "conf" : 0.931981,
+      "end" : 1.950000,
+      "start" : 1.260000,
+      "word" : "canxa"
+    }, {
+      "conf" : 0.830313,
+      "end" : 2.461372,
+      "start" : 2.280000,
+      "word" : "va"
+    }, {
+      "conf" : 0.775898,
+      "end" : 2.880000,
+      "start" : 2.461372,
+      "word" : "operar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.881136,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.210000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.540000,
+      "word" : "períodes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.590000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.800000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.890000,
+      "word" : "partit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.310000,
+      "word" : "liberal"
+    }],
+  "text" : "brou canxa va operar durant tres períodes amb el partit liberal"
+}

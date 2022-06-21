@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.506612,
+      "end" : 1.410000,
+      "start" : 1.170000,
+      "word" : "em"
+    }, {
+      "conf" : 0.506612,
+      "end" : 2.130000,
+      "start" : 1.410000,
+      "word" : "disgusta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.130000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.490000,
+      "word" : "vegada"
+    }, {
+      "conf" : 0.780465,
+      "end" : 3.197044,
+      "start" : 3.000000,
+      "word" : "que"
+    }, {
+      "conf" : 0.831476,
+      "end" : 3.540000,
+      "start" : 3.240000,
+      "word" : "sent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.570000,
+      "word" : "parlar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.960000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.110000,
+      "word" : "pobresa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.190000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.550000,
+      "word" : "falta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.940000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 6.060000,
+      "word" : "em"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.210000,
+      "word" : "demanes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.230000,
+      "start" : 6.960000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.860000,
+      "start" : 7.230000,
+      "word" : "almoina"
+    }],
+  "text" : "em disgusta cada vegada que sent parlar de pobresa només falta que em demanes una almoina"
+}

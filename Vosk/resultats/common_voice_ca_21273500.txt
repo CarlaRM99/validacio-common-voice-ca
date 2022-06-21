@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.170000,
+      "word" : "antic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.530000,
+      "word" : "dels"
+    }, {
+      "conf" : 0.820348,
+      "end" : 2.305016,
+      "start" : 1.710000,
+      "word" : "documentats"
+    }, {
+      "conf" : 0.588245,
+      "end" : 2.370000,
+      "start" : 2.305016,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.029997,
+      "start" : 2.370000,
+      "word" : "municipi"
+    }],
+  "text" : "és el més antic dels documentats al municipi"
+}

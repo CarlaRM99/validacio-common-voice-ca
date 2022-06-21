@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.470000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.680000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.830000,
+      "word" : "gènere"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.310000,
+      "word" : "originari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.090000,
+      "word" : "l'hemisferi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.660000,
+      "word" : "nord"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.110000,
+      "word" : "principalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.860000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.100000,
+      "word" : "estats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.460000,
+      "word" : "units"
+    }],
+  "text" : "és un gènere originari de l'hemisferi nord principalment dels estats units"
+}

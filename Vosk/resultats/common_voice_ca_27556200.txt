@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.420926,
+      "end" : 0.810000,
+      "start" : 0.660000,
+      "word" : "bé"
+    }, {
+      "conf" : 0.764226,
+      "end" : 0.926761,
+      "start" : 0.810000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.926761,
+      "word" : "accepta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.440000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.500000,
+      "word" : "feien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.860000,
+      "word" : "presoner"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.340000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.460000,
+      "word" : "canvi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "que"
+    }, {
+      "conf" : 0.603895,
+      "end" : 3.000000,
+      "start" : 2.910000,
+      "word" : "els"
+    }, {
+      "conf" : 0.620062,
+      "end" : 3.600000,
+      "start" : 3.000000,
+      "word" : "alliberem"
+    }],
+  "text" : "bé no accepta que el feien presoner a canvi que els alliberem"
+}

@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.866673,
+      "end" : 0.720000,
+      "start" : 0.240000,
+      "word" : "l'or"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.840000,
+      "word" : "corrin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.380000,
+      "word" : "fútbol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.280000,
+      "word" : "club"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.940000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.210000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.420000,
+      "word" : "club"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.690000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.780000,
+      "word" : "futbol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.140000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.260000,
+      "word" : "peix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.590000,
+      "word" : "ley"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.890000,
+      "word" : "escòcia"
+    }],
+  "text" : "l'or corrin fútbol club era un club de futbol de peix ley escòcia"
+}

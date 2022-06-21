@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.040000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.310000,
+      "word" : "èxits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.820000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.480000,
+      "word" : "no"
+    }, {
+      "conf" : 0.893315,
+      "end" : 4.500000,
+      "start" : 3.750000,
+      "word" : "continuaren"
+    }],
+  "text" : "els èxits però no continuaren"
+}

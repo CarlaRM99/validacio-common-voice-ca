@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.420000,
+      "word" : "telefona"
+    }, {
+      "conf" : 0.795277,
+      "end" : 1.530000,
+      "start" : 1.290000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.530000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.740000,
+      "word" : "vuitanta-set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.610000,
+      "word" : "on"
+    }, {
+      "conf" : 0.884501,
+      "end" : 3.000000,
+      "start" : 2.820000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.000000,
+      "word" : "vint-i-nou"
+    }, {
+      "conf" : 0.555115,
+      "end" : 4.020000,
+      "start" : 3.660000,
+      "word" : "deu"
+    }],
+  "text" : "telefona els sis vuitanta-set on s'ha vint-i-nou deu"
+}

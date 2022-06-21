@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.840000,
+      "word" : "l'últim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "collar"
+    }, {
+      "conf" : 0.515313,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.830000,
+      "word" : "replegar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.730000,
+      "word" : "és"
+    }, {
+      "conf" : 0.813000,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "cert"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.060000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.180000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.349982,
+      "start" : 3.270000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.394887,
+      "end" : 3.800269,
+      "start" : 3.360000,
+      "word" : "situada"
+    }, {
+      "conf" : 0.610940,
+      "end" : 3.840000,
+      "start" : 3.800269,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.840000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.960000,
+      "word" : "plaça"
+    }, {
+      "conf" : 0.588945,
+      "end" : 4.937052,
+      "start" : 4.824788,
+      "word" : "de"
+    }, {
+      "conf" : 0.521096,
+      "end" : 5.100000,
+      "start" : 4.937052,
+      "word" : "munt"
+    }, {
+      "conf" : 0.826657,
+      "end" : 5.160000,
+      "start" : 5.100000,
+      "word" : "de"
+    }, {
+      "conf" : 0.826657,
+      "end" : 5.670000,
+      "start" : 5.160000,
+      "word" : "l'acadèmic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.670000,
+      "word" : "metàl·lic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.090000,
+      "word" : "telèfon"
+    }],
+  "text" : "l'últim collar que replegar és cert que hi ha situada a la plaça de munt de l'acadèmic metàl·lic telèfon"
+}

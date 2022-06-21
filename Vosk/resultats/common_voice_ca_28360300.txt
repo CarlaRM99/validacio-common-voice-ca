@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.570000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.930000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.230000,
+      "word" : "probable"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.920000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.980000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.310000,
+      "word" : "ministre"
+    }, {
+      "conf" : 0.815511,
+      "end" : 3.330000,
+      "start" : 2.940000,
+      "word" : "guanyi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.330000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.540000,
+      "word" : "properes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.080000,
+      "word" : "eleccions"
+    }],
+  "text" : "és poc probable que el primer ministre guanyi les properes eleccions"
+}

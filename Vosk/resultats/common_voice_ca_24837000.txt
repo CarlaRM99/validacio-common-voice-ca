@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.390000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.570000,
+      "word" : "inundacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.170000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.260000,
+      "word" : "guatemala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.220000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.460000,
+      "word" : "destruir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.970000,
+      "word" : "poblacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.660000,
+      "word" : "senceres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.350000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.470000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.237283,
+      "start" : 4.620000,
+      "word" : "interrompre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.250000,
+      "word" : "l'exportació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.970000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.120000,
+      "word" : "petroli"
+    }],
+  "text" : "les inundacions de guatemala van destruir poblacions senceres i van interrompre l'exportació del petroli"
+}

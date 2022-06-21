@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.282812,
+      "start" : 1.050000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.304376,
+      "word" : "arribar"
+    }, {
+      "conf" : 0.920953,
+      "end" : 2.220000,
+      "start" : 1.950000,
+      "word" : "als"
+    }, {
+      "conf" : 0.629742,
+      "end" : 3.000000,
+      "start" : 2.220000,
+      "word" : "accessos"
+    }, {
+      "conf" : 0.504399,
+      "end" : 3.210000,
+      "start" : 3.030000,
+      "word" : "i"
+    }, {
+      "conf" : 0.628637,
+      "end" : 3.510000,
+      "start" : 3.210000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.630000,
+      "word" : "escales"
+    }],
+  "text" : "per arribar als accessos i ha escales"
+}

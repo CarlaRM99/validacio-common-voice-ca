@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.866478,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.690000,
+      "word" : "l'assumpte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.080000,
+      "word" : "encara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.350000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.650000,
+      "word" : "resoldre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.310000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.520000,
+      "word" : "cançó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.970000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.150000,
+      "word" : "donada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.570000,
+      "word" : "la"
+    }, {
+      "conf" : 0.736138,
+      "end" : 4.140000,
+      "start" : 3.720000,
+      "word" : "vàlua"
+    }],
+  "text" : "en l'assumpte encara sense resoldre la cançó va ser donada la vàlua"
+}

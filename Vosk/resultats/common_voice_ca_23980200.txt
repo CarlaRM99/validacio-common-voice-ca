@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.270000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.540000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.630000,
+      "word" : "realitzar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.990000,
+      "word" : "pintures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.380000,
+      "word" : "històriques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.980000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.160000,
+      "word" : "menys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.370000,
+      "word" : "apreciades"
+    }],
+  "text" : "també va realitzar pintures històriques molt menys apreciades"
+}

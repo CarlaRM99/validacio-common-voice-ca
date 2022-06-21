@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.711686,
+      "end" : 0.855253,
+      "start" : 0.510000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.855253,
+      "word" : "cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.470000,
+      "word" : "patriarques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.400000,
+      "word" : "tenien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.820000,
+      "word" : "autoritat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.660000,
+      "word" : "precedència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.530000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.920000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.370000,
+      "word" : "bisbes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 5.940000,
+      "word" : "l'església"
+    }],
+  "text" : "els cinc patriarques tenien autoritat i precedència sobre altres bisbes de l'església"
+}

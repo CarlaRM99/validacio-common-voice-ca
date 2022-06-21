@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.394805,
+      "end" : 0.540000,
+      "start" : 0.240000,
+      "word" : "d'altra"
+    }, {
+      "conf" : 0.394805,
+      "end" : 0.810000,
+      "start" : 0.540000,
+      "word" : "banda"
+    }, {
+      "conf" : 0.545299,
+      "end" : 1.380000,
+      "start" : 0.877099,
+      "word" : "danyada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "i"
+    }, {
+      "conf" : 0.827329,
+      "end" : 2.130000,
+      "start" : 1.530000,
+      "word" : "executava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.250000,
+      "word" : "peces"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.820000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.090000,
+      "word" : "li"
+    }, {
+      "conf" : 0.836222,
+      "end" : 3.689086,
+      "start" : 3.180000,
+      "word" : "encarregà"
+    }, {
+      "conf" : 0.948169,
+      "end" : 4.469982,
+      "start" : 3.744958,
+      "word" : "particularment"
+    }],
+  "text" : "d'altra banda danyada i executava les peces que se li encarregà particularment"
+}

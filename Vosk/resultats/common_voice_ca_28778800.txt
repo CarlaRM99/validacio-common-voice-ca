@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.050000,
+      "word" : "l'ús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.410000,
+      "word" : "literari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.160000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.220000,
+      "word" : "narratiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "de"
+    }, {
+      "conf" : 0.831178,
+      "end" : 3.540000,
+      "start" : 2.940000,
+      "word" : "l'hebreu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.900000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.080000,
+      "word" : "reviure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.830000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.950000,
+      "word" : "partir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.340000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 5.550000,
+      "word" : "moviment"
+    }, {
+      "conf" : 0.880948,
+      "end" : 6.533478,
+      "start" : 6.330000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.110000,
+      "start" : 6.533478,
+      "word" : "escalar"
+    }],
+  "text" : "l'ús literari i narratiu de l'hebreu va reviure a partir del moviment a escalar"
+}

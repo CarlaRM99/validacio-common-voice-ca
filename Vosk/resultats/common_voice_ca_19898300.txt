@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.613315,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.960000,
+      "word" : "comportes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.740000,
+      "word" : "estaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.130000,
+      "word" : "fetes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.460000,
+      "word" : "d'acer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.940000,
+      "word" : "perquè"
+    }, {
+      "conf" : 0.855291,
+      "end" : 3.473465,
+      "start" : 3.180000,
+      "word" : "tenien"
+    }, {
+      "conf" : 0.762134,
+      "end" : 3.540000,
+      "start" : 3.480000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.540000,
+      "word" : "superfície"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.170000,
+      "word" : "gran"
+    }],
+  "text" : "les comportes estaven fetes d'acer perquè tenien la superfície gran"
+}

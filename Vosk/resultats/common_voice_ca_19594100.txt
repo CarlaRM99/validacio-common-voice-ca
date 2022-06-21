@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.420000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.170000,
+      "word" : "descomptat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.190000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.520000,
+      "word" : "extremadament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.360000,
+      "word" : "difícil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.020000,
+      "word" : "detectar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.680000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.800000,
+      "word" : "erupcions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.400000,
+      "word" : "prehistòriques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.540000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.960000,
+      "start" : 6.720000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.040000,
+      "start" : 6.960000,
+      "word" : "observades"
+    }],
+  "text" : "això per descomptat és extremadament difícil de detectar en erupcions prehistòriques o no observades"
+}

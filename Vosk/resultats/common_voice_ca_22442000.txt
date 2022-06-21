@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.660000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.990000,
+      "word" : "descuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.620000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.830000,
+      "word" : "corda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.370000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.580000,
+      "word" : "trenca"
+    }],
+  "text" : "en un descuit la corda es trenca"
+}

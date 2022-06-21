@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.838445,
+      "end" : 0.900000,
+      "start" : 0.690000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "nord"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.200000,
+      "word" : "boscós"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.070000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.340000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.400000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.790000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.000000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.150000,
+      "word" : "urbanitzar"
+    }],
+  "text" : "el nord boscós a poc a poc es va urbanitzar"
+}

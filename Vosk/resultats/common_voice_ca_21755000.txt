@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.840000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.200000,
+      "word" : "disposa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.920000,
+      "word" : "llicències"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.520000,
+      "word" : "d'emissió"
+    }, {
+      "conf" : 0.699144,
+      "end" : 3.390000,
+      "start" : 3.180000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.390000,
+      "word" : "canals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.840000,
+      "word" : "múltiples"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.500000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.650000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.770000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.100000,
+      "word" : "d'urgell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.610000,
+      "word" : "fraga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 6.120000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.240000,
+      "word" : "monzó"
+    }],
+  "text" : "també disposa de llicències d'emissió els canals múltiples de la seu d'urgell fraga i monzó"
+}

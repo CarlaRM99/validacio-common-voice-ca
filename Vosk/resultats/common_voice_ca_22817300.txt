@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.840000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.170000,
+      "word" : "treva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.740000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.980000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.190000,
+      "word" : "establir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.910000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.090000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.240000,
+      "word" : "francs"
+    }],
+  "text" : "una treva es va establir amb els francs"
+}

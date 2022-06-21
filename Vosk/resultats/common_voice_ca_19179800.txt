@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.990000,
+      "word" : "farigola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.680000,
+      "word" : "malves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.310000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.400000,
+      "word" : "grans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.730000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.850000,
+      "word" : "rosari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.450000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.600000,
+      "word" : "planta"
+    }, {
+      "conf" : 0.599645,
+      "end" : 4.410000,
+      "start" : 3.990000,
+      "word" : "enric"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.470000,
+      "word" : "herbolari"
+    }],
+  "text" : "amb farigola malves i grans de rosari es planta enric herbolari"
+}

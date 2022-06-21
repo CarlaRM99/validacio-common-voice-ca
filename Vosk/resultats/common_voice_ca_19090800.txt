@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.870000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.050000,
+      "word" : "mariner"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.410000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920517,
+      "start" : 1.500000,
+      "word" : "trobar-se"
+    }, {
+      "conf" : 0.725210,
+      "end" : 2.009287,
+      "start" : 1.920517,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.009287,
+      "word" : "perills"
+    }],
+  "text" : "no fa mariner no trobar-se amb perills"
+}

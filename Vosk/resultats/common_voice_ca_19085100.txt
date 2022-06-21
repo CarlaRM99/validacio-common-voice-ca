@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.720000,
+      "word" : "nadal"
+    }, {
+      "conf" : 0.889023,
+      "end" : 1.260000,
+      "start" : 1.170000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.260000,
+      "word" : "dijous"
+    }, {
+      "conf" : 0.813324,
+      "end" : 2.490000,
+      "start" : 2.100000,
+      "word" : "crema"
+    }, {
+      "conf" : 0.898145,
+      "end" : 3.030000,
+      "start" : 2.490000,
+      "word" : "l'arada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.090000,
+      "word" : "i"
+    }, {
+      "conf" : 0.603977,
+      "end" : 3.390000,
+      "start" : 3.210000,
+      "word" : "ben"
+    }, {
+      "conf" : 0.564788,
+      "end" : 3.600000,
+      "start" : 3.390000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.600000,
+      "word" : "bous"
+    }],
+  "text" : "nadal en dijous crema l'arada i ben els bous"
+}

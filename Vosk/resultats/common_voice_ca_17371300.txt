@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.941722,
+      "end" : 1.560000,
+      "start" : 0.870000,
+      "word" : "elabora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.590000,
+      "word" : "propostes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.220000,
+      "word" : "d'assessorament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.090000,
+      "word" : "usos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.450000,
+      "word" : "socials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.170000,
+      "word" : "adaptant-les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 5.010000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.100000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.250000,
+      "word" : "demandes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.700000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 5.910000,
+      "word" : "clients"
+    }],
+  "text" : "elabora propostes d'assessorament en usos socials adaptant-les a les demandes dels clients"
+}

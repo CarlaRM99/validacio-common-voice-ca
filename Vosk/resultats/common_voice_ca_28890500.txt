@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.775100,
+      "start" : 0.510000,
+      "word" : "quan"
+    }, {
+      "conf" : 0.669738,
+      "end" : 1.101599,
+      "start" : 0.780000,
+      "word" : "passa"
+    }, {
+      "conf" : 0.361610,
+      "end" : 1.140000,
+      "start" : 1.101599,
+      "word" : "a"
+    }, {
+      "conf" : 0.752082,
+      "end" : 1.680000,
+      "start" : 1.210182,
+      "word" : "autobús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.680000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.920000,
+      "word" : "miravet"
+    }],
+  "text" : "quan passa a autobús per miravet"
+}

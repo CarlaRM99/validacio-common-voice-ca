@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.840000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.020000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.410000,
+      "word" : "ascens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.310000,
+      "word" : "implica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.880000,
+      "word" : "travesses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.510000,
+      "word" : "glacials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.110000,
+      "word" : "fàcils"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.100000,
+      "word" : "i"
+    }, {
+      "conf" : 0.782060,
+      "end" : 6.000000,
+      "start" : 5.280000,
+      "word" : "escalada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 6.000000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.180000,
+      "word" : "meu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.420000,
+      "word" : "escarpada"
+    }],
+  "text" : "el seu ascens implica travesses glacials fàcils i escalada en meu escarpada"
+}

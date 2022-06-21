@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.841609,
+      "end" : 0.690000,
+      "start" : 0.570000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.694752,
+      "word" : "l'evacuació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.530000,
+      "word" : "passar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.860000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.040000,
+      "word" : "sector"
+    }, {
+      "conf" : 0.731449,
+      "end" : 2.460000,
+      "start" : 2.430000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.460000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.610000,
+      "word" : "altre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.940000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.120000,
+      "word" : "arribar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.570000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.660000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.780000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.050000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.290000,
+      "word" : "segur"
+    }],
+  "text" : "a l'evacuació passar d'un sector a un altre és arribar a un lloc més segur"
+}

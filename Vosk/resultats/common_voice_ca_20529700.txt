@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.930000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.140000,
+      "word" : "llengua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.560000,
+      "word" : "vehicular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.190000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.370000,
+      "word" : "tribunal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.000000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.210000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.270000,
+      "word" : "català"
+    }],
+  "text" : "la llengua vehicular del tribunal era el català"
+}

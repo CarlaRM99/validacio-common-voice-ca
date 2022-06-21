@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.725115,
+      "end" : 0.900000,
+      "start" : 0.480000,
+      "word" : "tgd"
+    }, {
+      "conf" : 0.727030,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "of"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.350000,
+      "word" : "agafar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.830000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.160000,
+      "word" : "flotilla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.000000,
+      "word" : "atacar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.360000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.540000,
+      "word" : "quadrilla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.020000,
+      "word" : "danesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.440000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.620000,
+      "word" : "mar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.830000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 4.980000,
+      "word" : "nord"
+    }],
+  "text" : "tgd of va agafar la seva flotilla per atacar les quadrilla danesa del mar del nord"
+}

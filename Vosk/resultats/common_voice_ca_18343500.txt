@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.770000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.010000,
+      "word" : "molts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.610000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.820000,
+      "word" : "cert"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.570000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.750000,
+      "word" : "tampoc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.380000,
+      "word" : "massa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.740000,
+      "word" : "pocs"
+    }],
+  "text" : "no molts és cert però tampoc massa pocs"
+}

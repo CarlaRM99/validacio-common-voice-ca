@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.240000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.510000,
+      "word" : "efectes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.960000,
+      "word" : "secundaris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.590000,
+      "word" : "comuns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.040000,
+      "word" : "inclouen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.520000,
+      "word" : "picor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.330000,
+      "word" : "inflament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.870000,
+      "word" : "facial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.530000,
+      "word" : "maldecap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.340000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.460000,
+      "word" : "sentir-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.030000,
+      "word" : "cansat"
+    }],
+  "text" : "els efectes secundaris comuns inclouen picor inflament facial maldecap i sentir-se cansat"
+}

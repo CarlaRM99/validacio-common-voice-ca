@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.660000,
+      "word" : "existeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.440000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.560000,
+      "word" : "exemplar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.340000,
+      "word" : "l'obra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.090000,
+      "word" : "biblioteca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.750000,
+      "word" : "provincial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.530000,
+      "word" : "granada"
+    }],
+  "text" : "existeix un exemplar de l'obra a la biblioteca provincial de granada"
+}

@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.570000,
+      "word" : "destaca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.140000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.260000,
+      "word" : "intensitat"
+    }, {
+      "conf" : 0.668627,
+      "end" : 2.460000,
+      "start" : 2.310000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.460000,
+      "word" : "treball"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.820000,
+      "word" : "dur"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.300000,
+      "word" : "força"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.750000,
+      "word" : "funcional"
+    }, {
+      "conf" : 0.528334,
+      "end" : 4.740000,
+      "start" : 4.590000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.740000,
+      "word" : "poder"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.220000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.370000,
+      "word" : "resistència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 6.180000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 6.300000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.960000,
+      "start" : 6.390000,
+      "word" : "fortalesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.440000,
+      "start" : 6.960000,
+      "word" : "mental"
+    }],
+  "text" : "destaca la intensitat el treball dur la força funcional el poder la resistència i la fortalesa mental"
+}

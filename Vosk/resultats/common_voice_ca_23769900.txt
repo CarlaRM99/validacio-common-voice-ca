@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.050000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.410000,
+      "word" : "meves"
+    }, {
+      "conf" : 0.841532,
+      "end" : 2.820000,
+      "start" : 1.710000,
+      "word" : "motoritzacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.850000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.120000,
+      "word" : "totes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.450000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.540000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.870000,
+      "word" : "cilindres"
+    }],
+  "text" : "les meves motoritzacions són totes de quatre cilindres"
+}

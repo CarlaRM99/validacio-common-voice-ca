@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.551763,
+      "end" : 1.329492,
+      "start" : 0.840000,
+      "word" : "informe"
+    }, {
+      "conf" : 0.708361,
+      "end" : 1.410000,
+      "start" : 1.334809,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.410000,
+      "word" : "govern"
+    }, {
+      "conf" : 0.796189,
+      "end" : 1.975298,
+      "start" : 1.710000,
+      "word" : "sola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.975298,
+      "word" : "activitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.610000,
+      "word" : "comissions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.000000,
+      "word" : "d'investigació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.840000,
+      "word" : "d'estudi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.500000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.620000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.740000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.890000,
+      "word" : "ponències"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.340000,
+      "word" : "parlamentaris"
+    }],
+  "text" : "informe el govern sola activitat de les comissions d'investigació d'estudi i de les ponències parlamentaris"
+}

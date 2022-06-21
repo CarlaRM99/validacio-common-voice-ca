@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.330000,
+      "word" : "possiblement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.020000,
+      "word" : "uns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.230000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.440000,
+      "word" : "abans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.800000,
+      "word" : "s'havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.100000,
+      "word" : "eliminat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.580000,
+      "word" : "l'escala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.030000,
+      "word" : "noble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.330000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.450000,
+      "word" : "pati"
+    }],
+  "text" : "possiblement uns anys abans s'havia eliminat l'escala noble del pati"
+}

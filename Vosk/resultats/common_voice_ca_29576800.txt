@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.600000,
+      "word" : "el"
+    }, {
+      "conf" : 0.645760,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "meu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.020000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.440000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "el"
+    }, {
+      "conf" : 0.758945,
+      "end" : 2.250000,
+      "start" : 1.770000,
+      "word" : "cis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.280000,
+      "word" : "zero"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.790000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.060000,
+      "word" : "noranta-cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 3.960000,
+      "word" : "noranta-sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 4.920000,
+      "word" : "noranta-vuit"
+    }],
+  "text" : "el meu número és el cis zero o noranta-cinc noranta-sis noranta-vuit"
+}

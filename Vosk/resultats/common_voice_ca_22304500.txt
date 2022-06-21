@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.930000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.170000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.560000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.800000,
+      "word" : "d'indoxina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.640000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.940000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.030000,
+      "word" : "borneo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.600000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.840000,
+      "word" : "java"
+    }],
+  "text" : "es troba des d'indoxina fins a borneo i java"
+}

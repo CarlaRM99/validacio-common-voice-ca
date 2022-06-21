@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.050000,
+      "word" : "bon"
+    }, {
+      "conf" : 0.495007,
+      "end" : 1.589000,
+      "start" : 1.380000,
+      "word" : "marí"
+    }, {
+      "conf" : 0.363039,
+      "end" : 1.950000,
+      "start" : 1.589000,
+      "word" : "mariner"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.010000,
+      "word" : "lletada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.550000,
+      "word" : "viatge"
+    }, {
+      "conf" : 0.730141,
+      "end" : 3.330000,
+      "start" : 3.090000,
+      "word" : "treu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.341698,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.540000,
+      "word" : "tripes"
+    }],
+  "text" : "bon marí mariner lletada viatge treu les tripes"
+}

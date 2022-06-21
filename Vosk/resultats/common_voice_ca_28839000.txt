@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.080000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.350000,
+      "word" : "morir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.950000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.160000,
+      "word" : "persona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.700000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "qui"
+    }, {
+      "conf" : 0.839710,
+      "end" : 3.630000,
+      "start" : 2.940000,
+      "word" : "muntava"
+    }],
+  "text" : "va morir la persona amb qui muntava"
+}

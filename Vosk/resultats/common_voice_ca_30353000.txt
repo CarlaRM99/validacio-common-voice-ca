@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.510000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.050000,
+      "word" : "candidatures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.740000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.920000,
+      "word" : "volen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.190000,
+      "word" : "aconseguir"
+    }, {
+      "conf" : 0.783023,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.000000,
+      "word" : "primàries"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.510000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.570000,
+      "word" : "catalunya"
+    }],
+  "text" : "com són les candidatures que es volen aconseguir en primàries de catalunya"
+}

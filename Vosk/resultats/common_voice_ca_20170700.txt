@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.660000,
+      "word" : "re"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.020000,
+      "word" : "anomenada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.590000,
+      "word" : "labastida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "de"
+    }, {
+      "conf" : 0.703447,
+      "end" : 2.790000,
+      "start" : 2.310000,
+      "word" : "ponts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.208100,
+      "start" : 2.940000,
+      "word" : "també"
+    }, {
+      "conf" : 0.903094,
+      "end" : 3.570000,
+      "start" : 3.210000,
+      "word" : "dita"
+    }, {
+      "conf" : 0.499199,
+      "end" : 3.630000,
+      "start" : 3.570000,
+      "word" : "a"
+    }, {
+      "conf" : 0.694133,
+      "end" : 4.230000,
+      "start" : 3.630000,
+      "word" : "labastida"
+    }, {
+      "conf" : 0.960713,
+      "end" : 4.437407,
+      "start" : 4.230000,
+      "word" : "d'en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.437407,
+      "word" : "donat"
+    }],
+  "text" : "re anomenada labastida de ponts i també dita a labastida d'en donat"
+}

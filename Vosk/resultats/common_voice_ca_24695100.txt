@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "nom"
+    }, {
+      "conf" : 0.504879,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "de"
+    }, {
+      "conf" : 0.504879,
+      "end" : 1.770000,
+      "start" : 1.380000,
+      "word" : "badal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.800000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.950000,
+      "word" : "apareixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.490000,
+      "word" : "alguns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.820000,
+      "word" : "mapes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.330000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.570000,
+      "word" : "fruit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.930000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.110000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.410000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.530000,
+      "word" : "l'antic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 4.980000,
+      "word" : "propietari"
+    }],
+  "text" : "el nom de badal que apareixen alguns mapes és fruit del nom de l'antic propietari"
+}

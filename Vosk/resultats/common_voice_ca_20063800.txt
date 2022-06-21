@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "terres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.290000,
+      "word" : "empedrat"
+    }],
+  "text" : "el terres empedrat"
+}

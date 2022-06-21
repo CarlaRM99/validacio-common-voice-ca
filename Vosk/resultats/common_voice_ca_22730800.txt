@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.780000,
+      "word" : "successió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.470000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.620000,
+      "word" : "causar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.220000,
+      "word" : "noves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.610000,
+      "word" : "disputes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.210000,
+      "word" : "familiars"
+    }],
+  "text" : "la successió va causar noves disputes familiars"
+}

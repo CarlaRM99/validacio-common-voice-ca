@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.712081,
+      "end" : 1.590000,
+      "start" : 0.870000,
+      "word" : "evelyn"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.951341,
+      "start" : 1.710000,
+      "word" : "era"
+    }, {
+      "conf" : 0.771356,
+      "end" : 2.009445,
+      "start" : 1.951341,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.009445,
+      "word" : "responsable"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.670000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.850000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.090000,
+      "word" : "primers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.450000,
+      "word" : "volums"
+    }],
+  "text" : "evelyn era el responsable dels dos primers volums"
+}

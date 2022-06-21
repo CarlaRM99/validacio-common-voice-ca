@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.644571,
+      "end" : 1.440000,
+      "start" : 0.840000,
+      "word" : "emprendre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.470000,
+      "word" : "qualsevol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.920000,
+      "word" : "funció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.280000,
+      "word" : "militar"
+    }, {
+      "conf" : 0.619740,
+      "end" : 3.240000,
+      "start" : 3.030000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.240000,
+      "word" : "canal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.690000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.840000,
+      "word" : "esdevenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.380000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.590000,
+      "word" : "biòtop"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.160000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.430000,
+      "word" : "interessant"
+    }],
+  "text" : "emprendre qualsevol funció militar al canal va esdevenir un biòtop molt interessant"
+}

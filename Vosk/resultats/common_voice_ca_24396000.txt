@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.690000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.020000,
+      "word" : "famílies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.710000,
+      "word" : "de"
+    }, {
+      "conf" : 0.551533,
+      "end" : 2.190000,
+      "start" : 1.890000,
+      "word" : "mono"
+    }, {
+      "conf" : 0.894161,
+      "end" : 2.608429,
+      "start" : 2.190000,
+      "word" : "cotilla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.608429,
+      "word" : "idònies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.300000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.649998,
+      "start" : 3.660000,
+      "word" : "completes"
+    }],
+  "text" : "les famílies de mono cotilla idònies són completes"
+}

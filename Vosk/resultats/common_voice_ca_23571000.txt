@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "es"
+    }, {
+      "conf" : 0.693114,
+      "end" : 1.200000,
+      "start" : 0.960000,
+      "word" : "dur"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.200000,
+      "word" : "sempre"
+    }, {
+      "conf" : 0.586802,
+      "end" : 2.070000,
+      "start" : 1.890000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.792882,
+      "end" : 2.550000,
+      "start" : 2.070000,
+      "word" : "botes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.820000,
+      "word" : "mitja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.120000,
+      "word" : "canya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.690000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.110000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.380000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.560000,
+      "word" : "graus"
+    }],
+  "text" : "es dur sempre amb botes de mitja canya entre tots els graus"
+}

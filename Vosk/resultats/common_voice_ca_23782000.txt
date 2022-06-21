@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.230000,
+      "word" : "tiberi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.860000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.040000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.190000,
+      "word" : "nomenar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.610000,
+      "word" : "governador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.330000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.450000,
+      "word" : "síria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.080000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.290000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.440000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.560000,
+      "word" : "arribar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.950000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 4.980000,
+      "word" : "exercir"
+    }],
+  "text" : "tiberi el va nomenar governador de síria però no va arribar a exercir"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.540000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.660000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.140000,
+      "word" : "punta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.530000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.650000,
+      "word" : "l'ala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.100000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.340000,
+      "word" : "ajustar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 3.000000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.090000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.660000,
+      "word" : "angles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.140000,
+      "word" : "controlant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.920000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.130000,
+      "word" : "moviments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 5.880000,
+      "word" : "aerodinàmics"
+    }],
+  "text" : "a més la punta de l'ala pot ajustar-se en diversos angles controlant els moviments aerodinàmics"
+}

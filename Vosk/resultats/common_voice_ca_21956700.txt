@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.600000,
+      "word" : "darrerament"
+    }, {
+      "conf" : 0.453405,
+      "end" : 1.890000,
+      "start" : 1.590000,
+      "word" : "o"
+    }, {
+      "conf" : 0.725360,
+      "end" : 2.430000,
+      "start" : 1.920000,
+      "word" : "arranjar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.460000,
+      "word" : "cases"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.940000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.150000,
+      "word" : "poble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.810000,
+      "word" : "masies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.440000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.650000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.710000,
+      "word" : "segona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.160000,
+      "word" : "residència"
+    }],
+  "text" : "darrerament o arranjar cases del poble o masies com a segona residència"
+}

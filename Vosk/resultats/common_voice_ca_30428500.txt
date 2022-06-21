@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.600000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.870000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.080000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.260000,
+      "word" : "trama"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.950000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.040000,
+      "word" : "vidriera"
+    }],
+  "text" : "com era la trama de la vidriera"
+}

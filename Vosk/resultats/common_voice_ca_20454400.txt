@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.720000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.930000,
+      "word" : "indústria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.350000,
+      "word" : "existent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.010000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.400000,
+      "word" : "tres"
+    }, {
+      "conf" : 0.603309,
+      "end" : 3.300000,
+      "start" : 2.730000,
+      "word" : "fassines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.300000,
+      "word" : "d'aiguardent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.050000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.410000,
+      "word" : "molins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.770000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.830000,
+      "word" : "farina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.280000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.340000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.580000,
+      "word" : "d'oli"
+    }],
+  "text" : "la indústria existent era tres fassines d'aiguardent quatre molins de farina i dos d'oli"
+}

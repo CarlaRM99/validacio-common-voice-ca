@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.360000,
+      "word" : "demà"
+    }, {
+      "conf" : 0.681257,
+      "end" : 0.960000,
+      "start" : 0.840000,
+      "word" : "he"
+    }, {
+      "conf" : 0.681257,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "d'anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.260000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.350000,
+      "word" : "montclar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.130000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.370000,
+      "word" : "autobús"
+    }],
+  "text" : "demà he d'anar a montclar amb autobús"
+}

@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.930000,
+      "word" : "premi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.380000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.620000,
+      "word" : "categoria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.340000,
+      "word" : "caràcter"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 2.850000,
+      "word" : "indivisible"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.720000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.810000,
+      "word" : "s'atorgarà"
+    }, {
+      "conf" : 0.779289,
+      "end" : 4.710000,
+      "start" : 4.590000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.710000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.980000,
+      "word" : "sola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.280000,
+      "word" : "persona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.880000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.060000,
+      "word" : "entitat"
+    }],
+  "text" : "el premi de cada categoria té caràcter indivisible i s'atorgarà a una sola persona o entitat"
+}

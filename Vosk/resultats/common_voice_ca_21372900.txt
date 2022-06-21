@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.780000,
+      "word" : "conté"
+    }, {
+      "conf" : 0.657657,
+      "end" : 1.830000,
+      "start" : 1.380000,
+      "word" : "os"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.010000,
+      "word" : "cartílag"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.940000,
+      "word" : "allí"
+    }],
+  "text" : "conté os i cartílag i allí"
+}

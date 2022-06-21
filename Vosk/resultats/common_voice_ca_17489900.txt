@@ -1,0 +1,104 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.960000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.200000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.290000,
+      "word" : "palmar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.920000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.070000,
+      "word" : "commoure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.730000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.910000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.000000,
+      "word" : "notícia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.450000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.570000,
+      "word" : "matrimoni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.410000,
+      "word" : "canyamel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.190000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.340000,
+      "word" : "passar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.730000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.850000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 6.060000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.210000,
+      "word" : "succés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.750000,
+      "word" : "esperat"
+    }],
+  "text" : "tot el palmar es va commoure amb la notícia del matrimoni de canyamel a passar que era un succés esperat"
+}

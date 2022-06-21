@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.503651,
+      "end" : 1.020000,
+      "start" : 0.600000,
+      "word" : "enlloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.260000,
+      "word" : "logo"
+    }, {
+      "conf" : 0.658017,
+      "end" : 2.280000,
+      "start" : 1.830000,
+      "word" : "doha"
+    }, {
+      "conf" : 0.405597,
+      "end" : 2.820000,
+      "start" : 2.310000,
+      "word" : "glifs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.970000,
+      "word" : "podria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.390000,
+      "word" : "haver"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.600000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.050000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.260000,
+      "word" : "gota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.590000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.710000,
+      "word" : "rosada"
+    }],
+  "text" : "enlloc del logo doha glifs podria haver estat una gota de rosada"
+}

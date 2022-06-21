@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.630000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.020000,
+      "word" : "casal"
+    }],
+  "text" : "gran casal"
+}

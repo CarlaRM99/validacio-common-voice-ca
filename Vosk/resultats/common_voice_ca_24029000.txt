@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.510000,
+      "word" : "casa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.050000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.470000,
+      "word" : "rectangular"
+    }, {
+      "conf" : 0.693634,
+      "end" : 2.940000,
+      "start" : 2.190000,
+      "word" : "distribuïa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.967573,
+      "word" : "segons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.540000,
+      "word" : "eix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.720000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.840000,
+      "word" : "simetria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.380000,
+      "word" : "central"
+    }],
+  "text" : "casa de planta rectangular distribuïa segons un eix de simetria central"
+}

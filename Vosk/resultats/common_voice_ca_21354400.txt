@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.240000,
+      "word" : "alguns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.600000,
+      "word" : "ferrocarrils"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.230000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.320000,
+      "word" : "muntanya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.920000,
+      "word" : "han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.100000,
+      "word" : "usat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.430000,
+      "word" : "corrent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.090000,
+      "word" : "trifàsic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.870000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.050000,
+      "word" : "accionar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.470000,
+      "word" : "motors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.890000,
+      "word" : "trifàsics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.610000,
+      "word" : "d'inducció"
+    }],
+  "text" : "alguns ferrocarrils de muntanya han usat corrent trifàsic per accionar motors trifàsics d'inducció"
+}

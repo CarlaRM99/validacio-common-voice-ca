@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "té"
+    }, {
+      "conf" : 0.545779,
+      "end" : 1.020000,
+      "start" : 0.900000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.020000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.290000,
+      "word" : "costat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 1.860000,
+      "word" : "meridional"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.940000,
+      "word" : "l'antic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.450000,
+      "word" : "cementiri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.050000,
+      "word" : "parroquial"
+    }],
+  "text" : "té el seu costat meridional l'antic cementiri parroquial"
+}

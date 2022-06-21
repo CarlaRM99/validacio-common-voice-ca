@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.605537,
+      "end" : 1.080000,
+      "start" : 0.600000,
+      "word" : "caterina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.080000,
+      "word" : "bon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.230000,
+      "word" : "manteniment"
+    }],
+  "text" : "caterina bon manteniment"
+}

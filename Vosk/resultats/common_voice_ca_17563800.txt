@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.613915,
+      "end" : 1.410031,
+      "start" : 1.170000,
+      "word" : "ser"
+    }, {
+      "conf" : 0.880412,
+      "end" : 1.919974,
+      "start" : 1.410031,
+      "word" : "lliure"
+    }],
+  "text" : "ser lliure"
+}

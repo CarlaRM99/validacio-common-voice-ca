@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.618137,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 0.990000,
+      "word" : "repetició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.010000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.490000,
+      "word" : "rafael"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.120000,
+      "word" : "ribó"
+    }, {
+      "conf" : 0.721107,
+      "end" : 3.810000,
+      "start" : 3.720000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.810000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.930000,
+      "word" : "junta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.350000,
+      "word" : "electoral"
+    }],
+  "text" : "i repetició ha fet rafael ribó a la junta electoral"
+}

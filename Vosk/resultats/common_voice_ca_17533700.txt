@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.630000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.960000,
+      "word" : "homes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.320000,
+      "word" : "celebraven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.100000,
+      "word" : "igualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 2.910000,
+      "word" : "senzillesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.810000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.684232,
+      "end" : 4.080000,
+      "start" : 3.960000,
+      "word" : "què"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.080000,
+      "word" : "tractava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.620000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.800000,
+      "word" : "funcions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.400000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.550000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.030000,
+      "word" : "ministeri"
+    }],
+  "text" : "els homes celebraven igualment la senzillesa amb què tractava les funcions del seu ministeri"
+}

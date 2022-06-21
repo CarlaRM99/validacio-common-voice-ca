@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.840000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.110000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.290000,
+      "word" : "servir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.560000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.650000,
+      "word" : "farmàcia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.160000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.340000,
+      "word" : "cobertura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.850000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.749999,
+      "start" : 2.940000,
+      "word" : "medicaments"
+    }],
+  "text" : "també es fa servir en farmàcia com cobertura de medicaments"
+}

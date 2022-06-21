@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.480000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.750000,
+      "word" : "diu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.200000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.320000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.410000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.029498,
+      "start" : 1.680000,
+      "word" : "veure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.659474,
+      "start" : 2.040000,
+      "word" : "taiwan"
+    }, {
+      "conf" : 0.334485,
+      "end" : 2.940000,
+      "start" : 2.670000,
+      "word" : "des"
+    }, {
+      "conf" : 0.714645,
+      "end" : 3.810000,
+      "start" : 3.240000,
+      "word" : "saqui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.870000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.110000,
+      "word" : "dies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.530000,
+      "word" : "clars"
+    }],
+  "text" : "es diu que es pot veure taiwan des saqui els dies clars"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.090000,
+      "word" : "aspectes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.050000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.230000,
+      "word" : "l'ús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.470000,
+      "word" : "corrent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.950000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.100000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.190000,
+      "word" : "llengua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.550000,
+      "word" : "catalana"
+    }],
+  "text" : "aspectes de l'ús corrent de la llengua catalana"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.900000,
+      "word" : "després"
+    }, {
+      "conf" : 0.634186,
+      "end" : 2.070000,
+      "start" : 1.470000,
+      "word" : "s'arregla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.070000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.160000,
+      "word" : "còrdova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.150000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.330000,
+      "word" : "naixeran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.990000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.470000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.710000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.920000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.160000,
+      "word" : "fills"
+    }],
+  "text" : "poc després s'arregla a còrdova on naixeran dos dels seus tres fills"
+}

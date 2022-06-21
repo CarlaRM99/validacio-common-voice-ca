@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.810000,
+      "word" : "material"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.500000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.650000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.860000,
+      "word" : "adoptat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.460000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.640000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.000000,
+      "word" : "aplicacions"
+    }],
+  "text" : "el material va ser adoptat per altres aplicacions"
+}

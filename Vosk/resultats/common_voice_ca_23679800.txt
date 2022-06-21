@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.300000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.540000,
+      "word" : "població"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.380000,
+      "word" : "país"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.220000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.430000,
+      "word" : "dedicava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.240000,
+      "word" : "l'agricultura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.380000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.500000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.620000,
+      "word" : "ramaderia"
+    }],
+  "text" : "la població del país es dedicava a l'agricultura i la ramaderia"
+}

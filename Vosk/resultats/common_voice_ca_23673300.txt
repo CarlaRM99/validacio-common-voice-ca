@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.200000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.530000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.740000,
+      "word" : "ofensiva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.190000,
+      "word" : "alemanya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.730000,
+      "word" : "anomenada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.300000,
+      "word" : "batalla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.840000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.335944,
+      "start" : 4.050000,
+      "word" : "golf"
+    }, {
+      "conf" : 0.531486,
+      "end" : 4.440000,
+      "start" : 4.350000,
+      "word" : "de"
+    }, {
+      "conf" : 0.531486,
+      "end" : 4.860000,
+      "start" : 4.440000,
+      "word" : "riga"
+    }],
+  "text" : "va ser part d'una ofensiva alemanya anomenada batalla del golf de riga"
+}

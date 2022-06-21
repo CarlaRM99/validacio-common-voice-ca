@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.322505,
+      "end" : 1.740000,
+      "start" : 1.320000,
+      "word" : "avon"
+    }, {
+      "conf" : 0.972534,
+      "end" : 1.830000,
+      "start" : 1.740000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.830000,
+      "word" : "agrada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.160000,
+      "word" : "llegir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.550000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.610000,
+      "word" : "escriure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.000000,
+      "word" : "poesia"
+    }],
+  "text" : "avon li agrada llegir i escriure poesia"
+}

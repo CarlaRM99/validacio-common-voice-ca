@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.879610,
+      "end" : 1.429596,
+      "start" : 0.930000,
+      "word" : "façana"
+    }, {
+      "conf" : 0.768909,
+      "end" : 1.500000,
+      "start" : 1.429596,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.500000,
+      "word" : "nord-est"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.580000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.790000,
+      "word" : "porta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.270000,
+      "word" : "d'arc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.660000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.780000,
+      "word" : "mig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.020000,
+      "word" : "punt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.890000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.100000,
+      "word" : "llinda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.430000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.520000,
+      "word" : "pedra"
+    }],
+  "text" : "façana a nord-est amb porta d'arc de mig punt amb llinda de pedra"
+}

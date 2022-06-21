@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.480000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.720000,
+      "word" : "passa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.140000,
+      "word" : "res"
+    }],
+  "text" : "no passa res"
+}

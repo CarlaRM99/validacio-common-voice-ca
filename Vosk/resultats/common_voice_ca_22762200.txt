@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "uns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.050000,
+      "word" : "anys"
+    }, {
+      "conf" : 0.576855,
+      "end" : 1.920000,
+      "start" : 1.290000,
+      "word" : "enrere"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.400000,
+      "word" : "font"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.700000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.820000,
+      "word" : "trobava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.270000,
+      "word" : "just"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.720000,
+      "word" : "davant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.110000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.230000,
+      "word" : "l'emplaçament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.890000,
+      "word" : "actual"
+    }],
+  "text" : "uns anys enrere la font es trobava just al davant de l'emplaçament actual"
+}

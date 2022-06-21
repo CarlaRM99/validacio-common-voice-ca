@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.750000,
+      "word" : "vull"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.080000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.380000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.500000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.800000,
+      "word" : "d'alcúdia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.460000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.520000,
+      "word" : "peu"
+    }],
+  "text" : "vull anar al carrer d'alcúdia a peu"
+}

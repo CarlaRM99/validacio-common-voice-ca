@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.780000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.260000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "pont"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.710000,
+      "word" : "d'armentera"
+    }],
+  "text" : "venim del pont d'armentera"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.170000,
+      "word" : "el"
+    }, {
+      "conf" : 0.678337,
+      "end" : 1.890000,
+      "start" : 1.320000,
+      "word" : "teulat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.920000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.100000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.160000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.490000,
+      "word" : "aigües"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.090000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.270000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.390000,
+      "word" : "vessants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.960000,
+      "word" : "encarats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.680000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.950000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.010000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.160000,
+      "word" : "façanes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 5.700000,
+      "word" : "principals"
+    }],
+  "text" : "el teulat és a dues aigües amb els vessants encarats cap a les façanes principals"
+}

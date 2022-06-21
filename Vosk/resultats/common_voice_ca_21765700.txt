@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.542542,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "una"
+    }, {
+      "conf" : 0.542542,
+      "end" : 1.380000,
+      "start" : 1.050000,
+      "word" : "altra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.380000,
+      "word" : "llei"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.710000,
+      "word" : "deia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.520000,
+      "word" : "ciutadà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.090000,
+      "word" : "condemnat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.720000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.900000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.020000,
+      "word" : "magistrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.770000,
+      "word" : "podia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.190000,
+      "word" : "apel·lar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.700000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 5.940000,
+      "word" : "poble"
+    }],
+  "text" : "una altra llei deia que un ciutadà condemnat per un magistrat podia apel·lar al poble"
+}

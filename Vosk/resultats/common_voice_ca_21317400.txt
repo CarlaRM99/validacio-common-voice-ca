@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.630000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.750000,
+      "word" : "sota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.110000,
+      "word" : "portaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.680000,
+      "word" : "quaderns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.280000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.430000,
+      "word" : "bolígrafs"
+    }],
+  "text" : "a sota portaven quaderns i bolígrafs"
+}

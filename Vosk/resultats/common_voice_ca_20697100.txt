@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.960000,
+      "word" : "no"
+    }, {
+      "conf" : 0.473731,
+      "end" : 1.500000,
+      "start" : 1.200000,
+      "word" : "estan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.500000,
+      "word" : "gaire"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.800000,
+      "word" : "regular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.610000,
+      "word" : "sempre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.090000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.240000,
+      "word" : "llengua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.570000,
+      "word" : "pròpia"
+    }],
+  "text" : "no estan gaire regular i no sempre en llengua pròpia"
+}

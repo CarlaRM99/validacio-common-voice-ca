@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.364066,
+      "end" : 0.480000,
+      "start" : 0.090000,
+      "word" : "vostè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.480000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.630000,
+      "word" : "aire"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.870000,
+      "word" : "oriental"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.500000,
+      "word" : "inconfusible"
+    }],
+  "text" : "vostè un aire oriental inconfusible"
+}

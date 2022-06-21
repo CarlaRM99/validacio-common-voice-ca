@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "es"
+    }, {
+      "conf" : 0.513393,
+      "end" : 1.350000,
+      "start" : 0.690000,
+      "word" : "tractaran"
+    }, {
+      "conf" : 0.492494,
+      "end" : 1.945598,
+      "start" : 1.410000,
+      "word" : "voto"
+    }, {
+      "conf" : 0.852859,
+      "end" : 2.190000,
+      "start" : 1.945598,
+      "word" : "ccoo"
+    }, {
+      "conf" : 0.852859,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "no"
+    }, {
+      "conf" : 0.983448,
+      "end" : 2.820000,
+      "start" : 2.310000,
+      "word" : "sole"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.850000,
+      "word" : "tòpic"
+    }, {
+      "conf" : 0.936773,
+      "end" : 4.164935,
+      "start" : 3.870000,
+      "word" : "com"
+    }, {
+      "conf" : 0.651634,
+      "end" : 4.287409,
+      "start" : 4.170000,
+      "word" : "a"
+    }, {
+      "conf" : 0.712499,
+      "end" : 4.710000,
+      "start" : 4.320000,
+      "word" : "tribut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.740000,
+      "word" : "sole"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.250000,
+      "word" : "o"
+    }, {
+      "conf" : 0.760795,
+      "end" : 6.059954,
+      "start" : 5.460000,
+      "word" : "micona"
+    }, {
+      "conf" : 0.457048,
+      "end" : 6.509363,
+      "start" : 6.060000,
+      "word" : "sol"
+    }],
+  "text" : "es tractaran voto ccoo no sole tòpic com a tribut sole o micona sol"
+}

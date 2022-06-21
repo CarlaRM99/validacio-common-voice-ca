@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.290000,
+      "word" : "l'estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.710000,
+      "word" : "actual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.400000,
+      "word" : "mas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.000000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.210000,
+      "word" : "corrals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.960000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.200000,
+      "word" : "deficient"
+    }],
+  "text" : "l'estat actual del mas i dels corrals és deficient"
+}

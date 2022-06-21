@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.720000,
+      "word" : "llit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.200000,
+      "word" : "boga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.770000,
+      "word" : "pa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.950000,
+      "word" : "florit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.580000,
+      "word" : "mal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.910000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.030000,
+      "word" : "ventre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.450000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.690000,
+      "word" : "seguit"
+    }],
+  "text" : "llit de boga i pa florit mal de ventre tot seguit"
+}

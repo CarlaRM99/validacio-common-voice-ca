@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.930000,
+      "word" : "m'agradaria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.680000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.070000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.160000,
+      "word" : "lles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.700000,
+      "word" : "cerdanya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.390000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.600000,
+      "word" : "tren"
+    }],
+  "text" : "m'agradaria anar a lles de cerdanya amb tren"
+}

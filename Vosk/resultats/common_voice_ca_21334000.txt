@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.050000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.380000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.530000,
+      "word" : "primers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.950000,
+      "word" : "estudiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.640000,
+      "word" : "l'heli"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.940000,
+      "word" : "líquid"
+    }],
+  "text" : "va ser un dels primers estudiar l'heli líquid"
+}

@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.612946,
+      "end" : 0.780000,
+      "start" : 0.390000,
+      "word" : "venim"
+    }, {
+      "conf" : 0.999644,
+      "end" : 1.619999,
+      "start" : 0.780000,
+      "word" : "d'almassora"
+    }],
+  "text" : "venim d'almassora"
+}

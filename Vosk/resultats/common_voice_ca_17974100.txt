@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.616291,
+      "end" : 1.350000,
+      "start" : 0.720000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.380000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.620000,
+      "word" : "papiol"
+    }],
+  "text" : "venim del papiol"
+}

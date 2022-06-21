@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.859314,
+      "end" : 1.368650,
+      "start" : 0.960000,
+      "word" : "vaig"
+    }, {
+      "conf" : 0.335685,
+      "end" : 1.410000,
+      "start" : 1.380000,
+      "word" : "a"
+    }, {
+      "conf" : 0.614401,
+      "end" : 1.680000,
+      "start" : 1.410000,
+      "word" : "cala"
+    }, {
+      "conf" : 0.528138,
+      "end" : 2.370000,
+      "start" : 1.707100,
+      "word" : "cel·les"
+    }],
+  "text" : "vaig a cala cel·les"
+}

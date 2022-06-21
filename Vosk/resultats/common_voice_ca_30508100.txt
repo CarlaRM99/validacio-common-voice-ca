@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.861688,
+      "start" : 0.570000,
+      "word" : "com"
+    }, {
+      "conf" : 0.722948,
+      "end" : 0.930000,
+      "start" : 0.870000,
+      "word" : "ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.938312,
+      "word" : "puc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.200000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.500000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.680000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.130000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.310000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.640000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.000000,
+      "word" : "còdols"
+    }],
+  "text" : "com ho puc fer per anar al carrer dels còdols"
+}

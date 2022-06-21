@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.900000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.110000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.380000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.470000,
+      "word" : "costat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.920000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.160000,
+      "word" : "via"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.400000,
+      "word" : "romana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.330000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.690000,
+      "word" : "presència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.290000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.560000,
+      "word" : "vil·la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.830000,
+      "word" : "romana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.370000,
+      "word" : "queda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 5.670000,
+      "word" : "hipotètica"
+    }],
+  "text" : "es troba al costat d'una via romana però la presència d'una vil·la romana queda hipotètica"
+}

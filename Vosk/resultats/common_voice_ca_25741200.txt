@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.870000,
+      "word" : "estudiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.410000,
+      "word" : "música"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 2.010000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.100000,
+      "word" : "l'ajuda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.550000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.730000,
+      "word" : "llibre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.060000,
+      "word" : "de"
+    }, {
+      "conf" : 0.738349,
+      "end" : 3.720000,
+      "start" : 3.180000,
+      "word" : "curs"
+    }],
+  "text" : "va estudiar música amb l'ajuda d'un llibre de curs"
+}

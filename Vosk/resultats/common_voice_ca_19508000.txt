@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.390000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.990000,
+      "word" : "rèptils"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.650000,
+      "word" : "ocells"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.160000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.250000,
+      "word" : "taurons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.030000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.450000,
+      "word" : "membrana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.930000,
+      "word" : "nictitant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.710000,
+      "word" : "sencera"
+    }],
+  "text" : "diversos rèptils ocells i taurons tenen la membrana nictitant sencera"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.900000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.080000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.380000,
+      "word" : "principal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.950000,
+      "word" : "que"
+    }, {
+      "conf" : 0.488624,
+      "end" : 2.460000,
+      "start" : 2.100000,
+      "word" : "trobe"
+    }, {
+      "conf" : 0.488624,
+      "end" : 2.820000,
+      "start" : 2.460000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.850000,
+      "word" : "poble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.270000,
+      "word" : "és"
+    }, {
+      "conf" : 0.605348,
+      "end" : 3.897847,
+      "start" : 3.510000,
+      "word" : "market"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.897847,
+      "word" : "destruït"
+    }],
+  "text" : "el carrer principal que trobe ser poble és market destruït"
+}

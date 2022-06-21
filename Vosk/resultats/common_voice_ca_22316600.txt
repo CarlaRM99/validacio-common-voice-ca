@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.600000,
+      "word" : "l'església"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.470000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.860000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.340000,
+      "word" : "rectangular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.210000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.420000,
+      "word" : "teulada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.080000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.200000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.410000,
+      "word" : "vessants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.980000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.070000,
+      "word" : "orientada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.820000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.910000,
+      "word" : "llevant"
+    }],
+  "text" : "l'església és de planta rectangular amb teulada a dos vessants i orientada a llevant"
+}

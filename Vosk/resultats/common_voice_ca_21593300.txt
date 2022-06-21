@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.390000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.690000,
+      "word" : "dramaturg"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.590000,
+      "word" : "director"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.070000,
+      "word" : "d'escena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.820000,
+      "word" : "actor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.270000,
+      "word" : "accidental"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.200000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.350000,
+      "word" : "traductor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.980000,
+      "word" : "literari"
+    }],
+  "text" : "és dramaturg director d'escena actor accidental i traductor literari"
+}

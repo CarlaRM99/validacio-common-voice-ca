@@ -2,9 +2,6 @@ import os
 import datetime
 from src import textgrid
 
-"""
-
-"""
 
 # Traducció Festival-IPA
 def festival_a_ipa(i):

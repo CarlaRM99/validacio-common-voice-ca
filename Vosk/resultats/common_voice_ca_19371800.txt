@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.660000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.990000,
+      "word" : "tard"
+    }, {
+      "conf" : 0.460121,
+      "end" : 1.770000,
+      "start" : 1.290000,
+      "word" : "marçà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.790863,
+      "word" : "amsterdam"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.460000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.700000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.790000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.000000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.300000,
+      "word" : "marit"
+    }],
+  "text" : "més tard marçà amsterdam amb el seu primer marit"
+}

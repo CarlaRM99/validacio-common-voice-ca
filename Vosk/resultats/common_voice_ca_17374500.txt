@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.607750,
+      "end" : 0.990000,
+      "start" : 0.480000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.080000,
+      "word" : "col·laborar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.620000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.770000,
+      "word" : "tasques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.130000,
+      "word" : "docents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.490000,
+      "word" : "d'índole"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.820000,
+      "word" : "pràctica"
+    }, {
+      "conf" : 0.546214,
+      "end" : 3.390000,
+      "start" : 3.240000,
+      "word" : "fer"
+    }, {
+      "conf" : 0.462390,
+      "end" : 3.630000,
+      "start" : 3.390000,
+      "word" : "doncs"
+    }, {
+      "conf" : 0.894288,
+      "end" : 3.810000,
+      "start" : 3.630000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.810000,
+      "word" : "màxim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.140000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.200000,
+      "word" : "seixanta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.620000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.740000,
+      "word" : "anuals"
+    }],
+  "text" : "aquest col·laborar en tasques docents d'índole pràctica fer doncs quan màxim de seixanta les anuals"
+}

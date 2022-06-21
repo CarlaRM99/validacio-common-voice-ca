@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.690000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.900000,
+      "word" : "complir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.440000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.530000,
+      "word" : "disposa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.950000,
+      "word" : "aquest"
+    }, {
+      "conf" : 0.860976,
+      "end" : 2.490000,
+      "start" : 2.160000,
+      "word" : "plet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.760000,
+      "word" : "usant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.090000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.240000,
+      "word" : "mitjans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.720000,
+      "word" : "s'hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.810000,
+      "word" : "descriuen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.500000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.650000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.950000,
+      "word" : "permesos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.460000,
+      "word" : "legalment"
+    }],
+  "text" : "fer complir el que disposa aquest plet usant els mitjans que s'hi descriuen o altres permesos legalment"
+}

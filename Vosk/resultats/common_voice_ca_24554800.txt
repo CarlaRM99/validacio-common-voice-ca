@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.570000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.900000,
+      "word" : "animals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.530000,
+      "word" : "diürns"
+    }],
+  "text" : "són animals diürns"
+}

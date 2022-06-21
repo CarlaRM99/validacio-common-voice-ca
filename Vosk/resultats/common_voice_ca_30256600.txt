@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.240000,
+      "word" : "quines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.510000,
+      "word" : "botigues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.870000,
+      "word" : "i"
+    }, {
+      "conf" : 0.588750,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.990000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.200000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.290000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.380000,
+      "word" : "plana"
+    }],
+  "text" : "quines botigues i el carrer de la plana"
+}

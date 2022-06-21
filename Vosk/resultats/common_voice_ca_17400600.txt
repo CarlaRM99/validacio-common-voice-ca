@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.810269,
+      "end" : 0.960000,
+      "start" : 0.540000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.960000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.140000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.440000,
+      "word" : "crític"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.100000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.340000,
+      "word" : "cas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.820000,
+      "word" : "buidaven"
+    }, {
+      "conf" : 0.827612,
+      "end" : 3.600000,
+      "start" : 3.420000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.600000,
+      "word" : "claustres"
+    }],
+  "text" : "són del temps crític en cas buidaven els claustres"
+}

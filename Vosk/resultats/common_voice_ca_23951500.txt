@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.529151,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "els"
+    }, {
+      "conf" : 0.529151,
+      "end" : 0.862605,
+      "start" : 0.690000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.862605,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.140000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "mur"
+    }, {
+      "conf" : 0.565966,
+      "end" : 1.740000,
+      "start" : 1.530000,
+      "word" : "fet"
+    }, {
+      "conf" : 0.967972,
+      "end" : 1.890000,
+      "start" : 1.766904,
+      "word" : "amb"
+    }, {
+      "conf" : 0.813991,
+      "end" : 2.215345,
+      "start" : 1.890000,
+      "word" : "pedres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.215345,
+      "word" : "i"
+    }, {
+      "conf" : 0.819577,
+      "end" : 2.610000,
+      "start" : 2.280000,
+      "word" : "maons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.610000,
+      "word" : "lligats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.060000,
+      "word" : "morter"
+    }],
+  "text" : "els dos sobre un mur fet amb pedres i maons lligats amb morter"
+}

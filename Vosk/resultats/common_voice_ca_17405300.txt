@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.200000,
+      "word" : "convocatòria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.950000,
+      "word" : "fixarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.550000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.700000,
+      "word" : "ponderació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.390000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.600000,
+      "word" : "criteris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.080000,
+      "word" : "definits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.890000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.070000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.220000,
+      "word" : "articles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.730000,
+      "word" : "següents"
+    }],
+  "text" : "la convocatòria fixarà la ponderació dels criteris definits en els articles següents"
+}

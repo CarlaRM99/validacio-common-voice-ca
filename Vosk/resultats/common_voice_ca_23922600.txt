@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.990000,
+      "word" : "alguns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.470000,
+      "word" : "elements"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.070000,
+      "word" : "foren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.370000,
+      "word" : "copiats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.030000,
+      "word" : "cartes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.390000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.480000,
+      "word" : "joc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.170000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.320000,
+      "word" : "bé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.440000,
+      "word" : "d'altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.800000,
+      "word" : "recursos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.250000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.340000,
+      "word" : "l'art"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.520000,
+      "word" : "contemporani"
+    }],
+  "text" : "alguns elements foren copiats de cartes de joc o bé d'altres recursos de l'art contemporani"
+}

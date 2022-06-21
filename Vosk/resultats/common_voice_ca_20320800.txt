@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.990000,
+      "word" : "treballat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.830000,
+      "word" : "banca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.730000,
+      "word" : "correus"
+    }],
+  "text" : "ha treballat en la banca i en correus"
+}

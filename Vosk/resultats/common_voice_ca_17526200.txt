@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.443298,
+      "end" : 0.930000,
+      "start" : 0.720000,
+      "word" : "quin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.948227,
+      "word" : "peix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.260000,
+      "word" : "pesca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.770000,
+      "word" : "peix"
+    }, {
+      "conf" : 0.392229,
+      "end" : 2.220000,
+      "start" : 2.010000,
+      "word" : "més"
+    }],
+  "text" : "quin peix pesca peix més"
+}

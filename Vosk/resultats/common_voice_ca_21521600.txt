@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.020000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.620000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.950000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.190000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.490000,
+      "word" : "propietats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.060000,
+      "word" : "mecàniques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.810000,
+      "word" : "semblants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.530000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.650000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.860000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.010000,
+      "word" : "l'acer"
+    }],
+  "text" : "de fet té les seves propietats mecàniques semblants a les de l'acer"
+}

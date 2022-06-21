@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.540000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.230000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.410000,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.830000,
+      "word" : "carn"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.220000,
+      "word" : "supèrflua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.060000,
+      "word" : "hagi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.390000,
+      "word" : "desaparegut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.290000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.440000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.590000,
+      "word" : "roman"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.250000,
+      "word" : "és"
+    }, {
+      "conf" : 0.554921,
+      "end" : 6.150000,
+      "start" : 5.520000,
+      "word" : "cordons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 6.210000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.080000,
+      "start" : 6.300000,
+      "word" : "resistent"
+    }],
+  "text" : "després que tota la carn supèrflua hagi desaparegut el que roman és cordons i resistent"
+}

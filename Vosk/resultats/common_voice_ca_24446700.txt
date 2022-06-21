@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.810000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.290000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.530000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 1.770000,
+      "word" : "precursors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.060000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.240000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.300000,
+      "word" : "pintura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.720000,
+      "word" : "matèria"
+    }],
+  "text" : "fou un dels precursors de la pintura matèria"
+}

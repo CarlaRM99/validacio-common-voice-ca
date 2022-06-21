@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.870000,
+      "word" : "porta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.230000,
+      "word" : "d'accés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.830000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.430000,
+      "word" : "mur"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.700000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.850000,
+      "word" : "ponent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.510000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.630000,
+      "word" : "partir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.140000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.380000,
+      "word" : "arc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.710000,
+      "word" : "rebaixat"
+    }],
+  "text" : "la porta d'accés sobre el mur de ponent a partir d'un arc rebaixat"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.400000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.640000,
+      "word" : "parets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.970000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.150000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.240000,
+      "word" : "pedra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.600000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.660000,
+      "word" : "fang"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.080000,
+      "word" : "acabades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.650000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.800000,
+      "word" : "arrebossat"
+    }],
+  "text" : "les parets són de pedra i fang acabades amb arrebossat"
+}

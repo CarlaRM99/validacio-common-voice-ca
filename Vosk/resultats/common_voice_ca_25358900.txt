@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.900000,
+      "word" : "hores"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.200000,
+      "word" : "punta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.620000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.830000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.070000,
+      "word" : "serveis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.550000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.880000,
+      "word" : "estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.240000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.570000,
+      "word" : "saturades"
+    }],
+  "text" : "les hores punta dels seus serveis poden estar molt saturades"
+}

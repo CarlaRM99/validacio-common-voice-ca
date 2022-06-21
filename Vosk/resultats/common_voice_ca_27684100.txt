@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.720000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.427164,
+      "start" : 1.020000,
+      "word" : "agafar"
+    }, {
+      "conf" : 0.572131,
+      "end" : 1.770000,
+      "start" : 1.440000,
+      "word" : "les"
+    }, {
+      "conf" : 0.572131,
+      "end" : 2.100000,
+      "start" : 1.770000,
+      "word" : "tic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.160000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.250000,
+      "word" : "ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.340000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.989789,
+      "start" : 2.490000,
+      "word" : "tornar"
+    }, {
+      "conf" : 0.827147,
+      "end" : 3.058711,
+      "start" : 2.989789,
+      "word" : "a"
+    }, {
+      "conf" : 0.539583,
+      "end" : 3.570000,
+      "start" : 3.090000,
+      "word" : "provar"
+    }],
+  "text" : "va agafar les tic i ho va tornar a provar"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.750000,
+      "word" : "apunta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.380000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.500000,
+      "word" : "l'agenda"
+    }, {
+      "conf" : 0.589162,
+      "end" : 2.220000,
+      "start" : 2.010000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.220000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.580000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.820000,
+      "word" : "lucas"
+    }, {
+      "conf" : 0.873017,
+      "end" : 3.390000,
+      "start" : 3.240000,
+      "word" : "no"
+    }, {
+      "conf" : 0.873017,
+      "end" : 3.660000,
+      "start" : 3.390000,
+      "word" : "val"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.170000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.710000,
+      "word" : "zero"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.190000,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.000000,
+      "word" : "xxi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.890000,
+      "start" : 7.110000,
+      "word" : "vuitanta-set"
+    }, {
+      "conf" : 0.854589,
+      "end" : 8.970000,
+      "start" : 7.950000,
+      "word" : "cinquanta-tres"
+    }],
+  "text" : "apunta a l'agenda al número del lucas no val sis zero nou xxi vuitanta-set cinquanta-tres"
+}

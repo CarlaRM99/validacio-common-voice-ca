@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.990000,
+      "word" : "l'idioma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.500000,
+      "word" : "oficial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.950000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.040000,
+      "word" : "l'imperi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.580000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "el"
+    }, {
+      "conf" : 0.542714,
+      "end" : 3.600000,
+      "start" : 2.910000,
+      "word" : "pacto"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.080000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.440000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.590000,
+      "word" : "parlava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.070000,
+      "word" : "l'urdú"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.880000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 6.030000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.120000,
+      "word" : "persa"
+    }],
+  "text" : "l'idioma oficial de l'imperi era el pacto també es parlava l'urdú i el persa"
+}

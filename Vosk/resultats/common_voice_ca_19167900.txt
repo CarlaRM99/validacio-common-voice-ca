@@ -1,0 +1,114 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.050000,
+      "word" : "taula"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.350000,
+      "word" : "portarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.740000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.920000,
+      "word" : "caixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "per"
+    }, {
+      "conf" : 0.896666,
+      "end" : 2.400000,
+      "start" : 2.340000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.400000,
+      "word" : "l'efectiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.030000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.300000,
+      "word" : "caixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.570000,
+      "word" : "per"
+    }, {
+      "conf" : 0.628734,
+      "end" : 3.780000,
+      "start" : 3.720000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.780000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.900000,
+      "word" : "bestreta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.560000,
+      "word" : "i"
+    }, {
+      "conf" : 0.524135,
+      "end" : 4.860000,
+      "start" : 4.710000,
+      "word" : "una"
+    }, {
+      "conf" : 0.524135,
+      "end" : 5.130000,
+      "start" : 4.860000,
+      "word" : "altra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.130000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.280000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.340000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.640000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.790000,
+      "word" : "propines"
+    }],
+  "text" : "la taula portarà una caixa per a l'efectiu una caixa per a la bestreta i una altra per a rebre les propines"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.540000,
+      "word" : "vegeu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.020000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.620000,
+      "word" : "bloquejador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.370000,
+      "word" : "alfa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.000000,
+      "word" : "bloquejador"
+    }, {
+      "conf" : 0.807140,
+      "end" : 4.260000,
+      "start" : 3.720000,
+      "word" : "beta"
+    }],
+  "text" : "vegeu també bloquejador alfa i bloquejador beta"
+}

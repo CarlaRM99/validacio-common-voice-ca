@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.020000,
+      "word" : "produeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.620000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.710000,
+      "word" : "fruit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.100000,
+      "word" : "comestible"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.180000,
+      "word" : "rodó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.960000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.140000,
+      "word" : "pell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.410000,
+      "word" : "rugosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.100000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.220000,
+      "word" : "polpa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.640000,
+      "word" : "carnosa"
+    }],
+  "text" : "produeix un fruit comestible rodó de pell rugosa i polpa carnosa"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.480000,
+      "start" : 0.330000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.480000,
+      "word" : "festes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.900000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.260000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.500000,
+      "word" : "dies"
+    }],
+  "text" : "les festes durant tres dies"
+}

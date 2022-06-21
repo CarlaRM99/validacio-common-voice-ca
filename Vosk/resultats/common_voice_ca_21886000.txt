@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.870000,
+      "word" : "compon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.500000,
+      "word" : "semisoterrani"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.610000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.090000,
+      "word" : "baixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.600000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.050000,
+      "word" : "principal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.890000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.010000,
+      "word" : "golfa"
+    }],
+  "text" : "es compon de semisoterrani planta baixa planta principal i golfa"
+}

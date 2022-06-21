@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.570000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.870000,
+      "word" : "deshabitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.890000,
+      "word" : "visitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.460000,
+      "word" : "ocasionalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.480000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.690000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.990000,
+      "word" : "atols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.410000,
+      "word" : "veïns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.890000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.100000,
+      "word" : "pescar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.700000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 5.820000,
+      "word" : "recol·lectar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.380000,
+      "start" : 6.720000,
+      "word" : "cocos"
+    }],
+  "text" : "és deshabitat i visitat ocasionalment des dels atols veïns per pescar i recol·lectar cocos"
+}

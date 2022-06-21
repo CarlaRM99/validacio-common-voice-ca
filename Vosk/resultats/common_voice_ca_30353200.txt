@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.813773,
+      "end" : 1.380000,
+      "start" : 0.720000,
+      "word" : "vendria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.500000,
+      "word" : "quin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.740000,
+      "word" : "treball"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.100000,
+      "word" : "fan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.550000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.790000,
+      "word" : "botiga"
+    }],
+  "text" : "vendria quin treball fan a la botiga"
+}

@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.441620,
+      "end" : 0.960000,
+      "start" : 0.510000,
+      "word" : "mèxic"
+    }, {
+      "conf" : 0.558380,
+      "end" : 1.170000,
+      "start" : 1.020000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.183249,
+      "word" : "és"
+    }, {
+      "conf" : 0.854644,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.470000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.830000,
+      "word" : "municipi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.520000,
+      "word" : "capital"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.090000,
+      "word" : "l'estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.720000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.840000,
+      "word" : "centre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.290000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.380000,
+      "word" : "població"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.920000,
+      "word" : "d'aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.280000,
+      "word" : "municipalitat"
+    }],
+  "text" : "mèxic li és el cap de municipi capital de l'estat i centre de població d'aquesta municipalitat"
+}

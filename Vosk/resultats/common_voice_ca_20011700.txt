@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.870000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.080000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.470000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.560000,
+      "word" : "sud-amèrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.970000,
+      "word" : "conca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.390000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.510000,
+      "word" : "riu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.469992,
+      "start" : 3.840000,
+      "word" : "essequibo"
+    }],
+  "text" : "es troba a sud-amèrica conca del riu essequibo"
+}

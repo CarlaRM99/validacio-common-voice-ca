@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.050000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.350000,
+      "word" : "dies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.160000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.400000,
+      "word" : "brigada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.180000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.390000,
+      "word" : "quedar"
+    }, {
+      "conf" : 0.998973,
+      "end" : 4.499999,
+      "start" : 3.750000,
+      "word" : "trencada"
+    }],
+  "text" : "en tres dies la brigada va quedar trencada"
+}

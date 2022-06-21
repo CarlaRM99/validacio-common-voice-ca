@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.570000,
+      "word" : "programa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.050000,
+      "word" : "l'aspiradora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.650000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.890000,
+      "word" : "migdia"
+    }],
+  "text" : "programa l'aspiradora per al migdia"
+}

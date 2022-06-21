@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.835443,
+      "end" : 0.894442,
+      "start" : 0.810000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.894442,
+      "word" : "l'any"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.110000,
+      "word" : "següent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.010000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.730000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.940000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.120000,
+      "word" : "traslladar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.660000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.720000,
+      "word" : "montevideo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.040000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.220000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.430000,
+      "word" : "viure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.910000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.420000,
+      "word" : "anys"
+    }],
+  "text" : "a l'any següent tots es van traslladar a montevideo on van viure diversos anys"
+}

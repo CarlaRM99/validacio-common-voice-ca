@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.660000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.780000,
+      "word" : "finals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.290000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.380000,
+      "word" : "vacances"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "em"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.040000,
+      "word" : "fan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.280000,
+      "word" : "fàstic"
+    }],
+  "text" : "a finals de vacances em fan fàstic"
+}

@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 0.799641,
+      "end" : 0.630000,
+      "start" : 0.420000,
+      "word" : "en"
+    }, {
+      "conf" : 0.799641,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.900000,
+      "word" : "d'això"
+    }, {
+      "conf" : 0.783293,
+      "end" : 1.920000,
+      "start" : 1.410000,
+      "word" : "floyd"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.950000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.100000,
+      "word" : "colpejar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.640000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.880000,
+      "word" : "bahames"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.450000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.720000,
+      "word" : "màxima"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.200000,
+      "word" : "força"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.830000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.950000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.100000,
+      "word" : "provocar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.880000,
+      "word" : "danys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 6.300000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.390000,
+      "word" : "déu"
+    }],
+  "text" : "en lloc d'això floyd va colpejar les bahames amb la màxima força i va provocar danys i déu"
+}

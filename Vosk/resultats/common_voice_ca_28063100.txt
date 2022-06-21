@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.480000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.750000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.170000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.440000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.800000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.980000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.220000,
+      "word" : "molt"
+    }, {
+      "conf" : 0.961212,
+      "end" : 3.180000,
+      "start" : 2.790000,
+      "word" : "coro"
+    }, {
+      "conf" : 0.609680,
+      "end" : 3.630000,
+      "start" : 3.180000,
+      "word" : "alla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.870000,
+      "word" : "anglaterra"
+    }],
+  "text" : "va rebre aquest nom per fa molt coro alla anglaterra"
+}

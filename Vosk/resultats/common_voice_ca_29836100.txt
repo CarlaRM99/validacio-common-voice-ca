@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.608064,
+      "end" : 0.712558,
+      "start" : 0.630000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.833874,
+      "start" : 0.712558,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.833874,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.380000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.830000,
+      "word" : "panorama"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.610000,
+      "word" : "cantonada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.300000,
+      "word" : "peronella"
+    }],
+  "text" : "que hi ha al carrer panorama cantonada peronella"
+}

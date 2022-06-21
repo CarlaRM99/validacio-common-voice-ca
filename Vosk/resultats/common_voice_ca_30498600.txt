@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.540000,
+      "word" : "l'onze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.050000,
+      "word" : "juliol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.620000,
+      "word" : "hauria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.950000,
+      "word" : "d'anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.310000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.400000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.550000,
+      "word" : "granada"
+    }],
+  "text" : "l'onze de juliol hauria d'anar a la granada"
+}

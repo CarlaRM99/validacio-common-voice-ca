@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.540000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.780000,
+      "word" : "llicenciat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.530000,
+      "word" : "sociologia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.520000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.640000,
+      "word" : "ciències"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.090000,
+      "word" : "polítiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.110000,
+      "word" : "diplomat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.650000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.770000,
+      "word" : "geografia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.460000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.580000,
+      "word" : "màster"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 6.120000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.170000,
+      "start" : 6.330000,
+      "word" : "urbanisme"
+    }],
+  "text" : "és llicenciat en sociologia i ciències polítiques diplomat en geografia i màster en urbanisme"
+}

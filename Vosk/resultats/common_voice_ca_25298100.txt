@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.630000,
+      "word" : "jelinek"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.680000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.860000,
+      "word" : "especificar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.490000,
+      "word" : "millores"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.090000,
+      "word" : "revolucionàries"
+    }],
+  "text" : "jelinek va especificar millores revolucionàries"
+}

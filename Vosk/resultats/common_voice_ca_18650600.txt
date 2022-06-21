@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.660000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.170000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.380000,
+      "word" : "pere"
+    }],
+  "text" : "venim de sant pere"
+}

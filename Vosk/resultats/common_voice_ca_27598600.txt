@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.390000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.690000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.110000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.230000,
+      "word" : "productora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.830000,
+      "word" : "executiva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.520000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.550000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.700000,
+      "word" : "protagonista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.450000,
+      "word" : "de"
+    }, {
+      "conf" : 0.694966,
+      "end" : 3.960000,
+      "start" : 3.540000,
+      "word" : "cros"
+    }, {
+      "conf" : 0.711926,
+      "end" : 4.380000,
+      "start" : 3.960000,
+      "word" : "ruth"
+    }],
+  "text" : "és també la productora executiva i la protagonista de cros ruth"
+}

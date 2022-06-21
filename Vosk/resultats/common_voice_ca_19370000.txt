@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.834734,
+      "end" : 1.080000,
+      "start" : 0.870000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.080000,
+      "word" : "pis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.500000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.650000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.740000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.070000,
+      "word" : "finestres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.760000,
+      "word" : "rectangulars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.780000,
+      "word" : "emmarcades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.740000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.950000,
+      "word" : "carreus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 5.550000,
+      "word" : "desbastats"
+    }],
+  "text" : "el pis hi ha dues finestres rectangulars emmarcades amb carreus desbastats"
+}

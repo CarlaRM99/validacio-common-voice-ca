@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.810000,
+      "word" : "paral·lelament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.680000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.830000,
+      "word" : "pràctica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.400000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.550000,
+      "word" : "càstig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.030000,
+      "word" : "corporal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.750000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.050000,
+      "word" : "fermament"
+    }, {
+      "conf" : 0.685289,
+      "end" : 5.880000,
+      "start" : 4.770000,
+      "word" : "desaconsellable"
+    }],
+  "text" : "paral·lelament la pràctica del càstig corporal és fermament desaconsellable"
+}

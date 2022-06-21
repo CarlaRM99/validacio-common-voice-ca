@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.610608,
+      "end" : 1.215837,
+      "start" : 1.050000,
+      "word" : "que"
+    }, {
+      "conf" : 0.417316,
+      "end" : 1.770219,
+      "start" : 1.232560,
+      "word" : "l'alberg"
+    }, {
+      "conf" : 0.694193,
+      "end" : 1.860000,
+      "start" : 1.770219,
+      "word" : "té"
+    }, {
+      "conf" : 0.859530,
+      "end" : 1.950000,
+      "start" : 1.860000,
+      "word" : "un"
+    }, {
+      "conf" : 0.599113,
+      "end" : 2.640000,
+      "start" : 1.950000,
+      "word" : "gimnasos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.000000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.240000,
+      "word" : "sala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.570000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.690000,
+      "word" : "lectura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.260000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.380000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.530000,
+      "word" : "sala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.800000,
+      "word" : "comuna"
+    }],
+  "text" : "que l'alberg té un gimnasos una sala de lectura i una sala comuna"
+}

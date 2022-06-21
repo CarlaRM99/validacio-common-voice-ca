@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.630000,
+      "word" : "podria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.110000,
+      "word" : "estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.500000,
+      "word" : "relacionada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.460000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.670000,
+      "word" : "venus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.270000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.450000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.570000,
+      "word" : "afrodita"
+    }],
+  "text" : "podria estar relacionada amb venus o amb afrodita"
+}

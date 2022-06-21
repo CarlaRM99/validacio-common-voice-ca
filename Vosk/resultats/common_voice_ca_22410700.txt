@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "rius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.320000,
+      "word" : "rin"
+    }, {
+      "conf" : 0.642492,
+      "end" : 2.100000,
+      "start" : 1.830000,
+      "word" : "inner"
+    }, {
+      "conf" : 0.642492,
+      "end" : 2.430000,
+      "start" : 2.100000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.490000,
+      "word" : "flueixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.720000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 4.020000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.110000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.230000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.470000,
+      "word" : "fronteres"
+    }],
+  "text" : "els rius rin inner que flueixen fins a les seves fronteres"
+}

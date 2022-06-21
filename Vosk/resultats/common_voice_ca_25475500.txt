@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.825079,
+      "end" : 1.410000,
+      "start" : 1.170000,
+      "word" : "sí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.621367,
+      "start" : 1.410000,
+      "word" : "que"
+    }, {
+      "conf" : 0.922903,
+      "end" : 1.710000,
+      "start" : 1.621367,
+      "word" : "ho"
+    }, {
+      "conf" : 0.790944,
+      "end" : 2.310000,
+      "start" : 1.710000,
+      "word" : "gaita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.340000,
+      "word" : "sovint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.652416,
+      "start" : 2.790000,
+      "word" : "acompanyava"
+    }, {
+      "conf" : 0.544106,
+      "end" : 4.186562,
+      "start" : 3.660000,
+      "word" : "robert"
+    }, {
+      "conf" : 0.600765,
+      "end" : 4.287549,
+      "start" : 4.186562,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.287549,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.440000,
+      "word" : "conquestes"
+    }],
+  "text" : "sí que ho gaita sovint acompanyava robert de les conquestes"
+}

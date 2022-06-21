@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "com"
+    }, {
+      "conf" : 0.815879,
+      "end" : 1.080000,
+      "start" : 0.960000,
+      "word" : "es"
+    }, {
+      "conf" : 0.815879,
+      "end" : 1.200000,
+      "start" : 1.080000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.350000,
+      "word" : "anar"
+    }, {
+      "conf" : 0.579918,
+      "end" : 1.830000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 0.579918,
+      "end" : 2.130000,
+      "start" : 1.860000,
+      "word" : "cara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.160000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.280000,
+      "word" : "pavia"
+    }, {
+      "conf" : 0.549084,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "el"
+    }, {
+      "conf" : 0.850448,
+      "end" : 3.326512,
+      "start" : 3.000000,
+      "word" : "càrrec"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.326512,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.420000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.510000,
+      "word" : "traviata"
+    }],
+  "text" : "com es fa per anar de cara de pavia el càrrec de la traviata"
+}

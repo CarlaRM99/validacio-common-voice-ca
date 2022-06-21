@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.420000,
+      "word" : "històricament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.320000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.530000,
+      "word" : "naturalesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.130000,
+      "word" : "física"
+    }, {
+      "conf" : 0.704655,
+      "end" : 2.730000,
+      "start" : 2.550000,
+      "word" : "dels"
+    }, {
+      "conf" : 0.704655,
+      "end" : 3.000000,
+      "start" : 2.730000,
+      "word" : "raigs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.008860,
+      "word" : "lunars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.810000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.900000,
+      "word" : "sigut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.380000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.500000,
+      "word" : "tema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.770000,
+      "word" : "d'especulació"
+    }],
+  "text" : "històricament la naturalesa física dels raigs lunars ha sigut un tema d'especulació"
+}

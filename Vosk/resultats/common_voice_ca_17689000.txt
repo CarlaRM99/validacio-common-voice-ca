@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.587631,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.440000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.650000,
+      "word" : "joan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.100000,
+      "word" : "el"
+    }, {
+      "conf" : 0.532423,
+      "end" : 2.460000,
+      "start" : 2.280000,
+      "word" : "pla"
+    }, {
+      "conf" : 0.761213,
+      "end" : 2.610000,
+      "start" : 2.469017,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.610000,
+      "word" : "camp"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "per"
+    }, {
+      "conf" : 0.657572,
+      "end" : 3.510000,
+      "start" : 3.300000,
+      "word" : "sant"
+    }, {
+      "conf" : 0.657572,
+      "end" : 3.930000,
+      "start" : 3.510000,
+      "word" : "pere"
+    }, {
+      "conf" : 0.335978,
+      "end" : 4.403443,
+      "start" : 4.080000,
+      "word" : "blava"
+    }, {
+      "conf" : 0.787516,
+      "end" : 4.770000,
+      "start" : 4.410000,
+      "word" : "l'era"
+    }],
+  "text" : "el sant joan el pla del camp per sant pere blava l'era"
+}

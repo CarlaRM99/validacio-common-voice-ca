@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.684785,
+      "end" : 1.020000,
+      "start" : 0.330000,
+      "word" : "existeixin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.020000,
+      "word" : "instruments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.590000,
+      "word" : "científics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.310000,
+      "word" : "totes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.670000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.850000,
+      "word" : "àrees"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.240000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.330000,
+      "word" : "escenaris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.930000,
+      "word" : "de"
+    }, {
+      "conf" : 0.999999,
+      "end" : 4.170000,
+      "start" : 4.050000,
+      "word" : "la"
+    }, {
+      "conf" : 0.999999,
+      "end" : 4.799999,
+      "start" : 4.170000,
+      "word" : "ciència"
+    }],
+  "text" : "existeixin instruments científics en totes les àrees i escenaris de la ciència"
+}

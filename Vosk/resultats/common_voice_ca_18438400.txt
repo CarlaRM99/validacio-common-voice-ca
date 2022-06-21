@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.966618,
+      "end" : 0.960000,
+      "start" : 0.720000,
+      "word" : "el"
+    }, {
+      "conf" : 0.498762,
+      "end" : 1.320000,
+      "start" : 0.960000,
+      "word" : "morro"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.333886,
+      "word" : "sempre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.740000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.040000,
+      "word" : "davant"
+    }],
+  "text" : "el morro sempre va davant"
+}

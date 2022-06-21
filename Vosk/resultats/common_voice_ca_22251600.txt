@@ -1,0 +1,9 @@
+{
+  "result" : [{
+      "conf" : 0.532547,
+      "end" : 1.170000,
+      "start" : 0.570000,
+      "word" : "quatre"
+    }],
+  "text" : "quatre"
+}

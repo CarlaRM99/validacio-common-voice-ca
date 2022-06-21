@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.643106,
+      "end" : 1.096673,
+      "start" : 0.600000,
+      "word" : "marxar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.140000,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.740000,
+      "word" : "compra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.190000,
+      "word" : "ral"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.730000,
+      "word" : "i"
+    }, {
+      "conf" : 0.495742,
+      "end" : 3.022500,
+      "start" : 2.820000,
+      "word" : "vena"
+    }, {
+      "conf" : 0.504258,
+      "end" : 3.090000,
+      "start" : 3.022500,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.090000,
+      "word" : "sou"
+    }],
+  "text" : "marxar nou compra ral i vena a sou"
+}

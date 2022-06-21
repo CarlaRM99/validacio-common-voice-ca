@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.630619,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "viu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.900000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 0.960000,
+      "word" : "indonèsia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.800000,
+      "word" : "nova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.070000,
+      "word" : "caledònia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.000000,
+      "word" : "papua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.450000,
+      "word" : "nova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.720000,
+      "word" : "guinea"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.410000,
+      "word" : "salomó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.190000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.310000,
+      "word" : "vanuatu"
+    }],
+  "text" : "viu a indonèsia nova caledònia papua nova guinea salomó i vanuatu"
+}

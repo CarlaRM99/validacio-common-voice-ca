@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.480000,
+      "word" : "afegeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.960000,
+      "word" : "a"
+    }, {
+      "conf" : 0.541167,
+      "end" : 1.560000,
+      "start" : 1.020000,
+      "word" : "l'agenda"
+    }, {
+      "conf" : 0.511742,
+      "end" : 1.740000,
+      "start" : 1.560000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.740000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.370000,
+      "word" : "blau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.610000,
+      "word" : "fa"
+    }, {
+      "conf" : 0.733947,
+      "end" : 3.180000,
+      "start" : 2.790000,
+      "word" : "pico"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.450000,
+      "word" : "sis"
+    }, {
+      "conf" : 0.715682,
+      "end" : 4.710000,
+      "start" : 4.080000,
+      "word" : "xvi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.830000,
+      "word" : "trenta-u"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.550000,
+      "word" : "trenta-sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.330000,
+      "word" : "trenta-dos"
+    }],
+  "text" : "afegeix a l'agenda al número de la blau fa pico sis xvi trenta-u trenta-sis trenta-dos"
+}

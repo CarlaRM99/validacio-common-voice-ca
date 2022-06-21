@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.750000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.080000,
+      "word" : "tipus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.410000,
+      "word" : "d'estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.160000,
+      "word" : "habitualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.300000,
+      "word" : "posseeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 3.960000,
+      "word" : "divisions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.800000,
+      "word" : "territorials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.090000,
+      "word" : "denominades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.680000,
+      "start" : 6.930000,
+      "word" : "regions"
+    }],
+  "text" : "aquest tipus d'estat habitualment posseeix divisions territorials denominades regions"
+}

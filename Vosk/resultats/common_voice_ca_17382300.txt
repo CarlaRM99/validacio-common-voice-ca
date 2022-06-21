@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.560000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.800000,
+      "word" : "persones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.280000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.400000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.550000,
+      "word" : "vulguin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.880000,
+      "word" : "continuar"
+    }, {
+      "conf" : 0.514303,
+      "end" : 3.870000,
+      "start" : 3.330000,
+      "word" : "tenint-los"
+    }, {
+      "conf" : 0.715850,
+      "end" : 4.020000,
+      "start" : 3.870000,
+      "word" : "han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.020000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.140000,
+      "word" : "lliurar-nos"
+    }, {
+      "conf" : 0.905392,
+      "end" : 4.796221,
+      "start" : 4.680000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.800000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.950000,
+      "word" : "societat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.430000,
+      "word" : "protectora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 5.940000,
+      "word" : "d'animals"
+    }],
+  "text" : "les persones que no vulguin continuar tenint-los han de lliurar-nos que una societat protectora d'animals"
+}

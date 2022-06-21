@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.480000,
+      "word" : "l'àlbum"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.260000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.710000,
+      "word" : "bones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.040000,
+      "word" : "crítiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.670000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.910000,
+      "word" : "moment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.300000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.450000,
+      "word" : "llançament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.260000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.410000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.830000,
+      "word" : "d'emissió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.400000,
+      "word" : "significatiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 6.420000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.510000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.230000,
+      "start" : 6.630000,
+      "word" : "ràdio"
+    }],
+  "text" : "l'àlbum va rebre bones crítiques en el moment del llançament i temps d'emissió significatiu a la ràdio"
+}

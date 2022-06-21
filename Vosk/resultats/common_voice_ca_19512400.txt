@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.510000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.050000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.260000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.350000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.680000,
+      "word" : "origen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.790000,
+      "word" : "l'assut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.579917,
+      "start" : 3.270000,
+      "word" : "quart"
+    }, {
+      "conf" : 0.525156,
+      "end" : 4.290000,
+      "start" : 3.579917,
+      "word" : "d'homenatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.650000,
+      "word" : "faith"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.010000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.760000,
+      "word" : "aigües"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.360000,
+      "word" : "amunt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.750000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.200000,
+      "start" : 6.930000,
+      "word" : "riu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.680000,
+      "start" : 7.200000,
+      "word" : "túria"
+    }],
+  "text" : "aquesta té el seu origen a l'assut quart d'homenatge faith anar aigües amunt del riu túria"
+}

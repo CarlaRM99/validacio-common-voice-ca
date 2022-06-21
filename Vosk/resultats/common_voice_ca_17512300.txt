@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.390000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.540000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.630000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.200000,
+      "word" : "nivells"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.590000,
+      "word" : "d'anàlisi"
+    }],
+  "text" : "hi ha diversos nivells d'anàlisi"
+}

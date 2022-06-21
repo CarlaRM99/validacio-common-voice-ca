@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.960000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.500000,
+      "word" : "plora"
+    }, {
+      "conf" : 0.733340,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.920000,
+      "word" : "cel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.460000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.760000,
+      "word" : "riu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.090000,
+      "word" : "terra"
+    }, {
+      "conf" : 0.805909,
+      "end" : 3.750000,
+      "start" : 3.570000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.750000,
+      "word" : "flors"
+    }],
+  "text" : "si no plora el cel no riu la terra amb flors"
+}

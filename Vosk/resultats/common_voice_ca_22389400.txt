@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.510000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.720000,
+      "word" : "carrer"
+    }, {
+      "conf" : 0.885935,
+      "end" : 1.620000,
+      "start" : 1.290000,
+      "word" : "en"
+    }, {
+      "conf" : 0.331937,
+      "end" : 2.010000,
+      "start" : 1.680000,
+      "word" : "núria"
+    }, {
+      "conf" : 0.859326,
+      "end" : 2.400000,
+      "start" : 2.019992,
+      "word" : "obert"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.700000,
+      "word" : "porta"
+    }, {
+      "conf" : 0.832479,
+      "end" : 3.180000,
+      "start" : 3.090000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.180000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.420000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.630000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.810000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.050000,
+      "word" : "honor"
+    }],
+  "text" : "un carrer en núria obert porta el seu nom en el seu honor"
+}

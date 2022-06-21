@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.930000,
+      "word" : "llarg"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.380000,
+      "word" : "camí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.920000,
+      "word" : "renner"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.580000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.760000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.940000,
+      "word" : "atribuir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.781271,
+      "start" : 3.480000,
+      "word" : "molts"
+    }, {
+      "conf" : 0.390474,
+      "end" : 4.320000,
+      "start" : 3.781271,
+      "word" : "dirigents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.320000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.470000,
+      "word" : "negoci"
+    }],
+  "text" : "al llarg del camí renner es va atribuir molts dirigents del negoci"
+}

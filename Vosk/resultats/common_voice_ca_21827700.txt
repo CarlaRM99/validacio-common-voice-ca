@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.200000,
+      "word" : "l'imaginaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.950000,
+      "word" : "folrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.460000,
+      "word" : "d'or"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.000000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.150000,
+      "word" : "corrien"
+    }, {
+      "conf" : 0.683994,
+      "end" : 3.960000,
+      "start" : 3.630000,
+      "word" : "darrera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.960000,
+      "word" : "seu"
+    }],
+  "text" : "l'imaginaven folrat d'or i corrien darrera seu"
+}

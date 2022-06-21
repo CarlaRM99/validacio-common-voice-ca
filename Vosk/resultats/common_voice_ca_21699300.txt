@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.990000,
+      "word" : "llicenciat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.680000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.800000,
+      "word" : "filologia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.550000,
+      "word" : "anglesa"
+    }],
+  "text" : "llicenciat en filologia anglesa"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.341340,
+      "start" : 0.540000,
+      "word" : "conservació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.410000,
+      "word" : "explotació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.370000,
+      "word" : "defensa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.060000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.150000,
+      "word" : "difusió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.840000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.110000,
+      "word" : "medi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.350000,
+      "word" : "natural"
+    }],
+  "text" : "conservació explotació defensa i difusió del medi natural"
+}

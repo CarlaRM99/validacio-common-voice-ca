@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.930000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.230000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.380000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.500000,
+      "word" : "representada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.460000,
+      "word" : "tenint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.000000,
+      "word" : "un"
+    }, {
+      "conf" : 0.780973,
+      "end" : 3.600000,
+      "start" : 3.270000,
+      "word" : "pa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.690000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.780000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.960000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.260000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.500000,
+      "word" : "mans"
+    }],
+  "text" : "també pot ser representada tenint un pa a les seves dues mans"
+}

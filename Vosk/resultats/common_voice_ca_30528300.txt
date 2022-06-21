@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.990000,
+      "word" : "meu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.628047,
+      "start" : 1.260000,
+      "word" : "número"
+    }, {
+      "conf" : 0.477655,
+      "end" : 1.920000,
+      "start" : 1.628047,
+      "word" : "f"
+    }, {
+      "conf" : 0.391794,
+      "end" : 2.340000,
+      "start" : 1.950000,
+      "word" : "sis"
+    }, {
+      "conf" : 0.479440,
+      "end" : 2.820000,
+      "start" : 2.340000,
+      "word" : "xix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 2.820000,
+      "word" : "seixanta-sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.840000,
+      "word" : "quaranta-dos"
+    }, {
+      "conf" : 0.776894,
+      "end" : 5.610000,
+      "start" : 4.740000,
+      "word" : "noranta-u"
+    }],
+  "text" : "el meu número f sis xix seixanta-sis quaranta-dos noranta-u"
+}

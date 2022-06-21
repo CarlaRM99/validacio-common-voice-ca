@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.720000,
+      "word" : "procedia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.530000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.800000,
+      "word" : "família"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.340000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.460000,
+      "word" : "prominents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.090000,
+      "word" : "ministres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.840000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.990000,
+      "word" : "dones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.350000,
+      "word" : "fortes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.890000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.040000,
+      "word" : "assistien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.670000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 5.760000,
+      "word" : "l'església"
+    }],
+  "text" : "procedia d'una família de prominents ministres i dones fortes que assistien a l'església"
+}

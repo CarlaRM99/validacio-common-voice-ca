@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.390000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.630000,
+      "word" : "existències"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.380000,
+      "word" : "s'emmagatzemaren"
+    }],
+  "text" : "les existències s'emmagatzemaren"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.955680,
+      "end" : 0.638943,
+      "start" : 0.480000,
+      "word" : "en"
+    }, {
+      "conf" : 0.517020,
+      "end" : 0.990000,
+      "start" : 0.638943,
+      "word" : "d'aquests"
+    }, {
+      "conf" : 0.877807,
+      "end" : 1.710000,
+      "start" : 0.990000,
+      "word" : "materials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.800000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.980000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.070000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.160000,
+      "word" : "fibra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.490000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.640000,
+      "word" : "vidre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.251014,
+      "start" : 3.120000,
+      "word" : "o"
+    }, {
+      "conf" : 0.851720,
+      "end" : 3.870000,
+      "start" : 3.251014,
+      "word" : "l'escuma"
+    }],
+  "text" : "en d'aquests materials i a la fibra de vidre o l'escuma"
+}

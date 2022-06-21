@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.660000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.840000,
+      "word" : "darrers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.140000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.380000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.440000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.530000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.770000,
+      "word" : "vida"
+    }, {
+      "conf" : 0.648011,
+      "end" : 2.100000,
+      "start" : 2.010000,
+      "word" : "als"
+    }, {
+      "conf" : 0.816536,
+      "end" : 2.430715,
+      "start" : 2.100000,
+      "word" : "dedicar"
+    }, {
+      "conf" : 0.760595,
+      "end" : 2.460000,
+      "start" : 2.430715,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.460000,
+      "word" : "l'ensenyança"
+    }],
+  "text" : "els darrers anys de la seva vida als dedicar a l'ensenyança"
+}

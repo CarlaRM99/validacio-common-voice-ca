@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.376981,
+      "end" : 0.840000,
+      "start" : 0.570000,
+      "word" : "mag"
+    }, {
+      "conf" : 0.605375,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.063037,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.800000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.310000,
+      "word" : "durar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.790000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.060000,
+      "word" : "legislatura"
+    }],
+  "text" : "mag fer són només va durar una legislatura"
+}

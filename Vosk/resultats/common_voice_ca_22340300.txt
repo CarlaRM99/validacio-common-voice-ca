@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.630000,
+      "word" : "simplement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.560000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.740000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.830000,
+      "word" : "havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.370000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.670000,
+      "word" : "foc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.690000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.840000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.960000,
+      "word" : "biblioteca"
+    }],
+  "text" : "simplement no hi havia cap foc a la biblioteca"
+}

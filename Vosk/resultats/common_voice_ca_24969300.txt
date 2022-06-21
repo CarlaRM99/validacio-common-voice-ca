@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.510000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.810000,
+      "word" : "d'escriure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.710000,
+      "word" : "warrington"
+    }, {
+      "conf" : 0.866422,
+      "end" : 2.790000,
+      "start" : 2.310000,
+      "word" : "treballa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.790000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.850000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.090000,
+      "word" : "parcial"
+    }, {
+      "conf" : 0.578313,
+      "end" : 3.990000,
+      "start" : 3.810000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.990000,
+      "word" : "bosc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.620000,
+      "word" : "can"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.980000,
+      "word" : "sigut"
+    }],
+  "text" : "a més d'escriure warrington treballa a temps parcial al bosc de can sigut"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.870000,
+      "word" : "color"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.230000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.470000,
+      "word" : "pètals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.980000,
+      "word" : "varia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.370000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.550000,
+      "word" : "blanc"
+    }, {
+      "conf" : 0.801086,
+      "end" : 3.120000,
+      "start" : 2.940000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.120000,
+      "word" : "porpra"
+    }],
+  "text" : "el color dels pètals varia del blanc el porpra"
+}

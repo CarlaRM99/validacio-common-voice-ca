@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.519860,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.290000,
+      "word" : "refereixes"
+    }],
+  "text" : "aquest refereixes"
+}

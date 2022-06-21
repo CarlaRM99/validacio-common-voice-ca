@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.841497,
+      "end" : 0.750000,
+      "start" : 0.510000,
+      "word" : "pot"
+    }, {
+      "conf" : 0.841497,
+      "end" : 1.170000,
+      "start" : 0.750000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.260000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.560000,
+      "word" : "línia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.040000,
+      "word" : "que"
+    }, {
+      "conf" : 0.540780,
+      "end" : 2.880000,
+      "start" : 2.190000,
+      "word" : "s'alça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.300000,
+      "word" : "cacau"
+    }],
+  "text" : "pot ser una línia que s'alça o cacau"
+}

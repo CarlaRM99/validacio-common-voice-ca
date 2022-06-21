@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.360000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.570000,
+      "word" : "ciutat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.260000,
+      "word" : "créixer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.800000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 1.950000,
+      "word" : "l'explotació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.910000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.090000,
+      "word" : "mines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.450000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.540000,
+      "word" : "carbó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.110000,
+      "word" : "regió"
+    }],
+  "text" : "la ciutat va créixer amb l'explotació de les mines de carbó de la regió"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.780000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.840000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.930000,
+      "word" : "documents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.101871,
+      "start" : 1.590000,
+      "word" : "indiquin"
+    }, {
+      "conf" : 0.641008,
+      "end" : 2.730000,
+      "start" : 2.101871,
+      "word" : "d'aixecament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.910000,
+      "word" : "l'edifici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.390000,
+      "word" : "actual"
+    }],
+  "text" : "no hi ha documents que indiquin d'aixecament de l'edifici actual"
+}

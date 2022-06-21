@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.870000,
+      "word" : "l'edifici"
+    }, {
+      "conf" : 0.753871,
+      "end" : 2.002604,
+      "start" : 1.620000,
+      "word" : "allotjar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.006082,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.130000,
+      "word" : "oficines"
+    }, {
+      "conf" : 0.883408,
+      "end" : 2.844074,
+      "start" : 2.760000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.876502,
+      "word" : "l'espai"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.180000,
+      "word" : "exterior"
+    }, {
+      "conf" : 0.544939,
+      "end" : 4.170000,
+      "start" : 3.780000,
+      "word" : "servei"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.200000,
+      "word" : "d'aparcament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.770000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.980000,
+      "word" : "vehicles"
+    }],
+  "text" : "l'edifici allotjar les oficines i l'espai exterior servei d'aparcament dels vehicles"
+}

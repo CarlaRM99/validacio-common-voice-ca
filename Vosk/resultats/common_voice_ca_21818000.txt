@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.780000,
+      "word" : "tracta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.320000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.590000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.830000,
+      "word" : "primers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.250000,
+      "word" : "mètodes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.760000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.880000,
+      "word" : "xifratge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.570000,
+      "word" : "modern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.260000,
+      "word" : "destinat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.100000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.250000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.460000,
+      "word" : "ús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.760000,
+      "word" : "civil"
+    }],
+  "text" : "es tracta d'un dels primers mètodes de xifratge modern destinat a un ús civil"
+}

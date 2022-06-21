@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.540000,
+      "word" : "posseeixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.350000,
+      "word" : "grans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.680000,
+      "word" : "plaques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.310000,
+      "word" : "cap"
+    }],
+  "text" : "posseeixen grans plaques al cap"
+}

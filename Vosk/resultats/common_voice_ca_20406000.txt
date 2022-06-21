@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.840000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.140000,
+      "word" : "flors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.440000,
+      "word" : "apareixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.980000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.070000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.160000,
+      "word" : "primavera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.730000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.386083,
+      "start" : 2.940000,
+      "word" : "l'arbre"
+    }, {
+      "conf" : 0.574299,
+      "end" : 3.660000,
+      "start" : 3.390000,
+      "word" : "estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.660000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.960000,
+      "word" : "fulles"
+    }],
+  "text" : "les flors apareixen a la primavera quan l'arbre estar sense fulles"
+}

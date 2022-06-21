@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.900000,
+      "word" : "warwick"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.560000,
+      "word" : "iniciava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.070000,
+      "word" : "així"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.460000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.670000,
+      "word" : "campanya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.451749,
+      "start" : 3.270000,
+      "word" : "per"
+    }, {
+      "conf" : 0.566613,
+      "end" : 3.480000,
+      "start" : 3.451749,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.480000,
+      "word" : "desacreditar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.110000,
+      "word" : "l'anterior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.620000,
+      "word" : "lord"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.890000,
+      "word" : "protector"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.760000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 6.000000,
+      "word" : "duc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 6.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.300000,
+      "word" : "somerset"
+    }],
+  "text" : "warwick iniciava així una campanya per a desacreditar l'anterior lord protector el duc de somerset"
+}

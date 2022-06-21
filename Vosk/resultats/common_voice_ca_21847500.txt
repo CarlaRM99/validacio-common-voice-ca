@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.570000,
+      "word" : "seguim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.170000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.260000,
+      "word" : "peu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.650000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.830000,
+      "word" : "camí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.190000,
+      "word" : "carener"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.940000,
+      "word" : "direcció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.540000,
+      "word" : "oest"
+    }],
+  "text" : "seguim a peu pel camí carener en direcció oest"
+}

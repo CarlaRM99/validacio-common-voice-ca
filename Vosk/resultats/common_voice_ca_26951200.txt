@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.360000,
+      "word" : "malgrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.780000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.620000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.710000,
+      "word" : "vegades"
+    }, {
+      "conf" : 0.535309,
+      "end" : 2.430000,
+      "start" : 2.280000,
+      "word" : "se'n"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.430000,
+      "word" : "diu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.700000,
+      "word" : "blau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.030000,
+      "word" : "d'enginyer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.050000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.200000,
+      "word" : "qual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.440000,
+      "word" : "cosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.800000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.100000,
+      "word" : "causar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.520000,
+      "word" : "confusió"
+    }],
+  "text" : "malgrat això a vegades se'n diu blau d'enginyer la qual cosa pot causar confusió"
+}

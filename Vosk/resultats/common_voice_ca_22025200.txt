@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.720000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.930000,
+      "word" : "considerat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.650000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.800000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.980000,
+      "word" : "millors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.340000,
+      "word" : "fer"
+    }, {
+      "conf" : 0.800498,
+      "end" : 2.790000,
+      "start" : 2.520000,
+      "word" : "ador"
+    }, {
+      "conf" : 0.800498,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.910000,
+      "word" : "taps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.300000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.540000,
+      "word" : "història"
+    }],
+  "text" : "és considerat un dels millors fer ador de taps de la història"
+}

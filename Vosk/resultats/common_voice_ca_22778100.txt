@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.570000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.690000,
+      "word" : "l'estiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.500000,
+      "word" : "disc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.890000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.160000,
+      "word" : "convertir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.940000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.150000,
+      "word" : "doble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.570000,
+      "word" : "platí"
+    }],
+  "text" : "a l'estiu el disc es va convertir en doble platí"
+}

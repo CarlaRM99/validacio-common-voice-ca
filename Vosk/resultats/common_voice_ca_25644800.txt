@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.020000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.170000,
+      "word" : "declivi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.160000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.250000,
+      "word" : "mineria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.240000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.480000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.750000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.990000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.050000,
+      "word" : "resultat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.920000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.130000,
+      "word" : "pèrdua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.850000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 6.060000,
+      "word" : "llocs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.360000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.450000,
+      "word" : "treball"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.620000,
+      "start" : 7.500000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.740000,
+      "start" : 7.620000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.490000,
+      "start" : 7.740000,
+      "word" : "població"
+    }],
+  "text" : "el declivi de la mineria va tenir com a resultat la pèrdua de llocs de treball i de població"
+}

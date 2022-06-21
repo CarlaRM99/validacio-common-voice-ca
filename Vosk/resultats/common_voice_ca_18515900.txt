@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.593250,
+      "end" : 1.170000,
+      "start" : 0.660000,
+      "word" : "fotre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.216484,
+      "word" : "capsigrany"
+    }],
+  "text" : "fotre capsigrany"
+}

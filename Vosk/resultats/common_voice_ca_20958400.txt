@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.810000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.870000,
+      "word" : "pintor"
+    }, {
+      "conf" : 0.618226,
+      "end" : 1.770000,
+      "start" : 1.440000,
+      "word" : "conrear"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.770000,
+      "word" : "assíduament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.250000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.340000,
+      "word" : "paisatge"
+    }],
+  "text" : "com a pintor conrear assíduament el paisatge"
+}

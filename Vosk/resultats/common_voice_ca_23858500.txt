@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.870000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.140000,
+      "word" : "veu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.590000,
+      "word" : "ferm"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.890000,
+      "word" : "instrument"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.400000,
+      "word" : "capaç"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.730000,
+      "word" : "d"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.940000,
+      "word" : "destral"
+    }, {
+      "conf" : 0.737764,
+      "end" : 3.931864,
+      "start" : 3.390000,
+      "word" : "posicionament"
+    }, {
+      "conf" : 0.652380,
+      "end" : 4.050000,
+      "start" : 3.931864,
+      "word" : "web"
+    }],
+  "text" : "la seva veu és un ferm instrument capaç d una destral posicionament web"
+}

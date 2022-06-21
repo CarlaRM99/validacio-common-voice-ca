@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.854372,
+      "end" : 1.050000,
+      "start" : 0.750000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.050000,
+      "word" : "detritus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.890000,
+      "word" : "algues"
+    }, {
+      "conf" : 0.656969,
+      "end" : 2.880000,
+      "start" : 2.580000,
+      "word" : "mi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.940000,
+      "word" : "d'aparentar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.630000,
+      "word" : "insectes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.170000,
+      "word" : "terrestres"
+    }],
+  "text" : "entre detritus algues mi d'aparentar insectes terrestres"
+}

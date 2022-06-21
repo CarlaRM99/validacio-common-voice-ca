@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.750000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.170000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.320000,
+      "word" : "depressió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.130000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.340000,
+      "word" : "treballar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.820000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 3.030000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.090000,
+      "word" : "mestressa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.960000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.080000,
+      "word" : "l'estació"
+    }, {
+      "conf" : 0.698315,
+      "end" : 5.160000,
+      "start" : 4.680000,
+      "word" : "d'ovella"
+    }, {
+      "conf" : 0.520157,
+      "end" : 5.580000,
+      "start" : 5.190000,
+      "word" : "mura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.580000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 6.030000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.180000,
+      "word" : "prop"
+    }, {
+      "conf" : 0.357960,
+      "end" : 7.290000,
+      "start" : 6.540000,
+      "word" : "d'escriptor"
+    }],
+  "text" : "durant la depressió va treballar com a mestressa a l'estació d'ovella mura molt a prop d'escriptor"
+}

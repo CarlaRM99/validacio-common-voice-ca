@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.050000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.380000,
+      "word" : "darrers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.740000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.980000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.190000,
+      "word" : "jugador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.760000,
+      "word" : "entrenador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.330000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.450000,
+      "word" : "l'equip"
+    }],
+  "text" : "els tres darrers anys fou jugador entrenador de l'equip"
+}

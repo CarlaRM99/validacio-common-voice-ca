@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.690000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.900000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.140000,
+      "word" : "algun"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.500000,
+      "word" : "lampista"
+    }, {
+      "conf" : 0.701836,
+      "end" : 2.280000,
+      "start" : 2.190000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.280000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.610000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.700000,
+      "word" : "navarro"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.330000,
+      "word" : "reverter"
+    }],
+  "text" : "hi ha algun lampista al carrer de navarro reverter"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.810840,
+      "end" : 1.230000,
+      "start" : 0.480000,
+      "word" : "integraran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.440000,
+      "word" : "manera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.800000,
+      "word" : "coordinada"
+    }, {
+      "conf" : 0.602906,
+      "end" : 2.790000,
+      "start" : 2.580000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.790000,
+      "word" : "plans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.090000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.150000,
+      "word" : "prevenció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.660000,
+      "word" : "d'incendis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.170000,
+      "word" : "forestals"
+    }, {
+      "conf" : 0.628334,
+      "end" : 4.815208,
+      "start" : 4.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.843242,
+      "word" : "demarcació"
+    }],
+  "text" : "integraran de manera coordinada els plans de prevenció d'incendis forestals de demarcació"
+}

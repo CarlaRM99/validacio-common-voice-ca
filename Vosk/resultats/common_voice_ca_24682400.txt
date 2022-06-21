@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.570000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.810000,
+      "word" : "n'exclouen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.560000,
+      "word" : "així"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.860000,
+      "word" : "doncs"
+    }, {
+      "conf" : 0.526544,
+      "end" : 2.520000,
+      "start" : 2.340000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.520000,
+      "word" : "municipis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.270000,
+      "word" : "conflentina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.080000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.260000,
+      "word" : "massís"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.950000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.070000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.220000,
+      "word" : "troben"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.760000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.970000,
+      "word" : "baix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.210000,
+      "word" : "conflent"
+    }],
+  "text" : "se n'exclouen així doncs als municipis conflentina del massís que es troben al baix conflent"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.990000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.440000,
+      "word" : "actuació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.190000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.400000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.610000,
+      "word" : "legalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.150000,
+      "word" : "viable"
+    }, {
+      "conf" : 0.801344,
+      "end" : 4.140000,
+      "start" : 3.930000,
+      "word" : "pel"
+    }, {
+      "conf" : 0.812402,
+      "end" : 4.410000,
+      "start" : 4.140000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.410000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.590000,
+      "word" : "suprimida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.340000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.490000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.640000,
+      "word" : "projecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.210000,
+      "word" : "d'execució"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.650000,
+      "start" : 6.990000,
+      "word" : "d'obres"
+    }],
+  "text" : "aquesta actuació no és legalment viable pel cada ser suprimida en el projecte d'execució d'obres"
+}

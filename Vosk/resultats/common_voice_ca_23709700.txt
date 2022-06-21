@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.480000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.690000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.840000,
+      "word" : "espècie"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.320000,
+      "word" : "comuna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.740000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.920000,
+      "word" : "aquelles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.310000,
+      "word" : "zones"
+    }],
+  "text" : "és una espècie comuna en aquelles zones"
+}

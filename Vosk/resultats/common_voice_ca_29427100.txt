@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.330270,
+      "end" : 0.900000,
+      "start" : 0.510000,
+      "word" : "direm"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.927180,
+      "word" : "quina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.200000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.500000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.620000,
+      "word" : "millor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.860000,
+      "word" : "manera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.613736,
+      "start" : 2.280000,
+      "word" : "d'anar"
+    }, {
+      "conf" : 0.673926,
+      "end" : 2.820000,
+      "start" : 2.613736,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.820000,
+      "word" : "camí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.150000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.270000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.540000,
+      "word" : "cebrià"
+    }, {
+      "conf" : 0.621445,
+      "end" : 4.380000,
+      "start" : 4.200000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.380000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.830000,
+      "word" : "panissars"
+    }],
+  "text" : "direm quina és la millor manera d'anar del camí de sant cebrià al carrer de panissars"
+}

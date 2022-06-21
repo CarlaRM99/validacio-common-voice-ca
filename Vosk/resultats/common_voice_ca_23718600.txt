@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.960000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.140000,
+      "word" : "bandera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.560000,
+      "word" : "consisteix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.730000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 2.880000,
+      "word" : "transposició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.080000,
+      "word" : "l'escut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.500000,
+      "word" : "heràldic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.920000,
+      "word" : "municipal"
+    }],
+  "text" : "la bandera consisteix en una transposició de l'escut heràldic municipal"
+}

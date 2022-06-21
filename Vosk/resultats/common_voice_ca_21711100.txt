@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.660000,
+      "word" : "construcció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.380000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.500000,
+      "word" : "tàpia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.040000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.190000,
+      "word" : "cantonades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.910000,
+      "word" : "totxo"
+    }],
+  "text" : "construcció de tàpia amb cantonades de totxo"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.840000,
+      "word" : "típicament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.560000,
+      "word" : "l'anàlisi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.250000,
+      "word" : "sintàctica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 2.940000,
+      "word" : "superficial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.810000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.050000,
+      "word" : "produeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.530000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.620000,
+      "word" : "arbre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.920000,
+      "word" : "sintàctic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.550000,
+      "word" : "complet"
+    }],
+  "text" : "típicament l'anàlisi sintàctica superficial no produeix un arbre sintàctic complet"
+}

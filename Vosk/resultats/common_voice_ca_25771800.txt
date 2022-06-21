@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.390000,
+      "word" : "després"
+    }, {
+      "conf" : 0.700760,
+      "end" : 1.860000,
+      "start" : 1.380000,
+      "word" : "entra"
+    }, {
+      "conf" : 0.534442,
+      "end" : 2.070000,
+      "start" : 1.860000,
+      "word" : "al"
+    }, {
+      "conf" : 0.807938,
+      "end" : 2.520000,
+      "start" : 2.070000,
+      "word" : "comtat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.520000,
+      "word" : "blanc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.360000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.570000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.720000,
+      "word" : "embassaments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.911356,
+      "start" : 4.530000,
+      "word" : "formen"
+    }, {
+      "conf" : 0.711867,
+      "end" : 5.010000,
+      "start" : 4.920000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.010000,
+      "word" : "llac"
+    }, {
+      "conf" : 0.797539,
+      "end" : 5.880000,
+      "start" : 5.370000,
+      "word" : "femen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.910000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 6.030000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.150000,
+      "word" : "llac"
+    }, {
+      "conf" : 0.832194,
+      "end" : 7.050000,
+      "start" : 6.480000,
+      "word" : "xifra"
+    }],
+  "text" : "després entra al comtat blanc on els embassaments formen el llac femen i el llac xifra"
+}

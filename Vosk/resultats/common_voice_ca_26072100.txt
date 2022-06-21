@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.900000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.200000,
+      "word" : "respondre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.040000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.130000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.610000,
+      "word" : "violència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.300000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.480000,
+      "word" : "em"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.540000,
+      "word" : "preocupa"
+    }],
+  "text" : "a respondre i aquesta violència no em preocupa"
+}

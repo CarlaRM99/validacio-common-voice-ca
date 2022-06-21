@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.690000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.810000,
+      "word" : "conseqüència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.920000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.250000,
+      "word" : "dificultats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.940000,
+      "word" : "financeres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.750000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.930000,
+      "word" : "fugir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.348051,
+      "word" : "anglaterra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.070000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.310000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.580000,
+      "word" : "creditors"
+    }],
+  "text" : "a conseqüència de les seves dificultats financeres va fugir anglaterra dels seus creditors"
+}

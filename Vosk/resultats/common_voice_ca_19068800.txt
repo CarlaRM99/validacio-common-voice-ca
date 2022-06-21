@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.110000,
+      "word" : "què"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.320000,
+      "word" : "passaria"
+    }],
+  "text" : "què passaria"
+}

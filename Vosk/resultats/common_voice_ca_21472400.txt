@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.990000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.892584,
+      "start" : 1.230000,
+      "word" : "caràcter"
+    }, {
+      "conf" : 0.449403,
+      "end" : 2.033271,
+      "start" : 1.892584,
+      "word" : "dir"
+    }, {
+      "conf" : 0.871761,
+      "end" : 2.310000,
+      "start" : 2.033271,
+      "word" : "himne"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.310000,
+      "word" : "nacional"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.090000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.300000,
+      "word" : "deu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.720000,
+      "word" : "únicament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.620000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.710000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.830000,
+      "word" : "tradició"
+    }],
+  "text" : "el seu caràcter dir himne nacional es deu únicament a la tradició"
+}

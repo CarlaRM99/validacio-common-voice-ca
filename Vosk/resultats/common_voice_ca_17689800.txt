@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.990000,
+      "word" : "jurat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.560000,
+      "word" : "podrà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.890000,
+      "word" : "proposar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.490000,
+      "word" : "compartir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.180000,
+      "word" : "qualsevol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.780000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 3.960000,
+      "word" : "reconeixements"
+    }],
+  "text" : "el jurat podrà proposar compartir qualsevol dels reconeixements"
+}

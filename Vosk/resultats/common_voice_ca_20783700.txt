@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.720000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.870000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.990000,
+      "word" : "proposta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.590000,
+      "word" : "s'hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.740000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.920000,
+      "word" : "oposar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.310000,
+      "word" : "fermament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.030000,
+      "word" : "els"
+    }, {
+      "conf" : 0.882414,
+      "end" : 3.690000,
+      "start" : 3.210000,
+      "word" : "tribuns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.690000,
+      "word" : "marc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.050000,
+      "word" : "antoni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.680000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.800000,
+      "word" : "marc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.280000,
+      "word" : "pomponi"
+    }],
+  "text" : "a la proposta s'hi van oposar fermament els tribuns marc antoni i marc pomponi"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.600000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.840000,
+      "word" : "arribar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.200000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.440000,
+      "word" : "coneguts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.980000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.310000,
+      "word" : "grup"
+    }, {
+      "conf" : 0.844084,
+      "end" : 3.120000,
+      "start" : 2.580000,
+      "word" : "apatxe"
+    }],
+  "text" : "van arribar a ser coneguts com el grup apatxe"
+}

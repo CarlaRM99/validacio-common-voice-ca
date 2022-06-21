@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.750000,
+      "word" : "uns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.500000,
+      "word" : "tard"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.190000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 2.790000,
+      "word" : "nogensmenys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.050000,
+      "word" : "decidir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.830000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 4.980000,
+      "word" : "transferir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.700000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.850000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.210000,
+      "word" : "despulla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.900000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 7.020000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.710000,
+      "start" : 7.140000,
+      "word" : "catedral"
+    }],
+  "text" : "uns anys més tard van nogensmenys decidir de transferir la seva despulla a la catedral"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.690000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.080000,
+      "word" : "aviat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.380000,
+      "word" : "s'endureix"
+    }, {
+      "conf" : 0.845350,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.400000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.580000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.790000,
+      "word" : "dolça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.120000,
+      "word" : "olor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.450000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.600000,
+      "word" : "s'evapora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.230000,
+      "word" : "ràpidament"
+    }],
+  "text" : "això aviat s'endureix i té una dolça olor que s'evapora ràpidament"
+}

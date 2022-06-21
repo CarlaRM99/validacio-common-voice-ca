@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.690000,
+      "word" : "capital"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.200000,
+      "word" : "històrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.860000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.980000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.070000,
+      "word" : "ribagorça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.910000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.240000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.420000,
+      "word" : "vila"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.720000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.870000,
+      "word" : "benavarri"
+    }],
+  "text" : "la capital històrica de la ribagorça és la vila de benavarri"
+}

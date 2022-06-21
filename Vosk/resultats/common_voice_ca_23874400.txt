@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.750000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.140000,
+      "word" : "obra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.530000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.830000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.250000,
+      "word" : "atribuïda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.030000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.120000,
+      "word" : "l'orador"
+    }, {
+      "conf" : 0.839555,
+      "end" : 4.530000,
+      "start" : 3.750000,
+      "word" : "antífones"
+    }],
+  "text" : "la seva obra fou també atribuïda a l'orador antífones"
+}

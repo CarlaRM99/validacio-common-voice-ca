@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.690000,
+      "word" : "posteriorment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.440000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.500000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.620000,
+      "word" : "batalla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.950000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.100000,
+      "word" : "vukovar"
+    }, {
+      "conf" : 0.541607,
+      "end" : 3.120000,
+      "start" : 2.910000,
+      "word" : "les"
+    }, {
+      "conf" : 0.389700,
+      "end" : 3.496717,
+      "start" : 3.120000,
+      "word" : "fosses"
+    }, {
+      "conf" : 0.874054,
+      "end" : 3.900000,
+      "start" : 3.496717,
+      "word" : "sèrie"
+    }, {
+      "conf" : 0.874054,
+      "end" : 3.960000,
+      "start" : 3.900000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.960000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.170000,
+      "word" : "pedra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.500000,
+      "word" : "control"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.221563,
+      "start" : 4.950000,
+      "word" : "sobre"
+    }, {
+      "conf" : 0.705810,
+      "end" : 5.278702,
+      "start" : 5.221563,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.278702,
+      "word" : "lloc"
+    }],
+  "text" : "posteriorment a la batalla de vukovar les fosses sèrie es van pedra control sobre el lloc"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.750000,
+      "word" : "presenten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.470000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.680000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.980000,
+      "word" : "relats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.490000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.850000,
+      "word" : "ells"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.270000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.360000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.750000,
+      "word" : "d'algunes"
+    }, {
+      "conf" : 0.724032,
+      "end" : 5.190000,
+      "start" : 4.320000,
+      "word" : "diferències"
+    }],
+  "text" : "que presenten els dos relats entre ells a part d'algunes diferències"
+}

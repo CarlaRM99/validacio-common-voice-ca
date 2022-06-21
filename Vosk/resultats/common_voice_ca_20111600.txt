@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.750000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.170000,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.530000,
+      "word" : "edifici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "no"
+    }, {
+      "conf" : 0.738874,
+      "end" : 3.240000,
+      "start" : 2.400000,
+      "word" : "s'aprecien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.240000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.600000,
+      "word" : "estructures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.470000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.620000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.770000,
+      "word" : "ceràmica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.400000,
+      "word" : "superficial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.420000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.600000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.530000,
+      "start" : 6.840000,
+      "word" : "escassa"
+    }],
+  "text" : "a part d'aquest edifici no s'aprecien altres estructures i la ceràmica superficial és molt escassa"
+}

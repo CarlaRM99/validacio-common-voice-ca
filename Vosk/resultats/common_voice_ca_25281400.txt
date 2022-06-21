@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "la"
+    }, {
+      "conf" : 0.648466,
+      "end" : 1.290000,
+      "start" : 0.990000,
+      "word" : "fruita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.290000,
+      "word" : "funciona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.740000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.950000,
+      "word" : "a"
+    }, {
+      "conf" : 0.615229,
+      "end" : 2.580000,
+      "start" : 1.980000,
+      "word" : "repelent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.760000,
+      "word" : "gràcies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.180000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.240000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.330000,
+      "word" : "toxicitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.990000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.170000,
+      "word" : "obliqua"
+    }, {
+      "conf" : 0.839326,
+      "end" : 4.708742,
+      "start" : 4.560000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.708742,
+      "word" : "loira"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.999998,
+      "start" : 5.220000,
+      "word" : "asteroidal"
+    }],
+  "text" : "la fruita funciona com a repelent gràcies a la toxicitat del obliqua que loira asteroidal"
+}

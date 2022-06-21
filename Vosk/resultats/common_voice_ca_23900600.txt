@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.780000,
+      "word" : "brotat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.500000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.620000,
+      "word" : "bon"
+    }, {
+      "conf" : 0.538400,
+      "end" : 2.400000,
+      "start" : 1.800000,
+      "word" : "representant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.430000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.580000,
+      "word" : "primitivisme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.330000,
+      "word" : "figuratiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 3.870000,
+      "word" : "característic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.860000,
+      "word" : "l'art"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.190000,
+      "word" : "postguerra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.790000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.880000,
+      "word" : "catalunya"
+    }],
+  "text" : "brotat és un bon representant del primitivisme figuratiu característic de l'art de postguerra a catalunya"
+}

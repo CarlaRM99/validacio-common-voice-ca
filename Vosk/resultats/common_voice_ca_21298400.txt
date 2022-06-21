@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.390000,
+      "word" : "existeixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.140000,
+      "word" : "exemples"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.620000,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.890000,
+      "word" : "artista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.430000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.520000,
+      "word" : "quasi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.820000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.060000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.180000,
+      "word" : "museus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.600000,
+      "word" : "europeus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.140000,
+      "word" : "d'origen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.590000,
+      "word" : "reial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 5.010000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.059990,
+      "start" : 5.100000,
+      "word" : "aristocràtic"
+    }],
+  "text" : "existeixen exemples d'aquest artista en quasi tots els museus europeus d'origen reial o aristocràtic"
+}

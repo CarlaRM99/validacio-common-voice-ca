@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.630902,
+      "end" : 1.050000,
+      "start" : 0.510000,
+      "word" : "rues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.080000,
+      "word" : "focs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.440000,
+      "word" : "artificials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.340000,
+      "word" : "rodeos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.940000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.030000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.510000,
+      "word" : "celebracions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.380000,
+      "word" : "ajuden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.830000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.890000,
+      "word" : "commemorar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 5.640000,
+      "word" : "l'esdeveniment"
+    }],
+  "text" : "rues focs artificials rodeos i altres celebracions ajuden a commemorar l'esdeveniment"
+}

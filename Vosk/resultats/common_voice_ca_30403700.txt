@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.382685,
+      "start" : 1.140000,
+      "word" : "com"
+    }, {
+      "conf" : 0.531627,
+      "end" : 1.440000,
+      "start" : 1.382685,
+      "word" : "ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.440000,
+      "word" : "puc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.650000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.160000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.340000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.550000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.610000,
+      "word" : "carrer"
+    }, {
+      "conf" : 0.495667,
+      "end" : 3.120000,
+      "start" : 3.030000,
+      "word" : "de"
+    }, {
+      "conf" : 0.824297,
+      "end" : 3.480000,
+      "start" : 3.120000,
+      "word" : "lleis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.480000,
+      "word" : "cantonada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.990000,
+      "word" : "beethoven"
+    }],
+  "text" : "com ho puc fer per anar al carrer de lleis cantonada beethoven"
+}

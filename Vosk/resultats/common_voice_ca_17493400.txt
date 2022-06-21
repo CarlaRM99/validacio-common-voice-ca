@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.270000,
+      "word" : "llavors"
+    }, {
+      "conf" : 0.671802,
+      "end" : 1.620000,
+      "start" : 0.990000,
+      "word" : "ratlleu-hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.620000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.920000,
+      "word" : "tomates"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.490000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.580000,
+      "word" : "deixeu-ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.210000,
+      "word" : "coure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.810000,
+      "word" : "uns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.110000,
+      "word" : "vint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.380000,
+      "word" : "minuts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.920000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.460000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.580000,
+      "word" : "foc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 5.970000,
+      "word" : "petit"
+    }],
+  "text" : "llavors ratlleu-hi les tomates i deixeu-ho coure uns vint minuts més a foc petit"
+}

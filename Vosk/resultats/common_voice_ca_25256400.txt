@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.750000,
+      "word" : "abans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.380000,
+      "word" : "any"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.710000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.860000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.220000,
+      "word" : "cara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.610000,
+      "word" : "tornava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.210000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.240000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.570000,
+      "word" : "gairebé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.050000,
+      "word" : "normal"
+    }],
+  "text" : "abans d'un any la seva cara tornava a ser gairebé normal"
+}

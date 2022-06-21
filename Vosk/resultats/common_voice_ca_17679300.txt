@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.630000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.870000,
+      "word" : "petita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.440000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.680000,
+      "word" : "possible"
+    }, {
+      "conf" : 0.724082,
+      "end" : 2.760000,
+      "start" : 2.160000,
+      "word" : "recórrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.790000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.880000,
+      "word" : "peu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.240000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.660000,
+      "word" : "disposa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.170000,
+      "word" : "d'algunes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.560000,
+      "word" : "òrgans"
+    }],
+  "text" : "és petita i és possible recórrer a peu si es disposa d'algunes òrgans"
+}

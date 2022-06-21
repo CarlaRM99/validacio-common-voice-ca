@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.848456,
+      "end" : 0.900000,
+      "start" : 0.450000,
+      "word" : "d'home"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.170000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.350000,
+      "word" : "ciutat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 1.800000,
+      "word" : "fortificada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.790000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.030000,
+      "word" : "mica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.360000,
+      "word" : "particular"
+    }],
+  "text" : "d'home és una ciutat fortificada una mica particular"
+}

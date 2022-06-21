@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "el"
+    }, {
+      "conf" : 0.830558,
+      "end" : 1.140000,
+      "start" : 0.750000,
+      "word" : "guia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.410000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.590000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.740000,
+      "word" : "endur"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.160000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.340000,
+      "word" : "benefici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.940000,
+      "word" : "econòmic"
+    }],
+  "text" : "el guia es va endur un benefici econòmic"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.765103,
+      "end" : 1.170000,
+      "start" : 0.930000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.170000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.380000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.787290,
+      "end" : 1.860000,
+      "start" : 1.710000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.860000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.280000,
+      "word" : "antic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.790000,
+      "word" : "guinardó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.330000,
+      "word" : "cantonada"
+    }, {
+      "conf" : 0.722362,
+      "end" : 4.470000,
+      "start" : 3.900000,
+      "word" : "goso"
+    }],
+  "text" : "que hi ha al carrer antic del guinardó cantonada goso"
+}

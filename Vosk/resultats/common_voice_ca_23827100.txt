@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.540000,
+      "word" : "pertany"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.230000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.320000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.530000,
+      "word" : "família"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.070000,
+      "word" : "protestant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.850000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.707481,
+      "start" : 3.030000,
+      "word" : "tradició"
+    }, {
+      "conf" : 0.815130,
+      "end" : 3.900000,
+      "start" : 3.756650,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 3.900000,
+      "word" : "participació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.740000,
+      "word" : "política"
+    }],
+  "text" : "pertany a una família protestant amb tradició la participació política"
+}

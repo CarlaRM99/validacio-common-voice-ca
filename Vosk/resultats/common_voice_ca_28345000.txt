@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.960000,
+      "word" : "torna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.530000,
+      "word" : "vigilar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.950000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.040000,
+      "word" : "caravana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.880000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.120000,
+      "word" : "dir"
+    }],
+  "text" : "torna a vigilar la caravana va dir"
+}

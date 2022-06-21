@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.390000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.840000,
+      "word" : "sostenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.320000,
+      "word" : "contra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.680000,
+      "word" : "ella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.040000,
+      "word" : "lluites"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.460000,
+      "word" : "necessàries"
+    }],
+  "text" : "només sostenen contra ella lluites necessàries"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.960000,
+      "word" : "estudiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040249,
+      "start" : 1.530000,
+      "word" : "música"
+    }, {
+      "conf" : 0.849288,
+      "end" : 2.070000,
+      "start" : 2.040249,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.070000,
+      "word" : "barcelona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.000000,
+      "word" : "s'especialitzà"
+    }, {
+      "conf" : 0.518933,
+      "end" : 4.203462,
+      "start" : 4.050000,
+      "word" : "en"
+    }, {
+      "conf" : 0.481067,
+      "end" : 4.620000,
+      "start" : 4.203462,
+      "word" : "encant"
+    }],
+  "text" : "va estudiar música a barcelona i s'especialitzà en encant"
+}

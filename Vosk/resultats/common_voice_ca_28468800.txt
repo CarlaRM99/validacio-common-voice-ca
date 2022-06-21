@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.420000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.630000,
+      "word" : "programació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.680000,
+      "word" : "incloïa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.310000,
+      "word" : "exhibicions"
+    }, {
+      "conf" : 0.864921,
+      "end" : 3.630000,
+      "start" : 3.060000,
+      "word" : "d'anime"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.290000,
+      "word" : "aparicions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 4.950000,
+      "word" : "d'artistes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 5.700000,
+      "word" : "concursos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.200000,
+      "start" : 6.630000,
+      "word" : "cosplay"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 7.260000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.710000,
+      "start" : 7.350000,
+      "word" : "taules"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.250000,
+      "start" : 7.710000,
+      "word" : "rodones"
+    }],
+  "text" : "la programació incloïa exhibicions d'anime aparicions d'artistes concursos cosplay i taules rodones"
+}

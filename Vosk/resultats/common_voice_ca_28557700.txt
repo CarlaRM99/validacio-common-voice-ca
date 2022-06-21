@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.600000,
+      "word" : "pitjor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.440000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.560000,
+      "word" : "pitjor"
+    }],
+  "text" : "pitjor i pitjor"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.050000,
+      "word" : "mitjà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.470000,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.860000,
+      "word" : "tractat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.520000,
+      "word" : "mongòlia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.240000,
+      "word" : "i"
+    }, {
+      "conf" : 0.818207,
+      "end" : 3.450000,
+      "start" : 3.300000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.450000,
+      "word" : "tibet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.020000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.260000,
+      "word" : "reconeixien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.070000,
+      "word" : "mútuament"
+    }, {
+      "conf" : 0.769683,
+      "end" : 5.940000,
+      "start" : 5.820000,
+      "word" : "i"
+    }, {
+      "conf" : 0.864967,
+      "end" : 6.690000,
+      "start" : 5.940000,
+      "word" : "establien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.750000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.770000,
+      "start" : 6.990000,
+      "word" : "aliança"
+    }],
+  "text" : "per mitjà d'aquest tractat mongòlia i el tibet es reconeixien mútuament i establien una aliança"
+}

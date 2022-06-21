@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.720000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.230000,
+      "word" : "tancat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.770000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.920000,
+      "word" : "presó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.250000,
+      "word" : "model"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.700000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.790000,
+      "word" : "madrid"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.390000,
+      "word" : "junt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.810000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.960000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.380000,
+      "word" : "diputats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.920000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.980000,
+      "word" : "polítics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.550000,
+      "word" : "dretans"
+    }],
+  "text" : "fou tancat a la presó model de madrid junt amb altres diputats i polítics dretans"
+}

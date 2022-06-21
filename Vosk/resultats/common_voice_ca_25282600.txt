@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 0.900000,
+      "word" : "ratificació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.830000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.950000,
+      "word" : "l'esmena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.610000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.760000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.030000,
+      "word" : "amargament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.720000,
+      "word" : "impugnada"
+    }],
+  "text" : "la ratificació de l'esmena va ser amargament impugnada"
+}

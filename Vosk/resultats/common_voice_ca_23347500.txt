@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.260000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.350000,
+      "word" : "guerra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.590000,
+      "word" : "civil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.040000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.190000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.280000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.400000,
+      "word" : "servir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.730000,
+      "word" : "com"
+    }, {
+      "conf" : 0.335471,
+      "end" : 2.940000,
+      "start" : 2.880000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.967605,
+      "word" : "mercat"
+    }],
+  "text" : "durant la guerra civil es va fer servir com a mercat"
+}

@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.690000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.930000,
+      "word" : "navegar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.850737,
+      "start" : 1.560000,
+      "word" : "cap"
+    }, {
+      "conf" : 0.691241,
+      "end" : 1.890000,
+      "start" : 1.860000,
+      "word" : "a"
+    }, {
+      "conf" : 0.691241,
+      "end" : 2.247430,
+      "start" : 1.890000,
+      "word" : "sitges"
+    }, {
+      "conf" : 0.531411,
+      "end" : 2.670000,
+      "start" : 2.247430,
+      "word" : "donar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.210000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.480000,
+      "word" : "ciutat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.930000,
+      "word" : "pròspera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.770000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.950000,
+      "word" : "aquells"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.310000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 6.270000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 6.390000,
+      "word" : "la"
+    }, {
+      "conf" : 0.766182,
+      "end" : 6.630000,
+      "start" : 6.510000,
+      "word" : "va"
+    }, {
+      "conf" : 0.766182,
+      "end" : 7.200000,
+      "start" : 6.630000,
+      "word" : "saquejar"
+    }],
+  "text" : "va navegar cap a sitges donar una ciutat pròspera en aquells temps i la va saquejar"
+}

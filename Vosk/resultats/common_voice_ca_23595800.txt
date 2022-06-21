@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.843996,
+      "end" : 0.624880,
+      "start" : 0.510000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.624880,
+      "word" : "altes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 0.930000,
+      "word" : "temperatures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.830000,
+      "word" : "landa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.250000,
+      "word" : "lúcida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.760000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.970000,
+      "word" : "converteix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.720000,
+      "word" : "en"
+    }, {
+      "conf" : 0.773224,
+      "end" : 4.530000,
+      "start" : 4.020000,
+      "word" : "sil"
+    }, {
+      "conf" : 0.532472,
+      "end" : 5.040000,
+      "start" : 4.590000,
+      "word" : "lima"
+    }, {
+      "conf" : 0.693399,
+      "end" : 5.460000,
+      "start" : 5.040000,
+      "word" : "nita"
+    }],
+  "text" : "a altes temperatures landa lúcida es converteix en sil lima nita"
+}

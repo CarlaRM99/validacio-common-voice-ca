@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.611620,
+      "end" : 2.040000,
+      "start" : 1.440000,
+      "word" : "fulgor"
+    }, {
+      "conf" : 0.431718,
+      "end" : 2.389254,
+      "start" : 2.040000,
+      "word" : "fa"
+    }, {
+      "conf" : 0.306269,
+      "end" : 2.790000,
+      "start" : 2.430000,
+      "word" : "bru"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.850000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.030000,
+      "word" : "til"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.360000,
+      "word" : "tinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.810000,
+      "word" : "arbulo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.590000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.950000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.130000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.310000,
+      "word" : "primers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 5.760000,
+      "word" : "assentaments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.810000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 6.900000,
+      "word" : "l'illa"
+    }],
+  "text" : "fulgor fa bru i til tinc arbulo van ser els primers assentaments a l'illa"
+}

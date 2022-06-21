@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.540000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.870000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.930000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.080000,
+      "word" : "poder"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.320000,
+      "word" : "demostrar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.040000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.250000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.340000,
+      "word" : "implementació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.240000,
+      "word" : "les"
+    }, {
+      "conf" : 0.844620,
+      "end" : 3.900000,
+      "start" : 3.450000,
+      "word" : "proves"
+    }, {
+      "conf" : 0.813912,
+      "end" : 4.350000,
+      "start" : 3.900000,
+      "word" : "electró"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.350000,
+      "word" : "gràfiques"
+    }],
+  "text" : "això es va poder demostrar amb la implementació de les proves electró gràfiques"
+}

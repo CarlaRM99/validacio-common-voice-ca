@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.295110,
+      "end" : 1.164987,
+      "start" : 0.810000,
+      "word" : "açò"
+    }, {
+      "conf" : 0.346102,
+      "end" : 1.560000,
+      "start" : 1.230000,
+      "word" : "últim"
+    }, {
+      "conf" : 0.771161,
+      "end" : 2.220000,
+      "start" : 1.583288,
+      "word" : "fundació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.280000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.940000,
+      "word" : "comitè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.480000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.660000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.720000,
+      "word" : "la"
+    }, {
+      "conf" : 0.823613,
+      "end" : 4.290000,
+      "start" : 3.780000,
+      "word" : "bruixa"
+    }, {
+      "conf" : 0.535706,
+      "end" : 4.711400,
+      "start" : 4.320000,
+      "word" : "tremosa"
+    }, {
+      "conf" : 0.253295,
+      "end" : 5.100000,
+      "start" : 4.711400,
+      "word" : "canadà"
+    }],
+  "text" : "açò últim fundació fou el comitè per a la bruixa tremosa canadà"
+}

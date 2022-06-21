@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.770335,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "el"
+    }, {
+      "conf" : 0.821367,
+      "end" : 1.290000,
+      "start" : 0.990000,
+      "word" : "país"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.290000,
+      "word" : "valencià"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.830000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.130000,
+      "word" : "doncs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.000000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.210000,
+      "word" : "país"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.510000,
+      "word" : "d'acollida"
+    }],
+  "text" : "el país valencià és doncs un país d'acollida"
+}

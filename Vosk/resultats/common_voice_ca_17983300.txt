@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.744561,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "què"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.960000,
+      "word" : "voleu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.320000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.500000,
+      "word" : "berenar"
+    }],
+  "text" : "què voleu per berenar"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.793032,
+      "end" : 1.110000,
+      "start" : 0.930000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.110000,
+      "word" : "llibre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.500000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.920000,
+      "word" : "format"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.430000,
+      "word" : "epub"
+    }, {
+      "conf" : 0.422154,
+      "end" : 3.180000,
+      "start" : 3.060000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.191360,
+      "word" : "pdf"
+    }],
+  "text" : "el llibre era en format epub el pdf"
+}

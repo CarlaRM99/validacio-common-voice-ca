@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.781734,
+      "end" : 1.029578,
+      "start" : 0.840000,
+      "word" : "un"
+    }, {
+      "conf" : 0.945562,
+      "end" : 1.289470,
+      "start" : 1.029578,
+      "word" : "l'alt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.289470,
+      "word" : "criat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.860000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.070000,
+      "word" : "bon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.310000,
+      "word" : "criador"
+    }],
+  "text" : "un l'alt criat un bon criador"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.687677,
+      "end" : 1.530000,
+      "start" : 1.050000,
+      "word" : "d'ésser"
+    }, {
+      "conf" : 0.914303,
+      "end" : 2.130000,
+      "start" : 1.650000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.220000,
+      "word" : "huitanta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.670000,
+      "word" : "cinc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.090000,
+      "word" : "setanta-u"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 3.930000,
+      "word" : "seixanta-nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.070000,
+      "word" : "seixanta-u"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.512389,
+      "start" : 6.300000,
+      "word" : "com"
+    }, {
+      "conf" : 0.432629,
+      "end" : 6.600000,
+      "start" : 6.512389,
+      "word" : "a"
+    }, {
+      "conf" : 0.615459,
+      "end" : 7.020000,
+      "start" : 6.810000,
+      "word" : "font"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.110000,
+      "start" : 7.020000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 7.110000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.650000,
+      "start" : 7.260000,
+      "word" : "thais"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.310000,
+      "start" : 7.710000,
+      "word" : "espanya"
+    }],
+  "text" : "d'ésser sis huitanta cinc setanta-u seixanta-nou seixanta-u com a font de la thais espanya"
+}

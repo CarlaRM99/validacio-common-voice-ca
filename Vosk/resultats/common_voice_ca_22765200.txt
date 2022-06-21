@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.660000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.020000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.200000,
+      "word" : "vist"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.590000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.860000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.160000,
+      "word" : "alternativa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.360000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.450000,
+      "word" : "l'acomiadament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.380000,
+      "word" : "forçós"
+    }],
+  "text" : "això és vist com una alternativa a l'acomiadament forçós"
+}

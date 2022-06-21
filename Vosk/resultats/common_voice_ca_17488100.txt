@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 0.930000,
+      "word" : "protagonista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.860000,
+      "word" : "l'obra"
+    }, {
+      "conf" : 0.609713,
+      "end" : 2.550000,
+      "start" : 2.220000,
+      "word" : "eren"
+    }, {
+      "conf" : 0.862441,
+      "end" : 3.073512,
+      "start" : 2.550000,
+      "word" : "efecte"
+    }, {
+      "conf" : 0.793562,
+      "end" : 3.360000,
+      "start" : 3.141300,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.362360,
+      "word" : "extremadament"
+    }, {
+      "conf" : 0.718713,
+      "end" : 4.740000,
+      "start" : 4.200000,
+      "word" : "pobra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.100000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.340000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.520000,
+      "word" : "punt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.730000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.850000,
+      "word" : "vista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.150000,
+      "word" : "material"
+    }],
+  "text" : "el protagonista de l'obra eren efecte nom extremadament pobra des del punt de vista material"
+}

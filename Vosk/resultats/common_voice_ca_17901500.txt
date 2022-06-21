@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.690548,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "sí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.810000,
+      "word" : "senyor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.560000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.920000,
+      "word" : "infàmia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.610000,
+      "word" : "persones"
+    }, {
+      "conf" : 0.673999,
+      "end" : 3.330000,
+      "start" : 3.120000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.330000,
+      "word" : "ingrates"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.810000,
+      "word" : "no"
+    }, {
+      "conf" : 0.733050,
+      "end" : 4.447762,
+      "start" : 3.960000,
+      "word" : "mereixia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.516159,
+      "word" : "res"
+    }],
+  "text" : "sí senyor era una infàmia persones tant ingrates no mereixia res"
+}

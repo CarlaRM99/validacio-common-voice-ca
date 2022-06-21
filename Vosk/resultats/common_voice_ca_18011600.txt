@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.690000,
+      "word" : "majoria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.200000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.290000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.380000,
+      "word" : "infraestructura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.160000,
+      "word" : "d'internet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.790000,
+      "word" : "està"
+    }, {
+      "conf" : 0.810388,
+      "end" : 3.445132,
+      "start" : 3.060000,
+      "word" : "basada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.445132,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.510000,
+      "word" : "programari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.050000,
+      "word" : "lliure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.560000,
+      "word" : "i"
+    }, {
+      "conf" : 0.518674,
+      "end" : 5.210850,
+      "start" : 4.650000,
+      "word" : "protocols"
+    }, {
+      "conf" : 0.257993,
+      "end" : 5.640000,
+      "start" : 5.210850,
+      "word" : "juvenil"
+    }],
+  "text" : "la majoria de la infraestructura d'internet està basada en programari lliure i protocols juvenil"
+}

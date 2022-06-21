@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.629129,
+      "end" : 1.288314,
+      "start" : 1.050000,
+      "word" : "ton"
+    }, {
+      "conf" : 0.825375,
+      "end" : 2.042519,
+      "start" : 1.290000,
+      "word" : "inesperada"
+    }, {
+      "conf" : 0.402428,
+      "end" : 2.190000,
+      "start" : 2.042519,
+      "word" : "va"
+    }, {
+      "conf" : 0.402428,
+      "end" : 2.332189,
+      "start" : 2.190000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.332189,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.475961,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.790000,
+      "word" : "càrrega"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.300000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.450000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.510000,
+      "word" : "vaig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.810000,
+      "word" : "tombar"
+    }],
+  "text" : "ton inesperada va ser la seva càrrega que el vaig tombar"
+}

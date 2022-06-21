@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.960000,
+      "word" : "puc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.170000,
+      "word" : "venir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.650000,
+      "word" : "perquè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.661286,
+      "start" : 1.980000,
+      "word" : "d'acompanyar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.790000,
+      "word" : "meva"
+    }, {
+      "conf" : 0.558641,
+      "end" : 3.360000,
+      "start" : 3.090000,
+      "word" : "mare"
+    }, {
+      "conf" : 0.615022,
+      "end" : 3.450000,
+      "start" : 3.360000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.450000,
+      "word" : "metge"
+    }],
+  "text" : "no puc venir perquè d'acompanyar la meva mare el metge"
+}

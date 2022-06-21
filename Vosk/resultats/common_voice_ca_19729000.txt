@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.840000,
+      "word" : "també"
+    }, {
+      "conf" : 0.775371,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "és"
+    }, {
+      "conf" : 0.775371,
+      "end" : 2.460000,
+      "start" : 1.440000,
+      "word" : "identificar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.760000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.030000,
+      "word" : "possible"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.570000,
+      "word" : "línia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.960000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.080000,
+      "word" : "costa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.040000,
+      "word" : "prop"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.340000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.550000,
+      "word" : "pol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.030000,
+      "word" : "gràcies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.780000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.590000,
+      "start" : 6.900000,
+      "word" : "fotografies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.740000,
+      "start" : 7.590000,
+      "word" : "de"
+    }, {
+      "conf" : 0.719162,
+      "end" : 8.190000,
+      "start" : 7.740000,
+      "word" : "radar"
+    }],
+  "text" : "també és identificar una possible línia de costa prop del pol gràcies a fotografies de radar"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.690000,
+      "word" : "pel·lícula"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.200000,
+      "word" : "relata"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.680000,
+      "word" : "doncs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.070000,
+      "word" : "història"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.730000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.940000,
+      "word" : "amors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.360000,
+      "word" : "prohibits"
+    }],
+  "text" : "la pel·lícula relata doncs la història de dos amors prohibits"
+}

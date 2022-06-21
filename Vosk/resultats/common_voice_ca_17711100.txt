@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.960000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.110000,
+      "word" : "personal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.770000,
+      "word" : "correus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.520000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.760000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.940000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.150000,
+      "word" : "col·lectius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.022986,
+      "start" : 3.780000,
+      "word" : "més"
+    }, {
+      "conf" : 0.873517,
+      "end" : 4.920000,
+      "start" : 4.022986,
+      "word" : "soferts"
+    }],
+  "text" : "el personal de correus és un dels col·lectius més soferts"
+}

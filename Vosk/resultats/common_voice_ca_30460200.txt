@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.660000,
+      "word" : "reserva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.470000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.680000,
+      "word" : "bitllet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.220000,
+      "word" : "tren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.580000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.760000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.150000,
+      "word" : "a"
+    }, {
+      "conf" : 0.518791,
+      "end" : 3.870000,
+      "start" : 3.270000,
+      "word" : "súñer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.960000,
+      "word" : "l'onze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.470000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.560000,
+      "word" : "juliol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.280000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.370000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.059998,
+      "start" : 5.550000,
+      "word" : "sis"
+    }],
+  "text" : "reserva un bitllet de tren per anar a súñer l'onze de juliol a les sis"
+}

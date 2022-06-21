@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.720000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.900000,
+      "word" : "entitats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.410000,
+      "word" : "beneficiàries"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.250000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.550000,
+      "word" : "ampliar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.940000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.030000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.150000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.330000,
+      "word" : "propis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.170000,
+      "word" : "recursos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.250000,
+      "word" : "l'adoració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 6.240000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.080000,
+      "start" : 6.510000,
+      "word" : "contractes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.340000,
+      "start" : 7.080000,
+      "word" : "subvencionats"
+    }],
+  "text" : "les entitats beneficiàries poden ampliar amb els seus propis recursos l'adoració dels contractes subvencionats"
+}

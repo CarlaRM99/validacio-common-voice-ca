@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.020000,
+      "word" : "clenxa"
+    }, {
+      "conf" : 0.637960,
+      "end" : 2.083307,
+      "start" : 1.530000,
+      "word" : "tortes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.083307,
+      "word" : "semblava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.730000,
+      "word" : "carretera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.210000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.450000,
+      "word" : "àngels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.080000,
+      "word" : "segons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.590000,
+      "word" : "deien"
+    }],
+  "text" : "una clenxa tortes semblava la carretera dels àngels segons deien"
+}

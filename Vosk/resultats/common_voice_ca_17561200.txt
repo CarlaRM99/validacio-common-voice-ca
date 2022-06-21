@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.300000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.570000,
+      "word" : "pàgines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.050000,
+      "word" : "incorrectes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.680000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.800000,
+      "word" : "reparen"
+    }, {
+      "conf" : 0.875767,
+      "end" : 2.490000,
+      "start" : 2.250000,
+      "word" : "raó"
+    }],
+  "text" : "les pàgines incorrectes es reparen raó"
+}

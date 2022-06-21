@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.735869,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "què"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.780000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.140000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.290000,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.560000,
+      "word" : "rector"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.370000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.490000,
+      "word" : "universitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.330000,
+      "word" : "lleida"
+    }],
+  "text" : "què és el nou rector de la universitat de lleida"
+}

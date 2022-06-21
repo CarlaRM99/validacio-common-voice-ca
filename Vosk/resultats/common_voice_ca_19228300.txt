@@ -1,0 +1,9 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.840000,
+      "word" : "encara"
+    }],
+  "text" : "encara"
+}

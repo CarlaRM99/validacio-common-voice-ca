@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.837182,
+      "end" : 1.350000,
+      "start" : 0.870000,
+      "word" : "sabem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.500000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.560000,
+      "word" : "hauria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.980000,
+      "word" : "equips"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.340000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.430000,
+      "word" : "càmeres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 2.910000,
+      "word" : "presents"
+    }, {
+      "conf" : 0.616903,
+      "end" : 4.140000,
+      "start" : 3.990000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.140000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.290000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.440000,
+      "word" : "tracte"
+    }],
+  "text" : "sabem que hi hauria equips de càmeres presents van fer un tracte"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.600000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.780000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.410000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.440000,
+      "word" : "enregistrar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.370000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.640000,
+      "word" : "crònica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.240000,
+      "word" : "setmanal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.960000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.200000,
+      "word" : "esdeveniments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.010000,
+      "word" : "locals"
+    }],
+  "text" : "va començar a enregistrar una crònica setmanal dels esdeveniments locals"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.450000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.690000,
+      "word" : "puc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.900000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.140000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.380000,
+      "word" : "andreu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.830000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.950000,
+      "word" : "llavaneres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.610000,
+      "word" : "dimecres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.240000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.300000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.480000,
+      "word" : "nou"
+    }],
+  "text" : "com puc anar a sant andreu de llavaneres dimecres a les nou"
+}

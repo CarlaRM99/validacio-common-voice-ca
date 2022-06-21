@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.510000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.630000,
+      "word" : "partir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.020000,
+      "word" : "d'eixe"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.260000,
+      "word" : "moment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.920000,
+      "word" : "participants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.730000,
+      "word" : "seleccionats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.330000,
+      "word" : "podem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.660000,
+      "word" : "retirar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.990000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.110000,
+      "word" : "treballs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.440000,
+      "word" : "presentats"
+    }],
+  "text" : "a partir d'eixe moment els participants no seleccionats podem retirar els treballs presentats"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.793683,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "si"
+    }, {
+      "conf" : 0.650337,
+      "end" : 1.740000,
+      "start" : 1.320000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.800000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.010000,
+      "word" : "únic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.370000,
+      "word" : "exemple"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.150000,
+      "word" : "perquè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.510000,
+      "word" : "s'entengui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.350000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.530000,
+      "word" : "meu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.770000,
+      "word" : "pensament"
+    }],
+  "text" : "si tenir un únic exemple perquè s'entengui el meu pensament"
+}

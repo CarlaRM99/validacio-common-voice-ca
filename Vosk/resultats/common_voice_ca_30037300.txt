@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.510000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "puc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.020000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.440000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.530000,
+      "word" : "vallgorguina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.612333,
+      "start" : 2.490000,
+      "word" : "i"
+    }, {
+      "conf" : 0.841406,
+      "end" : 2.729192,
+      "start" : 2.612333,
+      "word" : "ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.729192,
+      "word" : "menja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.330000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.450000,
+      "word" : "l'estrès"
+    }],
+  "text" : "com puc anar a vallgorguina i ho menja a l'estrès"
+}

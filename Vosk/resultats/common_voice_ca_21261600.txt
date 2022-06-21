@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.930000,
+      "word" : "llavors"
+    }, {
+      "conf" : 0.744843,
+      "end" : 2.340000,
+      "start" : 1.650000,
+      "word" : "lluís"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.760000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.000000,
+      "word" : "tenia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.360000,
+      "word" : "fills"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.720000,
+      "word" : "mascles"
+    }, {
+      "conf" : 0.541643,
+      "end" : 5.160000,
+      "start" : 5.010000,
+      "word" : "va"
+    }, {
+      "conf" : 0.679170,
+      "end" : 5.760000,
+      "start" : 5.160000,
+      "word" : "preparar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.820000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.060000,
+      "word" : "matrimonis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.170000,
+      "start" : 6.990000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.380000,
+      "start" : 7.170000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.040000,
+      "start" : 7.380000,
+      "word" : "filles"
+    }],
+  "text" : "llavors lluís i no tenia fills mascles va preparar els matrimonis de les filles"
+}

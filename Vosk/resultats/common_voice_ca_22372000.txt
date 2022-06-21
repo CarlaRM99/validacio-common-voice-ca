@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.540000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.870000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 0.990000,
+      "word" : "administrarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.800000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.010000,
+      "word" : "anestèsic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.760000,
+      "word" : "local"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.330000,
+      "word" : "abans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.660000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.780000,
+      "word" : "es"
+    }, {
+      "conf" : 0.878210,
+      "end" : 4.136751,
+      "start" : 3.870000,
+      "word" : "dugué"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.136751,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.170000,
+      "word" : "terme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.530000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.620000,
+      "word" : "prova"
+    }],
+  "text" : "se li administrarà un anestèsic local abans que es dugué a terme la prova"
+}

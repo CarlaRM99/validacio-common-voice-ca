@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.660000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.960000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.230000,
+      "word" : "abans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.650000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.830000,
+      "word" : "estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.100000,
+      "word" : "present"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.700000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.910000,
+      "word" : "jocs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.300000,
+      "word" : "olímpics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.020000,
+      "word" : "moscou"
+    }],
+  "text" : "dos anys abans va estar present als jocs olímpics de moscou"
+}

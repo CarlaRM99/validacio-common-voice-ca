@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.561069,
+      "end" : 0.420000,
+      "start" : 0.150000,
+      "word" : "m"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.420000,
+      "word" : "corbera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.780000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.840000,
+      "word" : "llobregat"
+    }],
+  "text" : "m corbera de llobregat"
+}

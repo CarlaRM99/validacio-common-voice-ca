@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.360000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.570000,
+      "word" : "serra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.990000,
+      "word" : "pàndols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.740000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.980000,
+      "word" : "testimoni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.700000,
+      "word" : "batalla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.060000,
+      "word" : "sanguinàries"
+    }],
+  "text" : "la serra de pàndols fou testimoni de batalla sanguinàries"
+}

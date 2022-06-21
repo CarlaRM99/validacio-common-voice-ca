@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.620000,
+      "word" : "manera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.250000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.340000,
+      "word" : "diferència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.210000,
+      "word" : "haurà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.480000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.570000,
+      "word" : "ser"
+    }, {
+      "conf" : 0.447935,
+      "end" : 4.200000,
+      "start" : 3.780000,
+      "word" : "pagada"
+    }, {
+      "conf" : 0.943936,
+      "end" : 4.440000,
+      "start" : 4.211919,
+      "word" : "per"
+    }, {
+      "conf" : 0.671225,
+      "end" : 4.800000,
+      "start" : 4.440000,
+      "word" : "l'àmbit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.820137,
+      "word" : "nord"
+    }, {
+      "conf" : 0.605873,
+      "end" : 5.490000,
+      "start" : 5.280000,
+      "word" : "quin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.513648,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.640000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.760000,
+      "word" : "causant"
+    }],
+  "text" : "manera que la diferència haurà de ser pagada per l'àmbit nord quin és el causant"
+}

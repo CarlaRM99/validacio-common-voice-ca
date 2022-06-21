@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.839331,
+      "start" : 1.350000,
+      "word" : "dorm"
+    }, {
+      "conf" : 0.721388,
+      "end" : 1.980000,
+      "start" : 1.839331,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.980000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.130000,
+      "word" : "peus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.430000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.490000,
+      "word" : "llevant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.451759,
+      "start" : 3.330000,
+      "word" : "i"
+    }, {
+      "conf" : 0.536551,
+      "end" : 3.540000,
+      "start" : 3.451759,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.540000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.810000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.870000,
+      "word" : "ponent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.710000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.800000,
+      "word" : "viuràs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.220000,
+      "word" : "eternament"
+    }],
+  "text" : "dorm amb els peus a llevant i o cap a ponent i viuràs eternament"
+}

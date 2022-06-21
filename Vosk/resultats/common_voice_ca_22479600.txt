@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.780000,
+      "word" : "resisteix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.590000,
+      "word" : "mitjanament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.520000,
+      "word" : "inundació"
+    }],
+  "text" : "resisteix mitjanament la inundació"
+}

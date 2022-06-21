@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.992150,
+      "start" : 0.570000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 0.583943,
+      "end" : 1.080000,
+      "start" : 0.992150,
+      "word" : "va"
+    }, {
+      "conf" : 0.664680,
+      "end" : 1.320000,
+      "start" : 1.080000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.320000,
+      "word" : "motivació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.890000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.980000,
+      "word" : "creació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.340000,
+      "word" : "d'aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.700000,
+      "word" : "tecnologia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.750000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.930000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.050000,
+      "word" : "conjunt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.530000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.650000,
+      "word" : "dispositius"
+    }],
+  "text" : "aquesta va seva motivació de la creació d'aquesta tecnologia i el conjunt de dispositius"
+}

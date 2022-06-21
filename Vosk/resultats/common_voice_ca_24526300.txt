@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.420000,
+      "word" : "l'empresa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.990000,
+      "word" : "també"
+    }, {
+      "conf" : 0.889600,
+      "end" : 1.350000,
+      "start" : 1.260000,
+      "word" : "els"
+    }, {
+      "conf" : 0.889600,
+      "end" : 1.590000,
+      "start" : 1.350000,
+      "word" : "punts"
+    }, {
+      "conf" : 0.889600,
+      "end" : 1.950000,
+      "start" : 1.590000,
+      "word" : "horitzó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.953312,
+      "word" : "esportistes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.580000,
+      "word" : "professionals"
+    }],
+  "text" : "l'empresa també els punts horitzó esportistes professionals"
+}

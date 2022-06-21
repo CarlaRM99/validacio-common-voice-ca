@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.852297,
+      "end" : 1.200000,
+      "start" : 0.750000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.200000,
+      "word" : "rodejada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.950000,
+      "word" : "arreu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.370000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.550000,
+      "word" : "desert"
+    }],
+  "text" : "està rodejada arreu per desert"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.690000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.170000,
+      "word" : "capacitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.860000,
+      "word" : "descrites"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.580000,
+      "word" : "anteriorment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.150000,
+      "word" : "contribueixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.590000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 4.770000,
+      "word" : "l'alumnat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.430000,
+      "word" : "adquirisca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.180000,
+      "word" : "competència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.010000,
+      "start" : 7.290000,
+      "word" : "matemàtica"
+    }],
+  "text" : "les capacitat descrites anteriorment contribueixen que l'alumnat adquirisca competència matemàtica"
+}

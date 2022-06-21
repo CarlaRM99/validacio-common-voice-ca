@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.570000,
+      "word" : "constructivament"
+    }, {
+      "conf" : 0.728250,
+      "end" : 1.742596,
+      "start" : 1.530000,
+      "word" : "els"
+    }, {
+      "conf" : 0.608797,
+      "end" : 1.975508,
+      "start" : 1.742596,
+      "word" : "sards"
+    }, {
+      "conf" : 0.902035,
+      "end" : 2.160000,
+      "start" : 1.975508,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.160000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.280000,
+      "word" : "totxo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.910000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.030000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.150000,
+      "word" : "resta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.690000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.870000,
+      "word" : "pedra"
+    }],
+  "text" : "constructivament els sards són de totxo i la resta de pedra"
+}

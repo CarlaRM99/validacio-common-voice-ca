@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.870000,
+      "word" : "posteriorment"
+    }, {
+      "conf" : 0.834304,
+      "end" : 2.010000,
+      "start" : 1.590000,
+      "word" : "realitzà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.010000,
+      "word" : "nombrosos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.490000,
+      "word" : "experiments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.360000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.510000,
+      "word" : "major"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.780000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.170000,
+      "word" : "relacionats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.032939,
+      "start" : 4.860000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.513888,
+      "end" : 5.670000,
+      "start" : 5.032939,
+      "word" : "l'encreuament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.823952,
+      "start" : 5.700000,
+      "word" : "i"
+    }, {
+      "conf" : 0.756436,
+      "end" : 5.970000,
+      "start" : 5.823952,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 5.970000,
+      "word" : "desenvolupament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.440000,
+      "start" : 6.780000,
+      "word" : "embrionari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.220000,
+      "start" : 7.500000,
+      "word" : "d'amfibis"
+    }],
+  "text" : "posteriorment realitzà nombrosos experiments la major part relacionats amb l'encreuament i el desenvolupament embrionari d'amfibis"
+}

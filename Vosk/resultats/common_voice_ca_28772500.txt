@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.583621,
+      "end" : 0.960000,
+      "start" : 0.690000,
+      "word" : "des"
+    }, {
+      "conf" : 0.583621,
+      "end" : 1.170000,
+      "start" : 0.960000,
+      "word" : "d'on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.170000,
+      "word" : "organitza"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.810897,
+      "word" : "illencs"
+    }, {
+      "conf" : 0.782702,
+      "end" : 2.760000,
+      "start" : 2.490000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.760000,
+      "word" : "juliol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.540000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.720000,
+      "word" : "esdeveniment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.350000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.470000,
+      "word" : "atrau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.710000,
+      "word" : "molts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 4.950000,
+      "word" : "turistes"
+    }],
+  "text" : "des d'on organitza illencs cada juliol un esdeveniment que atrau molts turistes"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.637513,
+      "end" : 0.630000,
+      "start" : 0.360000,
+      "word" : "va"
+    }, {
+      "conf" : 0.568278,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "pas"
+    }, {
+      "conf" : 0.870907,
+      "end" : 0.960000,
+      "start" : 0.840000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.960000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.230000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.440000,
+      "word" : "professió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.860000,
+      "word" : "destacada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.430000,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.820000,
+      "word" : "districte"
+    }],
+  "text" : "va pas que també és una professió destacada d'aquest districte"
+}

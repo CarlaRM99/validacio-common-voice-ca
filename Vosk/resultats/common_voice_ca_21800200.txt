@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.420000,
+      "word" : "l'endemà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.230000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.470000,
+      "word" : "atacar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.340000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.460000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.670000,
+      "word" : "aconseguir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.300000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.420000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.570000,
+      "word" : "turcs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 3.960000,
+      "word" : "abandonessin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.920000,
+      "word" : "algunes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.580000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.760000,
+      "word" : "defenses"
+    }, {
+      "conf" : 0.889817,
+      "end" : 7.140000,
+      "start" : 6.300000,
+      "word" : "exteriors"
+    }],
+  "text" : "l'endemà va atacar i va aconseguir que els turcs abandonessin algunes de les defenses exteriors"
+}

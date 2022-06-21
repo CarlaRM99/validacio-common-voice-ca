@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.347080,
+      "end" : 1.080000,
+      "start" : 0.780000,
+      "word" : "josé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.080000,
+      "word" : "helicòpters"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.710000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.890000,
+      "word" : "llançar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.280000,
+      "word" : "articles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.700000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.790000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.150000,
+      "word" : "necessitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.840000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.960000,
+      "word" : "sacs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.350000,
+      "word" : "sorra"
+    }],
+  "text" : "josé helicòpters per llançar articles de primera necessitat i sacs de sorra"
+}

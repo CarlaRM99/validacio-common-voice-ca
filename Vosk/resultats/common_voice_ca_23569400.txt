@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.390000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.570000,
+      "word" : "procés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 0.930000,
+      "word" : "industrialitzador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.950000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.160000,
+      "word" : "deixar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.430000,
+      "word" : "pas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.730000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.820000,
+      "word" : "l'aparició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.360000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.570000,
+      "word" : "nova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.900000,
+      "word" : "oligarquia"
+    }],
+  "text" : "el procés industrialitzador va deixar pas a l'aparició d'una nova oligarquia"
+}

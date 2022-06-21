@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.507621,
+      "end" : 0.743282,
+      "start" : 0.180000,
+      "word" : "realitza"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.743282,
+      "word" : "informes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.230000,
+      "word" : "certificats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.950000,
+      "word" : "dictàmens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.580000,
+      "word" : "tècnics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.090000,
+      "word" : "valoracions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.630000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.690000,
+      "word" : "peritatges"
+    }],
+  "text" : "realitza informes certificats dictàmens tècnics valoracions i peritatges"
+}

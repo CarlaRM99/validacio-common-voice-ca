@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.810000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.290000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.500000,
+      "word" : "dreta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.890000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.100000,
+      "word" : "tenes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.820000,
+      "word" : "just"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.300000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.360000,
+      "word" : "ponent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.810000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 3.960000,
+      "word" : "l'embassament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.770000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.010000,
+      "word" : "quirze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.490000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 5.610000,
+      "word" : "safaja"
+    }],
+  "text" : "és a la dreta del tenes just a ponent de l'embassament de sant quirze de safaja"
+}

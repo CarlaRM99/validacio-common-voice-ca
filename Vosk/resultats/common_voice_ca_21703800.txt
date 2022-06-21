@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.547005,
+      "end" : 1.173158,
+      "start" : 0.750000,
+      "word" : "acabant"
+    }, {
+      "conf" : 0.862997,
+      "end" : 1.285744,
+      "start" : 1.173158,
+      "word" : "de"
+    }, {
+      "conf" : 0.691022,
+      "end" : 1.560000,
+      "start" : 1.290000,
+      "word" : "trau"
+    }, {
+      "conf" : 0.950450,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.680000,
+      "word" : "punta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.130000,
+      "word" : "convé"
+    }, {
+      "conf" : 0.602797,
+      "end" : 2.790000,
+      "start" : 2.460000,
+      "word" : "llançar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.790000,
+      "word" : "l'encenall"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.300000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.450000,
+      "word" : "contenidor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.050000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.140000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.260000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.470000,
+      "word" : "d'escombraries"
+    }],
+  "text" : "acabant de trau de punta convé llançar l'encenall del contenidor en el pot d'escombraries"
+}

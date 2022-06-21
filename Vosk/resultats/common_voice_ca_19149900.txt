@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "qui"
+    }, {
+      "conf" : 0.638460,
+      "end" : 1.020000,
+      "start" : 0.870000,
+      "word" : "té"
+    }, {
+      "conf" : 0.881483,
+      "end" : 1.560000,
+      "start" : 1.020000,
+      "word" : "tallem"
+    }, {
+      "conf" : 0.702899,
+      "end" : 2.070000,
+      "start" : 1.590000,
+      "word" : "somia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.070000,
+      "word" : "rotllos"
+    }],
+  "text" : "qui té tallem somia rotllos"
+}

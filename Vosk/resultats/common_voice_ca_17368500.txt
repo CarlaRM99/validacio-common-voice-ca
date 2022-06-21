@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.930000,
+      "word" : "resultat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.440000,
+      "word" : "final"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.860000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.980000,
+      "word" : "fase"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.340000,
+      "word" : "d'oposició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.060000,
+      "word" : "serà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.540000,
+      "word" : "suma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.870000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.960000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.110000,
+      "word" : "puntuacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.040000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.220000,
+      "word" : "proves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.730000,
+      "word" : "teòrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.360000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.110000,
+      "start" : 6.450000,
+      "word" : "pràctica"
+    }],
+  "text" : "el resultat final de la fase d'oposició serà la suma de les puntuacions de les proves teòrica i pràctica"
+}

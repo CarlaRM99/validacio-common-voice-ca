@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.809321,
+      "end" : 1.650000,
+      "start" : 1.080000,
+      "word" : "heretar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.650000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.070000,
+      "word" : "títols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.730000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.030000,
+      "word" : "pare"
+    }],
+  "text" : "heretar aquests títols del seu pare"
+}

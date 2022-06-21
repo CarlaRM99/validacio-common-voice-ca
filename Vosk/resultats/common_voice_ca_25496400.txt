@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.682784,
+      "end" : 0.930000,
+      "start" : 0.450000,
+      "word" : "esclar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.050000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.260000,
+      "word" : "importants"
+    }],
+  "text" : "esclar que són importants"
+}

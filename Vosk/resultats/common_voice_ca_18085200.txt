@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.684086,
+      "end" : 0.840000,
+      "start" : 0.570000,
+      "word" : "venint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.840000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.960000,
+      "word" : "sitges"
+    }],
+  "text" : "venint de sitges"
+}

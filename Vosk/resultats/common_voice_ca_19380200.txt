@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.960000,
+      "word" : "rei"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.230000,
+      "word" : "xerxes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.920000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.070000,
+      "word" : "contemplar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.670000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.760000,
+      "word" : "desfeta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.600000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.870000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.050000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.380000,
+      "word" : "tron"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.770000,
+      "word" : "daurat"
+    }],
+  "text" : "el rei xerxes va contemplar la desfeta des del seu tron daurat"
+}

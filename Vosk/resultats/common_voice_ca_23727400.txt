@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.110000,
+      "word" : "allí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.530000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.680000,
+      "word" : "jugar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.010000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.340000,
+      "word" : "temporades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.210000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.390000,
+      "word" : "alevins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.470000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.860000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.130000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.220000,
+      "word" : "infantils"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.540000,
+      "word" : "i"
+    }, {
+      "conf" : 0.509640,
+      "end" : 6.930000,
+      "start" : 6.720000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.500000,
+      "start" : 6.964297,
+      "word" : "juvenil"
+    }],
+  "text" : "allí va jugar dues temporades en alevins dues més en infantils i una juvenil"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.775704,
+      "end" : 0.840000,
+      "start" : 0.450000,
+      "word" : "cursà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.840000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "primers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.260000,
+      "word" : "estudis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.830000,
+      "word" : "gramàtica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.490000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.700000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.970000,
+      "word" : "vila"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.210000,
+      "word" : "natal"
+    }],
+  "text" : "cursà els primers estudis en gramàtica a la seva vila natal"
+}

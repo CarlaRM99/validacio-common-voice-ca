@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.913363,
+      "end" : 1.560000,
+      "start" : 1.170000,
+      "word" : "ara"
+    }, {
+      "conf" : 0.821897,
+      "end" : 1.830000,
+      "start" : 1.650000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.920000,
+      "word" : "em"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.980000,
+      "word" : "pensava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.490000,
+      "word" : "em"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.550000,
+      "word" : "sobraria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.000000,
+      "word" : "temps"
+    }],
+  "text" : "ara ja que em pensava que em sobraria temps"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.110000,
+      "word" : "duen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.860000,
+      "word" : "brànquies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.490000,
+      "word" : "externes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.270000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.390000,
+      "word" : "s'alimenten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 3.990000,
+      "word" : "preferentment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.010000,
+      "word" : "petits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.400000,
+      "word" : "crustacis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.330000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 6.600000,
+      "word" : "dàfnies"
+    }],
+  "text" : "duen brànquies externes i s'alimenten preferentment de petits crustacis com dàfnies"
+}

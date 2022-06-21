@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.570000,
+      "word" : "el"
+    }, {
+      "conf" : 0.568713,
+      "end" : 0.900000,
+      "start" : 0.720000,
+      "word" : "món"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590213,
+      "start" : 0.912939,
+      "word" : "originaris"
+    }, {
+      "conf" : 0.529989,
+      "end" : 1.680000,
+      "start" : 1.590213,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.680000,
+      "word" : "conserva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.100000,
+      "word" : "gairebé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.490000,
+      "word" : "totalment"
+    }],
+  "text" : "el món originaris a conserva gairebé totalment"
+}

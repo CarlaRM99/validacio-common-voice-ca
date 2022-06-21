@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.600000,
+      "word" : "els"
+    }, {
+      "conf" : 0.762913,
+      "end" : 1.286826,
+      "start" : 0.870000,
+      "word" : "tubs"
+    }, {
+      "conf" : 0.682183,
+      "end" : 1.380000,
+      "start" : 1.290000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.380000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.530000,
+      "word" : "maons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.040000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.190000,
+      "word" : "feien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.580000,
+      "word" : "allà"
+    }],
+  "text" : "els tubs i els maons es feien allà"
+}

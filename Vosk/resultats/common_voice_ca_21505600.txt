@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.990000,
+      "word" : "nomenada"
+    }, {
+      "conf" : 0.722747,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.830000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.130000,
+      "word" : "premis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.670000,
+      "word" : "l'acadèmia"
+    }],
+  "text" : "va ser nomenada a tres premis de l'acadèmia"
+}

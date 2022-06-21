@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.729280,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.870000,
+      "word" : "servir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.230000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.470000,
+      "word" : "gabinet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.950000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.980000,
+      "word" : "l'ombra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.400000,
+      "word" : "conservador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.210000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.510000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.570000,
+      "word" : "govern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.900000,
+      "word" : "wilson"
+    }],
+  "text" : "va servir en el gabinet a l'ombra conservador durant el govern wilson"
+}

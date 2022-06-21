@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.140000,
+      "word" : "informador"
+    }, {
+      "conf" : 0.550119,
+      "end" : 2.910000,
+      "start" : 2.220000,
+      "word" : "medico"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.090000,
+      "word" : "vol"
+    }],
+  "text" : "informador medico vol"
+}

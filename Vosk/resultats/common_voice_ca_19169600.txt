@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110650,
+      "start" : 0.810000,
+      "word" : "no"
+    }, {
+      "conf" : 0.905437,
+      "end" : 1.200000,
+      "start" : 1.110650,
+      "word" : "ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.200000,
+      "word" : "recordes"
+    }],
+  "text" : "no ho recordes"
+}

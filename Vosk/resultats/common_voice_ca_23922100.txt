@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.928257,
+      "end" : 0.630000,
+      "start" : 0.510000,
+      "word" : "a"
+    }, {
+      "conf" : 0.928257,
+      "end" : 1.200000,
+      "start" : 0.630000,
+      "word" : "dictar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.202152,
+      "word" : "significa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.010000,
+      "word" : "generalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.790000,
+      "word" : "qualsevol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.420000,
+      "word" : "nota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.750000,
+      "word" : "pública"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.260000,
+      "word" : "feta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.680000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.890000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.070000,
+      "word" : "autoritat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 5.700000,
+      "word" : "competent"
+    }],
+  "text" : "a dictar significa generalment qualsevol nota pública feta per una autoritat competent"
+}

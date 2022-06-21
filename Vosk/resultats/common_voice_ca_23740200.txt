@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.270000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.510000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.660000,
+      "word" : "l'última"
+    }, {
+      "conf" : 0.797249,
+      "end" : 1.230000,
+      "start" : 0.990000,
+      "word" : "obra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.230000,
+      "word" : "que"
+    }, {
+      "conf" : 0.729527,
+      "end" : 1.649963,
+      "start" : 1.320000,
+      "word" : "escriga"
+    }, {
+      "conf" : 0.901995,
+      "end" : 2.010000,
+      "start" : 1.650000,
+      "word" : "l'autor"
+    }],
+  "text" : "va ser l'última obra que escriga l'autor"
+}

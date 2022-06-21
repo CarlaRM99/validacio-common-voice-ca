@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.930000,
+      "word" : "vegetació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.710000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.860000,
+      "word" : "escassa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.370000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.460000,
+      "word" : "uniforme"
+    }],
+  "text" : "la vegetació i és escassa i uniforme"
+}

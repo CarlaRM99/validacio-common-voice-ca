@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.698442,
+      "end" : 1.030383,
+      "start" : 0.360000,
+      "word" : "l'ancià"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.110000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.230000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.470000,
+      "word" : "patir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.740000,
+      "word" : "plagues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.130000,
+      "word" : "d'insectes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.850000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.970000,
+      "word" : "malalties"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.630000,
+      "word" : "fúngiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.260000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.350000,
+      "word" : "bacterianes"
+    }],
+  "text" : "l'ancià es pot patir plagues d'insectes i malalties fúngiques i bacterianes"
+}

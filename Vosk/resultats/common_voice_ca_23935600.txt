@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.300000,
+      "word" : "sofrir"
+    }, {
+      "conf" : 0.778588,
+      "end" : 0.810000,
+      "start" : 0.690000,
+      "word" : "la"
+    }, {
+      "conf" : 0.778588,
+      "end" : 1.230000,
+      "start" : 0.810000,
+      "word" : "important"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.230000,
+      "word" : "derrota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.590000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.680000,
+      "word" : "puçol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.100000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.160000,
+      "word" : "morvedre"
+    }],
+  "text" : "sofrir la important derrota de puçol i morvedre"
+}

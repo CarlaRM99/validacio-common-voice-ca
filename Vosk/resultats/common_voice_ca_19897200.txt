@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.682056,
+      "end" : 0.810000,
+      "start" : 0.660000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.810000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.900000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.294206,
+      "start" : 1.050000,
+      "word" : "passar"
+    }, {
+      "conf" : 0.571207,
+      "end" : 1.496708,
+      "start" : 1.294206,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.496708,
+      "word" : "pobre"
+    }, {
+      "conf" : 0.316265,
+      "end" : 2.220000,
+      "start" : 1.860000,
+      "word" : "ebre"
+    }],
+  "text" : "que li va passar aquest pobre ebre"
+}

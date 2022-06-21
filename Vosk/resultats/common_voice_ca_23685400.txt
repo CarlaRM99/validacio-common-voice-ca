@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.900000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.140000,
+      "word" : "nous"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.410000,
+      "word" : "propietaris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.310000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.640000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.730000,
+      "word" : "intenció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.330000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.450000,
+      "word" : "construir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.110000,
+      "word" : "pisos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.620000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.680000,
+      "word" : "l'immoble"
+    }],
+  "text" : "els nous propietaris tenen la intenció de construir pisos a l'immoble"
+}

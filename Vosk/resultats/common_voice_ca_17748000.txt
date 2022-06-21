@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.480000,
+      "word" : "juliol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.170000,
+      "word" : "agost"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.590000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.650000,
+      "word" : "maó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.370000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.580000,
+      "word" : "millors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.910000,
+      "word" : "ports"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.180000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.330000,
+      "word" : "mediterrani"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.840000,
+      "word" : "són"
+    }],
+  "text" : "juliol agost i maó els millors ports del mediterrani són"
+}

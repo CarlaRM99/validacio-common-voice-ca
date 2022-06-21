@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.770000,
+      "word" : "hauria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.190000,
+      "word" : "d'anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.520000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.550000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030161,
+      "start" : 2.670000,
+      "word" : "baixada"
+    }, {
+      "conf" : 0.272350,
+      "end" : 3.090000,
+      "start" : 3.030161,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.090000,
+      "word" : "monestir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.570000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.840000,
+      "word" : "quaranta-sis"
+    }],
+  "text" : "hauria d'anar a la baixada al monestir només quaranta-sis"
+}

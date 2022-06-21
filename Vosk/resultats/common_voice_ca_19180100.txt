@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.050000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.140000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.320000,
+      "word" : "bon"
+    }, {
+      "conf" : 0.582371,
+      "end" : 1.950000,
+      "start" : 1.500000,
+      "word" : "altar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.040000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.250000,
+      "word" : "li"
+    }, {
+      "conf" : 0.661457,
+      "end" : 2.550000,
+      "start" : 2.340000,
+      "word" : "cal"
+    }, {
+      "conf" : 0.661457,
+      "end" : 2.638843,
+      "start" : 2.550000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.638843,
+      "word" : "floretes"
+    }],
+  "text" : "a un bon altar no li cal amb floretes"
+}

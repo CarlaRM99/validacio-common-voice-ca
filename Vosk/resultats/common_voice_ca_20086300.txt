@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.990000,
+      "word" : "drama"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.320000,
+      "word" : "personal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.070000,
+      "word" : "impregnar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.790000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.090000,
+      "word" : "obres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.390000,
+      "word" : "literàries"
+    }],
+  "text" : "el seu drama personal impregnar les seves obres literàries"
+}

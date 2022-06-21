@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 0.517327,
+      "end" : 0.960000,
+      "start" : 0.510000,
+      "word" : "teníem"
+    }, {
+      "conf" : 0.588908,
+      "end" : 1.320000,
+      "start" : 0.973997,
+      "word" : "full"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.320000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.530000,
+      "word" : "color"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.830000,
+      "word" : "blau"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.130000,
+      "word" : "clar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.520000,
+      "word" : "molt"
+    }, {
+      "conf" : 0.795004,
+      "end" : 3.900000,
+      "start" : 2.850000,
+      "word" : "característics"
+    }, {
+      "conf" : 0.795004,
+      "end" : 3.960000,
+      "start" : 3.900000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.960000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.110000,
+      "word" : "lluitar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.590000,
+      "word" : "contra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.130000,
+      "word" : "l'obesitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.940000,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.300000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.420000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.110000,
+      "start" : 6.690000,
+      "word" : "vida"
+    }],
+  "text" : "teníem full d'un color blau clar molt característics i va lluitar contra l'obesitat tota la seva vida"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.840000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.960000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.080000,
+      "word" : "sala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.500000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.680000,
+      "word" : "mostren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.310000,
+      "word" : "treballs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.670000,
+      "word" : "realitzats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.270000,
+      "word" : "pels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.510000,
+      "word" : "escolars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.050000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.260000,
+      "word" : "l'autor"
+    }],
+  "text" : "a la sala es mostren els treballs realitzats pels escolars sobre l'autor"
+}

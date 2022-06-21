@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.630000,
+      "word" : "volem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.080000,
+      "word" : "estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.410000,
+      "word" : "bé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.830000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.040000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.460000,
+      "word" : "estiguin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.000000,
+      "word" : "bé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.270000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.690000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.080000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.230000,
+      "word" : "ningú"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.710000,
+      "word" : "s'hagi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.130000,
+      "word" : "d'esforçar"
+    }],
+  "text" : "volem estar bé i que altres estiguin bé però sense que ningú s'hagi d'esforçar"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.660000,
+      "word" : "aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.260000,
+      "word" : "papallones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.980000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.529380,
+      "start" : 2.340000,
+      "word" : "les"
+    }, {
+      "conf" : 0.502654,
+      "end" : 2.850000,
+      "start" : 2.529380,
+      "word" : "sales"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.850000,
+      "word" : "anteriors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.480000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.570000,
+      "word" : "colors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.020000,
+      "word" : "críptics"
+    }],
+  "text" : "aquestes papallones tenen les sales anteriors de colors críptics"
+}

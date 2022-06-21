@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.780000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 0.960000,
+      "word" : "significant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.740000,
+      "word" : "faltant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.550000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.820000,
+      "word" : "llavors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.480000,
+      "word" : "constitutiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.230000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.380000,
+      "word" : "subjecte"
+    }],
+  "text" : "el significant faltant és llavors constitutiu del subjecte"
+}

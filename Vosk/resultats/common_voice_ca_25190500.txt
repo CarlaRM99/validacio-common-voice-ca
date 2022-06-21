@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.810000,
+      "word" : "sovint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.290000,
+      "word" : "col·labora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.920000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 1.980000,
+      "word" : "productor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.790000,
+      "word" : "mica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.240000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.360000,
+      "word" : "torín"
+    }],
+  "text" : "sovint col·labora amb el productor mica el torín"
+}

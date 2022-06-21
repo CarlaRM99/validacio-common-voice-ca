@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.780000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.140000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.290000,
+      "word" : "conductisme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.280000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.610000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.790000,
+      "word" : "disciplina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.450000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.600000,
+      "word" : "s'interessa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.200000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.620000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 4.830000,
+      "word" : "comportament"
+    }],
+  "text" : "per tant el conductisme és una disciplina que s'interessa només pel comportament"
+}

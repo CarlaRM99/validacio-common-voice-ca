@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.763673,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.780000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.870000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.990000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.110000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.530000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.740000,
+      "word" : "prat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.040000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.280000,
+      "word" : "rull"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.790000,
+      "word" : "números"
+    }, {
+      "conf" : 0.851444,
+      "end" : 4.290000,
+      "start" : 3.300000,
+      "word" : "cinquanta-dos"
+    }],
+  "text" : "que hi ha al carrer al prat del rull números cinquanta-dos"
+}

@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.750000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.140000,
+      "word" : "fi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.830000,
+      "word" : "haurà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.130000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.220000,
+      "word" : "dur"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.430000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.550000,
+      "word" : "terme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.000000,
+      "word" : "anàlisis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.960000,
+      "word" : "abans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.590000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 5.040000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.100000,
+      "word" : "tractament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.730000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.850000,
+      "word" : "servisca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.420000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.600000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.660000,
+      "word" : "blanc"
+    }],
+  "text" : "amb aquest fi haurà de dur a terme anàlisis abans de començar el tractament que servisca com a blanc"
+}

@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.532809,
+      "end" : 0.780000,
+      "start" : 0.630000,
+      "word" : "qui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.794016,
+      "word" : "aconsegueixi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.620000,
+      "word" : "guanyar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.980000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.070000,
+      "word" : "concurs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.760000,
+      "word" : "guanya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.210000,
+      "word" : "l'oportunitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.140000,
+      "word" : "enregistrar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.010000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.250000,
+      "word" : "disc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.640000,
+      "word" : "sota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 6.060000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.150000,
+      "word" : "segell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.440000,
+      "start" : 6.540000,
+      "word" : "discogràfic"
+    }, {
+      "conf" : 0.948293,
+      "end" : 7.980000,
+      "start" : 7.470000,
+      "word" : "d'univers"
+    }, {
+      "conf" : 0.948293,
+      "end" : 8.400000,
+      "start" : 7.980000,
+      "word" : "sal"
+    }],
+  "text" : "qui aconsegueixi guanyar el concurs guanya l'oportunitat enregistrar un disc sota el segell discogràfic d'univers sal"
+}

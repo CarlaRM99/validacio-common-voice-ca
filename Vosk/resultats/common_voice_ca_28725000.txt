@@ -1,0 +1,129 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.600000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.900000,
+      "word" : "batalles"
+    }, {
+      "conf" : 0.666597,
+      "end" : 1.800000,
+      "start" : 1.560000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.800000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.370000,
+      "word" : "quan"
+    }, {
+      "conf" : 0.680082,
+      "end" : 3.120000,
+      "start" : 2.640000,
+      "word" : "membres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.150000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.270000,
+      "word" : "l'exèrcit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.870000,
+      "word" : "principal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.560000,
+      "word" : "napoleó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.400000,
+      "word" : "es"
+    }, {
+      "conf" : 0.768779,
+      "end" : 5.787910,
+      "start" : 5.580000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.787910,
+      "word" : "trobar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 6.360000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.570000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.230000,
+      "start" : 6.780000,
+      "word" : "tropes"
+    }, {
+      "conf" : 0.945653,
+      "end" : 7.411030,
+      "start" : 7.260000,
+      "word" : "que"
+    }, {
+      "conf" : 0.656889,
+      "end" : 7.680000,
+      "start" : 7.411030,
+      "word" : "foc"
+    }, {
+      "conf" : 0.587819,
+      "end" : 7.821025,
+      "start" : 7.680000,
+      "word" : "en"
+    }, {
+      "conf" : 0.435190,
+      "end" : 8.310000,
+      "start" : 7.830000,
+      "word" : "locke"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.580000,
+      "start" : 8.430000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.910000,
+      "start" : 8.580000,
+      "word" : "prop"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.030000,
+      "start" : 8.910000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.480000,
+      "start" : 9.030000,
+      "word" : "gener"
+    }],
+  "text" : "les batalles van començar quan membres de l'exèrcit principal de napoleó es van trobar amb les tropes que foc en locke a prop de gener"
+}

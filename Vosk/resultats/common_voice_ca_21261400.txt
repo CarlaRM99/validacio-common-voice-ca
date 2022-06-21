@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.380000,
+      "word" : "s'empraven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.040000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.250000,
+      "word" : "anticonceptius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.810000,
+      "word" : "sinó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.110000,
+      "word" : "per"
+    }, {
+      "conf" : 0.888503,
+      "end" : 4.319724,
+      "start" : 4.290000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.319724,
+      "word" : "evitar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.650000,
+      "word" : "malalties"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.190000,
+      "word" : "venèries"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 6.000000,
+      "word" : "creixement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.630000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.529818,
+      "start" : 6.840000,
+      "word" : "sífilis"
+    }],
+  "text" : "no s'empraven com anticonceptius sinó per a evitar malalties venèries creixement la sífilis"
+}

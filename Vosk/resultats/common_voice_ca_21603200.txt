@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.840000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.020000,
+      "word" : "xiquets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.590000,
+      "word" : "serrallo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.610000,
+      "word" : "participat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.570000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.750000,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.020000,
+      "word" : "edicions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.590000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.740000,
+      "word" : "concurs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.160000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.250000,
+      "word" : "castells"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.640000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.700000,
+      "word" : "tarragona"
+    }],
+  "text" : "els xiquets del serrallo ha participat en nou edicions del concurs de castells de tarragona"
+}

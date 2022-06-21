@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.480000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.720000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.020000,
+      "word" : "hàbitats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.440000,
+      "word" : "naturals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.070000,
+      "word" : "varien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.520000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.730000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.880000,
+      "word" : "boscos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.300000,
+      "word" : "humits"
+    }, {
+      "conf" : 0.919789,
+      "end" : 3.900000,
+      "start" : 3.810000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 3.900000,
+      "word" : "semidesèrtics"
+    }],
+  "text" : "els seus hàbitats naturals varien des de boscos humits a semidesèrtics"
+}

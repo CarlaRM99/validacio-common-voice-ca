@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.330000,
+      "word" : "alguns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.750000,
+      "word" : "metalls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.140000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.230000,
+      "word" : "silici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.800000,
+      "word" : "s'utilitzaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.550000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.910000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.120000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.180000,
+      "word" : "agent"
+    }, {
+      "conf" : 0.799543,
+      "end" : 4.022135,
+      "start" : 3.450000,
+      "word" : "d'aliatges"
+    }, {
+      "conf" : 0.670968,
+      "end" : 4.167474,
+      "start" : 4.022135,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.167474,
+      "word" : "ferro"
+    }],
+  "text" : "alguns metalls de silici s'utilitzaven també com a agent d'aliatges amb ferro"
+}

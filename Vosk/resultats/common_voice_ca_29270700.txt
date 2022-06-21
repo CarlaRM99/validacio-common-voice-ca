@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.390000,
+      "word" : "que"
+    }, {
+      "conf" : 0.847795,
+      "end" : 0.990000,
+      "start" : 0.570000,
+      "word" : "venen"
+    }, {
+      "conf" : 0.853899,
+      "end" : 1.230000,
+      "start" : 1.050000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.230000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 0.627798,
+      "end" : 2.160000,
+      "start" : 1.770000,
+      "word" : "sacyr"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.182332,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.340000,
+      "word" : "boixet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.940000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.540000,
+      "word" : "u"
+    }],
+  "text" : "que venen al carrer de sacyr al boixet número u"
+}

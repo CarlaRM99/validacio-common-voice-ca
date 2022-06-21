@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.650146,
+      "end" : 1.230000,
+      "start" : 0.870000,
+      "word" : "l'instint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680718,
+      "start" : 1.262500,
+      "word" : "paviment"
+    }, {
+      "conf" : 0.378930,
+      "end" : 1.710000,
+      "start" : 1.680718,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.747662,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.920000,
+      "word" : "plantes"
+    }, {
+      "conf" : 0.779039,
+      "end" : 2.904862,
+      "start" : 2.370000,
+      "word" : "creixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.904862,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.060000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.150000,
+      "word" : "sistema"
+    }, {
+      "conf" : 0.885533,
+      "end" : 4.080000,
+      "start" : 3.720000,
+      "word" : "d'estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.080000,
+      "word" : "sota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.380000,
+      "word" : "l'ombra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.800000,
+      "word" : "d'altres"
+    }, {
+      "conf" : 0.915149,
+      "end" : 5.760000,
+      "start" : 5.250000,
+      "word" : "arbres"
+    }],
+  "text" : "l'instint paviment i les plantes creixen amb el sistema d'estar sota l'ombra d'altres arbres"
+}

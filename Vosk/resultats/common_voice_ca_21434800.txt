@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.720000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.260000,
+      "word" : "trobarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.830000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.010000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.280000,
+      "word" : "gorra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "i"
+    }, {
+      "conf" : 0.719032,
+      "end" : 2.880000,
+      "start" : 2.790000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.880000,
+      "word" : "seu"
+    }, {
+      "conf" : 0.321093,
+      "end" : 3.222087,
+      "start" : 3.133281,
+      "word" : "al"
+    }, {
+      "conf" : 0.410132,
+      "end" : 3.343302,
+      "start" : 3.222087,
+      "word" : "qui"
+    }, {
+      "conf" : 0.616583,
+      "end" : 3.510000,
+      "start" : 3.343302,
+      "word" : "del"
+    }, {
+      "conf" : 0.479686,
+      "end" : 3.840000,
+      "start" : 3.510000,
+      "word" : "qi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.930000,
+      "word" : "tirats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.500000,
+      "word" : "pels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.740000,
+      "word" : "voltants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.310000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.400000,
+      "word" : "casa"
+    }],
+  "text" : "només trobarà la seva gorra i el seu al qui del qi tirats pels voltants de la casa"
+}

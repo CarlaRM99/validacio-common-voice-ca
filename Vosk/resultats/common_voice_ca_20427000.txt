@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.600000,
+      "word" : "demografia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.919999,
+      "start" : 1.440000,
+      "word" : "palol"
+    }],
+  "text" : "demografia de palol"
+}

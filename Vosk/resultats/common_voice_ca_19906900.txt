@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.110000,
+      "word" : "presenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.590000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.740000,
+      "word" : "coberta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.190000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.340000,
+      "word" : "teules"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.880000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.030000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.420000,
+      "word" : "vessants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.080000,
+      "word" : "fragmentada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.890000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.010000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.340000,
+      "word" : "trams"
+    }],
+  "text" : "presenta una coberta de teules de dos vessants fragmentada en tres trams"
+}

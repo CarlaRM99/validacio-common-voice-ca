@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.840000,
+      "word" : "comuna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.380000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.680000,
+      "word" : "superfície"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.340000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.490000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.270000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.480000,
+      "word" : "escassament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.990000,
+      "word" : "poblat"
+    }],
+  "text" : "la comuna té una superfície molt gran però escassament poblat"
+}

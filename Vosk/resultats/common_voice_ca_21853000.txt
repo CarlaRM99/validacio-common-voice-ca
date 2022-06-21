@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.680000,
+      "word" : "s'evita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.280000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.400000,
+      "word" : "l'usuari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.150000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.330000,
+      "word" : "perdi"
+    }, {
+      "conf" : 0.599475,
+      "end" : 4.080000,
+      "start" : 3.900000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.080000,
+      "word" : "hagi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.290000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.410000,
+      "word" : "realitzar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.220000,
+      "word" : "passos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 5.730000,
+      "word" : "necessaris"
+    }],
+  "text" : "s'evita que l'usuari es perdi o hagi de realitzar passos necessaris"
+}

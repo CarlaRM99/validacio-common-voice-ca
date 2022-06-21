@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.050000,
+      "word" : "obstant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.560000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.650000,
+      "word" : "l'arxiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.980000,
+      "word" : "diocesà"
+    }, {
+      "conf" : 0.740849,
+      "end" : 3.030000,
+      "start" : 2.790000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.030000,
+      "word" : "entra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.330000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.480000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.570000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.750000,
+      "word" : "posterior"
+    }],
+  "text" : "no obstant a l'arxiu diocesà si entra per la part posterior"
+}

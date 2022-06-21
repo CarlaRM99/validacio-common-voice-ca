@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.510000,
+      "word" : "salomó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.260000,
+      "word" : "hauria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.830000,
+      "word" : "usat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.603065,
+      "start" : 2.310000,
+      "word" : "una"
+    }, {
+      "conf" : 0.768829,
+      "end" : 3.060000,
+      "start" : 2.610000,
+      "word" : "vella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360599,
+      "start" : 3.150000,
+      "word" : "per"
+    }, {
+      "conf" : 0.836876,
+      "end" : 3.390000,
+      "start" : 3.360599,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.390000,
+      "word" : "tal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.630000,
+      "word" : "fi"
+    }],
+  "text" : "salomó hauria usat una vella per a tal fi"
+}

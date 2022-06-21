@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.260000,
+      "word" : "matrimoni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.070000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.280000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.670000,
+      "word" : "vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.970000,
+      "word" : "fills"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.960000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.140000,
+      "word" : "majoria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.040000,
+      "word" : "morts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.790000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.940000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.030000,
+      "word" : "infància"
+    }],
+  "text" : "el matrimoni va tenir vuit fills la majoria morts en la infància"
+}

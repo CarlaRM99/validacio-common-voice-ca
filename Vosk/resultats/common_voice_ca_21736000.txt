@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.584077,
+      "end" : 0.660000,
+      "start" : 0.390000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.660000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.170000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.470000,
+      "word" : "estela"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.040000,
+      "word" : "cinerària"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.910000,
+      "word" : "romana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.540000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.690000,
+      "word" : "marbre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.230000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.500000,
+      "word" : "mig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.830000,
+      "word" : "metre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.220000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.370000,
+      "word" : "llargada"
+    }],
+  "text" : "si troba una estela cinerària romana de marbre d'un mig metre de llargada"
+}

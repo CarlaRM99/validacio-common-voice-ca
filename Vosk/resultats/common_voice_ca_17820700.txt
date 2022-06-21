@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.664196,
+      "end" : 0.827939,
+      "start" : 0.450000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "molta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.320000,
+      "word" : "ràbia"
+    }],
+  "text" : "això fa molta ràbia"
+}

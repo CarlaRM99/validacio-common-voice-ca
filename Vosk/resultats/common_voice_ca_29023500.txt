@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "quantes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.290000,
+      "word" : "parades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.680000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.890000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.980000,
+      "word" : "trajecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.550000,
+      "word" : "autobús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.060000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.330000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.390000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.600000,
+      "word" : "martí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.960000,
+      "word" : "sarroca"
+    }],
+  "text" : "quantes parades té el trajecte en autobús fins a sant martí sarroca"
+}

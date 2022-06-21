@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.420000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.630000,
+      "word" : "inquisició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.380000,
+      "word" : "frenar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.740000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.800000,
+      "word" : "desenvolupament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.550000,
+      "word" : "d'aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.850000,
+      "word" : "corrents"
+    }],
+  "text" : "la inquisició va frenar el desenvolupament d'aquests corrents"
+}

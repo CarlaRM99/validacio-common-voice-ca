@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.590000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.010000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.640000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.910000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.000000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.210000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.360000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.600000,
+      "word" : "d'aterratge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.230000,
+      "word" : "d'emergència"
+    }, {
+      "conf" : 0.629575,
+      "end" : 5.130000,
+      "start" : 4.950000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.135649,
+      "word" : "transbordador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 5.910000,
+      "word" : "espacial"
+    }],
+  "text" : "durant el temps també va ser un lloc d'aterratge d'emergència pel transbordador espacial"
+}

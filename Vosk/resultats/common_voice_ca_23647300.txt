@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.050000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.170000,
+      "word" : "considerat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.259832,
+      "start" : 1.920000,
+      "word" : "heroi"
+    }, {
+      "conf" : 0.887008,
+      "end" : 2.490000,
+      "start" : 2.280000,
+      "word" : "ben"
+    }, {
+      "conf" : 0.887008,
+      "end" : 2.790000,
+      "start" : 2.490000,
+      "word" : "dit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.120000,
+      "word" : "un"
+    }, {
+      "conf" : 0.677376,
+      "end" : 3.540000,
+      "start" : 3.300000,
+      "word" : "mite"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.540000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.780000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.930000,
+      "word" : "classes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.200000,
+      "word" : "populars"
+    }],
+  "text" : "va ser considerat heroi ben dit un mite entre les classes populars"
+}

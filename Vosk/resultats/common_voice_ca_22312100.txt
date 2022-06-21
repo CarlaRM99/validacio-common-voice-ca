@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.540000,
+      "word" : "vila"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.840000,
+      "word" : "compta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.200000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.410000,
+      "word" : "museu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.770000,
+      "word" : "històric"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.310000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.430000,
+      "word" : "l'esquí"
+    }],
+  "text" : "la vila compta amb un museu històric de l'esquí"
+}

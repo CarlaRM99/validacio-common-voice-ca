@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.540000,
+      "word" : "probablement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.740000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.830000,
+      "word" : "l'antic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.220000,
+      "word" : "egipte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.760000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.060000,
+      "word" : "daurat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.050000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.200000,
+      "word" : "manera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.560000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.710000,
+      "word" : "brillaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.370000,
+      "word" : "sota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.790000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.880000,
+      "word" : "llum"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.120000,
+      "word" : "solar"
+    }],
+  "text" : "probablement a l'antic egipte era daurat de manera que brillaven sota la llum solar"
+}

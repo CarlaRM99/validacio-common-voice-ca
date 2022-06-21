@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.690000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.900000,
+      "word" : "ruteni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.560000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.860000,
+      "word" : "serveix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.400000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.580000,
+      "word" : "accelerar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.150000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.270000,
+      "word" : "reacció"
+    }],
+  "text" : "el ruteni també serveix per accelerar la reacció"
+}

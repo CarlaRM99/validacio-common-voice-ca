@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 0.513371,
+      "end" : 1.170000,
+      "start" : 0.480000,
+      "word" : "andorra"
+    }, {
+      "conf" : 0.711241,
+      "end" : 1.710000,
+      "start" : 1.350000,
+      "word" : "xx"
+    }, {
+      "conf" : 0.800471,
+      "end" : 2.310000,
+      "start" : 1.710000,
+      "word" : "d'agost"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.520000,
+      "word" : "xxi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.000000,
+      "word" : "d'agost"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.840000,
+      "word" : "mare"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.230000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.350000,
+      "word" : "déu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.680000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.920000,
+      "word" : "loreto"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.850000,
+      "word" : "i"
+    }, {
+      "conf" : 0.700265,
+      "end" : 6.480000,
+      "start" : 5.970000,
+      "word" : "sentir"
+    }, {
+      "conf" : 0.700265,
+      "end" : 6.840000,
+      "start" : 6.480000,
+      "word" : "cims"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.840000,
+      "word" : "crist"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 7.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.890000,
+      "start" : 7.350000,
+      "word" : "l'empar"
+    }],
+  "text" : "andorra xx d'agost i xxi d'agost mare de déu del loreto i sentir cims crist de l'empar"
+}

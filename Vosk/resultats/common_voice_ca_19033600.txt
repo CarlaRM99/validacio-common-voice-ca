@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.990000,
+      "word" : "afegiu-hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.710000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.860000,
+      "word" : "llet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.040000,
+      "word" : "freda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.520000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.610000,
+      "word" : "remeneu-ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.210000,
+      "word" : "bé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.750000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.870000,
+      "word" : "fi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.050000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.170000,
+      "word" : "desfer"
+    }, {
+      "conf" : 0.792998,
+      "end" : 4.710000,
+      "start" : 4.500000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.710000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.830000,
+      "word" : "grumolls"
+    }],
+  "text" : "afegiu-hi la llet freda i remeneu-ho bé a fi de desfer tots els grumolls"
+}

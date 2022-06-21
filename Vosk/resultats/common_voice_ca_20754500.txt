@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.240000,
+      "word" : "actualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.140000,
+      "word" : "capella"
+    }, {
+      "conf" : 0.797374,
+      "end" : 2.100000,
+      "start" : 1.710000,
+      "word" : "formar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.100000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.520000,
+      "word" : "centre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.970000,
+      "word" : "educatiu"
+    }, {
+      "conf" : 0.782650,
+      "end" : 3.810000,
+      "start" : 3.630000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.810000,
+      "word" : "castanyers"
+    }],
+  "text" : "actualment la capella formar part del centre educatiu els castanyers"
+}

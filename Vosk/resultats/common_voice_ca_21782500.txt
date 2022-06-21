@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.690000,
+      "word" : "l'interès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.350000,
+      "word" : "conjunt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.040000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.730000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.880000,
+      "word" : "solucions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.360000,
+      "word" : "compositives"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.290000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.500000,
+      "word" : "volum"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.070000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.280000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.520000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.580000,
+      "word" : "sector"
+    }],
+  "text" : "l'interès del conjunt està en les solucions compositives de volum en tot el sector"
+}

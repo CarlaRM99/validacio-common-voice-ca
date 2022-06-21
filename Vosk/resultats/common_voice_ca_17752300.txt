@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.593683,
+      "end" : 1.110000,
+      "start" : 0.750000,
+      "word" : "venint"
+    }, {
+      "conf" : 0.889691,
+      "end" : 1.470000,
+      "start" : 1.110000,
+      "word" : "d'ares"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.470000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.740000,
+      "word" : "oms"
+    }],
+  "text" : "venint d'ares dels oms"
+}

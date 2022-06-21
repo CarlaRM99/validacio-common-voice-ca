@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.761081,
+      "end" : 0.930000,
+      "start" : 0.810000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.930000,
+      "word" : "febrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.440000,
+      "word" : "pentinen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.010000,
+      "word" : "bé"
+    }, {
+      "conf" : 0.642748,
+      "end" : 2.850000,
+      "start" : 2.700000,
+      "word" : "al"
+    }, {
+      "conf" : 0.736070,
+      "end" : 3.240000,
+      "start" : 2.850000,
+      "word" : "març"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.270000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.390000,
+      "word" : "em"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.480000,
+      "word" : "toquis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.840000,
+      "word" : "pas"
+    }],
+  "text" : "al febrer pentinen bé al març no em toquis pas"
+}

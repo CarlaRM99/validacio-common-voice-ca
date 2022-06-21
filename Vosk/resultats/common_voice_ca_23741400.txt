@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.565258,
+      "end" : 0.750635,
+      "start" : 0.300000,
+      "word" : "emigrar"
+    }, {
+      "conf" : 0.492897,
+      "end" : 0.832659,
+      "start" : 0.750635,
+      "word" : "per"
+    }, {
+      "conf" : 0.889107,
+      "end" : 0.900000,
+      "start" : 0.832659,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.900000,
+      "word" : "va"
+    }, {
+      "conf" : 0.621935,
+      "end" : 1.410000,
+      "start" : 1.050000,
+      "word" : "refent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.530000,
+      "word" : "decurs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.830000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.010000,
+      "word" : "restauració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.700000,
+      "word" : "recent"
+    }],
+  "text" : "emigrar per es va refent el decurs d'una restauració recent"
+}

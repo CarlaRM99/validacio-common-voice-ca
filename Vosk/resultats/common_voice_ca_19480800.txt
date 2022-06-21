@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.110000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.380000,
+      "word" : "egipcis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.310000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.640000,
+      "word" : "demanar"
+    }, {
+      "conf" : 0.626496,
+      "end" : 3.480000,
+      "start" : 3.330000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.480000,
+      "word" : "port"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.870000,
+      "word" : "de"
+    }, {
+      "conf" : 0.888513,
+      "end" : 4.200000,
+      "start" : 4.110000,
+      "word" : "ho"
+    }, {
+      "conf" : 0.888513,
+      "end" : 4.680000,
+      "start" : 4.200000,
+      "word" : "deia"
+    }],
+  "text" : "els egipcis van demanar al port de ho deia"
+}

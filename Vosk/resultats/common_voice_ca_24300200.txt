@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.170000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.770000,
+      "word" : "també"
+    }, {
+      "conf" : 0.758490,
+      "end" : 2.520000,
+      "start" : 2.280000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.520000,
+      "word" : "treballs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.150000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.510000,
+      "word" : "regulació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.560000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.920000,
+      "word" : "riu"
+    }, {
+      "conf" : 0.752519,
+      "end" : 5.730000,
+      "start" : 5.220000,
+      "word" : "sant"
+    }],
+  "text" : "es van començar també els treballs en la regulació del riu sant"
+}

@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.359588,
+      "end" : 0.960000,
+      "start" : 0.600000,
+      "word" : "gola"
+    }, {
+      "conf" : 0.359588,
+      "end" : 1.050000,
+      "start" : 0.960000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.050000,
+      "word" : "bec"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.380000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.620000,
+      "word" : "representar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.449276,
+      "start" : 2.280000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.492172,
+      "word" : "anglaterra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.150000,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.480000,
+      "word" : "vegades"
+    }, {
+      "conf" : 0.830202,
+      "end" : 4.200000,
+      "start" : 3.960000,
+      "word" : "als"
+    }, {
+      "conf" : 0.989151,
+      "end" : 4.470000,
+      "start" : 4.200000,
+      "word" : "vint"
+    }, {
+      "conf" : 0.518324,
+      "end" : 4.830000,
+      "start" : 4.470000,
+      "word" : "pioners"
+    }, {
+      "conf" : 0.978359,
+      "end" : 5.550000,
+      "start" : 4.830000,
+      "word" : "d'escacs"
+    }],
+  "text" : "gola un bec va representar a anglaterra nou vegades als vint pioners d'escacs"
+}

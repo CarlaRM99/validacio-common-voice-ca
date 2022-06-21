@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.600000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.230000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.350000,
+      "word" : "derrotar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.370000,
+      "word" : "dona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.700000,
+      "word" : "fantasma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.720000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.930000,
+      "word" : "dóna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.350000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.410000,
+      "word" : "conèixer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.130000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.340000,
+      "word" : "a"
+    }, {
+      "conf" : 0.527961,
+      "end" : 5.760000,
+      "start" : 5.400000,
+      "word" : "cura"
+    }, {
+      "conf" : 0.714365,
+      "end" : 6.240000,
+      "start" : 5.760000,
+      "word" : "obeir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.420000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.630000,
+      "word" : "gat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.710000,
+      "start" : 7.020000,
+      "word" : "ninja"
+    }],
+  "text" : "després de derrotar a la dona fantasma es dóna a conèixer com a cura obeir un gat ninja"
+}

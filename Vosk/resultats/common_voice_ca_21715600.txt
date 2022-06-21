@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.810000,
+      "word" : "manifestació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.590000,
+      "word" : "musulmans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.400000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.550000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.760000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 3.000000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.060000,
+      "word" : "taixkent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.750000,
+      "word" : "demanant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.230000,
+      "word" : "l'autonomia"
+    }],
+  "text" : "la manifestació de musulmans va tenir lloc a taixkent demanant l'autonomia"
+}

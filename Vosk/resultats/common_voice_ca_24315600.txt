@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.780000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.870000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.170000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.650000,
+      "word" : "espècies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.190000,
+      "word" : "d'ocells"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.520000,
+      "word" : "marins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.390000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.570000,
+      "word" : "troben"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.960000,
+      "word" : "molts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.230000,
+      "word" : "insectes"
+    }],
+  "text" : "a més de diverses espècies d'ocells marins es troben molts insectes"
+}

@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.930000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.140000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.350000,
+      "word" : "quantitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 1.980000,
+      "word" : "cràters"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 2.880000,
+      "word" : "minúsculs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.960000,
+      "word" : "marquen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.380000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.440000,
+      "word" : "superfície"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.980000,
+      "word" : "interna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 5.790000,
+      "word" : "especialment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.870000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 7.020000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.650000,
+      "start" : 7.140000,
+      "word" : "quadrant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.860000,
+      "start" : 7.680000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.580000,
+      "start" : 7.860000,
+      "word" : "sud-oest"
+    }],
+  "text" : "una gran quantitat de cràters minúsculs marquen la superfície interna especialment en el quadrant del sud-oest"
+}

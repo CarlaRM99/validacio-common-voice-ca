@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.810000,
+      "word" : "i"
+    }, {
+      "conf" : 0.868166,
+      "end" : 1.500000,
+      "start" : 0.960000,
+      "word" : "sabem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.680000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.980000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.310000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.460000,
+      "word" : "llenguatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.090000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.180000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.360000,
+      "word" : "emocions"
+    }],
+  "text" : "i sabem que aquest és el llenguatge de les emocions"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.310879,
+      "end" : 0.810000,
+      "start" : 0.690000,
+      "word" : "he"
+    }, {
+      "conf" : 0.946543,
+      "end" : 0.959755,
+      "start" : 0.824647,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.959755,
+      "word" : "connectar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.530000,
+      "word" : "l'ordinador"
+    }, {
+      "conf" : 0.803400,
+      "end" : 2.460000,
+      "start" : 2.340000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.460000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.610000,
+      "word" : "powerpoint"
+    }],
+  "text" : "he de connectar l'ordinador a un powerpoint"
+}

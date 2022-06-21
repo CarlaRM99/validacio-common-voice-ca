@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.780000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.290000,
+      "word" : "delegació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.860000,
+      "word" : "dependrà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.370000,
+      "word" : "orgànicament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.240000,
+      "word" : "econòmicament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 4.050000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.110000,
+      "word" : "funcionalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.890000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 5.010000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.100000,
+      "word" : "junta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.490000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.610000,
+      "word" : "govern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.970000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.150000,
+      "word" : "col·legi"
+    }],
+  "text" : "aquesta delegació dependrà orgànicament econòmicament i funcionalment de la junta de govern del col·legi"
+}

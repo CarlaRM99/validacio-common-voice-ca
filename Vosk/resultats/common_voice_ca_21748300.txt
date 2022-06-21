@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.930000,
+      "word" : "tractava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.560000,
+      "word" : "temes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.950000,
+      "word" : "d'art"
+    }],
+  "text" : "i tractava temes d'art"
+}

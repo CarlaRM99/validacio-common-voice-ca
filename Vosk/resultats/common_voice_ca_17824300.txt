@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.510000,
+      "word" : "fredeluga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.431945,
+      "start" : 1.230000,
+      "word" : "per"
+    }, {
+      "conf" : 0.731488,
+      "end" : 2.160000,
+      "start" : 1.440000,
+      "word" : "l'octubre"
+    }, {
+      "conf" : 0.821130,
+      "end" : 2.610000,
+      "start" : 2.250000,
+      "word" : "neu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.623132,
+      "word" : "segura"
+    }],
+  "text" : "fredeluga per l'octubre neu segura"
+}

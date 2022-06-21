@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.720000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "majoria"
+    }, {
+      "conf" : 0.857401,
+      "end" : 1.770000,
+      "start" : 1.290000,
+      "word" : "d'elles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.800000,
+      "word" : "eren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.220000,
+      "word" : "bronze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.700000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.910000,
+      "word" : "ferro"
+    }],
+  "text" : "la majoria d'elles eren de bronze o de ferro"
+}

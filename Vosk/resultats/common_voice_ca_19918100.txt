@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.330000,
+      "word" : "mentrestant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.260000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.470000,
+      "word" : "postura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 1.980000,
+      "word" : "desafiadora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "de"
+    }, {
+      "conf" : 0.830554,
+      "end" : 3.360000,
+      "start" : 2.940000,
+      "word" : "l'úter"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.450000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.600000,
+      "word" : "impulsat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.350000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.440000,
+      "word" : "malestar"
+    }, {
+      "conf" : 0.999896,
+      "end" : 5.609999,
+      "start" : 5.010000,
+      "word" : "popular"
+    }],
+  "text" : "mentrestant la postura desafiadora de l'úter ha impulsat el malestar popular"
+}

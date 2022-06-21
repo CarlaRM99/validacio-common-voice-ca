@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.750269,
+      "end" : 0.720000,
+      "start" : 0.300000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.720000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.840000,
+      "word" : "camarles"
+    }],
+  "text" : "venim de camarles"
+}

@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.480000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.600000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.960000,
+      "word" : "condició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.590000,
+      "word" : "cal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.800000,
+      "word" : "complir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.310000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.550000,
+      "word" : "caràcter"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.060000,
+      "word" : "democràtic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.900000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.110000,
+      "word" : "enllà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.410000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.530000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 4.650000,
+      "word" : "formulacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.760000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.940000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.060000,
+      "word" : "paper"
+    }],
+  "text" : "la primera condició que cal complir és el caràcter democràtic més enllà de les formulacions en el paper"
+}

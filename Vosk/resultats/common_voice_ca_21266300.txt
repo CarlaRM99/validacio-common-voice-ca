@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.450000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.900000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.080000,
+      "word" : "model"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.440000,
+      "word" : "d'humilitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.340000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.460000,
+      "word" : "vida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 2.910000,
+      "word" : "ascètica"
+    }],
+  "text" : "fou un model d'humilitat i vida ascètica"
+}

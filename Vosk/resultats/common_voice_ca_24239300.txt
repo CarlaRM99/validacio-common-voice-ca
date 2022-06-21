@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.420000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.690000,
+      "word" : "serveix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.260000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.530000,
+      "word" : "freda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.010000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.130000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.310000,
+      "word" : "raïm"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.730000,
+      "word" : "moscatell"
+    }],
+  "text" : "se serveix molt freda i amb raïm moscatell"
+}

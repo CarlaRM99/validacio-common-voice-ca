@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.570000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.900000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 1.050000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.110000,
+      "word" : "reactiu"
+    }, {
+      "conf" : 0.533453,
+      "end" : 2.550000,
+      "start" : 1.830000,
+      "word" : "marquès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.640000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.850000,
+      "word" : "torni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.240000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.390000,
+      "word" : "color"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.720000,
+      "word" : "groc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.200000,
+      "word" : "a"
+    }, {
+      "conf" : 0.629480,
+      "end" : 4.830000,
+      "start" : 4.320000,
+      "word" : "negre"
+    }],
+  "text" : "fa que el reactiu marquès es torni de color groc a negre"
+}

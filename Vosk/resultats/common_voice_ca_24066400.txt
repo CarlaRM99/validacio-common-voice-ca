@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.840000,
+      "word" : "tracta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.350000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.560000,
+      "word" : "mineral"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.190000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.490000,
+      "word" : "deliqüescent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.450000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.690000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.840000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.170000,
+      "word" : "perdura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.800000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 4.980000,
+      "word" : "condicions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.670000,
+      "word" : "ambientals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 6.360000,
+      "word" : "favorables"
+    }],
+  "text" : "es tracta d'un mineral molt deliqüescent ja que només perdura en condicions ambientals favorables"
+}

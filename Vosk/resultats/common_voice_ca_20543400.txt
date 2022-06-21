@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.720000,
+      "word" : "l'espai"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.470000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.770000,
+      "word" : "arranjat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.280000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.430000,
+      "word" : "taules"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.820000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.910000,
+      "word" : "bancs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.422067,
+      "start" : 3.240000,
+      "word" : "per"
+    }, {
+      "conf" : 0.714582,
+      "end" : 3.480000,
+      "start" : 3.422067,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.480000,
+      "word" : "berenar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.110000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.129996,
+      "start" : 4.380000,
+      "word" : "actuals"
+    }],
+  "text" : "l'espai està arranjat amb taules i bancs per a berenar més actuals"
+}

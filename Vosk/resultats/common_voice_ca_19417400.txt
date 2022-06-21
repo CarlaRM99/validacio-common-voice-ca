@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.830895,
+      "end" : 1.050000,
+      "start" : 0.870000,
+      "word" : "b"
+    }, {
+      "conf" : 0.830895,
+      "end" : 1.260000,
+      "start" : 1.050000,
+      "word" : "moll"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.042072,
+      "start" : 1.260000,
+      "word" : "germanastres"
+    }, {
+      "conf" : 0.565828,
+      "end" : 2.190000,
+      "start" : 2.042072,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.190000,
+      "word" : "matrimoni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.700000,
+      "word" : "anterior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.270000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.450000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.660000,
+      "word" : "pare"
+    }],
+  "text" : "b moll germanastres d'un matrimoni anterior del seu pare"
+}

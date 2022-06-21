@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.540000,
+      "word" : "informe"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.170000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.380000,
+      "word" : "extern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.220000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.370000,
+      "word" : "acrediti"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.300000,
+      "word" : "caràcter"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.780000,
+      "word" : "innovador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.680000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.830000,
+      "word" : "inversions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.490000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.580000,
+      "word" : "bord"
+    }],
+  "text" : "informe d'un extern que acrediti el caràcter innovador de les inversions a bord"
+}

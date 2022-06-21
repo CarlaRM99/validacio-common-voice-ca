@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.480000,
+      "word" : "actualment"
+    }, {
+      "conf" : 0.813434,
+      "end" : 1.260000,
+      "start" : 1.140000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.260000,
+      "word" : "pont"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.530000,
+      "word" : "quasi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.860000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.980000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.070000,
+      "word" : "veu"
+    }, {
+      "conf" : 0.807348,
+      "end" : 2.910000,
+      "start" : 2.460000,
+      "word" : "amagat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.921559,
+      "word" : "sota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.390000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.510000,
+      "word" : "frondosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.080000,
+      "word" : "vegetació"
+    }],
+  "text" : "actualment el pont quasi no es veu amagat sota la frondosa vegetació"
+}

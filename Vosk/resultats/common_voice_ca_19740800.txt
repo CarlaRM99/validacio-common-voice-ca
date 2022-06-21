@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.427893,
+      "end" : 1.050000,
+      "start" : 0.960000,
+      "word" : "a"
+    }, {
+      "conf" : 0.243656,
+      "end" : 1.680000,
+      "start" : 1.170000,
+      "word" : "robo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.860000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.070000,
+      "word" : "supervisar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.910000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.652833,
+      "start" : 3.060000,
+      "word" : "experiment"
+    }, {
+      "conf" : 0.761087,
+      "end" : 4.260000,
+      "start" : 3.660000,
+      "word" : "similar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.350000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.440000,
+      "word" : "alabama"
+    }],
+  "text" : "a robo va supervisar un experiment similar a alabama"
+}

@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.990000,
+      "word" : "així"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.740000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.010000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.130000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.370000,
+      "word" : "patentar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.880000,
+      "word" : "literatura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.080000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.260000,
+      "word" : "negocis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.980000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.250000,
+      "word" : "formes"
+    }, {
+      "conf" : 0.685774,
+      "end" : 6.120000,
+      "start" : 5.640000,
+      "word" : "d'interacció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.120000,
+      "word" : "social"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 6.720000,
+      "word" : "etcètera"
+    }],
+  "text" : "així no es pot patentar literatura els negocis les formes d'interacció social etcètera"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.564736,
+      "end" : 2.310000,
+      "start" : 1.920000,
+      "word" : "aquest"
+    }, {
+      "conf" : 0.942863,
+      "end" : 2.490000,
+      "start" : 2.323849,
+      "word" : "per"
+    }, {
+      "conf" : 0.942863,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "a"
+    }, {
+      "conf" : 0.788370,
+      "end" : 2.970000,
+      "start" : 2.610000,
+      "word" : "the"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.060000,
+      "word" : "estat"
+    }, {
+      "conf" : 0.555715,
+      "end" : 3.660000,
+      "start" : 3.480000,
+      "word" : "des"
+    }, {
+      "conf" : 0.555715,
+      "end" : 3.750000,
+      "start" : 3.660000,
+      "word" : "d"
+    }, {
+      "conf" : 0.555715,
+      "end" : 4.110000,
+      "start" : 3.750000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.110000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.170000,
+      "word" : "erosionat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.010000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.190000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.400000,
+      "word" : "successió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.000000,
+      "word" : "d'impactes"
+    }],
+  "text" : "aquest per a the estat des d estat i erosionat per una successió d'impactes"
+}

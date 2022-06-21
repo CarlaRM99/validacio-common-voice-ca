@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.990000,
+      "word" : "escriptura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.560000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.650000,
+      "word" : "bastant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.070000,
+      "word" : "simple"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.520000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.820000,
+      "word" : "harmònicament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.600000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.750000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.900000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.080000,
+      "word" : "virtuosisme"
+    }],
+  "text" : "la seva escriptura és bastant simple però harmònicament és d'un gran virtuosisme"
+}

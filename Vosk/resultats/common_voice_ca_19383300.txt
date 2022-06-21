@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.390000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.600000,
+      "word" : "segona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.930000,
+      "word" : "edició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.470000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.830000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "ser"
+    }, {
+      "conf" : 0.572787,
+      "end" : 2.322651,
+      "start" : 2.070000,
+      "word" : "feta"
+    }, {
+      "conf" : 0.503025,
+      "end" : 2.370000,
+      "start" : 2.322651,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.370000,
+      "word" : "valència"
+    }],
+  "text" : "la segona edició també va ser feta a valència"
+}

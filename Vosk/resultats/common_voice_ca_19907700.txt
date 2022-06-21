@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.682929,
+      "end" : 1.560000,
+      "start" : 1.170000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.560000,
+      "word" : "casat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.190000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.310000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.490000,
+      "word" : "pare"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.730000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.820000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.180000,
+      "word" : "fills"
+    }],
+  "text" : "està casat i és pare de quatre fills"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.480000,
+      "start" : 0.300000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.480000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.840000,
+      "word" : "simplement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.320000,
+      "word" : "desconnectar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.100000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820732,
+      "start" : 2.190000,
+      "word" : "transportar"
+    }, {
+      "conf" : 0.901635,
+      "end" : 2.909128,
+      "start" : 2.820732,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.909128,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.120000,
+      "word" : "nova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.390000,
+      "word" : "localització"
+    }],
+  "text" : "es poden simplement desconnectar i transportar a una nova localització"
+}

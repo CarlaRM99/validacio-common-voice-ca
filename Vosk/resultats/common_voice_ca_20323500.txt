@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.570000,
+      "word" : "diu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.900000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.080000,
+      "word" : "llegenda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "que"
+    }, {
+      "conf" : 0.504553,
+      "end" : 2.073980,
+      "start" : 1.890000,
+      "word" : "deu"
+    }, {
+      "conf" : 0.538375,
+      "end" : 2.760000,
+      "start" : 2.073980,
+      "word" : "l'escoltar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.820000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.910000,
+      "word" : "guarir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.210000,
+      "word" : "l'anoia"
+    }],
+  "text" : "diu la llegenda que deu l'escoltar i guarir l'anoia"
+}

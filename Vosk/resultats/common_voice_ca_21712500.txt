@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.200000,
+      "word" : "manifestació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.100000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.370000,
+      "word" : "organitzada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 3.030000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.090000,
+      "word" : "promoguda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.810000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.110000,
+      "word" : "òmnium"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.470000,
+      "word" : "cultural"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.130000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.280000,
+      "word" : "l'assemblea"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.820000,
+      "word" : "nacional"
+    }],
+  "text" : "la manifestació fou organitzada i promoguda per òmnium cultural i l'assemblea nacional"
+}

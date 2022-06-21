@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.849380,
+      "end" : 0.420000,
+      "start" : 0.240000,
+      "word" : "els"
+    }, {
+      "conf" : 0.849380,
+      "end" : 0.901535,
+      "start" : 0.420000,
+      "word" : "superherois"
+    }, {
+      "conf" : 0.447887,
+      "end" : 0.956926,
+      "start" : 0.901535,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.956926,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.200000,
+      "word" : "protagonistes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.860000,
+      "word" : "intenten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.250000,
+      "word" : "impedir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.550000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.640000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.820000,
+      "word" : "plans"
+    }],
+  "text" : "els superherois i altres protagonistes intenten impedir els seus plans"
+}

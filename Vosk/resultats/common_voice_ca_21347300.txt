@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.827603,
+      "end" : 0.900000,
+      "start" : 0.330000,
+      "word" : "establert"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.905172,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.960000,
+      "word" : "barcelona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.650000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.040000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.220000,
+      "word" : "jugadors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.640000,
+      "word" : "destacats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.240000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.390000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.510000,
+      "word" : "naixement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.930000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.080000,
+      "word" : "futbol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.530000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.590000,
+      "word" : "catalunya"
+    }],
+  "text" : "establert a barcelona fou un dels jugadors destacats en el naixement del futbol a catalunya"
+}

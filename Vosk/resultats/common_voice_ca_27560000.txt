@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.930000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.020000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.140000,
+      "word" : "llançar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.590000,
+      "word" : "cap"
+    }, {
+      "conf" : 0.535656,
+      "end" : 2.310000,
+      "start" : 1.800000,
+      "word" : "single"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.310000,
+      "word" : "l'àlbum"
+    }],
+  "text" : "no es va llançar cap single l'àlbum"
+}

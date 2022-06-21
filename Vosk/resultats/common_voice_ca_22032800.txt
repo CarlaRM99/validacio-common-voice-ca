@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.690000,
+      "word" : "antigament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.470000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.620000,
+      "word" : "pertànyer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.310000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.460000,
+      "word" : "castell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 2.970000,
+      "word" : "d'hostoles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.170000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.320000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.410000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.530000,
+      "word" : "corona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.040000,
+      "word" : "junt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.520000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.730000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.910000,
+      "word" : "planes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.360000,
+      "word" : "d'hostoles"
+    }],
+  "text" : "antigament va pertànyer al castell d'hostoles i a la corona junt amb les planes d'hostoles"
+}

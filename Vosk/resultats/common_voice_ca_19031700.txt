@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 0.870000,
+      "word" : "l'estable"
+    }, {
+      "conf" : 0.812870,
+      "end" : 1.950000,
+      "start" : 1.770000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.950000,
+      "word" : "bestiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.550000,
+      "word" : "còmodament"
+    }, {
+      "conf" : 0.665063,
+      "end" : 3.270000,
+      "start" : 3.180000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.780868,
+      "end" : 3.750000,
+      "start" : 3.270000,
+      "word" : "d'estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.110000,
+      "word" : "fes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.440000,
+      "word" : "l'iphone"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.010000,
+      "word" : "habitació"
+    }, {
+      "conf" : 0.815096,
+      "end" : 6.180000,
+      "start" : 5.910000,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.210000,
+      "word" : "tingues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.720000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.930000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.500000,
+      "start" : 7.050000,
+      "word" : "presó"
+    }],
+  "text" : "en l'estable el bestiar còmodament ha d'estar fes l'iphone habitació nou tingues com en presó"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.680853,
+      "start" : 1.230000,
+      "word" : "sempre"
+    }, {
+      "conf" : 0.531681,
+      "end" : 1.710000,
+      "start" : 1.680853,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.740000,
+      "word" : "mantingut"
+    }, {
+      "conf" : 0.758911,
+      "end" : 2.400000,
+      "start" : 2.310000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.400000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.550000,
+      "word" : "caràcter"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.030000,
+      "word" : "parroquial"
+    }],
+  "text" : "sempre ha mantingut el seu caràcter parroquial"
+}

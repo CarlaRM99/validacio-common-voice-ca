@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.808457,
+      "end" : 1.140000,
+      "start" : 0.930000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.140000,
+      "word" : "permet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.560000,
+      "word" : "cobrar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.920000,
+      "word" : "l'impost"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.430000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.520000,
+      "word" : "l'església"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.184243,
+      "word" : "alemanya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.750000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.930000,
+      "word" : "membres"
+    }],
+  "text" : "es permet cobrar l'impost de l'església alemanya els membres"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.870000,
+      "word" : "procés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.590000,
+      "word" : "textures"
+    }, {
+      "conf" : 0.690637,
+      "end" : 2.910000,
+      "start" : 2.340000,
+      "word" : "sessió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.910000,
+      "word" : "comença"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.540000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.630000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.810000,
+      "word" : "punt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.080000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.200000,
+      "word" : "l'espai"
+    }],
+  "text" : "el procés de textures sessió comença a un punt de l'espai"
+}

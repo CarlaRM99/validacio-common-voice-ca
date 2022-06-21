@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.900000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.230000,
+      "word" : "pare"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.620000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.070000,
+      "word" : "afroamericà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.240000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.360000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.660000,
+      "word" : "mare"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.110000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.350000,
+      "word" : "originària"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.250000,
+      "word" : "d'ucraïna"
+    }],
+  "text" : "el seu pare és afroamericà i la seva mare és originària d'ucraïna"
+}

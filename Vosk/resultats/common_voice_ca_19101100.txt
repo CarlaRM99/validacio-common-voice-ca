@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.170000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.770000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.010000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.400000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.550000,
+      "word" : "passar"
+    }, {
+      "conf" : 0.816974,
+      "end" : 3.270000,
+      "start" : 3.120000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.270000,
+      "word" : "nombre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.780000,
+      "word" : "places"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.230000,
+      "word" : "convocades"
+    }],
+  "text" : "aquests no poden de passar el nombre de places convocades"
+}

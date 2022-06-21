@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.613129,
+      "end" : 0.618056,
+      "start" : 0.510000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.618056,
+      "word" : "jordi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.930000,
+      "word" : "segura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.480087,
+      "start" : 1.260000,
+      "word" : "cap"
+    }, {
+      "conf" : 0.600650,
+      "end" : 1.740000,
+      "start" : 1.480087,
+      "word" : "vot"
+    }, {
+      "conf" : 0.518977,
+      "end" : 1.980000,
+      "start" : 1.800000,
+      "word" : "de"
+    }, {
+      "conf" : 0.427374,
+      "end" : 2.220000,
+      "start" : 2.040000,
+      "word" : "dir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.230204,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.520000,
+      "word" : "l'aranya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.000000,
+      "word" : "ni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.150000,
+      "word" : "espantat"
+    }],
+  "text" : "en jordi segura cap vot de dir que no l'aranya ni espantat"
+}

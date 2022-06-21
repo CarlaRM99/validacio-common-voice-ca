@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.900000,
+      "word" : "nous"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.260000,
+      "word" : "editors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.950000,
+      "word" : "alguns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.490000,
+      "word" : "d'ells"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.820000,
+      "word" : "dones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.270000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.480000,
+      "word" : "jugar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.810000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.900000,
+      "word" : "paper"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.200000,
+      "word" : "important"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.950000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.100000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 5.670000,
+      "word" : "expansió"
+    }],
+  "text" : "els nous editors alguns d'ells dones van jugar un paper important en aquesta expansió"
+}

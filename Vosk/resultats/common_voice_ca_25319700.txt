@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.630000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.870000,
+      "word" : "escriure"
+    }, {
+      "conf" : 0.810228,
+      "end" : 1.613537,
+      "start" : 1.290000,
+      "word" : "llibres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.613537,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.860000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.950000,
+      "word" : "història"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.370000,
+      "word" : "jueva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.760000,
+      "word" : "moderna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.630000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.810000,
+      "word" : "particular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.620000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.010000,
+      "word" : "l'holocaust"
+    }],
+  "text" : "va escriure llibres sobre la història jueva moderna en particular sobre l'holocaust"
+}

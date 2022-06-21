@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.420000,
+      "word" : "respecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.990000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.140000,
+      "word" : "costos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.530000,
+      "word" : "operatius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.190000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.490000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.670000,
+      "word" : "econòmic"
+    }, {
+      "conf" : 0.748081,
+      "end" : 3.450000,
+      "start" : 3.300000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.450000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.660000,
+      "word" : "cost"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.140000,
+      "word" : "zero"
+    }],
+  "text" : "respecte als costos operatius és el més econòmic el seu cost zero"
+}

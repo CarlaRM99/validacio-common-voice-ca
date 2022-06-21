@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.389106,
+      "word" : "l"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.570000,
+      "word" : "avidesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.020000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.801143,
+      "start" : 1.260000,
+      "word" : "colons"
+    }, {
+      "conf" : 0.782264,
+      "end" : 2.160000,
+      "start" : 1.801143,
+      "word" : "s'ajup"
+    }, {
+      "conf" : 0.669690,
+      "end" : 2.310326,
+      "start" : 2.160000,
+      "word" : "de"
+    }, {
+      "conf" : 0.857574,
+      "end" : 2.940000,
+      "start" : 2.310326,
+      "word" : "d'ordinari"
+    }, {
+      "conf" : 0.666887,
+      "end" : 3.510000,
+      "start" : 2.940000,
+      "word" : "retiraria"
+    }, {
+      "conf" : 0.923788,
+      "end" : 4.080000,
+      "start" : 3.510000,
+      "word" : "d'ancorar"
+    }],
+  "text" : "l avidesa dels colons s'ajup de d'ordinari retiraria d'ancorar"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.627316,
+      "end" : 0.900000,
+      "start" : 0.750000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.990000,
+      "word" : "marcar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.380000,
+      "word" : "nova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.590000,
+      "word" : "orientació"
+    }, {
+      "conf" : 0.875954,
+      "end" : 2.278433,
+      "start" : 2.190000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.278433,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.400000,
+      "word" : "imatges"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.730000,
+      "word" : "religioses"
+    }],
+  "text" : "que va marcar una nova orientació en les imatges religioses"
+}

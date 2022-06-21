@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.630000,
+      "word" : "derrota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.050000,
+      "word" : "electoral"
+    }, {
+      "conf" : 0.782936,
+      "end" : 2.340000,
+      "start" : 1.892218,
+      "word" : "d'unió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.340000,
+      "word" : "democràtica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.120000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.300000,
+      "word" : "país"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.630000,
+      "word" : "valencià"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.410000,
+      "word" : "féu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.710000,
+      "word" : "desaparèixer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 5.490000,
+      "word" : "pràcticament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.150000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 6.540000,
+      "word" : "formació"
+    }],
+  "text" : "la derrota electoral d'unió democràtica del país valencià féu desaparèixer pràcticament aquesta formació"
+}

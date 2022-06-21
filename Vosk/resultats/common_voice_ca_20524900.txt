@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.870000,
+      "word" : "costa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.320000,
+      "word" : "rica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.980000,
+      "word" : "panamà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.760000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.880000,
+      "word" : "l'equador"
+    }],
+  "text" : "costa rica panamà i l'equador"
+}

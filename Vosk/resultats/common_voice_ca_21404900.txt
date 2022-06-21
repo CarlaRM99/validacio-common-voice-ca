@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.780000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.170000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.350000,
+      "word" : "inicis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.370000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.580000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.760000,
+      "word" : "conegut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.120000,
+      "word" : "com"
+    }, {
+      "conf" : 0.791019,
+      "end" : 3.660000,
+      "start" : 3.270000,
+      "word" : "així"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.260000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830331,
+      "start" : 4.410000,
+      "word" : "dedicava"
+    }, {
+      "conf" : 0.832550,
+      "end" : 4.860000,
+      "start" : 4.830331,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.860000,
+      "word" : "dibuixar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.280000,
+      "word" : "westerns"
+    }],
+  "text" : "durant els seus inicis quan era conegut com així es dedicava a dibuixar westerns"
+}

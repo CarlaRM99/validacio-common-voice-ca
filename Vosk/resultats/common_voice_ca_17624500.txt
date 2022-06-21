@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.540000,
+      "word" : "el"
+    }, {
+      "conf" : 0.842150,
+      "end" : 1.200000,
+      "start" : 0.810000,
+      "word" : "bé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.290000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.560000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.710000,
+      "word" : "conegut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.250000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.550000,
+      "word" : "que"
+    }, {
+      "conf" : 0.515880,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.790000,
+      "word" : "perdut"
+    }],
+  "text" : "el bé no és conegut fins que es perdut"
+}

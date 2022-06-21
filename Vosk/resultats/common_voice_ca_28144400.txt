@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 0.967363,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "però"
+    }, {
+      "conf" : 0.996895,
+      "end" : 0.930000,
+      "start" : 0.691777,
+      "word" : "el"
+    }, {
+      "conf" : 0.310429,
+      "end" : 1.151275,
+      "start" : 0.960000,
+      "word" : "cor"
+    }, {
+      "conf" : 0.578826,
+      "end" : 1.279473,
+      "start" : 1.205479,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.279473,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.470000,
+      "word" : "eleccions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.920000,
+      "word" : "generals"
+    }, {
+      "conf" : 0.657203,
+      "end" : 2.880000,
+      "start" : 2.730000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.880000,
+      "word" : "fiscal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.330000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.480000,
+      "word" : "comtat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.960000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.050000,
+      "word" : "tolosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.010000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.250000,
+      "word" : "vitrall"
+    }, {
+      "conf" : 0.657466,
+      "end" : 6.210000,
+      "start" : 6.000000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.210000,
+      "word" : "barranc"
+    }],
+  "text" : "però el cor a les eleccions generals o fiscal del comtat de tolosa de vitrall el barranc"
+}

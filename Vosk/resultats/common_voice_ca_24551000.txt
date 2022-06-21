@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.930000,
+      "word" : "següent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.380000,
+      "word" : "temporada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.130000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.280000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.820000,
+      "word" : "malament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.510000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.630000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.750000,
+      "word" : "acabar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.290000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.470000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.590000,
+      "word" : "descens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.220000,
+      "word" : "l'equip"
+    }],
+  "text" : "la següent temporada va començar malament i va acabar amb el descens de l'equip"
+}

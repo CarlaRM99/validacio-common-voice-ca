@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.695725,
+      "end" : 0.840000,
+      "start" : 0.600000,
+      "word" : "els"
+    }, {
+      "conf" : 0.837896,
+      "end" : 1.290000,
+      "start" : 0.840000,
+      "word" : "efectes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.290000,
+      "word" : "convencionals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.130000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.280000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.370000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.670000,
+      "word" : "aconseguir"
+    }, {
+      "conf" : 0.820211,
+      "end" : 4.110000,
+      "start" : 3.630000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.170000,
+      "word" : "modulació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.130000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.340000,
+      "word" : "l'amplitud"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.420000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.540000,
+      "word" : "estirament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.440000,
+      "start" : 7.290000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.560000,
+      "start" : 7.440000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.100000,
+      "start" : 7.560000,
+      "word" : "temps"
+    }],
+  "text" : "els efectes convencionals que es poden aconseguir són modulació de l'amplitud i estirament en el temps"
+}

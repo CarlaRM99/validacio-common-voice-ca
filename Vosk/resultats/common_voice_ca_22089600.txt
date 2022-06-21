@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.630000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.750000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.020000,
+      "word" : "dimissió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.560000,
+      "word" : "però"
+    }, {
+      "conf" : 0.842679,
+      "end" : 2.490000,
+      "start" : 1.890000,
+      "word" : "provocar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.700000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.970000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.150000,
+      "word" : "molts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.630000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.930000,
+      "word" : "col·laboradors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.710000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.130000,
+      "word" : "destacats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.670000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.790000,
+      "word" : "periòdic"
+    }],
+  "text" : "la seva dimissió però provocar la de molts dels col·laboradors més destacats del periòdic"
+}

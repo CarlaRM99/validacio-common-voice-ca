@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.510000,
+      "word" : "l'aparellament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.380000,
+      "word" : "d'aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.920000,
+      "word" : "espècie"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.760000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.940000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.300000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.750000,
+      "word" : "finals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.140000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.260000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.350000,
+      "word" : "primavera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.160000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.430000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.520000,
+      "word" : "l'estiu"
+    }],
+  "text" : "l'aparellament d'aquesta espècie té lloc des de finals de la primavera fins a l'estiu"
+}

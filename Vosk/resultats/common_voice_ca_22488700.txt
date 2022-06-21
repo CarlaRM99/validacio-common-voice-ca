@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.900000,
+      "word" : "títol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.260000,
+      "word" : "d'aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.740000,
+      "word" : "campanya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.340000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.700000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.940000,
+      "word" : "paròdia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.480000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.690000,
+      "word" : "l'obra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.020000,
+      "word" : "social"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.560000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.740000,
+      "word" : "caixa"
+    }],
+  "text" : "el títol d'aquesta campanya és una paròdia del l'obra social la caixa"
+}

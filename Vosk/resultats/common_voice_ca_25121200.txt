@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.333415,
+      "end" : 1.350000,
+      "start" : 1.050000,
+      "word" : "tinc"
+    }, {
+      "conf" : 0.529587,
+      "end" : 1.740000,
+      "start" : 1.350000,
+      "word" : "m'han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.830000,
+      "word" : "apareix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.370000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.580000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.670000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.060000,
+      "word" : "rodatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.780000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.900000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.470000,
+      "word" : "pel·lícules"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.130000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.190000,
+      "word" : "programes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 5.910000,
+      "word" : "televisió"
+    }],
+  "text" : "tinc m'han apareix com a lloc de rodatge de diverses pel·lícules i programes de televisió"
+}

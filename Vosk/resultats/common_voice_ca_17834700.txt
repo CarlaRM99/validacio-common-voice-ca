@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "quin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.621310,
+      "start" : 1.050000,
+      "word" : "contingut"
+    }, {
+      "conf" : 0.558511,
+      "end" : 1.800000,
+      "start" : 1.621310,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.800000,
+      "word" : "potiner"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.460000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.911078,
+      "start" : 2.730000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.853658,
+      "end" : 2.970000,
+      "start" : 2.911078,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.970000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.120000,
+      "word" : "revista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.720000,
+      "word" : "l'escola"
+    }],
+  "text" : "quin contingut tant potiner que hi ha a la revista de l'escola"
+}

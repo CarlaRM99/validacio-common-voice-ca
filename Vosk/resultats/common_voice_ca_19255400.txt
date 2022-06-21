@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.780000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.110000,
+      "word" : "val"
+    }, {
+      "conf" : 0.523076,
+      "end" : 1.650000,
+      "start" : 1.380000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.650000,
+      "word" : "sol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.980000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.130000,
+      "word" : "mal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.310000,
+      "word" : "acompanyat"
+    }],
+  "text" : "més val està sol que mal acompanyat"
+}

@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.921813,
+      "end" : 1.110000,
+      "start" : 0.840000,
+      "word" : "tots"
+    }, {
+      "conf" : 0.854147,
+      "end" : 1.556854,
+      "start" : 1.110000,
+      "word" : "parlaven"
+    }, {
+      "conf" : 0.796781,
+      "end" : 1.890000,
+      "start" : 1.556854,
+      "word" : "d'ell"
+    }],
+  "text" : "tots parlaven d'ell"
+}

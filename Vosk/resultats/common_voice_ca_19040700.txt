@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.750000,
+      "word" : "bones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.080000,
+      "word" : "paraules"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.560000,
+      "word" : "fan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.770000,
+      "word" : "menjar"
+    }, {
+      "conf" : 0.615601,
+      "end" : 2.250000,
+      "start" : 2.100000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.969997,
+      "start" : 2.250000,
+      "word" : "malalts"
+    }],
+  "text" : "les bones paraules fan menjar als malalts"
+}

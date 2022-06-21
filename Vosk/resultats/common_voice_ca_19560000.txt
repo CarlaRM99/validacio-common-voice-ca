@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.540000,
+      "word" : "bon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.870000,
+      "word" : "rodador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.500000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.650000,
+      "word" : "defensava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "bé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.520000,
+      "word" : "curses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.000000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.270000,
+      "word" : "setmana"
+    }],
+  "text" : "bon rodador es defensava bé en curses d'una setmana"
+}

@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.419874,
+      "end" : 1.590000,
+      "start" : 1.200000,
+      "word" : "parca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.590000,
+      "word" : "malcriada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.430000,
+      "word" : "aviat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.880000,
+      "word" : "estrellada"
+    }],
+  "text" : "parca malcriada aviat estrellada"
+}

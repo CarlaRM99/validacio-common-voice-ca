@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.900000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.110000,
+      "word" : "controla"
+    }, {
+      "conf" : 0.740061,
+      "end" : 1.770000,
+      "start" : 1.590000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.770000,
+      "word" : "ordinador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.520000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.640000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.760000,
+      "word" : "sol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.970000,
+      "word" : "practicar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.600000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.810000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.990000,
+      "word" : "conreus"
+    }, {
+      "conf" : 0.893737,
+      "end" : 5.190000,
+      "start" : 4.590000,
+      "word" : "d'hivernar"
+    }],
+  "text" : "es controla per ordinador i se sol practicar en els conreus d'hivernar"
+}

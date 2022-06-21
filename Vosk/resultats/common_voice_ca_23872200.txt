@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.869682,
+      "end" : 0.540000,
+      "start" : 0.390000,
+      "word" : "el"
+    }, {
+      "conf" : 0.869682,
+      "end" : 0.900000,
+      "start" : 0.540000,
+      "word" : "fons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.930000,
+      "word" : "s'observen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.470000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.800000,
+      "word" : "personatges"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.430000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.995945,
+      "start" : 2.580000,
+      "word" : "semblen"
+    }, {
+      "conf" : 0.554572,
+      "end" : 3.390000,
+      "start" : 3.000000,
+      "word" : "pallers"
+    }, {
+      "conf" : 0.501490,
+      "end" : 3.900000,
+      "start" : 3.390000,
+      "word" : "defenc"
+    }],
+  "text" : "el fons s'observen altres personatges que semblen pallers defenc"
+}

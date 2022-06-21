@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.660000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.840000,
+      "word" : "mecanisme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.380000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.530000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.920000,
+      "word" : "canvia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.370000,
+      "word" : "depenent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.940000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.120000,
+      "word" : "tipus"
+    }, {
+      "conf" : 0.704697,
+      "end" : 3.540000,
+      "start" : 3.450000,
+      "word" : "de"
+    }, {
+      "conf" : 0.704697,
+      "end" : 4.170000,
+      "start" : 3.570000,
+      "word" : "xarxa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.470000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.590000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.740000,
+      "word" : "circumstàncies"
+    }, {
+      "conf" : 0.995150,
+      "end" : 5.820000,
+      "start" : 5.640000,
+      "word" : "del"
+    }, {
+      "conf" : 0.999976,
+      "end" : 6.270000,
+      "start" : 5.820000,
+      "word" : "canvi"
+    }],
+  "text" : "el mecanisme per això canvia depenent del tipus de xarxa i les circumstàncies del canvi"
+}

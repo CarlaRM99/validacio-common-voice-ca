@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.660000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.840000,
+      "word" : "aspirants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.410000,
+      "word" : "resulten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.860000,
+      "word" : "seleccionats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.790000,
+      "word" : "sotmetran"
+    }, {
+      "conf" : 0.882635,
+      "end" : 3.480000,
+      "start" : 3.360000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.480000,
+      "word" : "règim"
+    }, {
+      "conf" : 0.861699,
+      "end" : 5.070000,
+      "start" : 3.960000,
+      "word" : "d'incompatibilitats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.070000,
+      "word" : "vigent"
+    }],
+  "text" : "els aspirants que resulten seleccionats se sotmetran el règim d'incompatibilitats vigent"
+}

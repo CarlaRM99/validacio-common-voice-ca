@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.723645,
+      "end" : 0.810000,
+      "start" : 0.390000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.810000,
+      "word" : "estels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.440000,
+      "word" : "apareixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.160000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.490000,
+      "word" : "l'escut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.060000,
+      "word" : "l'equip"
+    }],
+  "text" : "quatre estels apareixen sobre l'escut de l'equip"
+}

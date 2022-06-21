@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.720000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.020000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.320000,
+      "word" : "darrers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.710000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.040000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790374,
+      "start" : 2.190000,
+      "word" : "col·laborar"
+    }, {
+      "conf" : 0.861822,
+      "end" : 2.848844,
+      "start" : 2.790374,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.848844,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.000000,
+      "word" : "premsa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.510000,
+      "word" : "catalana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.886152,
+      "start" : 4.230000,
+      "word" : "publicada"
+    }, {
+      "conf" : 0.871737,
+      "end" : 5.640000,
+      "start" : 4.901667,
+      "word" : "l'exili"
+    }],
+  "text" : "els seus darrers anys va col·laborar a la premsa catalana publicada l'exili"
+}

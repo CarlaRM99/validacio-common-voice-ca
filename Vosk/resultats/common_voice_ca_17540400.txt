@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.870000,
+      "word" : "per"
+    }, {
+      "conf" : 0.873466,
+      "end" : 1.410000,
+      "start" : 1.080000,
+      "word" : "davant"
+    }, {
+      "conf" : 0.873466,
+      "end" : 1.890000,
+      "start" : 1.440000,
+      "word" : "d'aqueixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 1.890000,
+      "word" : "puntuació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.850000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.030000,
+      "word" : "podrà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.360000,
+      "word" : "considerar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.260000,
+      "word" : "aprovat"
+    }, {
+      "conf" : 0.738614,
+      "end" : 5.640000,
+      "start" : 4.710000,
+      "word" : "l'exercici"
+    }],
+  "text" : "per davant d'aqueixa puntuació no podrà considerar-se aprovat l'exercici"
+}

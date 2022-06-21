@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.918228,
+      "end" : 2.400000,
+      "start" : 2.040000,
+      "word" : "nal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.400000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.700000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.060000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.120000,
+      "word" : "treballat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.600000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.750000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.780000,
+      "word" : "escriptor"
+    }],
+  "text" : "nal en també ha treballat com a escriptor"
+}

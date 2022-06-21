@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.810000,
+      "word" : "estudiants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.350000,
+      "word" : "d'infermeria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.010000,
+      "word" : "asseguts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.550000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.730000,
+      "word" : "aula"
+    }],
+  "text" : "estudiants d'infermeria asseguts a una aula"
+}

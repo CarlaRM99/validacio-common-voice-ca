@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.810000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 0.930000,
+      "word" : "metamorfosi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.920000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.070000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.490000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.940000,
+      "word" : "mesos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.600000,
+      "word" : "juny"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.140000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.290000,
+      "word" : "octubre"
+    }],
+  "text" : "la metamorfosi té lloc entre els mesos juny i octubre"
+}

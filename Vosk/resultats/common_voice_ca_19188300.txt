@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.930000,
+      "word" : "treballava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.560000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.710000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.890000,
+      "word" : "llibres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.280000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.370000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.490000,
+      "word" : "casa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.180000,
+      "word" : "ordenant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.630000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.750000,
+      "word" : "faena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.290000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.410000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.470000,
+      "word" : "l'inventari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 5.040000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.130000,
+      "word" : "cap"
+    }, {
+      "conf" : 0.954837,
+      "end" : 5.669998,
+      "start" : 5.340000,
+      "word" : "d'any"
+    }],
+  "text" : "treballava en els llibres de la casa ordenant la faena per a l'inventari de cap d'any"
+}

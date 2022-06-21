@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.720000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.050000,
+      "word" : "patrocinadors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.740000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.800000,
+      "word" : "aficionats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.580000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.850000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.390000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.450000,
+      "word" : "contribuir"
+    }],
+  "text" : "altres patrocinadors i aficionats van començar a contribuir"
+}

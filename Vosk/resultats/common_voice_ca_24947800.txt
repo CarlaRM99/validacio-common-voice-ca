@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.810000,
+      "word" : "poble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.410000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.740000,
+      "word" : "situat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.280000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.400000,
+      "word" : "costat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.880000,
+      "word" : "nord"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.450000,
+      "word" : "vall"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.821665,
+      "start" : 3.690000,
+      "word" : "de"
+    }, {
+      "conf" : 0.475859,
+      "end" : 4.200000,
+      "start" : 3.821665,
+      "word" : "howard"
+    }],
+  "text" : "el poble està situat al costat nord de la vall de howard"
+}

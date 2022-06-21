@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.712387,
+      "end" : 0.570000,
+      "start" : 0.240000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.570000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.690000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.900000,
+      "word" : "isidre"
+    }],
+  "text" : "venim de sant isidre"
+}

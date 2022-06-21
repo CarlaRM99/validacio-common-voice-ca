@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.510000,
+      "word" : "anem"
+    }, {
+      "conf" : 0.694746,
+      "end" : 1.140000,
+      "start" : 0.930000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.140000,
+      "word" : "poblets"
+    }],
+  "text" : "anem els poblets"
+}

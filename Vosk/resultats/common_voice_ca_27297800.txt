@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.200000,
+      "word" : "l'oficial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.860000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.950000,
+      "word" : "policia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.370000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.460000,
+      "word" : "los"
+    }, {
+      "conf" : 0.706560,
+      "end" : 3.270000,
+      "start" : 2.640000,
+      "word" : "angeles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.330000,
+      "word" : "l'heu"
+    }, {
+      "conf" : 0.864321,
+      "end" : 3.990000,
+      "start" : 3.570000,
+      "word" : "tinent"
+    }, {
+      "conf" : 0.854826,
+      "end" : 4.410592,
+      "start" : 4.020000,
+      "word" : "david"
+    }, {
+      "conf" : 0.758911,
+      "end" : 4.440000,
+      "start" : 4.410592,
+      "word" : "i"
+    }, {
+      "conf" : 0.725367,
+      "end" : 4.920000,
+      "start" : 4.500000,
+      "word" : "grey"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.070000,
+      "word" : "descobreix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.640000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.730000,
+      "word" : "assassinat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.180000,
+      "word" : "brutal"
+    }],
+  "text" : "l'oficial de policia de los angeles l'heu tinent david i grey descobreix un assassinat brutal"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.614794,
+      "end" : 1.290000,
+      "start" : 0.660000,
+      "word" : "lluitar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.320000,
+      "word" : "contra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.890000,
+      "word" : "paganisme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.610000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.820000,
+      "word" : "vascons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.630000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.291481,
+      "start" : 3.810000,
+      "word" : "tenien"
+    }, {
+      "conf" : 0.682011,
+      "end" : 4.380000,
+      "start" : 4.291481,
+      "word" : "a"
+    }, {
+      "conf" : 0.682011,
+      "end" : 4.770000,
+      "start" : 4.380000,
+      "word" : "prop"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.770000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 4.950000,
+      "word" : "santuari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.730000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 5.940000,
+      "word" : "déus"
+    }],
+  "text" : "lluitar contra el paganisme dels vascons que tenien a prop un santuari als déus"
+}

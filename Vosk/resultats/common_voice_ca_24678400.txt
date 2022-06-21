@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.810000,
+      "word" : "aconseguir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.500000,
+      "word" : "notorietat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.700000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.910000,
+      "word" : "presentar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.540000,
+      "word" : "escàndols"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.110000,
+      "word" : "polítics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.920000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.100000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 5.670000,
+      "word" : "romans"
+    }],
+  "text" : "va aconseguir notorietat per presentar escàndols polítics en forma de romans"
+}

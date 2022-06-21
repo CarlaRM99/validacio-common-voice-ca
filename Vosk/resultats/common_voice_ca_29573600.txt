@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.960000,
+      "word" : "fiscal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.620000,
+      "word" : "proposa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.220000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.370000,
+      "word" : "llibertat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.090000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.510000,
+      "word" : "càrrecs"
+    }],
+  "text" : "el fiscal proposa la llibertat sense càrrecs"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.540000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.690000,
+      "word" : "govern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.050000,
+      "word" : "francès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.770000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.070000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.340000,
+      "word" : "exigent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.910000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.060000,
+      "word" : "l'espanyol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.750000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.870000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 3.990000,
+      "word" : "napolità"
+    }],
+  "text" : "el govern francès era més exigent que l'espanyol i el napolità"
+}

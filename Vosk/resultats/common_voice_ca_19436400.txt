@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.420000,
+      "word" : "també"
+    }, {
+      "conf" : 0.671558,
+      "end" : 1.080000,
+      "start" : 0.810000,
+      "word" : "passa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.089853,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "breu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.500000,
+      "word" : "estada"
+    }, {
+      "conf" : 0.999964,
+      "end" : 2.039997,
+      "start" : 1.950000,
+      "word" : "a"
+    }, {
+      "conf" : 0.999416,
+      "end" : 2.459999,
+      "start" : 2.040000,
+      "word" : "qatar"
+    }],
+  "text" : "també passa una breu estada a qatar"
+}

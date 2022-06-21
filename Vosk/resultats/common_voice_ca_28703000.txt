@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.760567,
+      "end" : 1.200000,
+      "start" : 0.690000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.200000,
+      "word" : "finançament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 1.890000,
+      "word" : "addicional"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.760000,
+      "word" : "molts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.120000,
+      "word" : "projecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.810000,
+      "word" : "necessari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.470000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.590000,
+      "word" : "construcció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.550000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 5.640000,
+      "word" : "renovació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.690000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.200000,
+      "start" : 7.020000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.680000,
+      "start" : 7.200000,
+      "word" : "durien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.770000,
+      "start" : 7.680000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.250000,
+      "start" : 7.770000,
+      "word" : "terme"
+    }],
+  "text" : "sense finançament addicional molts projecte necessari de construcció i renovació no es durien a terme"
+}

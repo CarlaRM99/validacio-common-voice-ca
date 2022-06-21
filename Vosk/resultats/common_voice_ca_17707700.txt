@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 0.819934,
+      "end" : 1.080000,
+      "start" : 0.660000,
+      "word" : "venim"
+    }, {
+      "conf" : 0.855469,
+      "end" : 1.190845,
+      "start" : 1.080000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.190845,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.290000,
+      "word" : "granyena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.920000,
+      "word" : "segarra"
+    }],
+  "text" : "venim de de granyena de segarra"
+}

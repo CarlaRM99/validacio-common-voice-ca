@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.870000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.930000,
+      "word" : "jugador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.560000,
+      "word" : "ocupava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.250000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.400000,
+      "word" : "posició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.150000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.270000,
+      "word" : "defensa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.810000,
+      "word" : "central"
+    }],
+  "text" : "com a jugador ocupava la posició de defensa central"
+}

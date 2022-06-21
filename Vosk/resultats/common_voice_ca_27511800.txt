@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.895836,
+      "end" : 1.020000,
+      "start" : 0.870000,
+      "word" : "que"
+    }, {
+      "conf" : 0.505549,
+      "end" : 1.170000,
+      "start" : 1.020000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.173125,
+      "word" : "porc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.560000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.650000,
+      "word" : "donar"
+    }, {
+      "conf" : 0.547954,
+      "end" : 2.070000,
+      "start" : 1.890000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.070000,
+      "word" : "peus"
+    }, {
+      "conf" : 0.823798,
+      "end" : 2.490000,
+      "start" : 2.430000,
+      "word" : "a"
+    }, {
+      "conf" : 0.823798,
+      "end" : 2.850000,
+      "start" : 2.490000,
+      "word" : "déu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.880000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.629990,
+      "start" : 3.090000,
+      "word" : "almoina"
+    }],
+  "text" : "que van porc i donar els peus a déu com almoina"
+}

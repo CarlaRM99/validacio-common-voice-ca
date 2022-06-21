@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.433326,
+      "end" : 1.440000,
+      "start" : 1.170000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.440000,
+      "word" : "farà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.830000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.040000,
+      "word" : "tast"
+    }, {
+      "conf" : 0.657711,
+      "end" : 2.490000,
+      "start" : 2.340000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.495495,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.730000,
+      "word" : "firefox"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.270000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.140000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.290000,
+      "word" : "qui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.410000,
+      "word" : "s'acosti"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.190000,
+      "word" : "podrà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.490000,
+      "word" : "gaudir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.850000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.180000,
+      "word" : "d'obsequis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.680000,
+      "start" : 6.720000,
+      "word" : "commemoratius"
+    }],
+  "text" : "si farà un tast del nou firefox tres i qui s'acosti podrà gaudir també d'obsequis commemoratius"
+}

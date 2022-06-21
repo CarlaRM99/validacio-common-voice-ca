@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.568183,
+      "end" : 1.350000,
+      "start" : 0.660000,
+      "word" : "geis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.440000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.560000,
+      "word" : "margaret"
+    }, {
+      "conf" : 0.472059,
+      "end" : 2.550000,
+      "start" : 2.100000,
+      "word" : "any"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.000000,
+      "word" : "fan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.240000,
+      "word" : "bons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.510000,
+      "word" : "amics"
+    }],
+  "text" : "geis i margaret any es fan bons amics"
+}

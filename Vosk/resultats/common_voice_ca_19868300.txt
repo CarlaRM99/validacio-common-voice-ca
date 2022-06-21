@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.780000,
+      "word" : "neix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.470000,
+      "word" : "pollença"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.280000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.460000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.580000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.000000,
+      "word" : "guillem"
+    }, {
+      "conf" : 0.999605,
+      "end" : 3.899995,
+      "start" : 3.420000,
+      "word" : "coll"
+    }],
+  "text" : "neix a pollença amb el nom de guillem coll"
+}

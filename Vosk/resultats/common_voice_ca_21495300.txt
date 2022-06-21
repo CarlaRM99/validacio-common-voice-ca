@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.506195,
+      "end" : 0.930000,
+      "start" : 0.450000,
+      "word" : "cristià"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.930000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.080000,
+      "word" : "fill"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.470000,
+      "word" : "l'antic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.830000,
+      "word" : "rival"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.160000,
+      "word" : "d'èric"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "el"
+    }, {
+      "conf" : 0.583448,
+      "end" : 3.300000,
+      "start" : 2.940000,
+      "word" : "comte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.300000,
+      "word" : "teodoric"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.709996,
+      "start" : 3.930000,
+      "word" : "d'oldenburg"
+    }],
+  "text" : "cristià era fill de l'antic rival d'èric el comte teodoric d'oldenburg"
+}

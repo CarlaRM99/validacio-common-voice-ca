@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.857241,
+      "end" : 1.230000,
+      "start" : 0.960000,
+      "word" : "tan"
+    }, {
+      "conf" : 0.758473,
+      "end" : 1.470000,
+      "start" : 1.230000,
+      "word" : "sol"
+    }, {
+      "conf" : 0.627552,
+      "end" : 1.980000,
+      "start" : 1.470000,
+      "word" : "flow"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.340000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.790000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.150000,
+      "word" : "ràpidament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.900000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.140000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.260000,
+      "word" : "targeta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.740000,
+      "word" : "gràfica"
+    }],
+  "text" : "tan sol flow va més ràpidament amb una targeta gràfica"
+}

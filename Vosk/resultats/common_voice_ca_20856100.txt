@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.960000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.500000,
+      "word" : "estació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.920000,
+      "word" : "d'esquí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.580000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.760000,
+      "word" : "acollit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.270000,
+      "word" : "l'arribada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.020000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.590000,
+      "word" : "etapes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.100000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.280000,
+      "word" : "tour"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.580000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.700000,
+      "word" : "frança"
+    }],
+  "text" : "aquesta estació d'esquí ha acollit l'arribada de diverses etapes del tour de frança"
+}

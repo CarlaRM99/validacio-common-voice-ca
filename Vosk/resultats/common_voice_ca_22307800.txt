@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.750000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.020000,
+      "word" : "d'aquí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.470000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.620000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.860000,
+      "word" : "iniciar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.550000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.880000,
+      "word" : "excursió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.630000,
+      "word" : "descens"
+    }, {
+      "conf" : 0.566842,
+      "end" : 4.500000,
+      "start" : 4.290000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.500000,
+      "word" : "puig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.860000,
+      "word" : "neulós"
+    }],
+  "text" : "des d'aquí es pot iniciar una excursió descens al puig neulós"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.450000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "meu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.810000,
+      "word" : "número"
+    }, {
+      "conf" : 0.891699,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "és"
+    }, {
+      "conf" : 0.345449,
+      "end" : 1.680000,
+      "start" : 1.290000,
+      "word" : "halsey"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.716401,
+      "word" : "cinquanta-sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.700000,
+      "word" : "seixanta-dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.810000,
+      "word" : "noranta-nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.078111,
+      "start" : 4.680000,
+      "word" : "zero"
+    }, {
+      "conf" : 0.481334,
+      "end" : 5.550000,
+      "start" : 5.100000,
+      "word" : "vuit"
+    }],
+  "text" : "el meu número és halsey cinquanta-sis seixanta-dos noranta-nou zero vuit"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.020000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.230000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.380000,
+      "word" : "posar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.650000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.680000,
+      "word" : "plorar"
+    }],
+  "text" : "es va posar a plorar"
+}

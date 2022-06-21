@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.320000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.800000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.010000,
+      "word" : "portes"
+    }, {
+      "conf" : 0.553179,
+      "end" : 3.180000,
+      "start" : 3.090000,
+      "word" : "i"
+    }, {
+      "conf" : 0.555565,
+      "end" : 3.270000,
+      "start" : 3.180000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.270000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.390000,
+      "word" : "escut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.780000,
+      "word" : "barroc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.290000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.470000,
+      "word" : "relleu"
+    }],
+  "text" : "en una de les portes i ha un escut barroc en relleu"
+}

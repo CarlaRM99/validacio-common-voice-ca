@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "cal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.530000,
+      "word" : "destacar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.160000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.340000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.760000,
+      "word" : "actuació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.200000,
+      "word" : "en"
+    }, {
+      "conf" : 0.766249,
+      "end" : 4.590000,
+      "start" : 4.410000,
+      "word" : "els"
+    }, {
+      "conf" : 0.766249,
+      "end" : 5.160000,
+      "start" : 4.590000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.160000,
+      "word" : "partits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.970000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 6.090000,
+      "word" : "copa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.510000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.720000,
+      "word" : "món"
+    }],
+  "text" : "cal destacar la seva actuació en els altres partits de la copa del món"
+}

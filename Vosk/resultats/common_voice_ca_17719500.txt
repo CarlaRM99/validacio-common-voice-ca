@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.899625,
+      "end" : 0.420000,
+      "start" : 0.240000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.420000,
+      "word" : "gener"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.810000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.870000,
+      "word" : "febrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.620000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.010000,
+      "word" : "cap"
+    }, {
+      "conf" : 0.999713,
+      "end" : 2.490000,
+      "start" : 2.280000,
+      "word" : "os"
+    }, {
+      "conf" : 0.995994,
+      "end" : 3.029973,
+      "start" : 2.490000,
+      "word" : "cunillé"
+    }],
+  "text" : "en gener i febrer no hi ha cap os cunillé"
+}

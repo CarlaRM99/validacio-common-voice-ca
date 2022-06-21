@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.170000,
+      "word" : "exercir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.770000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.340000,
+      "word" : "càrrecs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.790000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.880000,
+      "word" : "servei"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.240000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.420000,
+      "word" : "corona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.990000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.170000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.230000,
+      "word" : "conseller"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.860000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 4.980000,
+      "word" : "diplomàtic"
+    }],
+  "text" : "exercir diversos càrrecs al servei de la corona com a conseller i diplomàtic"
+}

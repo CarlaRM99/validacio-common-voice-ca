@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.050000,
+      "word" : "advertències"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.890000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.130000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.340000,
+      "word" : "dures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.700000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.000000,
+      "word" : "sacerdots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.840000,
+      "word" : "guardians"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.500000,
+      "word" : "naturals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.190000,
+      "word" : "l'ortodòxia"
+    }],
+  "text" : "les advertències són més dures amb els sacerdots guardians naturals de l'ortodòxia"
+}

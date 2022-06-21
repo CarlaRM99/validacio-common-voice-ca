@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.535597,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "pots"
+    }, {
+      "conf" : 0.740831,
+      "end" : 1.170000,
+      "start" : 1.050000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.170000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.590000,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.980000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.130000,
+      "word" : "fer"
+    }, {
+      "conf" : 0.682157,
+      "end" : 2.730000,
+      "start" : 2.280000,
+      "word" : "urbanos"
+    }],
+  "text" : "pots al carrer nou de fer urbanos"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.020000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.230000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.214827,
+      "start" : 1.320000,
+      "word" : "independència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.225173,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.853685,
+      "start" : 2.370000,
+      "word" : "continuar"
+    }, {
+      "conf" : 0.695129,
+      "end" : 3.180000,
+      "start" : 2.853685,
+      "word" : "essent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.180000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.300000,
+      "word" : "capital"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.660000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.780000,
+      "word" : "l'índia"
+    }],
+  "text" : "amb la independència va continuar essent la capital de l'índia"
+}

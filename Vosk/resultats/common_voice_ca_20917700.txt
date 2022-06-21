@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.050000,
+      "word" : "ruta"
+    }, {
+      "conf" : 0.868876,
+      "end" : 2.040000,
+      "start" : 1.560000,
+      "word" : "coneix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.070000,
+      "word" : "nombrosos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.730000,
+      "word" : "personatges"
+    }, {
+      "conf" : 0.730547,
+      "end" : 3.810000,
+      "start" : 3.570000,
+      "word" : "tan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.810000,
+      "word" : "desitjosos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.620000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.830000,
+      "word" : "ell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.370000,
+      "word" : "d'apoderar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 6.270000,
+      "word" : "d'aquestes"
+    }, {
+      "conf" : 0.598500,
+      "end" : 7.440000,
+      "start" : 6.810000,
+      "word" : "riquesa"
+    }],
+  "text" : "en ruta coneix nombrosos personatges tan desitjosos com ell d'apoderar-se d'aquestes riquesa"
+}

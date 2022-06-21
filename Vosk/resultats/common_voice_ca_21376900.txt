@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.810000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.900000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.080000,
+      "word" : "portes"
+    }, {
+      "conf" : 0.733246,
+      "end" : 2.310000,
+      "start" : 1.740000,
+      "word" : "l'elx"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.640000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.820000,
+      "word" : "aconseguiria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.390000,
+      "word" : "l'ascens"
+    }],
+  "text" : "a les portes l'elx no aconseguiria l'ascens"
+}

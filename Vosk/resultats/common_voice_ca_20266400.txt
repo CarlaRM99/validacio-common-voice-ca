@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.751875,
+      "end" : 1.470000,
+      "start" : 1.170000,
+      "word" : "som"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.470000,
+      "word" : "consumidors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.130000,
+      "word" : "primaris"
+    }],
+  "text" : "som consumidors primaris"
+}

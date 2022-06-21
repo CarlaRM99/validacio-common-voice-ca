@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.050000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.260000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.440000,
+      "word" : "continuar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.920000,
+      "word" : "intercanviant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.730000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.000000,
+      "word" : "idees"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.390000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.450000,
+      "word" : "pensaments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.380000,
+      "word" : "comunicant-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.190000,
+      "word" : "través"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.520000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.610000,
+      "word" : "cartes"
+    }],
+  "text" : "els dos van continuar intercanviant les seves idees i pensaments comunicant-se través de cartes"
+}

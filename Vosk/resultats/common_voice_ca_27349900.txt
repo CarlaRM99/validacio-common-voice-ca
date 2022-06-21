@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.870000,
+      "word" : "comtat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470932,
+      "start" : 1.350000,
+      "word" : "de"
+    }, {
+      "conf" : 0.898325,
+      "end" : 1.590000,
+      "start" : 1.470932,
+      "word" : "i"
+    }, {
+      "conf" : 0.608484,
+      "end" : 2.040000,
+      "start" : 1.590000,
+      "word" : "azul"
+    }, {
+      "conf" : 0.817479,
+      "end" : 2.910000,
+      "start" : 2.100000,
+      "word" : "mississipí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.000000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.120000,
+      "word" : "sortit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.600000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 3.810000,
+      "word" : "documental"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.740000,
+      "word" : "d'independent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.580000,
+      "word" : "lents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.390000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.600000,
+      "word" : "aborda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.740000,
+      "start" : 7.050000,
+      "word" : "l'assetjament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.310000,
+      "start" : 7.740000,
+      "word" : "escolar"
+    }],
+  "text" : "el comtat de i azul mississipí ha sortit en un documental d'independent lents que aborda l'assetjament escolar"
+}

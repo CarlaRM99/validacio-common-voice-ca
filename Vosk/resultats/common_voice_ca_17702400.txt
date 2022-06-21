@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.789060,
+      "end" : 0.627484,
+      "start" : 0.210000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.627484,
+      "word" : "d'avinyonet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.350000,
+      "word" : "puigventós"
+    }],
+  "text" : "venim d'avinyonet de puigventós"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.140000,
+      "word" : "ningú"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.500000,
+      "word" : "sap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.890000,
+      "word" : "certesa"
+    }, {
+      "conf" : 0.607611,
+      "end" : 2.850000,
+      "start" : 2.700000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.850000,
+      "word" : "significa"
+    }, {
+      "conf" : 0.809646,
+      "end" : 3.720000,
+      "start" : 3.630000,
+      "word" : "o"
+    }, {
+      "conf" : 0.557839,
+      "end" : 3.900000,
+      "start" : 3.720000,
+      "word" : "quin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.913265,
+      "word" : "origen"
+    }, {
+      "conf" : 0.536874,
+      "end" : 4.860000,
+      "start" : 4.530000,
+      "word" : "té"
+    }],
+  "text" : "ningú sap amb certesa que significa o quin origen té"
+}

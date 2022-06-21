@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.510000,
+      "word" : "principalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.140000,
+      "word" : "vivien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.440000,
+      "word" : "sota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.680000,
+      "word" : "abric"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.950000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.010000,
+      "word" : "caves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.340000,
+      "word" : "prop"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.730000,
+      "word" : "mar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.210000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.390000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.630000,
+      "word" : "s'establien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.080000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.140000,
+      "word" : "l'interior"
+    }],
+  "text" : "principalment vivien sota abric i caves prop del mar però també s'establien a l'interior"
+}

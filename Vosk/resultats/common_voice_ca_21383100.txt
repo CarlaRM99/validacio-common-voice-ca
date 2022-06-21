@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.600000,
+      "word" : "actualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.410000,
+      "word" : "imparteix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.070000,
+      "word" : "classes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.760000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.850000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 2.970000,
+      "word" : "universitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.810000,
+      "word" : "rovira"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.260000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.320000,
+      "word" : "virgili"
+    }],
+  "text" : "actualment imparteix classes a la universitat rovira i virgili"
+}

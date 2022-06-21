@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.750000,
+      "word" : "departament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.350000,
+      "word" : "governació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.040000,
+      "word" : "administracions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.790000,
+      "word" : "públiques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.240000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.270000,
+      "word" : "habitatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.237113,
+      "start" : 4.110000,
+      "word" : "i"
+    }, {
+      "conf" : 0.699629,
+      "end" : 4.320000,
+      "start" : 4.237113,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.320000,
+      "word" : "vacant"
+    }, {
+      "conf" : 0.786198,
+      "end" : 4.890000,
+      "start" : 4.740000,
+      "word" : "en"
+    }, {
+      "conf" : 0.786198,
+      "end" : 5.100000,
+      "start" : 4.890000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.190000,
+      "word" : "responsable"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 5.760000,
+      "word" : "d'estudis"
+    }],
+  "text" : "el departament de governació administracions públiques i habitatge i a vacant en lloc de responsable d'estudis"
+}

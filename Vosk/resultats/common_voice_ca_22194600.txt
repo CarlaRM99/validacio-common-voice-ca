@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.050000,
+      "word" : "escena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.680000,
+      "word" : "demostrava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.250000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.520000,
+      "word" : "temperament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.240000,
+      "word" : "sentit"
+    }, {
+      "conf" : 0.717621,
+      "end" : 3.840000,
+      "start" : 3.750000,
+      "word" : "de"
+    }, {
+      "conf" : 0.717621,
+      "end" : 4.230000,
+      "start" : 3.840000,
+      "word" : "l'humor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.320000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.440000,
+      "word" : "elegància"
+    }],
+  "text" : "escena demostrava tenir temperament sentit de l'humor i elegància"
+}

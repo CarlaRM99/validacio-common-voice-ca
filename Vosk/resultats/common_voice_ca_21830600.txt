@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.750000,
+      "word" : "moviment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.320000,
+      "word" : "metafísic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.130000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.220000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.460000,
+      "word" : "essencial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.300000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.450000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 3.600000,
+      "word" : "desenvolupament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.650000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 4.800000,
+      "word" : "surrealisme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.790000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.970000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.120000,
+      "word" : "dadaisme"
+    }],
+  "text" : "el moviment metafísic va ser essencial per al desenvolupament del surrealisme i el dadaisme"
+}

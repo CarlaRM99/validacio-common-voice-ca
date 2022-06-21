@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.990000,
+      "word" : "honor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.260000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.320000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.560000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.950000,
+      "word" : "l'escola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.550000,
+      "word" : "britànica"
+    }, {
+      "conf" : 0.718087,
+      "end" : 3.270000,
+      "start" : 3.120000,
+      "word" : "de"
+    }, {
+      "conf" : 0.718087,
+      "end" : 3.600000,
+      "start" : 3.270000,
+      "word" : "cent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.750000,
+      "word" : "països"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.230000,
+      "word" : "baixos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 4.980000,
+      "word" : "s'anomena"
+    }, {
+      "conf" : 0.858303,
+      "end" : 6.210000,
+      "start" : 5.820000,
+      "word" : "ellen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.300000,
+      "word" : "carmen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.870000,
+      "word" : "school"
+    }],
+  "text" : "en honor al seu nom l'escola britànica de cent països baixos s'anomena ellen carmen school"
+}

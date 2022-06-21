@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.660000,
+      "word" : "dinar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.050000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.470000,
+      "word" : "sopa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.830000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.370000,
+      "word" : "dormiràs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.000000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.240000,
+      "word" : "un"
+    }, {
+      "conf" : 0.546882,
+      "end" : 3.840000,
+      "start" : 3.390000,
+      "word" : "soc"
+    }],
+  "text" : "dinar poc i sopa poc i dormiràs com un soc"
+}

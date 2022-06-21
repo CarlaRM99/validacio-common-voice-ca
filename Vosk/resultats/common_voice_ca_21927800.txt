@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.750000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.050000,
+      "word" : "victòria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.680000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.800000,
+      "word" : "convertí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.280000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.370000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.460000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.730000,
+      "word" : "esportista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.330000,
+      "word" : "llatinoamericà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.260000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.410000,
+      "word" : "guanyar"
+    }, {
+      "conf" : 0.589871,
+      "end" : 4.860000,
+      "start" : 4.740000,
+      "word" : "un"
+    }, {
+      "conf" : 0.589871,
+      "end" : 4.980000,
+      "start" : 4.860000,
+      "word" : "or"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.992304,
+      "word" : "olímpic"
+    }],
+  "text" : "amb aquesta victòria es convertí en el primer esportista llatinoamericà en guanyar un or olímpic"
+}

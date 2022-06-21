@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.660000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.050000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.260000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.860000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.010000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.280000,
+      "word" : "objectiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.940000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.150000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.210000,
+      "word" : "conferenciant"
+    }],
+  "text" : "aquest és també el seu objectiu com a conferenciant"
+}

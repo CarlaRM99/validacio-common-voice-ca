@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.230000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.380000,
+      "word" : "molí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.980000,
+      "word" : "descansa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.610000,
+      "word" : "directament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.300000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.660000,
+      "word" : "penya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.990000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.200000,
+      "word" : "riu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.860000,
+      "word" : "i"
+    }, {
+      "conf" : 0.563134,
+      "end" : 5.460000,
+      "start" : 5.010000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.460000,
+      "word" : "arran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.850000,
+      "word" : "d'aigua"
+    }],
+  "text" : "el molí descansa directament sobre la penya del riu i està arran d'aigua"
+}

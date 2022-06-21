@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.300000,
+      "word" : "molts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.660000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.840000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.020000,
+      "word" : "llibres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.470000,
+      "word" : "descriuen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.980000,
+      "word" : "minories"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.490000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.580000,
+      "word" : "ètnies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.000000,
+      "word" : "sobretot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.750000,
+      "word" : "l'europa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.110000,
+      "word" : "oriental"
+    }],
+  "text" : "molts dels seus llibres descriuen minories i ètnies sobretot de l'europa oriental"
+}

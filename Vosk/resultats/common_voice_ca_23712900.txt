@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.842732,
+      "end" : 0.540000,
+      "start" : 0.390000,
+      "word" : "que"
+    }, {
+      "conf" : 0.842732,
+      "end" : 0.600000,
+      "start" : 0.540000,
+      "word" : "el"
+    }, {
+      "conf" : 0.842732,
+      "end" : 0.840000,
+      "start" : 0.600000,
+      "word" : "dia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.840000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.990000,
+      "word" : "confiança"
+    }, {
+      "conf" : 0.705826,
+      "end" : 1.560000,
+      "start" : 1.500000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.560000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.890000,
+      "word" : "caps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.190000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.250000,
+      "word" : "especialment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.910000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.060000,
+      "word" : "general"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.450000,
+      "word" : "tristany"
+    }],
+  "text" : "que el dia de la confiança de tots els caps i especialment del general tristany"
+}

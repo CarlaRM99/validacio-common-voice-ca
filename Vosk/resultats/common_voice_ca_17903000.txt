@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.630000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.720000,
+      "word" : "casa"
+    }, {
+      "conf" : 0.805687,
+      "end" : 1.410000,
+      "start" : 1.050000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.410000,
+      "word" : "germà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.190000,
+      "word" : "vagis"
+    }, {
+      "conf" : 0.760468,
+      "end" : 3.360000,
+      "start" : 2.621232,
+      "word" : "estiuejar"
+    }],
+  "text" : "a casa d'un germà no hi vagis estiuejar"
+}

@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.900000,
+      "word" : "resta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.530000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.650000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.010000,
+      "word" : "modificat"
+    }],
+  "text" : "la resta ha estat modificat"
+}

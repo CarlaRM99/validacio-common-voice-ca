@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.480000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.690000,
+      "word" : "comunitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.350000,
+      "word" : "berlinesos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.100000,
+      "word" : "demana"
+    }, {
+      "conf" : 0.770133,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.700000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.910000,
+      "word" : "propi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.240000,
+      "word" : "domini"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.690000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.780000,
+      "word" : "internet"
+    }],
+  "text" : "la comunitat de berlinesos demana el seu propi domini a internet"
+}

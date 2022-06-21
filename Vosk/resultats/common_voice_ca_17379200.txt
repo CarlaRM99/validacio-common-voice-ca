@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.526369,
+      "end" : 0.840000,
+      "start" : 0.600000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.440000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.500000,
+      "word" : "l'hivern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.010000,
+      "word" : "escudella"
+    }, {
+      "conf" : 0.543389,
+      "end" : 2.640000,
+      "start" : 2.520000,
+      "word" : "de"
+    }, {
+      "conf" : 0.543389,
+      "end" : 2.880000,
+      "start" : 2.640000,
+      "word" : "ros"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.970000,
+      "word" : "fideus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.300000,
+      "word" : "gruixuts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.020000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.200000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.320000,
+      "word" : "carn"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.560000,
+      "word" : "d'olla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 4.800000,
+      "word" : "corresponent"
+    }],
+  "text" : "a i a l'hivern escudella de ros i fideus gruixuts amb la carn d'olla corresponent"
+}

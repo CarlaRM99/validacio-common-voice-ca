@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.674801,
+      "end" : 0.900000,
+      "start" : 0.450000,
+      "word" : "viral"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.960000,
+      "word" : "destacar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.380000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.740000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.920000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.980000,
+      "word" : "home"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.190000,
+      "word" : "públic"
+    }],
+  "text" : "viral destacar també com a home públic"
+}

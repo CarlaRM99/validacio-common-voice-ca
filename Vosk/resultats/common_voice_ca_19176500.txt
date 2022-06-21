@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.990000,
+      "word" : "serà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.380000,
+      "word" : "responsable"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.070000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.160000,
+      "word" : "l'estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.700000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.880000,
+      "word" : "embarcacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.570000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.690000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.780000,
+      "word" : "posen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.110000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.170000,
+      "word" : "la"
+    }, {
+      "conf" : 0.906374,
+      "end" : 4.560000,
+      "start" : 4.260000,
+      "word" : "seua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.560000,
+      "word" : "disposició"
+    }],
+  "text" : "serà responsable de l'estat de les embarcacions que es posen a la seua disposició"
+}

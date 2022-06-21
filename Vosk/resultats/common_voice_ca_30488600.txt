@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.570000,
+      "word" : "bevíem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.020000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.170000,
+      "word" : "cosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.380000,
+      "word" : "horrible"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.040000,
+      "word" : "deien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.430000,
+      "word" : "porró"
+    }],
+  "text" : "bevíem una cosa horrible que en deien porró"
+}

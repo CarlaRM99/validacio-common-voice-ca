@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.480000,
+      "word" : "organista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.590000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.680000,
+      "word" : "capella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.250000,
+      "word" : "maria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.730000,
+      "word" : "de"
+    }, {
+      "conf" : 0.580651,
+      "end" : 3.150000,
+      "start" : 2.970000,
+      "word" : "cs"
+    }, {
+      "conf" : 0.702379,
+      "end" : 3.660000,
+      "start" : 3.150000,
+      "word" : "burg"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.900000,
+      "word" : "reina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.380000,
+      "word" : "d'hongria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.160000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.280000,
+      "word" : "governadora"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 6.210000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.510000,
+      "word" : "països"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.650000,
+      "start" : 7.020000,
+      "word" : "baixos"
+    }],
+  "text" : "organista de la capella de maria de cs burg reina d'hongria i governadora dels països baixos"
+}

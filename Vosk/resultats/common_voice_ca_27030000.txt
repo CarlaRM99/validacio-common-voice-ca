@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.990000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.230000,
+      "word" : "nen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.440000,
+      "word" : "somrient"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.130000,
+      "word" : "estira"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.199917,
+      "start" : 2.730000,
+      "word" : "objecte"
+    }, {
+      "conf" : 0.663902,
+      "end" : 3.720000,
+      "start" : 3.210000,
+      "word" : "taronja"
+    }, {
+      "conf" : 0.663902,
+      "end" : 3.960000,
+      "start" : 3.720000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.990000,
+      "word" : "barret"
+    }],
+  "text" : "un nen somrient estira un objecte taronja d'un barret"
+}

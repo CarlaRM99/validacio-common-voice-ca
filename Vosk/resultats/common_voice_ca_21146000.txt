@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.710000,
+      "word" : "gravats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.160000,
+      "word" : "d'encunys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.880000,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.300000,
+      "word" : "comtat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.900000,
+      "word" : "se'ls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.200000,
+      "word" : "considera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.800000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.010000,
+      "word" : "millors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.370000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.490000,
+      "word" : "l'art"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.670000,
+      "word" : "romànic"
+    }],
+  "text" : "els gravats d'encunys d'aquest comtat se'ls considera dels millors de l'art romànic"
+}

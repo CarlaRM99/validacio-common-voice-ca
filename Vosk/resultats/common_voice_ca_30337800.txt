@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.570000,
+      "word" : "afegeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.320000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.410000,
+      "word" : "l'agenda"
+    }, {
+      "conf" : 0.597026,
+      "end" : 2.370000,
+      "start" : 2.130000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.370000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.000000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.150000,
+      "word" : "naomi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.720000,
+      "word" : "capdevila"
+    }, {
+      "conf" : 0.549789,
+      "end" : 5.130000,
+      "start" : 4.770000,
+      "word" : "et"
+    }, {
+      "conf" : 0.731681,
+      "end" : 5.880000,
+      "start" : 5.130000,
+      "word" : "vint-i-dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 5.880000,
+      "word" : "quaranta-tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.840000,
+      "word" : "trenta"
+    }, {
+      "conf" : 0.647165,
+      "end" : 8.159995,
+      "start" : 7.440000,
+      "word" : "quaranta-u"
+    }],
+  "text" : "afegeix a l'agenda el número de la naomi capdevila et vint-i-dos quaranta-tres trenta quaranta-u"
+}

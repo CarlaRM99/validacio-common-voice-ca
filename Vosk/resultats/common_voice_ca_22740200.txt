@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.810000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.380000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.740000,
+      "word" : "aportacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.610000,
+      "word" : "destaca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.180000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.300000,
+      "word" : "teoria"
+    }, {
+      "conf" : 0.999984,
+      "end" : 3.990000,
+      "start" : 3.840000,
+      "word" : "del"
+    }, {
+      "conf" : 0.999984,
+      "end" : 4.979997,
+      "start" : 3.990000,
+      "word" : "reconeixement"
+    }],
+  "text" : "entre les seves aportacions destaca la teoria del reconeixement"
+}

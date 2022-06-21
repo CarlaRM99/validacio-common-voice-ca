@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 0.937817,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350630,
+      "start" : 1.020000,
+      "word" : "néixer"
+    }, {
+      "conf" : 0.742733,
+      "end" : 1.380000,
+      "start" : 1.350630,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.380000,
+      "word" : "prendre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.710000,
+      "word" : "represàlies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.490000,
+      "word" : "assassinar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.120000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.180000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.630000,
+      "word" : "ancians"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.230000,
+      "word" : "virolla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.680000,
+      "word" : "ens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.890000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.010000,
+      "word" : "imposar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.370000,
+      "word" : "impostos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.030000,
+      "word" : "elevats"
+    }, {
+      "conf" : 0.397652,
+      "end" : 6.570000,
+      "start" : 6.420000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.320000,
+      "start" : 6.570000,
+      "word" : "mironians"
+    }],
+  "text" : "de néixer a prendre represàlies assassinar a diversos ancians virolla ens va imposar impostos elevats els mironians"
+}

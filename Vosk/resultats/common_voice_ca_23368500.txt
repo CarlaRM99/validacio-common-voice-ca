@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "de"
+    }, {
+      "conf" : 0.860123,
+      "end" : 1.101399,
+      "start" : 0.690000,
+      "word" : "tornada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.110000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.170000,
+      "word" : "mediterrània"
+    }, {
+      "conf" : 0.807241,
+      "end" : 2.610000,
+      "start" : 2.010000,
+      "word" : "l'esquadra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.610000,
+      "word" : "governamental"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.420000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.600000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.840000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.930000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.200000,
+      "word" : "base"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.620000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.309989,
+      "start" : 4.710000,
+      "word" : "cartagena"
+    }],
+  "text" : "de tornada la mediterrània l'esquadra governamental va tenir la seva base a cartagena"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.806399,
+      "end" : 0.870000,
+      "start" : 0.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.870000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.140000,
+      "word" : "pis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.500000,
+      "word" : "queda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.800000,
+      "word" : "reduït"
+    }, {
+      "conf" : 0.562127,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.310000,
+      "word" : "nucli"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.670000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.760000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.850000,
+      "word" : "masia"
+    }],
+  "text" : "el primer pis queda reduït al nucli de la masia"
+}

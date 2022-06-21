@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.420000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.600000,
+      "word" : "porta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.140000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.590000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.680000,
+      "word" : "migdia"
+    }],
+  "text" : "la porta era a migdia"
+}

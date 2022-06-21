@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.271089,
+      "end" : 1.350000,
+      "start" : 0.660000,
+      "word" : "praderia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.440000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.560000,
+      "word" : "reconegut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.340000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.730000,
+      "word" : "admiració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.390000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.570000,
+      "word" : "treball"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.990000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.110000,
+      "word" : "golden"
+    }],
+  "text" : "praderia ha reconegut la seva admiració pel treball de golden"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.480000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.750000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.870000,
+      "word" : "germana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.380000,
+      "word" : "mitjana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.070000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.400000,
+      "word" : "germans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.940000,
+      "word" : "més"
+    }],
+  "text" : "és la germana mitjana de tres germans més"
+}

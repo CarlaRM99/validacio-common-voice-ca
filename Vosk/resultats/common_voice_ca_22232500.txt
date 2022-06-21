@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.810000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.410000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.680000,
+      "word" : "govern"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.100000,
+      "word" : "comunista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.700000,
+      "word" : "caigués"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.360000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.570000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.750000,
+      "word" : "poder"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.050000,
+      "word" : "aconseguir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.620000,
+      "word" : "feina"
+    }],
+  "text" : "després que el govern comunista caigués no va poder aconseguir feina"
+}

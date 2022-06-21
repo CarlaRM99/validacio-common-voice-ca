@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.570000,
+      "word" : "malgrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.080000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.560000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.770000,
+      "word" : "base"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.280000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.460000,
+      "word" : "sustentava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.330000,
+      "word" : "l'emulsió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.170000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.470000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.710000,
+      "word" : "evolucionant"
+    }],
+  "text" : "malgrat tot la base que sustentava l'emulsió va anar evolucionant"
+}

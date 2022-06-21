@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.090000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.630000,
+      "word" : "estàtues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.110000,
+      "word" : "de"
+    }, {
+      "conf" : 0.724331,
+      "end" : 1.560000,
+      "start" : 1.200000,
+      "word" : "greix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.620000,
+      "word" : "decoren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.040000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.130000,
+      "word" : "jardí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.430000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.580000,
+      "word" : "pavelló"
+    }],
+  "text" : "diverses estàtues de greix decoren el jardí del pavelló"
+}

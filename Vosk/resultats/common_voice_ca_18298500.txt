@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.270000,
+      "start" : 0.060000,
+      "word" : "vull"
+    }, {
+      "conf" : 0.936558,
+      "end" : 0.540000,
+      "start" : 0.300000,
+      "word" : "parlar"
+    }, {
+      "conf" : 0.571279,
+      "end" : 0.630000,
+      "start" : 0.540000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.936558,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "tu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.811903,
+      "word" : "minuts"
+    }],
+  "text" : "vull parlar amb tu minuts"
+}

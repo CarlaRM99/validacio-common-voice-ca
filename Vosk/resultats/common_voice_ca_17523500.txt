@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.020000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.230000,
+      "word" : "programari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.770000,
+      "word" : "lliure"
+    }, {
+      "conf" : 0.839933,
+      "end" : 2.400000,
+      "start" : 2.280000,
+      "word" : "a"
+    }, {
+      "conf" : 0.839933,
+      "end" : 2.940000,
+      "start" : 2.400000,
+      "word" : "demostrar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.944802,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.180000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.450000,
+      "word" : "eina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 3.720000,
+      "word" : "valuosíssima"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.130000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.310000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.370000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.520000,
+      "word" : "llengües"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 5.850000,
+      "word" : "minoritàries"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.840000,
+      "word" : "i"
+    }, {
+      "conf" : 0.764466,
+      "end" : 7.530000,
+      "start" : 6.930000,
+      "word" : "minoritzar"
+    }],
+  "text" : "el programari lliure a demostrar ser una eina valuosíssima per a les llengües minoritàries i minoritzar"
+}

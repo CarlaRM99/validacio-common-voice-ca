@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.570000,
+      "word" : "guarda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.230000,
+      "word" : "al"
+    }, {
+      "conf" : 0.752644,
+      "end" : 1.800000,
+      "start" : 1.410000,
+      "word" : "set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 1.800000,
+      "word" : "quaranta-set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.760000,
+      "word" : "noranta-nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 3.720000,
+      "word" : "cinquanta-set"
+    }, {
+      "conf" : 0.968155,
+      "end" : 5.490000,
+      "start" : 4.920000,
+      "word" : "zero"
+    }, {
+      "conf" : 0.677974,
+      "end" : 6.030000,
+      "start" : 5.550000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 6.120000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.360000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.110000,
+      "start" : 6.450000,
+      "word" : "telèfon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.320000,
+      "start" : 7.140000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.440000,
+      "start" : 7.320000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.980000,
+      "start" : 7.440000,
+      "word" : "lara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.700000,
+      "start" : 8.070000,
+      "word" : "arcos"
+    }],
+  "text" : "guarda al set quaranta-set noranta-nou cinquanta-set zero si com a telèfon de la lara arcos"
+}

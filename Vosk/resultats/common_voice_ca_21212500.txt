@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.390000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.750000,
+      "word" : "passen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.140000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.380000,
+      "word" : "til·lers"
+    }],
+  "text" : "també passen els til·lers"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.900000,
+      "word" : "usada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.230000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.320000,
+      "word" : "vehicles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.770000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.950000,
+      "word" : "vaixells"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.610000,
+      "word" : "aeronaus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.330000,
+      "word" : "submarins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.380000,
+      "word" : "míssils"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.100000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.220000,
+      "word" : "naus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.520000,
+      "word" : "espacials"
+    }],
+  "text" : "és usada en vehicles com vaixells aeronaus submarins míssils i naus espacials"
+}

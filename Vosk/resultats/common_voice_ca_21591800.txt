@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.870000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.200000,
+      "word" : "membres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.740000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.890000,
+      "word" : "assumeixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.700000,
+      "word" : "lideratge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.570000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.900000,
+      "word" : "triats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.380000,
+      "word" : "pels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.620000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.010000,
+      "word" : "membres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.430000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.909999,
+      "start" : 5.580000,
+      "word" : "grup"
+    }],
+  "text" : "els membres que assumeixen el lideratge són triats pels altres membres del grup"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.780000,
+      "word" : "noi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.230000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.440000,
+      "word" : "samarreta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.040000,
+      "word" : "blava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.430000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.520000,
+      "word" : "marró"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480572,
+      "start" : 3.060000,
+      "word" : "juga"
+    }, {
+      "conf" : 0.708838,
+      "end" : 3.510000,
+      "start" : 3.480572,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.510000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.630000,
+      "word" : "terra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.200000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.410000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.530000,
+      "word" : "rasclet"
+    }],
+  "text" : "un noi amb samarreta blava i marró juga a la terra amb un rasclet"
+}

@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.930000,
+      "word" : "veritat"
+    }],
+  "text" : "no era veritat"
+}

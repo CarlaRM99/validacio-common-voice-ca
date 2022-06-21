@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.720000,
+      "word" : "aquests"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.050000,
+      "word" : "personatges"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.830000,
+      "word" : "s'amuntegaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.550000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.700000,
+      "word" : "cambres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.180000,
+      "word" : "barates"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.690000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.840000,
+      "word" : "generalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.650000,
+      "word" : "compartien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.310000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.550000,
+      "word" : "pati"
+    }],
+  "text" : "aquests personatges s'amuntegaven en cambres barates que generalment compartien un pati"
+}

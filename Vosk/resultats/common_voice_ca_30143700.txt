@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.960000,
+      "word" : "guarda"
+    }, {
+      "conf" : 0.605454,
+      "end" : 1.380000,
+      "start" : 1.320000,
+      "word" : "el"
+    }, {
+      "conf" : 0.552167,
+      "end" : 1.980000,
+      "start" : 1.380000,
+      "word" : "cis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.070000,
+      "word" : "vuitanta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.090000,
+      "word" : "vint-i-dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.080000,
+      "word" : "noranta-set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.250000,
+      "word" : "noranta-vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 6.300000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 6.510000,
+      "word" : "a"
+    }, {
+      "conf" : 0.484408,
+      "end" : 7.050000,
+      "start" : 6.570000,
+      "word" : "telefono"
+    }, {
+      "conf" : 0.956682,
+      "end" : 7.170000,
+      "start" : 7.050000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 7.170000,
+      "word" : "la"
+    }, {
+      "conf" : 0.780039,
+      "end" : 7.830000,
+      "start" : 7.290000,
+      "word" : "tara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.580000,
+      "start" : 7.980000,
+      "word" : "barbados"
+    }],
+  "text" : "guarda el cis vuitanta vint-i-dos noranta-set noranta-vuit com a telefono de la tara barbados"
+}

@@ -1,0 +1,9 @@
+{
+  "result" : [{
+      "conf" : 0.303029,
+      "end" : 2.579995,
+      "start" : 1.920000,
+      "word" : "estudis"
+    }],
+  "text" : "estudis"
+}

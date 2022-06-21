@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.660000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.990000,
+      "word" : "flors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.380000,
+      "word" : "femenines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.160000,
+      "word" : "normalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.910000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.210000,
+      "word" : "solitària"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.170000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.320000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.470000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.070000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.190000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.340000,
+      "word" : "base"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.760000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.910000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.090000,
+      "word" : "inflorescència"
+    }],
+  "text" : "les flors femenines normalment són solitària i es troba a la base de la inflorescència"
+}

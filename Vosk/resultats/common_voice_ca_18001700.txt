@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.960000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.170000,
+      "word" : "traçat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.830000,
+      "word" : "uneix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.070000,
+      "word" : "catalunya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.700000,
+      "word" : "i"
+    }, {
+      "conf" : 0.667204,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.940000,
+      "word" : "país"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.180000,
+      "word" : "valencià"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.020000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.170000,
+      "word" : "marsella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.770000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.860000,
+      "word" : "gènova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.550000,
+      "word" : "seguint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 6.030000,
+      "word" : "l'arc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.080000,
+      "start" : 6.300000,
+      "word" : "mediterrani"
+    }],
+  "text" : "un traçat que uneix catalunya i el país valencià amb marsella i gènova seguint l'arc mediterrani"
+}

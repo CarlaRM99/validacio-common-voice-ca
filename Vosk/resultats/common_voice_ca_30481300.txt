@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.540000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230679,
+      "start" : 0.870000,
+      "word" : "cognom"
+    }, {
+      "conf" : 0.922709,
+      "end" : 1.378287,
+      "start" : 1.230679,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.378287,
+      "word" : "sida"
+    }, {
+      "conf" : 0.817682,
+      "end" : 2.640000,
+      "start" : 2.160000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.730000,
+      "word" : "i"
+    }, {
+      "conf" : 0.985595,
+      "end" : 3.329995,
+      "start" : 3.030000,
+      "word" : "de"
+    }],
+  "text" : "el seu cognom és sida ser i de"
+}

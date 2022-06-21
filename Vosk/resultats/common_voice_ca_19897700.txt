@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.390000,
+      "start" : 0.240000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.390000,
+      "word" : "primers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.690000,
+      "word" : "assajos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "foren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.530000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.710000,
+      "word" : "posteriors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.520000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.610000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.910000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.000000,
+      "word" : "manuscrits"
+    }],
+  "text" : "els primers assajos foren molt posteriors en forma de manuscrits"
+}

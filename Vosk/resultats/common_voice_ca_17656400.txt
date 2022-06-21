@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.210000,
+      "start" : 0.030000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.210000,
+      "word" : "recerca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.720000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.810000,
+      "word" : "col·locacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.530000,
+      "word" : "esdevé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 2.010000,
+      "word" : "la"
+    }, {
+      "conf" : 0.629061,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "b"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.220000,
+      "word" : "seguida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.670000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.820000,
+      "word" : "totes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.120000,
+      "word" : "les"
+    }, {
+      "conf" : 0.546254,
+      "end" : 3.810000,
+      "start" : 3.300000,
+      "word" : "industries"
+    }],
+  "text" : "la recerca de col·locacions esdevé la b seguida de totes les industries"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.480000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.750000,
+      "word" : "professors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.440000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.530000,
+      "word" : "professores"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.340000,
+      "word" : "eren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.730000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.940000,
+      "word" : "ànimes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.360000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.480000,
+      "word" : "l'escola"
+    }],
+  "text" : "els professors i professores eren les ànimes de l'escola"
+}

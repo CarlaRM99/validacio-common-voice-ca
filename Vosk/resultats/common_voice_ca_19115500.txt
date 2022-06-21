@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.410000,
+      "word" : "sempre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.860000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.980000,
+      "word" : "aquella"
+    }, {
+      "conf" : 0.420434,
+      "end" : 2.835407,
+      "start" : 2.310000,
+      "word" : "tirades"
+    }, {
+      "conf" : 0.307664,
+      "end" : 2.908048,
+      "start" : 2.835407,
+      "word" : "la"
+    }, {
+      "conf" : 0.599816,
+      "end" : 3.480000,
+      "start" : 3.090000,
+      "word" : "raó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.690000,
+      "word" : "torbava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.350000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.560000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.680000,
+      "word" : "seua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.130000,
+      "word" : "olor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.460000,
+      "word" : "penetrant"
+    }],
+  "text" : "sempre amb aquella tirades la raó torbava per la seua olor penetrant"
+}

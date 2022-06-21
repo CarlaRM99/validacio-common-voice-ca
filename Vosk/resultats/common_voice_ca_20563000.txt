@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.751684,
+      "end" : 1.080000,
+      "start" : 0.930000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.751684,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.170000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.470000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.560000,
+      "word" : "set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 1.920000,
+      "word" : "forats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.730000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.940000,
+      "word" : "dit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.390000,
+      "word" : "i"
+    }, {
+      "conf" : 0.749341,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "ho"
+    }, {
+      "conf" : 0.749341,
+      "end" : 4.020000,
+      "start" : 3.690000,
+      "word" : "farà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.057520,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.200000,
+      "word" : "polze"
+    }],
+  "text" : "hi ha sis o set forats de dit i ho farà de polze"
+}

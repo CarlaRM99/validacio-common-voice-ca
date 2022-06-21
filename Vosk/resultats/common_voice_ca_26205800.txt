@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.390000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.630000,
+      "start" : 0.600000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.630000,
+      "word" : "sortit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.020000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.260000,
+      "word" : "molts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.500000,
+      "word" : "mesos"
+    }],
+  "text" : "no ha sortit durant molts mesos"
+}

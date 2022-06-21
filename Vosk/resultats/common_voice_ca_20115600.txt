@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.720000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.870000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.960000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.290000,
+      "word" : "baixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.920000,
+      "word" : "havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.160000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.250000,
+      "word" : "sala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.490000,
+      "word" : "d'entrada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.270000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.450000,
+      "word" : "armes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.750000,
+      "word" : "blanques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.380000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.500000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.620000,
+      "word" : "foc"
+    }],
+  "text" : "en la planta baixa hi havia la sala d'entrada amb armes blanques i de foc"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530800,
+      "start" : 1.050000,
+      "word" : "casa"
+    }, {
+      "conf" : 0.680163,
+      "end" : 1.620000,
+      "start" : 1.530800,
+      "word" : "a"
+    }, {
+      "conf" : 0.473026,
+      "end" : 1.980000,
+      "start" : 1.620000,
+      "word" : "degut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.011618,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.190000,
+      "word" : "modificada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.970000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.060000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.600000,
+      "word" : "ocasions"
+    }],
+  "text" : "la casa a degut ser modificada en diverses ocasions"
+}

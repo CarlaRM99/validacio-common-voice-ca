@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.900594,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "el"
+    }, {
+      "conf" : 0.900594,
+      "end" : 1.260000,
+      "start" : 1.050000,
+      "word" : "seu"
+    }, {
+      "conf" : 0.822973,
+      "end" : 1.778930,
+      "start" : 1.260000,
+      "word" : "cèlebre"
+    }, {
+      "conf" : 0.511155,
+      "end" : 1.920000,
+      "start" : 1.778930,
+      "word" : "eren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.931568,
+      "word" : "creatius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.550000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.670000,
+      "word" : "ocasionalment"
+    }, {
+      "conf" : 0.759711,
+      "end" : 3.630000,
+      "start" : 3.540000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.630000,
+      "word" : "feia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.870000,
+      "word" : "servir"
+    }, {
+      "conf" : 0.448877,
+      "end" : 4.530000,
+      "start" : 4.170000,
+      "word" : "l'art"
+    }],
+  "text" : "el seu cèlebre eren creatius i ocasionalment i feia servir l'art"
+}

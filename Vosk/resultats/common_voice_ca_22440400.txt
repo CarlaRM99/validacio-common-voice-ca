@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.630000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.840000,
+      "word" : "creu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.080000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.200000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.260000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.530000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.950000,
+      "word" : "deriva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.730000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.850000,
+      "word" : "regió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.270000,
+      "word" : "italiana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.840000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.960000,
+      "word" : "ligúria"
+    }],
+  "text" : "es creu que el seu nom deriva de la regió italiana de ligúria"
+}

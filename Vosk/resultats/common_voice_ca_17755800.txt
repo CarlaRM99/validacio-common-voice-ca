@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.530000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.800000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.980000,
+      "word" : "malaltia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.520000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.910000,
+      "word" : "remei"
+    }, {
+      "conf" : 0.793367,
+      "end" : 3.900000,
+      "start" : 3.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.900000,
+      "word" : "cor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.140000,
+      "word" : "quedaria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.590000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.070000,
+      "word" : "contracció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.790000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.910000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 6.030000,
+      "word" : "moment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.360000,
+      "word" : "menys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.200000,
+      "start" : 6.630000,
+      "word" : "esperat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.740000,
+      "start" : 7.650000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.340000,
+      "start" : 7.740000,
+      "word" : "s'acabaria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.460000,
+      "start" : 8.340000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.850000,
+      "start" : 8.460000,
+      "word" : "vida"
+    }],
+  "text" : "era una malaltia sense remei el cor quedaria sense contracció en el moment menys esperat i s'acabaria la vida"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.750000,
+      "word" : "l'hotel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.380000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.530000,
+      "word" : "compleix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.100000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.280000,
+      "word" : "previsions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.300000,
+      "word" : "perd"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.600000,
+      "word" : "diners"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.020000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.320000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.440000,
+      "word" : "primers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.890000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.190000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.490000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.550000,
+      "word" : "funcionament"
+    }],
+  "text" : "l'hotel no compleix les previsions i perd diners durant els primers tres anys de funcionament"
+}

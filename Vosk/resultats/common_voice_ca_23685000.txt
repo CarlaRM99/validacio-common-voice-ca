@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.900000,
+      "word" : "graus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.350000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.590000,
+      "word" : "militars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.130000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.250000,
+      "word" : "l'exèrcit"
+    }, {
+      "conf" : 0.268897,
+      "end" : 3.420000,
+      "start" : 2.940000,
+      "word" : "xile"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.540000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.870000,
+      "word" : "semblants"
+    }, {
+      "conf" : 0.823864,
+      "end" : 4.770000,
+      "start" : 4.560000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.770000,
+      "word" : "graus"
+    }, {
+      "conf" : 0.464537,
+      "end" : 5.240991,
+      "start" : 5.160000,
+      "word" : "a"
+    }, {
+      "conf" : 0.550367,
+      "end" : 5.880000,
+      "start" : 5.250000,
+      "word" : "l'exèrcit"
+    }, {
+      "conf" : 0.999975,
+      "end" : 6.329996,
+      "start" : 5.910000,
+      "word" : "alemany"
+    }],
+  "text" : "els graus dels militars de l'exèrcit xile són semblants als graus a l'exèrcit alemany"
+}

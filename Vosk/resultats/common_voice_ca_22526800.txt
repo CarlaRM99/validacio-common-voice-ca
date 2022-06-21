@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.750000,
+      "word" : "uraninita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.620000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.040000,
+      "word" : "mineral"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.490000,
+      "word" : "radioactiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.300000,
+      "word" : "ric"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.600000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.690000,
+      "word" : "urani"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.290000,
+      "word" : "sent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.650000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.800000,
+      "word" : "principal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.400000,
+      "word" : "mena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.910000,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.960000,
+      "start" : 6.420000,
+      "word" : "element"
+    }],
+  "text" : "la uraninita és un mineral radioactiu ric en urani sent la principal mena d'aquest element"
+}

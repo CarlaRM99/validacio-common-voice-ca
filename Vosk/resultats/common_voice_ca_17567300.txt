@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.590000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.800000,
+      "word" : "concórrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.730000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.850000,
+      "word" : "licitació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.630000,
+      "word" : "regulada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.200000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.260000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.560000,
+      "word" : "plec"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.310000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.550000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.700000,
+      "word" : "necessària"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 6.360000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.510000,
+      "word" : "constitució"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.560000,
+      "start" : 7.410000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.190000,
+      "start" : 7.560000,
+      "word" : "garantia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.970000,
+      "start" : 8.190000,
+      "word" : "provisional"
+    }],
+  "text" : "per concórrer a la licitació regulada en aquest plec no és necessària la constitució de garantia provisional"
+}

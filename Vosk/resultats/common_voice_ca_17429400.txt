@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.900000,
+      "word" : "hem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.080000,
+      "word" : "d'oblidar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.710000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.890000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.160000,
+      "word" : "imatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.580000,
+      "word" : "val"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.850000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.090000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.240000,
+      "word" : "mil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.480000,
+      "word" : "paraules"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.230000,
+      "word" : "només"
+    }, {
+      "conf" : 0.724750,
+      "end" : 5.040000,
+      "start" : 4.830000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.040000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.160000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.370000,
+      "word" : "bona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.640000,
+      "word" : "imatge"
+    }],
+  "text" : "no hem d'oblidar que una imatge val més que mil paraules només si és una bona imatge"
+}

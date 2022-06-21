@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.540000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.990000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.140000,
+      "word" : "edifici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.740000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.070000,
+      "word" : "mitgeres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.880000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.030000,
+      "word" : "consta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.360000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.480000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.780000,
+      "word" : "baixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.290000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.560000,
+      "word" : "pisos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.130000,
+      "word" : "golfes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.820000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.940000,
+      "word" : "terrat"
+    }],
+  "text" : "és un edifici entre mitgeres que consta de planta baixa tres pisos golfes i terrat"
+}

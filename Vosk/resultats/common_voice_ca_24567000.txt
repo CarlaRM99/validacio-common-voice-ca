@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.720000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.140000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.350000,
+      "word" : "amic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.680000,
+      "word" : "íntim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.190000,
+      "word" : "d'isaac"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.640000,
+      "word" : "newton"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.210000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.390000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.630000,
+      "word" : "món"
+    }, {
+      "conf" : 0.795557,
+      "end" : 4.290000,
+      "start" : 3.930000,
+      "word" : "haley"
+    }],
+  "text" : "fou un amic íntim d'isaac newton i del món haley"
+}

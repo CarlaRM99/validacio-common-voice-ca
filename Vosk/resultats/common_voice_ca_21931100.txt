@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.570000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.840000,
+      "word" : "vell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.380000,
+      "word" : "cavalleresc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "i"
+    }, {
+      "conf" : 0.678777,
+      "end" : 3.139975,
+      "start" : 2.610000,
+      "word" : "generosa"
+    }, {
+      "conf" : 0.758413,
+      "end" : 3.210000,
+      "start" : 3.139975,
+      "word" : "en"
+    }, {
+      "conf" : 0.758413,
+      "end" : 3.810000,
+      "start" : 3.210000,
+      "word" : "extrem"
+    }],
+  "text" : "era vell cavalleresc i generosa en extrem"
+}

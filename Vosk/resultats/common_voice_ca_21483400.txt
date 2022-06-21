@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.750000,
+      "word" : "tanmateix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.680000,
+      "word" : "l'immoble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.430000,
+      "word" : "desemboca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.090000,
+      "word" : "simultàniament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.990000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.140000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.590000,
+      "word" : "codolar"
+    }],
+  "text" : "tanmateix l'immoble desemboca simultàniament al carrer codolar"
+}

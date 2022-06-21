@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.900000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.050000,
+      "word" : "anell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.470000,
+      "word" : "ocular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.160000,
+      "word" : "pla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.730000,
+      "word" : "estret"
+    }],
+  "text" : "amb un anell ocular pla i estret"
+}

@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.320000,
+      "word" : "perquè"
+    }, {
+      "conf" : 0.999997,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "em"
+    }, {
+      "conf" : 0.999995,
+      "end" : 2.669999,
+      "start" : 1.770000,
+      "word" : "preguntes"
+    }],
+  "text" : "perquè em preguntes"
+}

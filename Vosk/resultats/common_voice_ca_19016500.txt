@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.584175,
+      "end" : 1.170000,
+      "start" : 0.870000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.170000,
+      "word" : "repensat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.950000,
+      "word" : "totes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.370000,
+      "word" : "categories"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.060000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.240000,
+      "word" : "poder"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.480000,
+      "word" : "classificar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.960000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.140000,
+      "word" : "aplicacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.950000,
+      "word" : "seguint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.310000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.490000,
+      "word" : "taxonomia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 6.180000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.390000,
+      "word" : "moderna"
+    }],
+  "text" : "sant repensat totes les categories per poder classificar les aplicacions seguint una taxonomia més moderna"
+}

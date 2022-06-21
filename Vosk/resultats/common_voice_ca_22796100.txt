@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.960000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.170000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.440000,
+      "word" : "motiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.830000,
+      "word" : "preferit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "era"
+    }, {
+      "conf" : 0.810788,
+      "end" : 2.579354,
+      "start" : 2.520000,
+      "word" : "el"
+    }, {
+      "conf" : 0.785046,
+      "end" : 2.867785,
+      "start" : 2.579354,
+      "word" : "lleó"
+    }, {
+      "conf" : 0.680352,
+      "end" : 3.390000,
+      "start" : 2.870522,
+      "word" : "africà"
+    }],
+  "text" : "el seu motiu preferit era el lleó africà"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.711174,
+      "start" : 1.170000,
+      "word" : "abans"
+    }, {
+      "conf" : 0.882109,
+      "end" : 1.980000,
+      "start" : 1.711174,
+      "word" : "s'havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.980000,
+      "word" : "jugat"
+    }, {
+      "conf" : 0.468284,
+      "end" : 2.697085,
+      "start" : 2.568989,
+      "word" : "l"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.697085,
+      "word" : "artesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.270000,
+      "word" : "i"
+    }, {
+      "conf" : 0.649451,
+      "end" : 3.450000,
+      "start" : 3.390000,
+      "word" : "a"
+    }, {
+      "conf" : 0.649451,
+      "end" : 4.080000,
+      "start" : 3.450000,
+      "word" : "l'atlètic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.080000,
+      "word" : "segre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.500000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.620000,
+      "word" : "lleida"
+    }],
+  "text" : "abans s'havia jugat l artesa i a l'atlètic segre de lleida"
+}

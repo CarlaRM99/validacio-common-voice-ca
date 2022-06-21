@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.520820,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.930000,
+      "word" : "mateix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.260000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.680000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.830000,
+      "word" : "major"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.130000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.370000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.580000,
+      "word" : "armenis"
+    }, {
+      "conf" : 0.619984,
+      "end" : 3.480000,
+      "start" : 3.150000,
+      "word" : "parlen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.480000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.600000,
+      "word" : "forma"
+    }, {
+      "conf" : 0.701676,
+      "end" : 4.230000,
+      "start" : 3.870000,
+      "word" : "fluida"
+    }, {
+      "conf" : 0.527724,
+      "end" : 4.319858,
+      "start" : 4.230000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.319858,
+      "word" : "rus"
+    }],
+  "text" : "al mateix temps la major part dels armenis parlen de forma fluida al rus"
+}

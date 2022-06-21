@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.510000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 0.810000,
+      "word" : "peregrinacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.950000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.160000,
+      "word" : "realitzen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 3.030000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.120000,
+      "word" : "l'agost"
+    }],
+  "text" : "les peregrinacions es realitzen a l'agost"
+}

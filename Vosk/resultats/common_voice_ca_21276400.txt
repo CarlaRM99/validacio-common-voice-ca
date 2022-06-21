@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.300000,
+      "word" : "actualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.200000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.410000,
+      "word" : "coberta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.040000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.220000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 2.760000,
+      "word" : "restituïda"
+    }],
+  "text" : "actualment la coberta ha estat restituïda"
+}

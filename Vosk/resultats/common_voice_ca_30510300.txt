@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.870000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.140000,
+      "word" : "clar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.530000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.620000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.740000,
+      "word" : "igualtat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.520000,
+      "word" : "era"
+    }, {
+      "conf" : 0.589665,
+      "end" : 3.420000,
+      "start" : 2.700000,
+      "word" : "perfecte"
+    }],
+  "text" : "és clar que la igualtat no era perfecte"
+}

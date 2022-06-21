@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.570000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.840000,
+      "word" : "característica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.650000,
+      "word" : "notable"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.130000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.190000,
+      "word" : "l'espècie"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.880000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.030000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.150000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.330000,
+      "word" : "comportament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.990000,
+      "word" : "sexual"
+    }],
+  "text" : "una característica notable de l'espècie és el seu comportament sexual"
+}

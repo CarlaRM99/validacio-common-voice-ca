@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.350000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.530000,
+      "word" : "àsia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.400000,
+      "word" : "comercialitzen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.420000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.600000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.660000,
+      "word" : "menjar"
+    }],
+  "text" : "a àsia es comercialitzen per a menjar"
+}

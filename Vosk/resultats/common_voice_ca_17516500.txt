@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.540000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.720000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.960000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.990000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.050000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.230000,
+      "word" : "raó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.440000,
+      "word" : "social"
+    }],
+  "text" : "però també hi ha una raó social"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.780000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.080000,
+      "word" : "realitzar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.530000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.590000,
+      "word" : "servei"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.950000,
+      "word" : "militar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.550000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.700000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.820000,
+      "word" : "cavalleria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.660000,
+      "word" : "saumur"
+    }],
+  "text" : "va realitzar el servei militar amb la cavalleria a saumur"
+}

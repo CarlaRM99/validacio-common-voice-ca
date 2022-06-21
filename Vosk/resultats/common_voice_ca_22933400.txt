@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.690000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.900000,
+      "word" : "orígens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.440000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.530000,
+      "word" : "celebració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.100000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.310000,
+      "word" : "sants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.550000,
+      "word" : "innocents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.510000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.619996,
+      "start" : 3.870000,
+      "word" : "diversos"
+    }],
+  "text" : "els orígens de la celebració dels sants innocents són diversos"
+}

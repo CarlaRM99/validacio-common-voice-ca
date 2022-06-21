@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.870000,
+      "word" : "es"
+    }, {
+      "conf" : 0.854974,
+      "end" : 1.290000,
+      "start" : 0.960000,
+      "word" : "casà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.290000,
+      "word" : "mai"
+    }, {
+      "conf" : 0.736440,
+      "end" : 1.980000,
+      "start" : 1.860000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.980000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.100000,
+      "word" : "viure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.460000,
+      "word" : "sol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.000000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.210000,
+      "word" : "resta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.690000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.840000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.930000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.230000,
+      "word" : "vida"
+    }],
+  "text" : "no es casà mai hi va viure sol la resta de la seva vida"
+}

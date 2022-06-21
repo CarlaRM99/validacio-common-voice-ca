@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.020000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.320000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.500000,
+      "word" : "succeir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.220000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.280000,
+      "word" : "desconegui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.820000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.910000,
+      "word" : "nombre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.210000,
+      "word" : "del"
+    }, {
+      "conf" : 0.602743,
+      "end" : 3.750000,
+      "start" : 3.360000,
+      "word" : "compte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.750000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.870000,
+      "word" : "destinació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.530000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.620000,
+      "word" : "transferència"
+    }],
+  "text" : "també pot succeir que es desconegui el nombre del compte de destinació de la transferència"
+}

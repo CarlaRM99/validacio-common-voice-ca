@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.170000,
+      "word" : "esquadrons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 1.770000,
+      "word" : "administratius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.150000,
+      "word" : "normalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.780000,
+      "word" : "segueixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.260000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.380000,
+      "word" : "ordres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.950000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.190000,
+      "word" : "líder"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.640000,
+      "word" : "d'esquadró"
+    }],
+  "text" : "els esquadrons administratius normalment segueixen les ordres d'un líder d'esquadró"
+}

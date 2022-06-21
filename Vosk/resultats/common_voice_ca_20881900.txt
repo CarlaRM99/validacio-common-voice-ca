@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.050000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.170000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.260000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.590000,
+      "word" : "vegada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.070000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.190000,
+      "word" : "seqüela"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210302,
+      "start" : 2.640000,
+      "word" : "s'estrenava"
+    }, {
+      "conf" : 0.796848,
+      "end" : 3.240000,
+      "start" : 3.210302,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.240000,
+      "word" : "londres"
+    }],
+  "text" : "va ser la primera vegada que una seqüela s'estrenava a londres"
+}

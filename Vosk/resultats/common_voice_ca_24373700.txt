@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.870000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.110000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.440000,
+      "word" : "punt"
+    }, {
+      "conf" : 0.591485,
+      "end" : 2.430000,
+      "start" : 2.280000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.591485,
+      "end" : 2.960156,
+      "start" : 2.430000,
+      "word" : "començat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.960156,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.090000,
+      "word" : "descripció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.840000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.050000,
+      "word" : "perímetre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.890000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.070000,
+      "word" : "l'enclavament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 5.940000,
+      "word" : "cellers"
+    }],
+  "text" : "en aquest punt ha començat la descripció del perímetre de l'enclavament de cellers"
+}

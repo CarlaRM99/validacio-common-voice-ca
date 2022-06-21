@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.330145,
+      "end" : 0.480000,
+      "start" : 0.390000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.505487,
+      "word" : "vaig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.720000,
+      "word" : "adormir"
+    }],
+  "text" : "el vaig adormir"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.870000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.170000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.320000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.740000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.890000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.040000,
+      "word" : "ànims"
+    }, {
+      "conf" : 0.492275,
+      "end" : 2.940000,
+      "start" : 2.550000,
+      "word" : "escala"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.958411,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.240000,
+      "word" : "íntims"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.720000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.900000,
+      "word" : "partit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.320000,
+      "word" : "popular"
+    }],
+  "text" : "això va fer que els ànims escala més íntims del partit popular"
+}

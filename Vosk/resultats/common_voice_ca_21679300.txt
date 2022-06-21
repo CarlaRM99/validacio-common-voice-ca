@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.690000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.900000,
+      "word" : "pot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.140000,
+      "word" : "semblar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 1.590000,
+      "word" : "superficialment"
+    }, {
+      "conf" : 0.779327,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.910000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.180000,
+      "word" : "fulla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.690000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.080000,
+      "word" : "prima"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 4.800000,
+      "word" : "caledonita"
+    }],
+  "text" : "es pot semblar superficialment a una fulla molt prima de caledonita"
+}

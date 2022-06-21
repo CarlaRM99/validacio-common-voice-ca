@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.527640,
+      "end" : 2.100000,
+      "start" : 1.230000,
+      "word" : "fons"
+    }, {
+      "conf" : 0.513884,
+      "end" : 2.757065,
+      "start" : 2.550000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.652651,
+      "end" : 3.000000,
+      "start" : 2.757065,
+      "word" : "pati"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.000000,
+      "word" : "posterior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.720000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.810000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.140000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.830000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.980000,
+      "word" : "qual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.220000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.370000,
+      "word" : "accés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 6.060000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.180000,
+      "word" : "dret"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.540000,
+      "word" : "d'ús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.900000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.560000,
+      "start" : 7.050000,
+      "word" : "gaudi"
+    }],
+  "text" : "fons amb pati posterior al número dos el qual té accés i dret d'ús i gaudi"
+}

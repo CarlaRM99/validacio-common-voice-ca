@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.390000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.600000,
+      "word" : "germans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.080000,
+      "word" : "grimm"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.440000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.650000,
+      "word" : "donar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.860000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.400000,
+      "word" : "explicacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.120000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.390000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.720000,
+      "word" : "figura"
+    }],
+  "text" : "els germans grimm van donar diverses explicacions sobre aquesta figura"
+}

@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.240000,
+      "word" : "l'èxit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 0.960000,
+      "word" : "comercial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.830000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.130000,
+      "word" : "acompanyat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.940000,
+      "word" : "l'esportiu"
+    }],
+  "text" : "l'èxit comercial anar acompanyat de l'esportiu"
+}

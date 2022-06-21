@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.810000,
+      "word" : "everest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.070000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.490000,
+      "word" : "l'ús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.820000,
+      "word" : "tradicional"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.630000,
+      "word" : "encara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.990000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.080000,
+      "word" : "conserva"
+    }],
+  "text" : "everest però l'ús tradicional encara es conserva"
+}

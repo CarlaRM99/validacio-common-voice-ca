@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.554063,
+      "end" : 1.140000,
+      "start" : 0.570000,
+      "word" : "signa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.170000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.380000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.680000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.070000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.220000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.340000,
+      "word" : "club"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.640000,
+      "word" : "gallec"
+    }],
+  "text" : "signa per tres anys en el club gallec"
+}

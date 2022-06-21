@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.270000,
+      "word" : "algunes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.923263,
+      "start" : 0.600000,
+      "word" : "vegades"
+    }, {
+      "conf" : 0.507832,
+      "end" : 1.020000,
+      "start" : 0.930000,
+      "word" : "m'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.020000,
+      "word" : "convençut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.590000,
+      "word" : "d'altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.980000,
+      "word" : "no"
+    }],
+  "text" : "algunes vegades m'ha convençut d'altres no"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.480000,
+      "word" : "aviat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.110000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.230000,
+      "word" : "formarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.890000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.160000,
+      "word" : "banda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.670000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.820000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.030000,
+      "word" : "escola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.450000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.540000,
+      "word" : "música"
+    }],
+  "text" : "aviat en formarà una banda i una escola de música"
+}

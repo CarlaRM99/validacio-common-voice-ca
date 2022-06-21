@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.660000,
+      "word" : "algunes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.410000,
+      "word" : "detonacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.880000,
+      "word" : "han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.090000,
+      "word" : "tingut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.510000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.020000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.290000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 4.740000,
+      "word" : "pacífics"
+    }],
+  "text" : "algunes detonacions han tingut lloc amb fins pacífics"
+}

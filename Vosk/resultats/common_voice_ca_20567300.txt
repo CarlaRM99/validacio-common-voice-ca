@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.930000,
+      "word" : "fons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.620000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.770000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.830000,
+      "word" : "terra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.130000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.190000,
+      "word" : "pedres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.640000,
+      "word" : "i"
+    }, {
+      "conf" : 0.738260,
+      "end" : 2.790000,
+      "start" : 2.730000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.790000,
+      "word" : "creix"
+    }, {
+      "conf" : 0.624807,
+      "end" : 3.120000,
+      "start" : 3.030000,
+      "word" : "un"
+    }, {
+      "conf" : 0.624807,
+      "end" : 3.570000,
+      "start" : 3.120000,
+      "word" : "alzinar"
+    }],
+  "text" : "el fons i a terra i pedres i i creix un alzinar"
+}

@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.720000,
+      "word" : "william"
+    }, {
+      "conf" : 0.524432,
+      "end" : 1.620000,
+      "start" : 1.200000,
+      "word" : "coell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.547586,
+      "start" : 2.040000,
+      "word" : "colorado"
+    }, {
+      "conf" : 0.322875,
+      "end" : 2.936130,
+      "start" : 2.580000,
+      "word" : "castell"
+    }, {
+      "conf" : 0.668114,
+      "end" : 3.017180,
+      "start" : 2.936130,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.017180,
+      "word" : "university"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.170000,
+      "word" : "bàsicament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.800000,
+      "word" : "estava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.160000,
+      "word" : "d'acord"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.640000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.576366,
+      "end" : 6.300000,
+      "start" : 5.760000,
+      "word" : "l'ine"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.480000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 6.720000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 6.810000,
+      "word" : "descriure"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.502669,
+      "start" : 7.260000,
+      "word" : "com"
+    }, {
+      "conf" : 0.887945,
+      "end" : 7.590000,
+      "start" : 7.502669,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.130000,
+      "start" : 7.650000,
+      "word" : "valent"
+    }],
+  "text" : "william coell de colorado castell i university bàsicament estava d'acord amb l'ine i el va descriure com a valent"
+}

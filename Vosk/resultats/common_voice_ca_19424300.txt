@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.570000,
+      "word" : "vuit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.170000,
+      "word" : "tard"
+    }, {
+      "conf" : 0.738282,
+      "end" : 1.680000,
+      "start" : 1.530000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.680000,
+      "word" : "jocs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.920000,
+      "word" : "d'anvers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.730000,
+      "word" : "disputar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.210000,
+      "word" : "dues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.480000,
+      "word" : "proves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.840000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.990000,
+      "word" : "programa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.410000,
+      "word" : "de"
+    }, {
+      "conf" : 0.730592,
+      "end" : 4.740000,
+      "start" : 4.500000,
+      "word" : "tir"
+    }],
+  "text" : "vuit anys més tard als jocs d'anvers va disputar dues proves del programa de tir"
+}

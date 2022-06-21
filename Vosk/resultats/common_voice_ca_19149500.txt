@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.690000,
+      "word" : "canyamel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.710000,
+      "word" : "era"
+    }, {
+      "conf" : 0.866495,
+      "end" : 2.040000,
+      "start" : 1.890000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.044005,
+      "word" : "palma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.610000,
+      "word" : "ni"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.790000,
+      "word" : "tan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.000000,
+      "word" : "sols"
+    }, {
+      "conf" : 0.619566,
+      "end" : 3.900000,
+      "start" : 3.240000,
+      "word" : "valencià"
+    }],
+  "text" : "canyamel no era del palma ni tan sols valencià"
+}

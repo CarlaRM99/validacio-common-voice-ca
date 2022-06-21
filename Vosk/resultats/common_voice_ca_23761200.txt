@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.480000,
+      "start" : 0.360000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.480000,
+      "word" : "tossal"
+    }, {
+      "conf" : 0.937886,
+      "end" : 0.957002,
+      "start" : 0.780000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.957002,
+      "word" : "foradat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.440000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.500000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.590000,
+      "word" : "darrera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.980000,
+      "word" : "guerra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.389779,
+      "start" : 2.310000,
+      "word" : "i"
+    }, {
+      "conf" : 0.659307,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.490000,
+      "word" : "fortificat"
+    }],
+  "text" : "el tossal fou foradat a la darrera guerra i és fortificat"
+}

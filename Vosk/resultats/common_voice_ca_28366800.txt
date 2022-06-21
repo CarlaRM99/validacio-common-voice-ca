@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.630000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.870000,
+      "word" : "ell"
+    }, {
+      "conf" : 0.746653,
+      "end" : 1.347325,
+      "start" : 1.020000,
+      "word" : "iode"
+    }, {
+      "conf" : 0.539014,
+      "end" : 1.950000,
+      "start" : 1.347325,
+      "word" : "investiga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.010000,
+      "word" : "troben"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.310000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.810784,
+      "start" : 2.490000,
+      "word" : "bomba"
+    }, {
+      "conf" : 0.436128,
+      "end" : 3.120000,
+      "start" : 2.820000,
+      "word" : "guarda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.120000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.210000,
+      "word" : "barca"
+    }],
+  "text" : "quan ell iode investiga troben una bomba guarda la barca"
+}

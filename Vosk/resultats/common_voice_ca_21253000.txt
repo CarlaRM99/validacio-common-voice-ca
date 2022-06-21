@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.600000,
+      "word" : "mentrestant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.380000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.560000,
+      "word" : "moviments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.040000,
+      "word" : "republicans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.790000,
+      "word" : "anaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.240000,
+      "word" : "guanyant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.630000,
+      "word" : "adeptes"
+    }],
+  "text" : "mentrestant els moviments republicans anaven guanyant adeptes"
+}

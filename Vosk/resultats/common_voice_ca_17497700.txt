@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.590000,
+      "word" : "qui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.860000,
+      "word" : "aigua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.250000,
+      "word" : "d'atura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.390000,
+      "word" : "blat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.990000,
+      "word" : "mesura"
+    }],
+  "text" : "qui aigua d'atura blat mesura"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.450000,
+      "word" : "menja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.990000,
+      "word" : "esponges"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 0.830223,
+      "end" : 2.160000,
+      "start" : 1.830000,
+      "word" : "mar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.220000,
+      "word" : "gorgònies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.300000,
+      "word" : "algues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.780000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.840000,
+      "word" : "coralls"
+    }],
+  "text" : "menja esponges de mar gorgònies algues i coralls"
+}

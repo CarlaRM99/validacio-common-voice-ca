@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.510000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.720000,
+      "word" : "superfície"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.530000,
+      "word" : "allà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.950000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.220000,
+      "word" : "allargat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.790000,
+      "word" : "lleugerament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.630000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.780000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.900000,
+      "word" : "tren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.230000,
+      "word" : "d'aterratge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.100000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.310000,
+      "word" : "reforçat"
+    }],
+  "text" : "la superfície allà s'ha allargat lleugerament i el tren d'aterratge s'ha reforçat"
+}

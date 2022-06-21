@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.524925,
+      "end" : 0.630000,
+      "start" : 0.210000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.750000,
+      "word" : "beniparrell"
+    }],
+  "text" : "venim de beniparrell"
+}

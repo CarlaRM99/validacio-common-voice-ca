@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 0.728542,
+      "end" : 0.630000,
+      "start" : 0.420000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.630000,
+      "word" : "estimat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.170000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.333611,
+      "word" : "afrodita"
+    }],
+  "text" : "era estimat per afrodita"
+}

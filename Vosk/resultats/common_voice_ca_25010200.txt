@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.630000,
+      "word" : "ell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.930000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.260000,
+      "word" : "tenia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.680000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.890000,
+      "word" : "germans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.460000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.670000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.760000,
+      "word" : "mínim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.360000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.480000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.750000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.960000,
+      "word" : "anc"
+    }],
+  "text" : "ell també tenia dos germans com a mínim a més de anc"
+}

@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 0.561821,
+      "end" : 1.260000,
+      "start" : 1.140000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.260000,
+      "word" : "serveis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.710000,
+      "word" : "especials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.760000,
+      "word" : "inclouen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.330000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.480000,
+      "word" : "tasques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.020000,
+      "word" : "neteja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.560000,
+      "word" : "parcs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.980000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.040000,
+      "word" : "jardins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 5.940000,
+      "word" : "recollida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.540000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.290000,
+      "start" : 6.660000,
+      "word" : "residus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.440000,
+      "start" : 7.320000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.860000,
+      "start" : 7.440000,
+      "word" : "neteja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.370000,
+      "start" : 7.860000,
+      "word" : "viària"
+    }],
+  "text" : "la serveis especials inclouen les tasques de neteja de parcs i jardins recollida de residus i neteja viària"
+}

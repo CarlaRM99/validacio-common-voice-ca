@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.750000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.870000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.110000,
+      "word" : "jaume"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.620000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.740000,
+      "word" : "santana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.760000,
+      "word" : "raïm"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.240000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.360000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.480000,
+      "word" : "plana"
+    }],
+  "text" : "a sant jaume i santana raïm en la plana"
+}

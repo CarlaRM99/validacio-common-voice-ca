@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.900000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.020000,
+      "word" : "causa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.380000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.560000,
+      "word" : "recent"
+    }, {
+      "conf" : 0.468725,
+      "end" : 2.310000,
+      "start" : 2.070000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.310000,
+      "word" : "volum"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.640000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.730000,
+      "word" : "producció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.720000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.930000,
+      "word" : "preus"
+    }, {
+      "conf" : 0.562563,
+      "end" : 4.740000,
+      "start" : 4.230000,
+      "word" : "marcats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.740000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.980000,
+      "word" : "vidre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.370000,
+      "word" : "setinat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 6.240000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.570000,
+      "word" : "relativament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.280000,
+      "start" : 7.440000,
+      "word" : "baixos"
+    }],
+  "text" : "a causa del recent el volum de producció els preus marcats pel vidre setinat són relativament baixos"
+}

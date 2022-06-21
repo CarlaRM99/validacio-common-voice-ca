@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.780000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.900000,
+      "word" : "partir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.200000,
+      "word" : "d'aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.650000,
+      "word" : "època"
+    }, {
+      "conf" : 0.513105,
+      "end" : 2.130000,
+      "start" : 2.010000,
+      "word" : "la"
+    }, {
+      "conf" : 0.513105,
+      "end" : 2.610000,
+      "start" : 2.130000,
+      "word" : "migració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.610000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.730000,
+      "word" : "no"
+    }, {
+      "conf" : 0.857414,
+      "end" : 2.880000,
+      "start" : 2.820000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.970000,
+      "word" : "aturar"
+    }],
+  "text" : "a partir d'aquesta època la migració ja no el va aturar"
+}

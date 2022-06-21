@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.390000,
+      "word" : "quines"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.750000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.900000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.080000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.350000,
+      "word" : "preferències"
+    }, {
+      "conf" : 0.796844,
+      "end" : 2.550000,
+      "start" : 2.040000,
+      "word" : "d'hàbitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.550000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.820000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.970000,
+      "word" : "primers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.270000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.480000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.600000,
+      "word" : "vida"
+    }],
+  "text" : "quines són les seves preferències d'hàbitat durant els primers anys de vida"
+}

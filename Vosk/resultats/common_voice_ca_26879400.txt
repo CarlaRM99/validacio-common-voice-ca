@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.330000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.540000,
+      "word" : "coneixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.200000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.470000,
+      "word" : "a"
+    }, {
+      "conf" : 0.524053,
+      "end" : 2.400000,
+      "start" : 1.770000,
+      "word" : "imperi"
+    }],
+  "text" : "es coneixen com a imperi"
+}

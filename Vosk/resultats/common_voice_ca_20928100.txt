@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.720000,
+      "word" : "era"
+    }, {
+      "conf" : 0.730268,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "filla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.260000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.470000,
+      "word" : "príncep"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.950000,
+      "word" : "hereu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.250000,
+      "word" : "carles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.790000,
+      "word" : "lluís"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.351011,
+      "start" : 3.210000,
+      "word" : "de"
+    }, {
+      "conf" : 0.700357,
+      "end" : 3.870000,
+      "start" : 3.360000,
+      "word" : "valent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.290000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.410000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.530000,
+      "word" : "gàl·lia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.190000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 5.520000,
+      "word" : "sundance"
+    }],
+  "text" : "era filla del príncep hereu carles lluís de valent i la gàl·lia de sundance"
+}

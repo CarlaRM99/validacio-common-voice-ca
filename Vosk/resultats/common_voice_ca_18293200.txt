@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.840000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.020000,
+      "word" : "vell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.620000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.770000,
+      "word" : "somriure"
+    }],
+  "text" : "el vell va somriure"
+}

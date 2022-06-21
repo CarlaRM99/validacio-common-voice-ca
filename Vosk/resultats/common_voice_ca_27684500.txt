@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 0.810000,
+      "word" : "espectadors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.740000,
+      "word" : "observen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.550000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.730000,
+      "word" : "surfista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.360000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.510000,
+      "word" : "neu"
+    }, {
+      "conf" : 0.699596,
+      "end" : 4.350000,
+      "start" : 3.930000,
+      "word" : "ampli"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.359012,
+      "word" : "vol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.800000,
+      "word" : "enmig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.250000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.430000,
+      "word" : "paisatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.060000,
+      "word" : "nevat"
+    }],
+  "text" : "els espectadors observen un surfista de neu ampli vol enmig d'un paisatge nevat"
+}

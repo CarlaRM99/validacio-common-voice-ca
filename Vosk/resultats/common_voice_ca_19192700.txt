@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.902982,
+      "end" : 0.900000,
+      "start" : 0.750000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.900000,
+      "word" : "nit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.620000,
+      "word" : "tots"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.950000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.100000,
+      "word" : "gats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.460000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.730000,
+      "word" : "negres"
+    }],
+  "text" : "de nit tots els gats són negres"
+}

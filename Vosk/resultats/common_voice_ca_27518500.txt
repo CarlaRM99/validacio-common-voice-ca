@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.660000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.840000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.080000,
+      "word" : "ascendit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.740000,
+      "word" : "pòstumament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.880000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.060000,
+      "word" : "rang"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.540000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.720000,
+      "word" : "coronel"
+    }],
+  "text" : "va ser ascendit pòstumament el rang de coronel"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.320000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.560000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 0.522541,
+      "end" : 2.220000,
+      "start" : 1.800000,
+      "word" : "word"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.370000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.610000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.580568,
+      "end" : 2.970000,
+      "start" : 2.670000,
+      "word" : "valen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 2.970000,
+      "word" : "metges"
+    }],
+  "text" : "amb el de word no hi valen metges"
+}

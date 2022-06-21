@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.900000,
+      "word" : "arran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.410000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.620000,
+      "word" : "matrimoni"
+    }, {
+      "conf" : 0.659612,
+      "end" : 3.000000,
+      "start" : 2.520000,
+      "word" : "perdé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.060000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.210000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.450000,
+      "word" : "drets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.870000,
+      "word" : "dinàstics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.770000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.890000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.010000,
+      "word" : "tractament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.610000,
+      "word" : "d'altesa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.120000,
+      "word" : "reial"
+    }],
+  "text" : "arran del seu matrimoni perdé els seus drets dinàstics i el tractament d'altesa reial"
+}

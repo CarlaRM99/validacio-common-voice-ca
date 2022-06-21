@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.990000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.200000,
+      "word" : "museu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.620000,
+      "word" : "del"
+    }, {
+      "conf" : 0.857757,
+      "end" : 2.490000,
+      "start" : 1.830000,
+      "word" : "capitoli"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.790000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.180000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.300000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.690000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.200000,
+      "word" : "parts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.530000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.770000,
+      "word" : "vaixell"
+    }],
+  "text" : "el museu del capitoli també hi ha altres parts del vaixell"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.600000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.900000,
+      "word" : "ulls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.230000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.620000,
+      "word" : "relativament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.370000,
+      "word" : "grans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.970000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.060000,
+      "word" : "diferència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.810000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.930000,
+      "word" : "molts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.230000,
+      "word" : "rèptils"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.920000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.160000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.370000,
+      "word" : "pupil·la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.030000,
+      "word" : "rodona"
+    }],
+  "text" : "els ulls són relativament grans i a diferència de molts rèptils amb una pupil·la rodona"
+}

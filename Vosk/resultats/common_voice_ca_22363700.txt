@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.840000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.020000,
+      "word" : "interpretar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.920000,
+      "word" : "hamburg"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.640000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.820000,
+      "word" : "celebració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.420000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.630000,
+      "word" : "triomfs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.050000,
+      "word" : "públics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.650000,
+      "word" : "del"
+    }, {
+      "conf" : 0.547908,
+      "end" : 5.880000,
+      "start" : 4.830000,
+      "word" : "nacional-socialisme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.880000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 6.120000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.570000,
+      "word" : "anys"
+    }],
+  "text" : "va interpretar a hamburg la celebració dels triomfs públics del nacional-socialisme durant diversos anys"
+}

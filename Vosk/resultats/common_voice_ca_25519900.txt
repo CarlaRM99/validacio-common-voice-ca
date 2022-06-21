@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.480000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.690000,
+      "word" : "fiscal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.410000,
+      "word" : "l'estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.040000,
+      "word" : "és"
+    }, {
+      "conf" : 0.807205,
+      "end" : 2.700000,
+      "start" : 2.370000,
+      "word" : "sara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.700000,
+      "word" : "jorge"
+    }],
+  "text" : "la fiscal de l'estat és sara jorge"
+}

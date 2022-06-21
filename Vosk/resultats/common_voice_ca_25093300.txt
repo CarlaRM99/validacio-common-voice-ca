@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.600000,
+      "word" : "diverses"
+    }, {
+      "conf" : 0.818841,
+      "end" : 1.884233,
+      "start" : 1.290000,
+      "word" : "càtedres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 1.884233,
+      "word" : "subvencionades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.210000,
+      "word" : "han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.420000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 3.750000,
+      "word" : "batejades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.740000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.950000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.010000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.220000,
+      "word" : "nom"
+    }],
+  "text" : "diverses càtedres subvencionades han estat batejades amb el seu nom"
+}

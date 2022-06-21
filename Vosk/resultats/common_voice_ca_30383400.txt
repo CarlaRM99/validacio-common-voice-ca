@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.755820,
+      "end" : 0.720000,
+      "start" : 0.510000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.720000,
+      "word" : "viu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.380000,
+      "word" : "jardins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.950000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.070000,
+      "word" : "rosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 2.760000,
+      "word" : "deulofeu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.720000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.170000,
+      "word" : "trenta-vuit"
+    }],
+  "text" : "que viu als jardins de rosa deulofeu número trenta-vuit"
+}

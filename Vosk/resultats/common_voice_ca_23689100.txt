@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.581570,
+      "end" : 1.075861,
+      "start" : 0.870000,
+      "word" : "els"
+    }, {
+      "conf" : 0.772914,
+      "end" : 1.877895,
+      "start" : 1.075861,
+      "word" : "refrigeradors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.877895,
+      "word" : "s'encenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.430000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.490000,
+      "word" : "s'apaguen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.180000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.360000,
+      "word" : "refredar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.780000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.840000,
+      "word" : "subministrament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.710000,
+      "word" : "d'aigua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.040000,
+      "word" : "refrigerada"
+    }],
+  "text" : "els refrigeradors s'encenen i s'apaguen per refredar el subministrament d'aigua refrigerada"
+}

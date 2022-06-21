@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.720000,
+      "word" : "s'aixeca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.290000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.560000,
+      "word" : "unes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.770000,
+      "word" : "grans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.280000,
+      "word" : "arcades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.910000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.030000,
+      "word" : "contraforts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.840000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.020000,
+      "word" : "dimensions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.650000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.860000,
+      "word" : "superiors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.460000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.580000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.760000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.850000,
+      "word" : "l'ermita"
+    }],
+  "text" : "s'aixeca sobre unes grans arcades i contraforts de dimensions molt superiors a les de l'ermita"
+}

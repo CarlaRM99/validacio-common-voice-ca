@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.480000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.750000,
+      "word" : "film"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.440000,
+      "word" : "ple"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.860000,
+      "word" : "misteri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.550000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.730000,
+      "word" : "emoció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 3.570000,
+      "word" : "meravellós"
+    }],
+  "text" : "un film ple de misteri i emoció meravellós"
+}

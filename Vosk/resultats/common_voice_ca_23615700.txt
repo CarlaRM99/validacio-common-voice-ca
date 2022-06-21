@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.630000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.050000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.770000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.040000,
+      "word" : "bandes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.610000,
+      "word" : "música"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.090000,
+      "word" : "oficials"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.810000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 3.930000,
+      "word" : "comparsa"
+    }],
+  "text" : "són diverses les bandes de música oficials de la comparsa"
+}

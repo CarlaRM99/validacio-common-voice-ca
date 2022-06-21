@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.990000,
+      "word" : "guanyà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.440000,
+      "word" : "vida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.770000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 2.010000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.100000,
+      "word" : "pianista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.910000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.120000,
+      "word" : "cinema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.510000,
+      "word" : "mut"
+    }, {
+      "conf" : 0.745587,
+      "end" : 4.620000,
+      "start" : 4.440000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.620000,
+      "word" : "teatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.220000,
+      "word" : "serra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 5.670000,
+      "word" : "d'eivissa"
+    }],
+  "text" : "es guanyà la vida com a pianista de cinema mut el teatre serra d'eivissa"
+}

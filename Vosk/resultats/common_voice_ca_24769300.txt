@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900608,
+      "start" : 0.690000,
+      "word" : "és"
+    }, {
+      "conf" : 0.663492,
+      "end" : 1.364762,
+      "start" : 0.900608,
+      "word" : "suplement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.400069,
+      "word" : "triangular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.190000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.340000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.490000,
+      "word" : "vèrtex"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.000000,
+      "word" : "superior"
+    }],
+  "text" : "és suplement triangular amb un vèrtex superior"
+}

@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.600000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.080000,
+      "word" : "encara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.560000,
+      "word" : "em"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.710000,
+      "word" : "desconcerta"
+    }],
+  "text" : "això encara em desconcerta"
+}

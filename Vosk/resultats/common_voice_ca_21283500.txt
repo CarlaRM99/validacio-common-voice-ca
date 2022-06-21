@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.540000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.780000,
+      "word" : "morir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.080000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.320000,
+      "word" : "septicèmia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.190000,
+      "word" : "derivada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.730000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.030000,
+      "word" : "meningitis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.870000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.990000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.110000,
+      "word" : "hospital"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.620000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.339998,
+      "start" : 4.740000,
+      "word" : "madrid"
+    }],
+  "text" : "va morir d'una septicèmia derivada d'una meningitis en un hospital de madrid"
+}

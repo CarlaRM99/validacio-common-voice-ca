@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.720000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.900000,
+      "word" : "néixer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.320000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.380000,
+      "word" : "palafolls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.190000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.700000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.790000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.850000,
+      "word" : "hagi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.030000,
+      "word" : "constància"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.780000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.930000,
+      "word" : "quin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.110000,
+      "word" : "any"
+    }],
+  "text" : "va néixer a palafolls sense que hi hagi constància de quin any"
+}

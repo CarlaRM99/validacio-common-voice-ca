@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.080000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.290000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.350000,
+      "word" : "resultat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.310000,
+      "word" : "nagasaki"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.030000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.150000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.270000,
+      "word" : "afegir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.690000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.900000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.930000,
+      "word" : "objectiu"
+    }],
+  "text" : "com a resultat nagasaki es va afegir com a objectiu"
+}

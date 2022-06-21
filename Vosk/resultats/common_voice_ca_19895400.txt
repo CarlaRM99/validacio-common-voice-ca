@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.085143,
+      "start" : 0.690000,
+      "word" : "cacera"
+    }, {
+      "conf" : 0.404139,
+      "end" : 1.197660,
+      "start" : 1.085143,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.197660,
+      "word" : "abundant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.010000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.190000,
+      "word" : "conills"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.760000,
+      "word" : "perdius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.300000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.360000,
+      "word" : "llops"
+    }],
+  "text" : "la cacera era abundant amb conills perdius i llops"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.510000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.660000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.930000,
+      "word" : "recents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.350000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.410000,
+      "word" : "combinat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.890000,
+      "word" : "l'oferta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.340000,
+      "word" : "cultural"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.940000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.090000,
+      "word" : "atraccions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.810000,
+      "word" : "fira"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.110000,
+      "word" : "i"
+    }, {
+      "conf" : 0.820075,
+      "end" : 4.290000,
+      "start" : 4.170000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.290000,
+      "word" : "mercadeig"
+    }],
+  "text" : "en temps recents ha combinat l'oferta cultural amb les atraccions de fira i el mercadeig"
+}

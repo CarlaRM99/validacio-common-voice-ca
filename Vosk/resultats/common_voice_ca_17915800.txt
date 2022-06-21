@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.930000,
+      "word" : "premi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.470000,
+      "word" : "rebre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.950000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.310000,
+      "word" : "copa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.550000,
+      "word" : "daurada"
+    }, {
+      "conf" : 0.853135,
+      "end" : 3.300000,
+      "start" : 3.150000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.853135,
+      "end" : 4.050000,
+      "start" : 3.300000,
+      "word" : "incrustacions"
+    }, {
+      "conf" : 0.675330,
+      "end" : 4.830000,
+      "start" : 4.050000,
+      "word" : "argenters"
+    }],
+  "text" : "el premi que va rebre és una copa daurada amb incrustacions argenters"
+}

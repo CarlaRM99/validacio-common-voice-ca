@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.630000,
+      "word" : "l'església"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.380000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.590000,
+      "word" : "joan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.130000,
+      "word" : "cal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.370000,
+      "word" : "incloure-la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.300000,
+      "word" : "dins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.630000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.020000,
+      "word" : "ampli"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.380000,
+      "word" : "ventall"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.920000,
+      "word" : "d'edificis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 5.610000,
+      "word" : "eclèctics"
+    }],
+  "text" : "l'església de sant joan cal incloure-la dins aquest ampli ventall d'edificis eclèctics"
+}

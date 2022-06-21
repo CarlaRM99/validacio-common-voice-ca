@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "vull"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.260000,
+      "word" : "saber"
+    }, {
+      "conf" : 0.776561,
+      "end" : 1.860000,
+      "start" : 1.620000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.860000,
+      "word" : "faran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.370000,
+      "word" : "box"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.850000,
+      "word" : "et"
+    }, {
+      "conf" : 0.694197,
+      "end" : 4.080000,
+      "start" : 3.240000,
+      "word" : "revolución"
+    }, {
+      "conf" : 0.714956,
+      "end" : 4.470000,
+      "start" : 4.320000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.470000,
+      "word" : "cinema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.830000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.010000,
+      "word" : "proper"
+    }],
+  "text" : "vull saber quan faran box et revolución el cinema més proper"
+}

@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.690000,
+      "word" : "anem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 1.020000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.080000,
+      "word" : "vila-sana"
+    }],
+  "text" : "anem a vila-sana"
+}

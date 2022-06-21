@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.870000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.930000,
+      "word" : "resultat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.860000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.190000,
+      "word" : "pobresa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 2.970000,
+      "word" : "burundi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.750000,
+      "word" : "depèn"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.290000,
+      "word" : "econòmicament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.340000,
+      "word" : "d'ajudes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 5.850000,
+      "word" : "estrangeres"
+    }],
+  "text" : "com a resultat de la seva pobresa burundi depèn econòmicament d'ajudes estrangeres"
+}

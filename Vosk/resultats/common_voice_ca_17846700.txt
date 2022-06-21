@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.330000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.510000,
+      "word" : "licor"
+    }, {
+      "conf" : 0.443149,
+      "end" : 1.020000,
+      "start" : 0.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.049453,
+      "word" : "gust"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.320000,
+      "word" : "estrany"
+    }],
+  "text" : "el licor de gust estrany"
+}

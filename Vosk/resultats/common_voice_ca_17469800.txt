@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.861790,
+      "end" : 0.570000,
+      "start" : 0.420000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.570000,
+      "word" : "mes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.810000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.080000,
+      "word" : "qual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.320000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.380000,
+      "word" : "podreix"
+    }],
+  "text" : "al mes per la qual es podreix"
+}

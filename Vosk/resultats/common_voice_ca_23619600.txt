@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.858047,
+      "end" : 0.540000,
+      "start" : 0.330000,
+      "word" : "de"
+    }, {
+      "conf" : 0.858047,
+      "end" : 0.900000,
+      "start" : 0.540000,
+      "word" : "nen"
+    }, {
+      "conf" : 0.874196,
+      "end" : 1.350000,
+      "start" : 1.170000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.350000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.560000,
+      "word" : "pare"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.830000,
+      "word" : "no"
+    }, {
+      "conf" : 0.825705,
+      "end" : 2.100000,
+      "start" : 1.920000,
+      "word" : "té"
+    }, {
+      "conf" : 0.825705,
+      "end" : 2.310000,
+      "start" : 2.100000,
+      "word" : "ni"
+    }, {
+      "conf" : 0.949318,
+      "end" : 2.730000,
+      "start" : 2.310000,
+      "word" : "allà"
+    }, {
+      "conf" : 0.622422,
+      "end" : 2.850000,
+      "start" : 2.760000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.000000,
+      "word" : "créixer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.510000,
+      "word" : "als"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.690000,
+      "word" : "carrers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.140000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.260000,
+      "word" : "vietnam"
+    }],
+  "text" : "de nen el seu pare no té ni allà hi va créixer als carrers de vietnam"
+}

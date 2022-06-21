@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.810000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.092082,
+      "word" : "aquell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.350000,
+      "word" : "moment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.400000,
+      "word" : "s'havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.760000,
+      "word" : "trobat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.090000,
+      "word" : "referència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.810000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.050000,
+      "word" : "altra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.470000,
+      "word" : "relació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 5.190000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.370000,
+      "word" : "na"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.490000,
+      "word" : "clotilde"
+    }],
+  "text" : "fins aquell moment no s'havia trobat referència de cap altra relació de na clotilde"
+}

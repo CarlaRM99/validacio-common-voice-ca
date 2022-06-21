@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.510000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.780000,
+      "word" : "muntanyes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.290000,
+      "word" : "presenten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.800000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.950000,
+      "word" : "temperatures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.580000,
+      "word" : "mitjanes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.120000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.300000,
+      "word" : "fredes"
+    }],
+  "text" : "les muntanyes presenten les temperatures mitjanes més fredes"
+}

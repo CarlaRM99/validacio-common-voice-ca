@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.510000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "tota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.170000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.260000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.560000,
+      "word" : "vida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.613952,
+      "start" : 2.040000,
+      "word" : "xarxa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.790000,
+      "word" : "també"
+    }, {
+      "conf" : 0.862178,
+      "end" : 3.623992,
+      "start" : 3.120000,
+      "word" : "acumulat"
+    }, {
+      "conf" : 0.797376,
+      "end" : 3.990000,
+      "start" : 3.623992,
+      "word" : "d'altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.990000,
+      "word" : "honors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.350000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.440000,
+      "word" : "premis"
+    }],
+  "text" : "durant tota la seva vida xarxa també acumulat d'altres honors i premis"
+}

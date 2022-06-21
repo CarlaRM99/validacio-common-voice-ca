@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.260000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.380000,
+      "word" : "correu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.710000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.890000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.980000,
+      "word" : "consum"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.490000,
+      "word" : "s'han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.730000,
+      "word" : "estès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.060000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.270000,
+      "word" : "recentment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.990000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.080000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.290000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.380000,
+      "word" : "món"
+    }],
+  "text" : "tant el correu com el consum s'han estès molt recentment a tot el món"
+}

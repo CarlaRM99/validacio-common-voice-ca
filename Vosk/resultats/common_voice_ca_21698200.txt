@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.795060,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "a"
+    }, {
+      "conf" : 0.795060,
+      "end" : 1.410000,
+      "start" : 1.050000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.470000,
+      "word" : "d'artista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.400000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.580000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.760000,
+      "word" : "mestre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.420000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.720000,
+      "word" : "metge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.290000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.470000,
+      "word" : "sòlida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.040000,
+      "word" : "formació"
+    }],
+  "text" : "a part d'artista va ser mestre i un metge amb sòlida formació"
+}

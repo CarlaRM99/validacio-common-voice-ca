@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.390000,
+      "start" : 0.060000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.390000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.690000,
+      "word" : "període"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.440000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.010000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.250000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.490000,
+      "word" : "conegut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.120000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.360000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.420000,
+      "word" : "solista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.230000,
+      "word" : "especialment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.100000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.220000,
+      "word" : "suècia"
+    }],
+  "text" : "durant aquest període també es va fer molt conegut com a solista especialment a suècia"
+}

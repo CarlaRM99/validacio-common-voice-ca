@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.050000,
+      "word" : "aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.560000,
+      "word" : "propietats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.160000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.340000,
+      "word" : "degudes"
+    }, {
+      "conf" : 0.851330,
+      "end" : 2.940000,
+      "start" : 2.850000,
+      "word" : "a"
+    }, {
+      "conf" : 0.742735,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "la"
+    }, {
+      "conf" : 0.377061,
+      "end" : 3.269323,
+      "start" : 3.183446,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.269323,
+      "word" : "bromur"
+    }],
+  "text" : "aquestes propietats són degudes a la el bromur"
+}

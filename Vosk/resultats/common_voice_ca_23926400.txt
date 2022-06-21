@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.750000,
+      "word" : "canvi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.440000,
+      "word" : "clergat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.830000,
+      "word" : "musulmà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.824374,
+      "start" : 2.640000,
+      "word" : "no"
+    }, {
+      "conf" : 0.770109,
+      "end" : 2.910000,
+      "start" : 2.824374,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.910000,
+      "word" : "oferir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.240000,
+      "word" : "resistència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.110000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.230000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.440000,
+      "word" : "respectat"
+    }],
+  "text" : "en canvi el clergat musulmà no va oferir resistència i fou respectat"
+}

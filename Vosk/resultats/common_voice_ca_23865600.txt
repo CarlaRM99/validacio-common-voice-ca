@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.660000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.930000,
+      "word" : "ocupar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.710000,
+      "word" : "terrenys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.220000,
+      "word" : "desèrtics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.910000,
+      "word" : "d'arizona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.660000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.780000,
+      "word" : "sonora"
+    }],
+  "text" : "van ocupar els terrenys desèrtics d'arizona i sonora"
+}

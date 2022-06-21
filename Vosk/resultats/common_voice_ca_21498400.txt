@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.810000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.020000,
+      "word" : "color"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.410000,
+      "word" : "general"
+    }, {
+      "conf" : 0.628731,
+      "end" : 2.580000,
+      "start" : 2.040000,
+      "word" : "negre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.970000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.150000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.270000,
+      "word" : "barbeta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.810000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.930000,
+      "word" : "la"
+    }, {
+      "conf" : 0.608032,
+      "end" : 4.410000,
+      "start" : 4.110000,
+      "word" : "gola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.410000,
+      "word" : "vermella"
+    }],
+  "text" : "amb color general negre té la barbeta i la gola vermella"
+}

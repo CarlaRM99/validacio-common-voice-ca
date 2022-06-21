@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.519193,
+      "end" : 0.780000,
+      "start" : 0.630000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.780000,
+      "word" : "setembre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.290000,
+      "word" : "acull"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.530000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.710000,
+      "word" : "pomes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.070000,
+      "word" : "abans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.520000,
+      "word" : "vinguin"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.880000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.030000,
+      "word" : "bromes"
+    }],
+  "text" : "pel setembre acull les pomes abans no vinguin les bromes"
+}

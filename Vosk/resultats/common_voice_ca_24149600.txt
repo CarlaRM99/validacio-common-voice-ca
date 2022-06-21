@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.926124,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "va"
+    }, {
+      "conf" : 0.625503,
+      "end" : 1.500000,
+      "start" : 0.990000,
+      "word" : "musicar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.500000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.680000,
+      "word" : "temes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.250000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.460000,
+      "word" : "instruments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.150000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.390000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.480000,
+      "word" : "llaüt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.080000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.290000,
+      "word" : "clarinet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 5.010000,
+      "word" : "i"
+    }, {
+      "conf" : 0.607395,
+      "end" : 5.250000,
+      "start" : 5.130000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.250000,
+      "word" : "caixó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.640000,
+      "word" : "flamenc"
+    }],
+  "text" : "va musicar els temes amb instruments com el llaüt el clarinet i el caixó flamenc"
+}

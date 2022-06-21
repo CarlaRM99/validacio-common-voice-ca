@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.260000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.120976,
+      "start" : 1.560000,
+      "word" : "exposar"
+    }, {
+      "conf" : 0.530288,
+      "end" : 2.220000,
+      "start" : 2.130000,
+      "word" : "a"
+    }, {
+      "conf" : 0.530288,
+      "end" : 2.490000,
+      "start" : 2.220000,
+      "word" : "vic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.520000,
+      "word" : "barcelona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.390000,
+      "word" : "palma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 3.900000,
+      "word" : "frança"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.500000,
+      "word" : "bèlgica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.070000,
+      "word" : "suècia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.670000,
+      "word" : "noruega"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 6.210000,
+      "word" : "i"
+    }, {
+      "conf" : 0.870972,
+      "end" : 6.510000,
+      "start" : 6.300000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.510000,
+      "word" : "estats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.440000,
+      "start" : 6.900000,
+      "word" : "units"
+    }],
+  "text" : "va exposar a vic barcelona palma frança bèlgica suècia noruega i els estats units"
+}

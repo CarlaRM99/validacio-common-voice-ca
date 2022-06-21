@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.390000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.660000,
+      "word" : "plaques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.380000,
+      "word" : "recobria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.190000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.400000,
+      "word" : "teulades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "de"
+    }, {
+      "conf" : 0.852798,
+      "end" : 3.660000,
+      "start" : 3.090000,
+      "word" : "l'escassa"
+    }, {
+      "conf" : 0.676724,
+      "end" : 4.560000,
+      "start" : 3.690000,
+      "word" : "suburbanes"
+    }, {
+      "conf" : 0.676724,
+      "end" : 4.650000,
+      "start" : 4.560000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.650000,
+      "word" : "generaven"
+    }, {
+      "conf" : 0.785882,
+      "end" : 6.000000,
+      "start" : 5.310000,
+      "word" : "l'energia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.150000,
+      "start" : 6.000000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 6.150000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.240000,
+      "word" : "futur"
+    }],
+  "text" : "les plaques recobria les teulades de l'escassa suburbanes i generaven l'energia per al futur"
+}

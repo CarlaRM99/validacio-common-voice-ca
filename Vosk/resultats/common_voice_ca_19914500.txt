@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.780000,
+      "word" : "fulles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.500000,
+      "word" : "auriculades"
+    }],
+  "text" : "fulles no auriculades"
+}

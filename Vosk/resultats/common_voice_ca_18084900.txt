@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.594727,
+      "end" : 1.080000,
+      "start" : 0.600000,
+      "word" : "originar"
+    }, {
+      "conf" : 0.791942,
+      "end" : 1.470000,
+      "start" : 1.088068,
+      "word" : "freqüent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.476242,
+      "word" : "renyes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.980000,
+      "word" : "i"
+    }, {
+      "conf" : 0.854629,
+      "end" : 2.520000,
+      "start" : 2.040000,
+      "word" : "barallo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.550000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.700000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.820000,
+      "word" : "companys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.390000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.450000,
+      "word" : "treball"
+    }],
+  "text" : "originar freqüent renyes i barallo amb els companys de treball"
+}

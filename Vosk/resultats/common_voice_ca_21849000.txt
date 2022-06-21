@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.474342,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "a"
+    }, {
+      "conf" : 0.581220,
+      "end" : 2.130000,
+      "start" : 1.517906,
+      "word" : "estadi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.160000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 2.670000,
+      "word" : "excomunicat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.750000,
+      "word" : "pels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.020000,
+      "word" : "patriarques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 4.770000,
+      "word" : "constantinoble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.120000,
+      "word" : "jerusalem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.110000,
+      "start" : 6.960000,
+      "word" : "i"
+    }, {
+      "conf" : 0.895602,
+      "end" : 7.320000,
+      "start" : 7.110000,
+      "word" : "pal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.190000,
+      "start" : 7.320000,
+      "word" : "metropolità"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.460000,
+      "start" : 8.250000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.060000,
+      "start" : 8.460000,
+      "word" : "valàquia"
+    }],
+  "text" : "a estadi fou excomunicat pels patriarques de constantinoble de jerusalem i pal metropolità de valàquia"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.682163,
+      "end" : 0.660000,
+      "start" : 0.480000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.660000,
+      "word" : "mateix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.050000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.470000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.590000,
+      "word" : "permetre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.100000,
+      "word" : "l'entrada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.580000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 2.730000,
+      "word" : "provincians"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.660000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.810000,
+      "word" : "senat"
+    }],
+  "text" : "al mateix temps va permetre l'entrada de provincians al senat"
+}

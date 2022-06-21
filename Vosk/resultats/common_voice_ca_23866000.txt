@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.570000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.110000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.440000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.590000,
+      "word" : "líder"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.010000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.250000,
+      "word" : "ordes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.479999,
+      "start" : 2.610000,
+      "word" : "militars"
+    }],
+  "text" : "també fou el líder dels ordes militars"
+}

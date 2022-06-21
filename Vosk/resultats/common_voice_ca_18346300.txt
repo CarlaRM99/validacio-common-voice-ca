@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.590136,
+      "end" : 0.870000,
+      "start" : 0.330000,
+      "word" : "sobretot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.870000,
+      "word" : "m'estimo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.560000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.860000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.100000,
+      "word" : "ampolla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.640000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.790000,
+      "word" : "font"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.090000,
+      "word" : "vella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.780000,
+      "word" : "blues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.050000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.140000,
+      "word" : "deures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.560000,
+      "word" : "de"
+    }, {
+      "conf" : 0.797088,
+      "end" : 4.950000,
+      "start" : 4.680000,
+      "word" : "fang"
+    }],
+  "text" : "sobretot m'estimo més d'una ampolla de font vella el blues i deures de fang"
+}

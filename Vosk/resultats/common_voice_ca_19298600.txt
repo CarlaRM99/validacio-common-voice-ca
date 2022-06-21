@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.410000,
+      "word" : "anem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.770000,
+      "word" : "a"
+    }, {
+      "conf" : 0.933690,
+      "end" : 2.490000,
+      "start" : 1.830000,
+      "word" : "oliola"
+    }],
+  "text" : "anem a oliola"
+}

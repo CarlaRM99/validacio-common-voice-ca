@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.720000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.200000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.500000,
+      "word" : "aparicions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.220000,
+      "word" : "concretes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.880000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.060000,
+      "word" : "mites"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.720000,
+      "word" : "apol·lo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.410000,
+      "word" : "i"
+    }, {
+      "conf" : 0.696196,
+      "end" : 5.130000,
+      "start" : 4.560000,
+      "word" : "helios"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.160000,
+      "word" : "estan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.580000,
+      "word" : "separats"
+    }],
+  "text" : "però a les aparicions concretes dels mites apol·lo i helios estan separats"
+}

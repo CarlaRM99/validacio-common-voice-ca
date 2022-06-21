@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.480000,
+      "word" : "normalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.110000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.200000,
+      "word" : "carretera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.710000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.800000,
+      "word" : "manté"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.190000,
+      "word" : "oberta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.550000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.670000,
+      "word" : "l'any"
+    }],
+  "text" : "normalment la carretera es manté oberta tot l'any"
+}

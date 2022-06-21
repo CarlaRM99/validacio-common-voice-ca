@@ -3,7 +3,7 @@ Passos per instal·lar Vosk amb un terminal de Linux.
 
 ## 1. Crear carpeta de treball
 ```
-$ mkdir ~/Vosk
+$ mkdir -p ~/Vosk
 $ cd ~/Vosk
 ```
 

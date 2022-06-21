@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.780000,
+      "word" : "obstant"
+    }, {
+      "conf" : 0.828384,
+      "end" : 1.770000,
+      "start" : 1.500000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.770000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.980000,
+      "word" : "val"
+    }],
+  "text" : "no obstant tant se val"
+}

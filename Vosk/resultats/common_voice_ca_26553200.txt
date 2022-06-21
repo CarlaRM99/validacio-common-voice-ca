@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.260000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.290000,
+      "word" : "espanya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.980000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.160000,
+      "word" : "inquisició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.940000,
+      "word" : "estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.210000,
+      "word" : "sota"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.540000,
+      "word" : "l'autoritat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.170000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.350000,
+      "word" : "rei"
+    }],
+  "text" : "com a espanya la inquisició va estar sota l'autoritat del rei"
+}

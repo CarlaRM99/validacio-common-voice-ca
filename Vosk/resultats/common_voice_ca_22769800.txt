@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.568612,
+      "end" : 0.690000,
+      "start" : 0.480000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.690000,
+      "word" : "distribueix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.470000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.530000,
+      "word" : "l'argentina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.400000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.700000,
+      "word" : "d'uruguai"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.390000,
+      "word" : "paraguai"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 3.990000,
+      "word" : "sud-orient"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.680000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 4.830000,
+      "word" : "bolívia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.430000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.520000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.820000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 5.910000,
+      "word" : "brasil"
+    }],
+  "text" : "els distribueix a l'argentina part d'uruguai paraguai sud-orient de bolívia i part de brasil"
+}

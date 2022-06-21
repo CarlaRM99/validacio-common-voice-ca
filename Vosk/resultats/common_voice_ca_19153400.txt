@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.570000,
+      "word" : "escola"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.170000,
+      "word" : "tècnica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.620000,
+      "word" : "superior"
+    }, {
+      "conf" : 0.714041,
+      "end" : 2.910000,
+      "start" : 2.220000,
+      "word" : "d'enginyeria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.910000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.000000,
+      "word" : "camins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.480000,
+      "word" : "canals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.930000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.020000,
+      "word" : "ports"
+    }],
+  "text" : "escola tècnica superior d'enginyeria de camins canals i ports"
+}

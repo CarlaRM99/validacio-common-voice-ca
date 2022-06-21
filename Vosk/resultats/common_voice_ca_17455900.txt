@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.557232,
+      "end" : 1.830000,
+      "start" : 1.350000,
+      "word" : "aigua"
+    }, {
+      "conf" : 0.557232,
+      "end" : 2.340000,
+      "start" : 1.830000,
+      "word" : "freda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.400000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.580000,
+      "word" : "vi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.760000,
+      "word" : "calent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.330000,
+      "word" : "fan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.660000,
+      "word" : "mal"
+    }, {
+      "conf" : 0.604508,
+      "end" : 4.080000,
+      "start" : 3.930000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.080000,
+      "word" : "vendrell"
+    }],
+  "text" : "aigua freda i vi calent fan mal al vendrell"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.660000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.840000,
+      "word" : "viu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.080000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.530000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.650000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.920000,
+      "word" : "domènec"
+    }, {
+      "conf" : 0.529970,
+      "end" : 3.081112,
+      "start" : 2.580000,
+      "word" : "números"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.081112,
+      "word" : "cinquanta-quatre"
+    }],
+  "text" : "que viu al carrer de sant domènec números cinquanta-quatre"
+}

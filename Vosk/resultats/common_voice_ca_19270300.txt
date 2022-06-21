@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.720000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.930000,
+      "word" : "dècada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.290000,
+      "word" : "actual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.980000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.100000,
+      "word" : "d"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.190000,
+      "word" : "estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.400000,
+      "word" : "marcada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.880000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.060000,
+      "word" : "l'extensió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.960000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.050000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.170000,
+      "word" : "consolidació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.980000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.130000,
+      "word" : "programari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.700000,
+      "word" : "lliure"
+    }],
+  "text" : "la dècada actual ha d estar marcada per l'extensió i la consolidació del programari lliure"
+}

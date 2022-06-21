@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.750000,
+      "word" : "em"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.930000,
+      "word" : "vaig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.290000,
+      "word" : "trobar"
+    }],
+  "text" : "em vaig trobar"
+}

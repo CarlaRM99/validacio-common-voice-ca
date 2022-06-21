@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.510000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.720000,
+      "word" : "cas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.900000,
+      "word" : "contrari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.320000,
+      "word" : "sempre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.680000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.770000,
+      "word" : "temperatura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.250000,
+      "word" : "d'equilibri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.700000,
+      "word" : "planetàries"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.300000,
+      "word" : "infereix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.750000,
+      "word" : "d'altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.080000,
+      "word" : "paràmetres"
+    }],
+  "text" : "en cas contrari sempre la temperatura d'equilibri planetàries infereix d'altres paràmetres"
+}

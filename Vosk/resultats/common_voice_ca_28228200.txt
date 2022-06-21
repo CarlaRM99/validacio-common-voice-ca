@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.660000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.200000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.470000,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 0.661637,
+      "end" : 2.490000,
+      "start" : 2.130000,
+      "word" : "cuixa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.490000,
+      "word" : "bata"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.240000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.721619,
+      "start" : 3.330000,
+      "word" : "riu"
+    }, {
+      "conf" : 0.493079,
+      "end" : 3.870000,
+      "start" : 3.721619,
+      "word" : "va"
+    }, {
+      "conf" : 0.877951,
+      "end" : 4.020000,
+      "start" : 3.870000,
+      "word" : "de"
+    }, {
+      "conf" : 0.979024,
+      "end" : 4.350000,
+      "start" : 4.020000,
+      "word" : "bari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.350000,
+      "word" : "flueix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.800000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 5.040000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.190000,
+      "word" : "mar"
+    }],
+  "text" : "és des d'aquest cuixa bata que el riu va de bari flueix cap al mar"
+}

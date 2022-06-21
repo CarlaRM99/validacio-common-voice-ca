@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.600000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.870000,
+      "word" : "massa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.170000,
+      "word" : "tard"
+    }],
+  "text" : "era massa tard"
+}

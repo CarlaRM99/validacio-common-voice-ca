@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.200000,
+      "word" : "d'enfrontar-s'hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.250000,
+      "word" : "continuadament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.390000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.630000,
+      "word" : "tenacitat"
+    }],
+  "text" : "i d'enfrontar-s'hi continuadament amb tenacitat"
+}

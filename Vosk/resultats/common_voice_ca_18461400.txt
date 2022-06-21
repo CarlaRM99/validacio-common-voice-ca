@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.886595,
+      "end" : 0.930000,
+      "start" : 0.420000,
+      "word" : "m'enviares"
+    }, {
+      "conf" : 0.646487,
+      "end" : 1.170000,
+      "start" : 0.930000,
+      "word" : "aquell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.476564,
+      "start" : 1.200000,
+      "word" : "llibre"
+    }, {
+      "conf" : 0.594077,
+      "end" : 1.800000,
+      "start" : 1.476564,
+      "word" : "acabats"
+    }, {
+      "conf" : 0.456363,
+      "end" : 2.190000,
+      "start" : 1.800000,
+      "word" : "desarma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.190000,
+      "word" : "casa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.400000,
+      "word" : "teva"
+    }],
+  "text" : "m'enviares aquell llibre acabats desarma casa teva"
+}

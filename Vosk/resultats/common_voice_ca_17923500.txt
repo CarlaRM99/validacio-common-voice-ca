@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.750000,
+      "word" : "vells"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 1.020000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.110000,
+      "word" : "casa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.530000,
+      "word" : "saben"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.860000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.010000,
+      "word" : "cançó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.370000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.550000,
+      "word" : "bonica"
+    }],
+  "text" : "els vells de casa saben una cançó molt bonica"
+}

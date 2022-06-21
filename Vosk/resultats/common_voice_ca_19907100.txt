@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.530000,
+      "word" : "existeixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.250000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.490000,
+      "word" : "formes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.880000,
+      "word" : "comunes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.330000,
+      "word" : "d'administració"
+    }, {
+      "conf" : 0.846444,
+      "end" : 4.290000,
+      "start" : 4.170000,
+      "word" : "d"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.290000,
+      "word" : "esteroides"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 4.830000,
+      "word" : "anabolitzants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.180000,
+      "word" : "píndoles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.170000,
+      "start" : 6.630000,
+      "word" : "orals"
+    }, {
+      "conf" : 0.694215,
+      "end" : 7.770000,
+      "start" : 7.170000,
+      "word" : "esteroides"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.490000,
+      "start" : 7.770000,
+      "word" : "injectables"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.610000,
+      "start" : 8.490000,
+      "word" : "i"
+    }, {
+      "conf" : 0.608723,
+      "end" : 9.210000,
+      "start" : 8.610000,
+      "word" : "pagats"
+    }],
+  "text" : "existeixen tres formes comunes d'administració d esteroides anabolitzants píndoles orals esteroides injectables i pagats"
+}

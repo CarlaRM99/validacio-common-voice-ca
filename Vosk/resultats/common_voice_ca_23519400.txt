@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.292988,
+      "start" : 0.960000,
+      "word" : "canvi"
+    }, {
+      "conf" : 0.713042,
+      "end" : 1.454028,
+      "start" : 1.292988,
+      "word" : "anar"
+    }, {
+      "conf" : 0.530869,
+      "end" : 1.620000,
+      "start" : 1.454028,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.620000,
+      "word" : "humans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.252856,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.670000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.850000,
+      "word" : "formada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.420000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.660000,
+      "word" : "trenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.110000,
+      "word" : "aminoàcids"
+    }],
+  "text" : "en canvi anar els humans aquesta està formada per trenta aminoàcids"
+}

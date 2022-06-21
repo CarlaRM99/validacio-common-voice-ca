@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.510000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.720000,
+      "word" : "narració"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.380000,
+      "word" : "queda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.800000,
+      "word" : "sobtadament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.700000,
+      "word" : "interrompuda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.780000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.930000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.050000,
+      "word" : "història"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.770000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.040000,
+      "word" : "conclou"
+    }],
+  "text" : "la narració queda sobtadament interrompuda i la història no conclou"
+}

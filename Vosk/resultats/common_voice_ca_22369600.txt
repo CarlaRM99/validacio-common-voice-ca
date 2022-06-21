@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.870000,
+      "word" : "petit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.200000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.350000,
+      "word" : "sentia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.740000,
+      "word" : "l'impuls"
+    }, {
+      "conf" : 0.666272,
+      "end" : 2.248041,
+      "start" : 2.160000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.248041,
+      "word" : "dibuixar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.610000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.640000,
+      "word" : "pintar"
+    }],
+  "text" : "de petit ja sentia l'impuls a dibuixar i pintar"
+}

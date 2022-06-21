@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.560000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.800000,
+      "word" : "cas"
+    }, {
+      "conf" : 0.784304,
+      "end" : 2.310000,
+      "start" : 2.070000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.316471,
+      "word" : "documentat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.240000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.450000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.720000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.840000,
+      "word" : "coca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.170000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.410000,
+      "word" : "climent"
+    }],
+  "text" : "un cas però documentat és el de la coca sant climent"
+}

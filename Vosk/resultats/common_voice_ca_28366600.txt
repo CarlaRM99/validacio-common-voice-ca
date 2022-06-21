@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.600000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.840000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.960000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.080000,
+      "word" : "fàbriques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.560000,
+      "word" : "creades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.980000,
+      "word" : "llavors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.340000,
+      "word" : "funcionen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.850000,
+      "word" : "avui"
+    }],
+  "text" : "cap de les fàbriques creades llavors funcionen avui"
+}

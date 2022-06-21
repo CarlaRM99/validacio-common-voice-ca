@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.600000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.780000,
+      "word" : "graella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.290000,
+      "word" : "palestina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.130000,
+      "word" : "encara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.610000,
+      "word" : "s'utilitza"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.240000,
+      "word" : "sovint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.690000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 3.870000,
+      "word" : "especificar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 4.650000,
+      "word" : "localitzacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.760000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.910000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.810000,
+      "start" : 6.060000,
+      "word" : "literatura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.560000,
+      "start" : 6.810000,
+      "word" : "històrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.770000,
+      "start" : 7.590000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.760000,
+      "start" : 7.770000,
+      "word" : "arqueològica"
+    }],
+  "text" : "la graella palestina encara s'utilitza sovint per especificar localitzacions en la literatura històrica i arqueològica"
+}

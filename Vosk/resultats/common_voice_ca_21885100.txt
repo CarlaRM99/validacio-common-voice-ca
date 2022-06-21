@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.480000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.990000,
+      "word" : "aliats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.500000,
+      "word" : "generalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.520000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 2.790000,
+      "word" : "alamans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.510000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.660000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 3.900000,
+      "word" : "burgundis"
+    }],
+  "text" : "van ser aliats generalment dels alamans i dels burgundis"
+}

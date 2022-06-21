@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.540000,
+      "word" : "l'escorça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.530000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.680000,
+      "word" : "principi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.490000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.670000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.820000,
+      "word" : "color"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.330000,
+      "word" : "marró"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.720000,
+      "word" : "gris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.290000,
+      "word" : "llisa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.010000,
+      "word" : "tornant-se"
+    }, {
+      "conf" : 0.638531,
+      "end" : 6.240000,
+      "start" : 5.700000,
+      "word" : "negre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.259156,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.450000,
+      "word" : "crestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.770000,
+      "start" : 7.020000,
+      "word" : "planes"
+    }],
+  "text" : "l'escorça al principi és de color marró gris llisa tornant-se negre amb crestes planes"
+}

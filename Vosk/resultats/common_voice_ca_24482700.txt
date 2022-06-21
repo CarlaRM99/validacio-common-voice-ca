@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.810000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.050000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.290000,
+      "word" : "escuts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.190000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.610000,
+      "word" : "pedra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.450000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.600000,
+      "word" : "porten"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.080000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.260000,
+      "word" : "armes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.620000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.800000,
+      "word" : "comanador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 5.850000,
+      "word" : "esculpides"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.570000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.170000,
+      "start" : 6.690000,
+      "word" : "relleu"
+    }],
+  "text" : "amb dos escuts són de pedra i porten les armes del comanador esculpides en relleu"
+}

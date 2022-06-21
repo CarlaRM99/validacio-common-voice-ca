@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.870000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.140000,
+      "word" : "tropes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.530000,
+      "word" : "franceses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.340000,
+      "word" : "preferiren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.090000,
+      "word" : "concentrar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.050000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.230000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.410000,
+      "word" : "places"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.890000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.010000,
+      "word" : "girona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.520000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.610000,
+      "word" : "roses"
+    }],
+  "text" : "les tropes franceses preferiren concentrar-se en les places de girona i roses"
+}

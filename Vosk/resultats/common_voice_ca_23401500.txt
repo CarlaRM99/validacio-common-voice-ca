@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.110000,
+      "word" : "madura"
+    }, {
+      "conf" : 0.824050,
+      "end" : 2.245480,
+      "start" : 2.130000,
+      "word" : "a"
+    }, {
+      "conf" : 0.699890,
+      "end" : 2.760000,
+      "start" : 2.250000,
+      "word" : "l'estiu"
+    }],
+  "text" : "madura a l'estiu"
+}

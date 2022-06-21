@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.780000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.170000,
+      "word" : "tard"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.530000,
+      "word" : "se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.860000,
+      "word" : "designar"
+    }, {
+      "conf" : 0.612662,
+      "end" : 2.730000,
+      "start" : 2.550000,
+      "word" : "un"
+    }, {
+      "conf" : 0.612662,
+      "end" : 3.060000,
+      "start" : 2.730000,
+      "word" : "altre"
+    }, {
+      "conf" : 0.612662,
+      "end" : 3.570000,
+      "start" : 3.060000,
+      "word" : "mestre"
+    }, {
+      "conf" : 0.896434,
+      "end" : 3.900000,
+      "start" : 3.570000,
+      "word" : "perquè"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.900000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.020000,
+      "word" : "ensenyés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.560000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.650000,
+      "word" : "tocar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.980000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.070000,
+      "word" : "violí"
+    }],
+  "text" : "més tard se li designar un altre mestre perquè li ensenyés a tocar el violí"
+}

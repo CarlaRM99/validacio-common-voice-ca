@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.050000,
+      "word" : "premi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.560000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.740000,
+      "word" : "podrà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.040000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.310000,
+      "word" : "compartit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.180000,
+      "word" : "però"
+    }, {
+      "conf" : 0.515014,
+      "end" : 3.780000,
+      "start" : 3.450000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.870000,
+      "word" : "declarat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.470000,
+      "word" : "desert"
+    }],
+  "text" : "el premi no podrà ser compartit però si declarat desert"
+}

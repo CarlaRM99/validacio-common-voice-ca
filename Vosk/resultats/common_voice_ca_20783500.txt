@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 0.870000,
+      "word" : "celebren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.500000,
+      "word" : "diferents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.980000,
+      "word" : "actes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.400000,
+      "word" : "principalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.180000,
+      "word" : "religiosos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.170000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.290000,
+      "word" : "disposen"
+    }, {
+      "conf" : 0.833084,
+      "end" : 5.760000,
+      "start" : 4.830000,
+      "word" : "d'associacions"
+    }],
+  "text" : "celebren diferents actes principalment religiosos i disposen d'associacions"
+}

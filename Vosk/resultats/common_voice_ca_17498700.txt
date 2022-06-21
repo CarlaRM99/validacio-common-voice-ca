@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.050000,
+      "word" : "borroka"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.560000,
+      "word" : "naix"
+    }, {
+      "conf" : 0.598297,
+      "end" : 2.160000,
+      "start" : 1.890000,
+      "word" : "dins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.160000,
+      "word" : "d'abril"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.790000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.970000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.090000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.540000,
+      "word" : "fer"
+    }, {
+      "conf" : 0.721232,
+      "end" : 3.930000,
+      "start" : 3.720000,
+      "word" : "bon"
+    }, {
+      "conf" : 0.721232,
+      "end" : 4.200000,
+      "start" : 3.930000,
+      "word" : "vi"
+    }],
+  "text" : "borroka naix dins d'abril no té temps de fer bon vi"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.863486,
+      "end" : 1.081361,
+      "start" : 0.780000,
+      "word" : "són"
+    }, {
+      "conf" : 0.719506,
+      "end" : 1.290000,
+      "start" : 1.081361,
+      "word" : "matar"
+    }, {
+      "conf" : 0.768823,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "mes"
+    }, {
+      "conf" : 0.904231,
+      "end" : 1.500000,
+      "start" : 1.440000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.502873,
+      "word" : "febrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.890000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.950000,
+      "word" : "carnisser"
+    }],
+  "text" : "són matar mes de febrer que el carnisser"
+}

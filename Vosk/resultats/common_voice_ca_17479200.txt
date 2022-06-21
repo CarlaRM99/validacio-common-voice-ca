@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.960000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.290000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.440000,
+      "word" : "mesos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.890000,
+      "word" : "juliol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.490000,
+      "word" : "agost"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.000000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.360000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.690000,
+      "word" : "capturar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.410000,
+      "word" : "exemplars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.040000,
+      "word" : "juvenils"
+    }],
+  "text" : "durant els mesos de juliol i agost només poden capturar-se exemplars juvenils"
+}

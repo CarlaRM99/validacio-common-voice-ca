@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.780000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.020000,
+      "word" : "començar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.860000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.980000,
+      "word" : "vendre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.460000,
+      "word" : "drogues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.030000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.180000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.390000,
+      "word" : "jove"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.110000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.260000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.380000,
+      "word" : "ficava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.070000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.250000,
+      "word" : "baralles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.760000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 5.910000,
+      "word" : "carrer"
+    }],
+  "text" : "va començar a vendre drogues de molt jove i es ficava en baralles al carrer"
+}

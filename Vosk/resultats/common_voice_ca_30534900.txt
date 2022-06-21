@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.313105,
+      "end" : 1.142255,
+      "start" : 0.780000,
+      "word" : "queden"
+    }, {
+      "conf" : 0.421985,
+      "end" : 1.320000,
+      "start" : 1.142255,
+      "word" : "eren"
+    }, {
+      "conf" : 0.786788,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.440000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.830000,
+      "word" : "pablo"
+    }, {
+      "conf" : 0.727894,
+      "end" : 2.580000,
+      "start" : 2.130000,
+      "word" : "iglesias"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.580000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 2.940000,
+      "word" : "trenta-tres"
+    }],
+  "text" : "queden eren el carrer de pablo iglesias número trenta-tres"
+}

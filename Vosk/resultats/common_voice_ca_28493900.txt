@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.360000,
+      "word" : "d'aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.870000,
+      "word" : "manera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.230000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.320000,
+      "word" : "pensar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 2.070000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.250000,
+      "word" : "teologia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.030000,
+      "word" : "intenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.510000,
+      "word" : "expressar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.140000,
+      "word" : "veritat"
+    }, {
+      "conf" : 0.540145,
+      "end" : 5.130000,
+      "start" : 4.830000,
+      "word" : "duc"
+    }, {
+      "conf" : 0.825159,
+      "end" : 5.790000,
+      "start" : 5.130000,
+      "word" : "zoològica"
+    }],
+  "text" : "d'aquesta manera de pensar la teologia intenta expressar veritat duc zoològica"
+}

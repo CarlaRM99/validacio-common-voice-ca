@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.400869,
+      "end" : 0.208713,
+      "start" : 0.060000,
+      "word" : "és"
+    }, {
+      "conf" : 0.695481,
+      "end" : 0.630000,
+      "start" : 0.208713,
+      "word" : "d'àlbums"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.630000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.720000,
+      "word" : "concepte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.380000,
+      "word" : "dins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.620000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.740000,
+      "word" : "música"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.160000,
+      "word" : "rock"
+    }],
+  "text" : "és d'àlbums de concepte dins la música rock"
+}

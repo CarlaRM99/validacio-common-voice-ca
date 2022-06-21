@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.785960,
+      "end" : 1.500000,
+      "start" : 1.080000,
+      "word" : "coronar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.530000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.650000,
+      "word" : "conjunt"
+    }, {
+      "conf" : 0.709937,
+      "end" : 2.640000,
+      "start" : 2.430000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.709937,
+      "end" : 2.760000,
+      "start" : 2.640000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.760000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.030000,
+      "word" : "cornisa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.600000,
+      "word" : "motllurada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.260000,
+      "word" : "rematada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.920000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 5.070000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.190000,
+      "word" : "frontó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.509999,
+      "start" : 5.640000,
+      "word" : "semicircular"
+    }],
+  "text" : "coronar el conjunt hi ha una cornisa motllurada rematada amb un frontó semicircular"
+}

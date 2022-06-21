@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.779760,
+      "end" : 1.020000,
+      "start" : 0.810000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.020000,
+      "word" : "president"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.470000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.560000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.650000,
+      "word" : "comissió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.070000,
+      "word" : "d'educació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.790000,
+      "word" : "cultura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.390000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.510000,
+      "word" : "esports"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.110000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.350000,
+      "word" : "parlament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.860000,
+      "word" : "balear"
+    }],
+  "text" : "és president de la comissió d'educació cultura i esports del parlament balear"
+}

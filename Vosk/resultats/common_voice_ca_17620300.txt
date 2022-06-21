@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.608076,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.481758,
+      "word" : "gall"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.680000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.830000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.980000,
+      "word" : "renou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.580000,
+      "word" : "li"
+    }, {
+      "conf" : 0.520570,
+      "end" : 3.330000,
+      "start" : 2.820000,
+      "word" : "estrenyen"
+    }, {
+      "conf" : 0.512601,
+      "end" : 3.450000,
+      "start" : 3.330000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.450000,
+      "word" : "coll"
+    }],
+  "text" : "a gall que fa renou li estrenyen al coll"
+}

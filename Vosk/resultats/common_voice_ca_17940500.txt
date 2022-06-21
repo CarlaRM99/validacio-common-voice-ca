@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.720000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.960000,
+      "word" : "novel·la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.470000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.560000,
+      "word" : "selva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.010000,
+      "word" : "descriu"
+    }, {
+      "conf" : 0.640651,
+      "end" : 2.700000,
+      "start" : 2.520000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.700000,
+      "word" : "vilafranca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.450000,
+      "word" : "llòbrega"
+    }],
+  "text" : "la novel·la de la selva descriu una vilafranca llòbrega"
+}

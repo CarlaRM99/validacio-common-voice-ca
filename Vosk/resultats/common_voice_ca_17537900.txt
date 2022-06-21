@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.935771,
+      "end" : 0.451688,
+      "start" : 0.210000,
+      "word" : "un"
+    }, {
+      "conf" : 0.721371,
+      "end" : 0.660000,
+      "start" : 0.451688,
+      "word" : "tal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.660000,
+      "word" : "poble"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.080000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.200000,
+      "word" : "abandona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.400000,
+      "word" : "doncs"
+    }, {
+      "conf" : 0.823633,
+      "end" : 3.690000,
+      "start" : 3.030000,
+      "word" : "fàcilment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.690000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.870000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.350000,
+      "word" : "antigues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.920000,
+      "word" : "creences"
+    }],
+  "text" : "un tal poble no abandona doncs fàcilment les seves antigues creences"
+}

@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.779312,
+      "end" : 1.027467,
+      "start" : 0.660000,
+      "word" : "paraula"
+    }, {
+      "conf" : 0.341688,
+      "end" : 1.320000,
+      "start" : 1.027467,
+      "word" : "aprovar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.320000,
+      "word" : "mèdica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.740000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.830000,
+      "word" : "cas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 2.040000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.160000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.280000,
+      "word" : "cridats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.730000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.000000,
+      "word" : "contractats"
+    }],
+  "text" : "paraula aprovar mèdica en cas de ser cridats per ser contractats"
+}

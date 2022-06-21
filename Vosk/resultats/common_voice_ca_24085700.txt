@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.647146,
+      "end" : 0.898106,
+      "start" : 0.780000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.898106,
+      "word" : "principal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.440000,
+      "word" : "impacte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.830000,
+      "word" : "ambiental"
+    }, {
+      "conf" : 0.775326,
+      "end" : 2.820000,
+      "start" : 2.340000,
+      "word" : "directa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.820000,
+      "word" : "que"
+    }, {
+      "conf" : 0.506250,
+      "end" : 3.540000,
+      "start" : 2.940000,
+      "word" : "s'associa"
+    }, {
+      "conf" : 0.506250,
+      "end" : 3.630000,
+      "start" : 3.540000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.630000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.750000,
+      "word" : "camins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.080000,
+      "word" : "rurals"
+    }, {
+      "conf" : 0.733414,
+      "end" : 4.753174,
+      "start" : 4.680000,
+      "word" : "i"
+    }, {
+      "conf" : 0.579683,
+      "end" : 4.860000,
+      "start" : 4.753174,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 4.860000,
+      "word" : "l'erosió"
+    }],
+  "text" : "el principal impacte ambiental directa que s'associa amb els camins rurals i és l'erosió"
+}

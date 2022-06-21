@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.540000,
+      "start" : 0.360000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.540000,
+      "word" : "ho"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.600000,
+      "word" : "faig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.990000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.140000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.410000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.500000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.860000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.950000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.100000,
+      "word" : "monges"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.520000,
+      "word" : "número"
+    }, {
+      "conf" : 0.999893,
+      "end" : 3.750000,
+      "start" : 2.880000,
+      "word" : "noranta-set"
+    }],
+  "text" : "com ho faig per anar al carrer de les monges número noranta-set"
+}

@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.600000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.840000,
+      "word" : "majoria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.440000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.530000,
+      "word" : "mals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.770000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.860000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.950000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.310000,
+      "word" : "veto"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.640000,
+      "word" : "triguen"
+    }, {
+      "conf" : 0.751336,
+      "end" : 3.330000,
+      "start" : 3.180000,
+      "word" : "un"
+    }, {
+      "conf" : 0.922207,
+      "end" : 3.420000,
+      "start" : 3.341117,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.420000,
+      "word" : "més"
+    }, {
+      "conf" : 0.771093,
+      "end" : 3.720000,
+      "start" : 3.630000,
+      "word" : "de"
+    }, {
+      "conf" : 0.771093,
+      "end" : 3.870000,
+      "start" : 3.720000,
+      "word" : "que"
+    }, {
+      "conf" : 0.771093,
+      "end" : 3.960000,
+      "start" : 3.870000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 3.966867,
+      "word" : "mètodes"
+    }],
+  "text" : "la majoria de i mals de la seu veto triguen un o més de que els mètodes"
+}

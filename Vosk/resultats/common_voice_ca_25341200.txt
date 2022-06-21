@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.639750,
+      "end" : 1.368494,
+      "start" : 0.570000,
+      "word" : "terracotes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.069994,
+      "start" : 1.368494,
+      "word" : "sospirant"
+    }],
+  "text" : "terracotes sospirant"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 0.960000,
+      "word" : "moviments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.710000,
+      "word" : "aparellats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.460000,
+      "word" : "comparteixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.480000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.750000,
+      "word" : "tempo"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.290000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.350000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.530000,
+      "word" : "cicle"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.100000,
+      "word" : "particular"
+    }, {
+      "conf" : 0.604130,
+      "end" : 6.060000,
+      "start" : 5.910000,
+      "word" : "de"
+    }, {
+      "conf" : 0.493024,
+      "end" : 6.570000,
+      "start" : 6.060000,
+      "word" : "corts"
+    }],
+  "text" : "els moviments aparellats comparteixen un tempo i un cicle particular de corts"
+}

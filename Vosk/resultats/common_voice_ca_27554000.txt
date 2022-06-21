@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 0.585223,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "pair"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.290000,
+      "word" : "deixar"
+    }, {
+      "conf" : 0.609705,
+      "end" : 1.698532,
+      "start" : 1.500000,
+      "word" : "tan"
+    }, {
+      "conf" : 0.566935,
+      "end" : 1.920000,
+      "start" : 1.698532,
+      "word" : "tan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.920000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.100000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.460000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.520000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.610000,
+      "word" : "captura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.904126,
+      "start" : 3.660000,
+      "word" : "deixar"
+    }, {
+      "conf" : 0.768112,
+      "end" : 4.260000,
+      "start" : 3.904126,
+      "word" : "fàbrega"
+    }, {
+      "conf" : 0.937385,
+      "end" : 4.530000,
+      "start" : 4.260000,
+      "word" : "cara"
+    }, {
+      "conf" : 0.795556,
+      "end" : 4.586945,
+      "start" : 4.530000,
+      "word" : "i"
+    }, {
+      "conf" : 0.498652,
+      "end" : 4.677008,
+      "start" : 4.586945,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.677008,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.800000,
+      "word" : "ciutat"
+    }],
+  "text" : "pair va deixar tan tan poc després de la captura i va deixar fàbrega cara i que la ciutat"
+}

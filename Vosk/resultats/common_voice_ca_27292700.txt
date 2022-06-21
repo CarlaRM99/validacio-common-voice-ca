@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.750000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.900000,
+      "word" : "massa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.410000,
+      "word" : "vapor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.770000,
+      "word" : "d'aigua"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.280000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.460000,
+      "word" : "volum"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.730000,
+      "word" : "unitari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.180000,
+      "word" : "d'aire"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.570000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.690000,
+      "word" : "conté"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.200000,
+      "word" : "vapor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.560000,
+      "word" : "d'aigua"
+    }],
+  "text" : "la massa de vapor d'aigua per volum unitari d'aire que conté vapor d'aigua"
+}

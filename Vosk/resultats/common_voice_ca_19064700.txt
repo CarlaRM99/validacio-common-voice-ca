@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.375156,
+      "end" : 0.870000,
+      "start" : 0.720000,
+      "word" : "que"
+    }, {
+      "conf" : 0.626048,
+      "end" : 1.500000,
+      "start" : 0.873383,
+      "word" : "coneixerà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.386888,
+      "start" : 1.500000,
+      "word" : "automàticament"
+    }, {
+      "conf" : 0.562930,
+      "end" : 2.490000,
+      "start" : 2.400000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.490000,
+      "word" : "maquinari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.090000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.240000,
+      "word" : "teu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.480000,
+      "word" : "ordinador"
+    }],
+  "text" : "que coneixerà automàticament el maquinari del teu ordinador"
+}

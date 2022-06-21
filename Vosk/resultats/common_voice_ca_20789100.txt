@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.170000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.350000,
+      "word" : "influència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.040000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.130000,
+      "word" : "maria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.670000,
+      "word" : "es"
+    }, {
+      "conf" : 0.700776,
+      "end" : 3.060000,
+      "start" : 2.850000,
+      "word" : "veu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.060000,
+      "word" : "directament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.720000,
+      "word" : "relacionat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.530000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.740000,
+      "word" : "l'art"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.980000,
+      "word" : "cristià"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.640000,
+      "word" : "juntament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 6.450000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.690000,
+      "word" : "altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.590000,
+      "start" : 7.050000,
+      "word" : "sants"
+    }],
+  "text" : "la influència de maria es veu directament relacionat amb l'art cristià juntament amb altres sants"
+}

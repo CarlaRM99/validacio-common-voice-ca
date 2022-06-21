@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.509979,
+      "end" : 0.840000,
+      "start" : 0.570000,
+      "word" : "els"
+    }, {
+      "conf" : 0.509979,
+      "end" : 1.140000,
+      "start" : 0.840000,
+      "word" : "dies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.170000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.320000,
+      "word" : "feina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.800000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.310000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 2.640000,
+      "word" : "importants"
+    }],
+  "text" : "els dies de feina són molt importants"
+}

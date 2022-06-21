@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.546982,
+      "end" : 0.720000,
+      "start" : 0.510000,
+      "word" : "em"
+    }, {
+      "conf" : 0.514485,
+      "end" : 0.986938,
+      "start" : 0.720000,
+      "word" : "puga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.986938,
+      "word" : "aprovar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.560000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.950000,
+      "word" : "banyador"
+    }],
+  "text" : "em puga aprovar aquest banyador"
+}

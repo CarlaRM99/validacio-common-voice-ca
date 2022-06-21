@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.467134,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "t"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 0.870000,
+      "word" : "categoria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.740000,
+      "word" : "continental"
+    }],
+  "text" : "t categoria continental"
+}

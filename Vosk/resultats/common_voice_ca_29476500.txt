@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.561526,
+      "end" : 0.780000,
+      "start" : 0.510000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "dura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 1.050000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.110000,
+      "word" : "trajecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.680000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.740000,
+      "word" : "autobús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.250000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.520000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.580000,
+      "word" : "terrassa"
+    }],
+  "text" : "quan dura el trajecte en autobús fins a terrassa"
+}

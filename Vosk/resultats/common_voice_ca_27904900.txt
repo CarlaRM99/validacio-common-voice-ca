@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.390000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.570000,
+      "word" : "piscina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.230000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.470000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.710000,
+      "word" : "perfectament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.580000,
+      "word" : "rectangular"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.510000,
+      "word" : "sinó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.200000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.440000,
+      "word" : "trapezi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.070000,
+      "word" : "suau"
+    }],
+  "text" : "la piscina no és perfectament rectangular sinó un trapezi suau"
+}

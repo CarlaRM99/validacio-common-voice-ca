@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.810000,
+      "word" : "aquella"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860032,
+      "start" : 1.230000,
+      "word" : "borratxera"
+    }, {
+      "conf" : 0.579847,
+      "end" : 1.980000,
+      "start" : 1.860032,
+      "word" : "dur"
+    }, {
+      "conf" : 0.813404,
+      "end" : 2.520000,
+      "start" : 1.981846,
+      "word" : "diners"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.580000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.152742,
+      "start" : 2.760000,
+      "word" : "podia"
+    }, {
+      "conf" : 0.787889,
+      "end" : 3.450000,
+      "start" : 3.152742,
+      "word" : "acabar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.450000,
+      "word" : "bé"
+    }],
+  "text" : "aquella borratxera dur diners no podia acabar bé"
+}

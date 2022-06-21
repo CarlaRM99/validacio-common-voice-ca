@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.540000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.840000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.140000,
+      "word" : "cases"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.530000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.680000,
+      "word" : "construeixen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.370000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.670000,
+      "word" : "plataformes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.630000,
+      "word" : "sent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.960000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.080000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.260000,
+      "word" : "gran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.530000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.680000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.830000,
+      "word" : "cap"
+    }],
+  "text" : "les seves cases es construeixen sobre plataformes sent la més gran la del cap"
+}

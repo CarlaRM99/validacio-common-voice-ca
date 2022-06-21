@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.874548,
+      "end" : 0.510000,
+      "start" : 0.330000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.510000,
+      "word" : "inflamació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 1.020000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.140000,
+      "word" : "llarga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.470000,
+      "word" : "durada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.950000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.190000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.280000,
+      "word" : "factor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.670000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.760000,
+      "word" : "risc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 3.060000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.210000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.300000,
+      "word" : "desenvolupament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.170000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.260000,
+      "word" : "càncer"
+    }],
+  "text" : "una inflamació de llarga durada és un factor de risc per al desenvolupament de càncer"
+}

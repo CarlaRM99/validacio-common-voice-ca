@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.810000,
+      "word" : "l'explosió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.350000,
+      "word" : "recent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.920000,
+      "word" : "turisme"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.550000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.910000,
+      "word" : "produir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.510000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.750000,
+      "word" : "reorientació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.530000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.620000,
+      "word" : "l'activitat"
+    }],
+  "text" : "amb l'explosió recent del turisme es va produir una reorientació de l'activitat"
+}

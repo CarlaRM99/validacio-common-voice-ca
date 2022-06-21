@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.750000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.990000,
+      "word" : "domicili"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.680000,
+      "word" : "radicarà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.220000,
+      "word" : "gandia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.970000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.300000,
+      "word" : "duc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.480000,
+      "word" : "alfons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.870000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.020000,
+      "word" : "vell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.834584,
+      "start" : 4.410000,
+      "word" : "número"
+    }, {
+      "conf" : 0.467471,
+      "end" : 5.070000,
+      "start" : 4.834584,
+      "word" : "u"
+    }],
+  "text" : "el seu domicili radicarà gandia carrer duc alfons el vell número u"
+}

@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.690000,
+      "word" : "zona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.080000,
+      "word" : "industrial"
+    }, {
+      "conf" : 0.847774,
+      "end" : 1.920000,
+      "start" : 1.770000,
+      "word" : "de"
+    }, {
+      "conf" : 0.619012,
+      "end" : 2.460000,
+      "start" : 1.920000,
+      "word" : "bali"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.460000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.670000,
+      "word" : "trobava"
+    }, {
+      "conf" : 0.596938,
+      "end" : 3.210000,
+      "start" : 3.120000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.210000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.480000,
+      "word" : "cantó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.930000,
+      "word" : "sud-oest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.740000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.920000,
+      "word" : "costat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.490000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.179997,
+      "start" : 5.760000,
+      "word" : "riu"
+    }],
+  "text" : "la zona industrial de bali es trobava el seu cantó sud-oest al costat del riu"
+}

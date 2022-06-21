@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.110000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.350000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.500000,
+      "word" : "escriuen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.980000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.190000,
+      "word" : "igual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.670000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.820000,
+      "word" : "ambdues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.300000,
+      "word" : "llengües"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.473697,
+      "start" : 4.170000,
+      "word" : "són"
+    }, {
+      "conf" : 0.888745,
+      "end" : 4.590000,
+      "start" : 4.473697,
+      "word" : "un"
+    }, {
+      "conf" : 0.872622,
+      "end" : 5.010000,
+      "start" : 4.590000,
+      "word" : "quinze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.010000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.280000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.400000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.790000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 5.970000,
+      "word" : "cent"
+    }],
+  "text" : "els que escriuen per igual en ambdues llengües són un quinze com a quatre per cent"
+}

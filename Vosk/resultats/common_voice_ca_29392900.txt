@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.872566,
+      "end" : 1.171318,
+      "start" : 0.540000,
+      "word" : "reserva"
+    }, {
+      "conf" : 0.716937,
+      "end" : 1.260000,
+      "start" : 1.171318,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.320000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.500000,
+      "word" : "bitllet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.890000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.010000,
+      "word" : "tren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.400000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.580000,
+      "word" : "anar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.000000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.150000,
+      "word" : "puigdàlber"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 4.260000,
+      "word" : "dimarts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.890000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.980000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.190000,
+      "word" : "deu"
+    }],
+  "text" : "reserva amb un bitllet de tren per anar a puigdàlber dimarts a les deu"
+}

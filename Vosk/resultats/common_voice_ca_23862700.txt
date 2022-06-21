@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.300000,
+      "word" : "després"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.020000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.170000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.350000,
+      "word" : "casar"
+    }],
+  "text" : "després es van casar"
+}

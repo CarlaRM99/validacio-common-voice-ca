@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.693552,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.990000,
+      "word" : "canals"
+    }],
+  "text" : "venim de canals"
+}

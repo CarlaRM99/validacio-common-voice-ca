@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.210000,
+      "start" : 0.060000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.300000,
+      "start" : 0.210000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.769039,
+      "start" : 0.300000,
+      "word" : "judici"
+    }, {
+      "conf" : 0.803165,
+      "end" : 0.900000,
+      "start" : 0.810000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.990000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.824224,
+      "start" : 1.170000,
+      "word" : "referència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.830000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.040000,
+      "word" : "dictat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.400000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.520000,
+      "word" : "resolució"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.180000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.690000,
+      "word" : "literalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.590000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.740000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.980000,
+      "word" : "segueix"
+    }],
+  "text" : "en el judici que es fa referència s'ha dictat la resolució que literalment és com segueix"
+}

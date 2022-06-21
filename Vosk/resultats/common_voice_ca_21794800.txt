@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.820274,
+      "end" : 0.775638,
+      "start" : 0.630000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.775638,
+      "word" : "inclús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.410000,
+      "word" : "arribar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 2.010000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.130000,
+      "word" : "estar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.430000,
+      "word" : "empresonat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.240000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.420000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.720000,
+      "word" : "acceptar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.350000,
+      "word" : "l'impost"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.040000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.220000,
+      "word" : "l'exposat"
+    }],
+  "text" : "i inclús arribar a estar empresonat per no acceptar l'impost de l'exposat"
+}

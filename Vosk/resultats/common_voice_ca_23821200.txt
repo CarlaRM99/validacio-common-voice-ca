@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.570000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.780000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.110000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "de"
+    }, {
+      "conf" : 0.842170,
+      "end" : 1.830000,
+      "start" : 1.410000,
+      "word" : "kenya"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.830000,
+      "word" : "fins"
+    }, {
+      "conf" : 0.868758,
+      "end" : 2.310000,
+      "start" : 2.160000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.310000,
+      "word" : "moçambic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.120000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.390000,
+      "word" : "illes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.690000,
+      "word" : "marshall"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 4.230000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.350000,
+      "word" : "samoa"
+    }],
+  "text" : "es troba des de kenya fins al moçambic les illes marshall i samoa"
+}

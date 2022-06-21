@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.750000,
+      "word" : "especialment"
+    }, {
+      "conf" : 0.774536,
+      "end" : 1.650000,
+      "start" : 1.560000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.656764,
+      "word" : "considerem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.220000,
+      "word" : "l'activitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.760000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.850000,
+      "word" : "construcció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.390000,
+      "word" : "immobiliària"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 4.050000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 4.110000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.230000,
+      "word" : "resta"
+    }, {
+      "conf" : 0.999426,
+      "end" : 5.040000,
+      "start" : 4.530000,
+      "word" : "d'europa"
+    }],
+  "text" : "especialment si considerem l'activitat de construcció immobiliària a la resta d'europa"
+}

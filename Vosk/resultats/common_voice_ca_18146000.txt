@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.570000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 0.810000,
+      "word" : "opositors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.650000,
+      "word" : "realitzaran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.490000,
+      "word" : "totes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.820000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.000000,
+      "word" : "fraccions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.690000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.810000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.930000,
+      "word" : "sigui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.140000,
+      "word" : "possible"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.010000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.340000,
+      "word" : "mig"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.883342,
+      "start" : 5.610000,
+      "word" : "minut"
+    }, {
+      "conf" : 0.537284,
+      "end" : 5.970000,
+      "start" : 5.883342,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 5.970000,
+      "word" : "temps"
+    }],
+  "text" : "els opositors realitzaran totes les fraccions que els sigui possible durant mig minut de temps"
+}

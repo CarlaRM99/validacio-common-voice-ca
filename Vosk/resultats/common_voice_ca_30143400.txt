@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.840000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.020000,
+      "word" : "venen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.320000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.410000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.680000,
+      "word" : "de"
+    }, {
+      "conf" : 0.753982,
+      "end" : 2.400000,
+      "start" : 1.770000,
+      "word" : "vinaròs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.580000,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.330000,
+      "word" : "cinquanta-vuit"
+    }],
+  "text" : "que venen al carrer de vinaròs número cinquanta-vuit"
+}

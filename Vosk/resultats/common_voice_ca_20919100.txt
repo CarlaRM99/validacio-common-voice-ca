@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.750000,
+      "word" : "concretament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.680000,
+      "word" : "bèlgica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.310000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.460000,
+      "word" : "itàlia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.060000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.540000,
+      "word" : "nombre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.960000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.230000,
+      "word" : "elevat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 4.770000,
+      "word" : "practicants"
+    }],
+  "text" : "concretament bèlgica i itàlia tenen un nombre molt elevat de practicants"
+}

@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.410000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.680000,
+      "word" : "dissensions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.550000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.000000,
+      "word" : "fills"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.840000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.140000,
+      "word" : "acabar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 4.710000,
+      "word" : "finalment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.640000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.790000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 5.880000,
+      "word" : "derrocament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 6.450000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.570000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.350000,
+      "start" : 6.660000,
+      "word" : "dinastia"
+    }],
+  "text" : "les dissensions entre els fills van acabar finalment en el derrocament de la dinastia"
+}

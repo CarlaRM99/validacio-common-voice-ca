@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 0.274451,
+      "end" : 0.540000,
+      "start" : 0.324901,
+      "word" : "la"
+    }, {
+      "conf" : 0.187643,
+      "end" : 1.050000,
+      "start" : 0.600000,
+      "word" : "atribucions"
+    }],
+  "text" : "la atribucions"
+}

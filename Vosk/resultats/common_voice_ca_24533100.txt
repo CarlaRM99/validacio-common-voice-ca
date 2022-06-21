@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.630000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.080000,
+      "word" : "permet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.560000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.740000,
+      "word" : "proves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.310000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.400000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.700000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.760000,
+      "word" : "controlar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.420000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.630000,
+      "word" : "estats"
+    }, {
+      "conf" : 0.389732,
+      "end" : 4.290000,
+      "start" : 4.080000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.290000,
+      "word" : "senyals"
+    }],
+  "text" : "això permet fer proves a part de controlar els estats els senyals"
+}

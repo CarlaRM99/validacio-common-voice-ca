@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 0.704556,
+      "end" : 1.080000,
+      "start" : 0.420000,
+      "word" : "apunta"
+    }, {
+      "conf" : 0.415099,
+      "end" : 1.277089,
+      "start" : 1.080000,
+      "word" : "els"
+    }, {
+      "conf" : 0.439580,
+      "end" : 1.410000,
+      "start" : 1.290000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.462476,
+      "word" : "cinquanta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.550000,
+      "word" : "vint-i-tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.420000,
+      "word" : "trentaset"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.380000,
+      "word" : "xx"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.950000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.220000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.310000,
+      "word" : "telèfon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.940000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 6.060000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.461651,
+      "start" : 6.180000,
+      "word" : "biga"
+    }, {
+      "conf" : 0.320461,
+      "end" : 6.810000,
+      "start" : 6.461651,
+      "word" : "all"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.620000,
+      "start" : 6.870000,
+      "word" : "ortuño"
+    }],
+  "text" : "apunta els i cinquanta vint-i-tres trentaset xx com a telèfon de la biga all ortuño"
+}

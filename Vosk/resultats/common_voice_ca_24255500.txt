@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.900000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.080000,
+      "word" : "unitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.410000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.500000,
+      "word" : "mesura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.860000,
+      "word" : "equivalent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.340000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.400000,
+      "word" : "dotze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.700000,
+      "word" : "punts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.360000,
+      "word" : "s'anomena"
+    }, {
+      "conf" : 0.976383,
+      "end" : 4.889986,
+      "start" : 4.170000,
+      "word" : "ciceró"
+    }],
+  "text" : "la unitat de mesura equivalent a dotze punts s'anomena ciceró"
+}

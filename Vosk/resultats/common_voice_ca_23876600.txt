@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.824338,
+      "end" : 0.836654,
+      "start" : 0.570000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.836654,
+      "word" : "aparellament"
+    }, {
+      "conf" : 0.874640,
+      "end" : 1.530000,
+      "start" : 1.410000,
+      "word" : "en"
+    }, {
+      "conf" : 0.600435,
+      "end" : 2.160000,
+      "start" : 1.530000,
+      "word" : "perfecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.430000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.610000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.910000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.060000,
+      "word" : "cobertura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.630000,
+      "word" : "d'arestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.290000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.470000,
+      "word" : "cardinalitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 5.160000,
+      "word" : "mínima"
+    }],
+  "text" : "una aparellament en perfecte és també una cobertura d'arestes de cardinalitat mínima"
+}

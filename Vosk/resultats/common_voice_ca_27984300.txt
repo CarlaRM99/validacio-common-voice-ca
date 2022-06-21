@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 0.714622,
+      "end" : 0.750000,
+      "start" : 0.600000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.714622,
+      "end" : 0.810000,
+      "start" : 0.750000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.554409,
+      "end" : 1.290000,
+      "start" : 0.810000,
+      "word" : "fons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.290000,
+      "word" : "indexats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.580000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.910000,
+      "word" : "fons"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.600000,
+      "word" : "d'inversió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.140000,
+      "word" : "cotitzats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.160000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 5.310000,
+      "word" : "fan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.550000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.640000,
+      "word" : "seguiment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.240000,
+      "word" : "d'aquest"
+    }, {
+      "conf" : 0.579982,
+      "end" : 7.200000,
+      "start" : 6.660000,
+      "word" : "índex"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.320000,
+      "start" : 7.200000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.830000,
+      "start" : 7.320000,
+      "word" : "bons"
+    }],
+  "text" : "hi ha fons indexats i fons d'inversió cotitzats que fan el seguiment d'aquest índex de bons"
+}

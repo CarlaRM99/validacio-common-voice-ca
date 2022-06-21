@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.600000,
+      "word" : "ajuda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.110000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.200000,
+      "word" : "restaurar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 2.070000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.310000,
+      "word" : "neurotransmissors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.480000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.780000,
+      "word" : "cervell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.860000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.040000,
+      "word" : "qual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.280000,
+      "word" : "s'utilitza"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.910000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 6.030000,
+      "word" : "cas"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 6.390000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 6.570000,
+      "word" : "trastorn"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.740000,
+      "start" : 7.170000,
+      "word" : "mental"
+    }],
+  "text" : "ajuda a restaurar els neurotransmissors del cervell pel qual s'utilitza en cas de trastorn mental"
+}

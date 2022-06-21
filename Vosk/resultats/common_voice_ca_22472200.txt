@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.750000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.050000,
+      "word" : "restaurat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.650000,
+      "word" : "pels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.860000,
+      "word" : "romans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.340000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.490000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.760000,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.030000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.390000,
+      "word" : "havien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.750000,
+      "word" : "annexionat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.470000,
+      "word" : "al"
+    }, {
+      "conf" : 0.999997,
+      "end" : 5.099999,
+      "start" : 4.590000,
+      "word" : "regne"
+    }],
+  "text" : "fou restaurat pels romans que durant sis anys havien annexionat al regne"
+}

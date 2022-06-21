@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.390000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.600000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.750000,
+      "word" : "l'inici"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.170000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.410000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.770000,
+      "word" : "d'assassinat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.520000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.670000,
+      "word" : "massa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.090000,
+      "word" : "industrialitzat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.200000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.620000,
+      "word" : "precedents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.160000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.310000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.400000,
+      "word" : "humanitat"
+    }],
+  "text" : "va ser l'inici d'una forma d'assassinat en massa industrialitzat sense precedents en la humanitat"
+}

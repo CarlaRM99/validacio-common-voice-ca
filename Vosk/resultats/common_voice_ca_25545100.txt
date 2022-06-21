@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.690000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.260000,
+      "word" : "interpretar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.830000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.890000,
+      "word" : "paper"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.220000,
+      "word" : "fiona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.000000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.150000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.240000,
+      "word" : "pel·lícula"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.690000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.840000,
+      "word" : "disney"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.745866,
+      "start" : 4.590000,
+      "word" : "i"
+    }, {
+      "conf" : 0.759912,
+      "end" : 5.430000,
+      "start" : 4.745866,
+      "word" : "ulls"
+    }],
+  "text" : "també va interpretar el paper de fiona a la pel·lícula de disney i ulls"
+}

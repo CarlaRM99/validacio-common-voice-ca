@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.600000,
+      "word" : "lluna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.870000,
+      "word" : "roja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.260000,
+      "word" : "molts"
+    }, {
+      "conf" : 0.999873,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "béns"
+    }, {
+      "conf" : 0.999937,
+      "end" : 2.159984,
+      "start" : 1.710000,
+      "word" : "porta"
+    }],
+  "text" : "lluna roja molts béns porta"
+}

@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.840000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.990000,
+      "word" : "vaja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.590000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.680000,
+      "word" : "ocupar-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.340000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.460000,
+      "word" : "lloc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.670000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.790000,
+      "word" : "treball"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.600000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.750000,
+      "word" : "tinga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.230000,
+      "word" : "relació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.070000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.250000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.340000,
+      "word" : "matèria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.570000,
+      "start" : 6.000000,
+      "word" : "objecte"
+    }, {
+      "conf" : 0.837004,
+      "end" : 6.750000,
+      "start" : 6.570000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.080000,
+      "start" : 6.750000,
+      "word" : "curs"
+    }],
+  "text" : "que vaja a ocupar-se un lloc de treball que tinga relació amb la matèria objecte del curs"
+}

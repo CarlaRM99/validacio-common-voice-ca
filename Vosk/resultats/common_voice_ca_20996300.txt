@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.712102,
+      "end" : 1.290000,
+      "start" : 1.080000,
+      "word" : "en"
+    }, {
+      "conf" : 0.712102,
+      "end" : 1.800000,
+      "start" : 1.290000,
+      "word" : "lògica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 1.800000,
+      "word" : "clàssica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.580000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.820000,
+      "word" : "únics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.180000,
+      "word" : "valors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.720000,
+      "word" : "veritat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.320000,
+      "word" : "possibles"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.980000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 5.670000,
+      "word" : "veritable"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.720000,
+      "start" : 6.600000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.720000,
+      "word" : "fals"
+    }],
+  "text" : "en lògica clàssica els únics valors de veritat possibles són veritable i fals"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.620000,
+      "word" : "el"
+    }, {
+      "conf" : 0.553808,
+      "end" : 2.130000,
+      "start" : 1.830000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.130000,
+      "word" : "pràctic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.820000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.150000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.270000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.720000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.840000,
+      "word" : "palestina"
+    }],
+  "text" : "el nom pràctic fou de fet el de palestina"
+}

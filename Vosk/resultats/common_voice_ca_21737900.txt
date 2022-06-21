@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.510000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.690000,
+      "word" : "conegut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.140000,
+      "word" : "pels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.320000,
+      "word" : "seus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.470000,
+      "word" : "treballs"
+    }, {
+      "conf" : 0.741522,
+      "end" : 1.950000,
+      "start" : 1.860000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 1.950000,
+      "word" : "apicultura"
+    }],
+  "text" : "és conegut pels seus treballs en apicultura"
+}

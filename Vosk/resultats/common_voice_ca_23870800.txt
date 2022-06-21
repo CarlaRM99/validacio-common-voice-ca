@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.570000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.720000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.810000,
+      "word" : "diferents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.350000,
+      "word" : "sistemes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.920000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.040000,
+      "word" : "control"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.730000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.060000,
+      "word" : "disc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.480000,
+      "word" : "horari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 4.050000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.170000,
+      "word" : "d'altres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.770000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.980000,
+      "word" : "pagament"
+    }],
+  "text" : "hi ha diferents sistemes de control com el disc horari o d'altres en pagament"
+}

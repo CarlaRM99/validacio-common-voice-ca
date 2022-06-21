@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.540000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.780000,
+      "word" : "obstant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.200000,
+      "word" : "això"
+    }, {
+      "conf" : 0.489630,
+      "end" : 1.890000,
+      "start" : 1.650000,
+      "word" : "per"
+    }, {
+      "conf" : 0.597981,
+      "end" : 2.160000,
+      "start" : 1.900872,
+      "word" : "d"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.220000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.400000,
+      "word" : "escó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.970000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.120000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.240000,
+      "word" : "consell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.810000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.050000,
+      "word" : "estats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.560000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.710000,
+      "word" : "suïssa"
+    }],
+  "text" : "no obstant això per d un escó en el consell dels estats de suïssa"
+}

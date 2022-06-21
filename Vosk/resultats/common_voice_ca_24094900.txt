@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 0.642982,
+      "end" : 1.050000,
+      "start" : 0.750000,
+      "word" : "s'hi"
+    }, {
+      "conf" : 0.699490,
+      "end" : 1.560000,
+      "start" : 1.050000,
+      "word" : "troben"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.560000,
+      "word" : "fòssils"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.250000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.490000,
+      "word" : "precambrià"
+    }],
+  "text" : "s'hi troben fòssils del precambrià"
+}

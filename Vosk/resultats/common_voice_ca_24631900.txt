@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.900000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.050000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.410000,
+      "word" : "més"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 1.710000,
+      "word" : "característic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.700000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.940000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.060000,
+      "word" : "inclinació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.750000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 4.020000,
+      "word" : "endavant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.560000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.800000,
+      "word" : "pal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 5.070000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.220000,
+      "word" : "trinquet"
+    }],
+  "text" : "el fet més característic era la inclinació cap endavant del pal de trinquet"
+}

@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.690000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.020000,
+      "word" : "coronat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.530000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.710000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.830000,
+      "word" : "frontó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.520000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.640000,
+      "word" : "antigament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.480000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.690000,
+      "word" : "balustres"
+    }],
+  "text" : "està coronat per un frontó i antigament amb balustres"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.720000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.080000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.501280,
+      "start" : 1.230000,
+      "word" : "anar"
+    }, {
+      "conf" : 0.760232,
+      "end" : 1.560000,
+      "start" : 1.501280,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.560000,
+      "word" : "sánchez"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.310000,
+      "word" : "abans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.437152,
+      "start" : 2.640000,
+      "word" : "d'instal·lar-se"
+    }, {
+      "conf" : 0.571725,
+      "end" : 4.080000,
+      "start" : 3.450000,
+      "word" : "afinant"
+    }],
+  "text" : "primer van anar a sánchez abans d'instal·lar-se afinant"
+}

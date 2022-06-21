@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.900000,
+      "word" : "qui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.110000,
+      "word" : "participa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.920000,
+      "word" : "activament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.550000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.670000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.000000,
+      "word" : "falles"
+    }],
+  "text" : "qui participa activament en les falles"
+}

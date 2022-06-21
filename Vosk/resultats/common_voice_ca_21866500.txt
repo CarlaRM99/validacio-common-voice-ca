@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.680000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.890000,
+      "word" : "realitzar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.400000,
+      "word" : "estudis"
+    }, {
+      "conf" : 0.513059,
+      "end" : 2.940000,
+      "start" : 2.850000,
+      "word" : "d"
+    }, {
+      "conf" : 0.513059,
+      "end" : 3.480000,
+      "start" : 2.940000,
+      "word" : "història"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.480000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.600000,
+      "word" : "filosofia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.350000,
+      "word" : "xinesa"
+    }],
+  "text" : "va realitzar estudis d història i filosofia xinesa"
+}

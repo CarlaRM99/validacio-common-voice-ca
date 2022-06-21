@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.925418,
+      "start" : 0.330000,
+      "word" : "envolta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.930000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.110000,
+      "word" : "cantonades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.890000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 1.980000,
+      "word" : "façana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.730000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.970000,
+      "word" : "cadena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.390000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.510000,
+      "word" : "pedra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 3.810000,
+      "word" : "artificial"
+    }],
+  "text" : "envolta les cantonades de la façana una cadena de pedra artificial"
+}

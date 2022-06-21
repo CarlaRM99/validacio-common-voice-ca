@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.539157,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "aquí"
+    }, {
+      "conf" : 0.652883,
+      "end" : 1.057942,
+      "start" : 0.960000,
+      "word" : "no"
+    }, {
+      "conf" : 0.457334,
+      "end" : 1.200000,
+      "start" : 1.057942,
+      "word" : "era"
+    }, {
+      "conf" : 0.474559,
+      "end" : 1.410000,
+      "start" : 1.230000,
+      "word" : "això"
+    }, {
+      "conf" : 0.597580,
+      "end" : 1.470000,
+      "start" : 1.410000,
+      "word" : "el"
+    }, {
+      "conf" : 0.597580,
+      "end" : 1.770000,
+      "start" : 1.470000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.800000,
+      "word" : "autobús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.280000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.430000,
+      "word" : "balenyà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.000000,
+      "word" : "diumenge"
+    }],
+  "text" : "aquí no era això el primer autobús per balenyà diumenge"
+}

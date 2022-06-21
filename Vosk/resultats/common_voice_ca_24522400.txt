@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.870000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.170000,
+      "word" : "plantes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.740000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.800000,
+      "word" : "conjuga"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.610000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.880000,
+      "word" : "estils"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.510000,
+      "word" : "renaixement"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.290000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.380000,
+      "word" : "l'exterior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 5.190000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.340000,
+      "word" : "dòric"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 5.790000,
+      "word" : "antic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.270000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.330000,
+      "word" : "l'interior"
+    }],
+  "text" : "té tres plantes i conjuga dos estils renaixement a l'exterior i dòric antic a l'interior"
+}

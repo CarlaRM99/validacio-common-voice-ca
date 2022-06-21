@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.170000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.560000,
+      "word" : "declarar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.610000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.760000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.910000,
+      "word" : "acceptar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.390000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.450000,
+      "word" : "paper"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.780000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.170000,
+      "word" : "haver"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.320000,
+      "word" : "llegit"
+    }, {
+      "conf" : 0.888381,
+      "end" : 4.710000,
+      "start" : 4.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.710000,
+      "word" : "lió"
+    }],
+  "text" : "va declarar que va acceptar el paper sense haver llegit de lió"
+}

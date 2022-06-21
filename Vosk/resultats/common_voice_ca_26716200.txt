@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.750000,
+      "word" : "x"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.200000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.380000,
+      "word" : "veu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.650000,
+      "word" : "suspès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.370000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.760000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 2.940000,
+      "word" : "punts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.240000,
+      "word" : "finals"
+    }],
+  "text" : "x es veu suspès entre els punts finals"
+}

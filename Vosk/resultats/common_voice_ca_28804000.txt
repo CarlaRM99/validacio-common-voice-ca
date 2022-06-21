@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.750000,
+      "word" : "algunes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.230000,
+      "word" : "persones"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 1.800000,
+      "word" : "supersticioses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.910000,
+      "word" : "creuen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.450000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.600000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.080000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.650000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.890000,
+      "word" : "capaç"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.310000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.430000,
+      "word" : "protegir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.090000,
+      "word" : "una"
+    }, {
+      "conf" : 0.548579,
+      "end" : 6.720000,
+      "start" : 6.330000,
+      "word" : "caça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.720000,
+      "word" : "dels"
+    }, {
+      "conf" : 0.856905,
+      "end" : 7.200000,
+      "start" : 6.930000,
+      "word" : "llar"
+    }],
+  "text" : "algunes persones supersticioses creuen que aquesta planta és capaç de protegir una caça dels llar"
+}

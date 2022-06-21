@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.020000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.473056,
+      "start" : 1.230000,
+      "word" : "com"
+    }, {
+      "conf" : 0.713656,
+      "end" : 1.560000,
+      "start" : 1.473056,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.560000,
+      "word" : "prova"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.860000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 1.920000,
+      "word" : "conformitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.940000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.270000,
+      "word" : "parts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.630000,
+      "word" : "signen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.441476,
+      "start" : 3.990000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 0.828332,
+      "end" : 5.010000,
+      "start" : 4.441476,
+      "word" : "addenda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.070000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.250000,
+      "word" : "duplicat"
+    }, {
+      "conf" : 0.505521,
+      "end" : 6.030000,
+      "start" : 5.880000,
+      "word" : "i"
+    }, {
+      "conf" : 0.576511,
+      "end" : 6.090000,
+      "start" : 6.030000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 6.090000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.240000,
+      "word" : "sol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.020000,
+      "start" : 6.480000,
+      "word" : "efecte"
+    }],
+  "text" : "i com a prova de conformitat les parts signen aquesta addenda per duplicat i ha un sol efecte"
+}

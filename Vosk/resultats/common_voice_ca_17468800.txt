@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.260000,
+      "word" : "devia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.500000,
+      "word" : "estar"
+    }, {
+      "conf" : 0.932012,
+      "end" : 2.070000,
+      "start" : 1.740000,
+      "word" : "saber"
+    }, {
+      "conf" : 0.607136,
+      "end" : 2.400000,
+      "start" : 2.070000,
+      "word" : "allí"
+    }],
+  "text" : "també devia estar saber allí"
+}

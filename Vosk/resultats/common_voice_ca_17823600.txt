@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.690000,
+      "word" : "venim"
+    }, {
+      "conf" : 0.543740,
+      "end" : 1.590000,
+      "start" : 1.170000,
+      "word" : "banda"
+    }],
+  "text" : "venim banda"
+}

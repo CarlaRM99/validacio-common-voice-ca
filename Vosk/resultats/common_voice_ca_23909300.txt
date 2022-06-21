@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.870000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.080000,
+      "word" : "fractura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 1.830000,
+      "word" : "concoidal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.030000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.150000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.330000,
+      "word" : "ratlla"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.720000,
+      "word" : "blanca"
+    }],
+  "text" : "té una fractura concoidal i una ratlla blanca"
+}

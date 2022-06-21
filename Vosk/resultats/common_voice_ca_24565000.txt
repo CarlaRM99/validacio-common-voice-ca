@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.750000,
+      "word" : "mort"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.200000,
+      "word" : "solen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.560000,
+      "word" : "portar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.610000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.790000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.940000,
+      "word" : "moment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.420000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.630000,
+      "word" : "màxima"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.170000,
+      "word" : "maduresa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.370000,
+      "start" : 4.740000,
+      "word" : "creativa"
+    }],
+  "text" : "la mort solen portar en un moment de màxima maduresa creativa"
+}

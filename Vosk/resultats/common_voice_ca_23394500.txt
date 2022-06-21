@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.390000,
+      "start" : 0.210000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.390000,
+      "word" : "capital"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.900000,
+      "word" : "és"
+    }, {
+      "conf" : 0.699936,
+      "end" : 1.710000,
+      "start" : 1.440000,
+      "word" : "ward"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.724866,
+      "word" : "sate"
+    }],
+  "text" : "la capital és ward sate"
+}

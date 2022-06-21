@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.961680,
+      "end" : 0.750000,
+      "start" : 0.570000,
+      "word" : "el"
+    }, {
+      "conf" : 0.877097,
+      "end" : 1.080000,
+      "start" : 0.750000,
+      "word" : "mot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.110000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.350000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.620000,
+      "word" : "usat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.980000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.130000,
+      "word" : "l'exèrcit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 2.670000,
+      "word" : "francès"
+    }],
+  "text" : "el mot no fou usat per l'exèrcit francès"
+}

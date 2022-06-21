@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 0.870000,
+      "word" : "això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.410000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.590000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.027544,
+      "start" : 1.710000,
+      "word" : "portar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.040000,
+      "word" : "convertir-se"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.790000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.850000,
+      "word" : "membre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 3.210000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.300000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.390000,
+      "word" : "taula"
+    }, {
+      "conf" : 0.663251,
+      "end" : 4.200000,
+      "start" : 3.720000,
+      "word" : "rodona"
+    }, {
+      "conf" : 0.814771,
+      "end" : 4.690569,
+      "start" : 4.530000,
+      "word" : "de"
+    }, {
+      "conf" : 0.472556,
+      "end" : 4.890000,
+      "start" : 4.690569,
+      "word" : "dalt"
+    }, {
+      "conf" : 0.649969,
+      "end" : 5.430000,
+      "start" : 4.916729,
+      "word" : "vulguin"
+    }],
+  "text" : "això el va portar convertir-se en membre de la taula rodona de dalt vulguin"
+}

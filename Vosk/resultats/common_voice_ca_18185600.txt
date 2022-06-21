@@ -1,0 +1,109 @@
+{
+  "result" : [{
+      "conf" : 0.341237,
+      "end" : 0.750000,
+      "start" : 0.540000,
+      "word" : "arts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.756643,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.900000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.110000,
+      "word" : "martí"
+    }, {
+      "conf" : 0.521036,
+      "end" : 1.470000,
+      "start" : 1.380000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.470000,
+      "word" : "matí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.950000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.160000,
+      "word" : "pluja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.460000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.550000,
+      "word" : "aquí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.480000,
+      "word" : "arc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.720000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.840000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.020000,
+      "word" : "martí"
+    }, {
+      "conf" : 0.634656,
+      "end" : 4.375826,
+      "start" : 4.320000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.375826,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.440000,
+      "word" : "tarda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.920000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430647,
+      "start" : 5.130000,
+      "word" : "pluja"
+    }, {
+      "conf" : 0.661886,
+      "end" : 5.520000,
+      "start" : 5.430647,
+      "word" : "és"
+    }, {
+      "conf" : 0.396587,
+      "end" : 5.970000,
+      "start" : 5.520000,
+      "word" : "passada"
+    }],
+  "text" : "arts de sant martí el matí la pluja és aquí arc de sant martí a la tarda la pluja és passada"
+}

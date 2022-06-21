@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 0.489840,
+      "end" : 1.860000,
+      "start" : 1.320000,
+      "word" : "aro"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.438364,
+      "start" : 1.920000,
+      "word" : "surt"
+    }, {
+      "conf" : 0.639392,
+      "end" : 2.520000,
+      "start" : 2.460000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.520000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.640000,
+      "word" : "recerca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.330000,
+      "word" : "de"
+    }, {
+      "conf" : 0.828051,
+      "end" : 3.960000,
+      "start" : 3.450000,
+      "word" : "curt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.440000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.650000,
+      "word" : "troba"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.220000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.310000,
+      "word" : "mata"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.640000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.760000,
+      "word" : "pantera"
+    }],
+  "text" : "aro surt a la recerca de curt el troba i mata la pantera"
+}

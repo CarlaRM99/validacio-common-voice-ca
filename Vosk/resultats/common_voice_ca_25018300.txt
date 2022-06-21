@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.750000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "grup"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "va"
+    }, {
+      "conf" : 0.840907,
+      "end" : 1.612597,
+      "start" : 1.290000,
+      "word" : "llançar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.620000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.830000,
+      "word" : "àlbums"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.310000,
+      "word" : "complets"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.000000,
+      "word" : "material"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.420000,
+      "word" : "nou"
+    }],
+  "text" : "el grup va llançar dos àlbums complets amb material nou"
+}

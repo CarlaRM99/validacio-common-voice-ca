@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.750000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.870000,
+      "word" : "l'extrem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.350000,
+      "word" : "nord"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.560000,
+      "word" : "peninsular"
+    }, {
+      "conf" : 0.500961,
+      "end" : 2.400000,
+      "start" : 2.280000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.611105,
+      "end" : 2.430000,
+      "start" : 2.400000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.430000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.580000,
+      "word" : "reduïda"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.060000,
+      "word" : "zona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.660000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.780000,
+      "word" : "està"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.990000,
+      "word" : "classificada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.590000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.040000,
+      "start" : 4.770000,
+      "word" : "desert"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.430000,
+      "start" : 5.040000,
+      "word" : "poder"
+    }],
+  "text" : "a l'extrem nord peninsular hi ha una reduïda zona que està classificada com desert poder"
+}

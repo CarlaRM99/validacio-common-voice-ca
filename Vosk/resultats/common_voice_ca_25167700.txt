@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.840000,
+      "start" : 0.690000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.840000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.050000,
+      "word" : "retorn"
+    }, {
+      "conf" : 0.673006,
+      "end" : 1.499517,
+      "start" : 1.470000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.499517,
+      "word" : "amèrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.310000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.490000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.925353,
+      "start" : 2.610000,
+      "word" : "tornar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.940000,
+      "word" : "actiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.210000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.420000,
+      "word" : "política"
+    }],
+  "text" : "el seu retorn a amèrica es va tornar actiu en la política"
+}

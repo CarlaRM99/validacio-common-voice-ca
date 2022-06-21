@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.990000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.080000,
+      "word" : "planta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.410000,
+      "word" : "baixa"
+    }, {
+      "conf" : 0.731723,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "hi"
+    }, {
+      "conf" : 0.731723,
+      "end" : 1.974268,
+      "start" : 1.920000,
+      "word" : "ha"
+    }, {
+      "conf" : 0.639319,
+      "end" : 2.040000,
+      "start" : 1.974268,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.070000,
+      "word" : "portal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.400000,
+      "word" : "d'accés"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 2.970000,
+      "word" : "actualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.570000,
+      "word" : "tapiat"
+    }],
+  "text" : "a la planta baixa hi ha el portal d'accés actualment tapiat"
+}

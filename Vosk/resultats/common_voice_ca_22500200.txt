@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.771047,
+      "start" : 0.900000,
+      "word" : "construcció"
+    }, {
+      "conf" : 0.819575,
+      "end" : 1.980000,
+      "start" : 1.771047,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.980000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.100000,
+      "word" : "pedra"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.790000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.000000,
+      "word" : "arrebossat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.780000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 3.960000,
+      "word" : "damunt"
+    }],
+  "text" : "la construcció és de pedra i arrebossat al damunt"
+}

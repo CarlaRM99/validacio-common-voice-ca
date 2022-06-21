@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.690000,
+      "word" : "comença"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.230000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.440000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.530000,
+      "word" : "actor"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.830000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.950000,
+      "word" : "teatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 2.850000,
+      "word" : "d'aficionats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.810000,
+      "word" : "on"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.990000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.320000,
+      "word" : "dirigeix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.040000,
+      "word" : "alguna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.460000,
+      "word" : "peça"
+    }],
+  "text" : "comença com a actor al teatre d'aficionats on també dirigeix alguna peça"
+}

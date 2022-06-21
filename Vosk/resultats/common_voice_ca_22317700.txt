@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.420000,
+      "word" : "ciceró"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.260000,
+      "word" : "diu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.530000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.710000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.860000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.190000,
+      "word" : "obres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.610000,
+      "word" : "eren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.970000,
+      "word" : "perfectes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.720000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.870000,
+      "word" : "cada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.200000,
+      "word" : "detall"
+    }],
+  "text" : "ciceró diu que les seves obres eren perfectes en cada detall"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.750000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 1.080000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.170000,
+      "word" : "possible"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.740000,
+      "word" : "obrir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.040000,
+      "word" : "múltiples"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.670000,
+      "word" : "finestres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.210000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.330000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.420000,
+      "word" : "mateix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.750000,
+      "word" : "document"
+    }],
+  "text" : "també és possible obrir múltiples finestres amb el mateix document"
+}

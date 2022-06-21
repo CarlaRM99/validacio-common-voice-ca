@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.410000,
+      "word" : "considerem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 2.040000,
+      "word" : "aquesta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.400000,
+      "word" : "línia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.001146,
+      "start" : 2.820000,
+      "word" : "com"
+    }, {
+      "conf" : 0.844236,
+      "end" : 3.060000,
+      "start" : 3.001146,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.060000,
+      "word" : "línia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.390000,
+      "word" : "provisional"
+    }],
+  "text" : "considerem aquesta línia com a línia provisional"
+}

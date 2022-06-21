@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.660000,
+      "word" : "estudiar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.440000,
+      "word" : "geologia"
+    }],
+  "text" : "estudiar geologia"
+}

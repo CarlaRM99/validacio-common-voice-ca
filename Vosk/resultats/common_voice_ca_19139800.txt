@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.630000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.810000,
+      "word" : "governs"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.350000,
+      "word" : "moren"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.710000,
+      "word" : "ordinàriament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.490000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.640000,
+      "word" : "impotència"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.390000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.480000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.660000,
+      "word" : "tirania"
+    }],
+  "text" : "els governs moren ordinàriament per impotència o per tirania"
+}

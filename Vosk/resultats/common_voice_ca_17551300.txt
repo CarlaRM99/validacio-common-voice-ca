@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.510000,
+      "start" : 0.420000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.510000,
+      "word" : "lula"
+    }, {
+      "conf" : 0.808668,
+      "end" : 1.260000,
+      "start" : 0.870000,
+      "word" : "baldat"
+    }, {
+      "conf" : 0.578951,
+      "end" : 1.410000,
+      "start" : 1.271480,
+      "word" : "se"
+    }, {
+      "conf" : 0.578951,
+      "end" : 1.470000,
+      "start" : 1.410000,
+      "word" : "li"
+    }, {
+      "conf" : 0.578951,
+      "end" : 1.823613,
+      "start" : 1.470000,
+      "word" : "acosta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.833698,
+      "word" : "dinat"
+    }],
+  "text" : "a lula baldat se li acosta dinat"
+}

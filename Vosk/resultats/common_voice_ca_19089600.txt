@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.990000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.230000,
+      "word" : "acords"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.620000,
+      "word" : "resolutoris"
+    }, {
+      "conf" : 0.817940,
+      "end" : 3.420000,
+      "start" : 2.460000,
+      "word" : "d'autoritzacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.420000,
+      "word" : "i"
+    }, {
+      "conf" : 0.492985,
+      "end" : 4.050000,
+      "start" : 3.510000,
+      "word" : "perruques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.050000,
+      "word" : "dictats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.470000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.620000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.740000,
+      "word" : "comissió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.640000,
+      "word" : "posaran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 6.120000,
+      "word" : "fi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.450000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 6.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.870000,
+      "start" : 6.660000,
+      "word" : "via"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.740000,
+      "start" : 6.870000,
+      "word" : "administrativa"
+    }],
+  "text" : "els acords resolutoris d'autoritzacions i perruques dictats per la comissió posaran fi a la via administrativa"
+}

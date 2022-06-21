@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.390000,
+      "word" : "totes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.750000,
+      "word" : "aquestes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.200000,
+      "word" : "escultures"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.920000,
+      "word" : "representen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.580000,
+      "word" : "infants"
+    }],
+  "text" : "totes aquestes escultures representen infants"
+}

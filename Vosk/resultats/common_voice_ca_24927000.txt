@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.990000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.230000,
+      "word" : "principal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.950000,
+      "word" : "tipus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.430000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.550000,
+      "word" : "roca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.000000,
+      "word" : "ígnia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.660000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.930000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.170000,
+      "word" : "diorita"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 4.980000,
+      "word" : "porfiri"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.610000,
+      "word" : "que"
+    }],
+  "text" : "el principal tipus de roca ígnia és la diorita porfiri que"
+}

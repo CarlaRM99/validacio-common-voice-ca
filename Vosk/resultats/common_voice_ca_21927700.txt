@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.870000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 1.020000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.080000,
+      "word" : "primer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.530000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.620000,
+      "word" : "molta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.920000,
+      "word" : "estona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.250000,
+      "word" : "l'únic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.640000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.820000,
+      "word" : "has"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.970000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.300000,
+      "word" : "dir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.510000,
+      "word" : "cava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.930000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.110000,
+      "word" : "teatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.530000,
+      "word" : "nou"
+    }],
+  "text" : "va ser el primer i molta estona l'únic que has de dir cava al teatre nou"
+}

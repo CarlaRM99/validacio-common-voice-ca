@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.300000,
+      "word" : "cadascun"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.810000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 0.960000,
+      "word" : "titulars"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.470000,
+      "word" : "rep"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.770000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 1.890000,
+      "word" : "diploma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.280000,
+      "word" : "acreditatiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.030000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.270000,
+      "word" : "serveis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.720000,
+      "word" : "pels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 4.020000,
+      "word" : "quals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 4.530000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 4.710000,
+      "word" : "estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.130000,
+      "word" : "recompensat"
+    }],
+  "text" : "cadascun dels titulars rep un diploma acreditatiu dels serveis pels quals ha estat recompensat"
+}

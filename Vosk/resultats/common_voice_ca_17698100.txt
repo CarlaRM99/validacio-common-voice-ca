@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.960000,
+      "word" : "edicte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.650000,
+      "word" : "machete"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.580000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.700000,
+      "word" : "manté"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.120000,
+      "word" : "actualitzada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.840000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.830000,
+      "start" : 3.960000,
+      "word" : "publicació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.890000,
+      "word" : "glossari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.550000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.700000,
+      "word" : "termes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.289998,
+      "start" : 6.120000,
+      "word" : "parlamentaris"
+    }],
+  "text" : "edicte machete i manté actualitzada la publicació glossari de termes parlamentaris"
+}

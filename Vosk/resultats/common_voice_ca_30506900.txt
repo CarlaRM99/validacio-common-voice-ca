@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.716988,
+      "start" : 0.990000,
+      "word" : "m'agradaria"
+    }, {
+      "conf" : 0.862258,
+      "end" : 1.980000,
+      "start" : 1.815923,
+      "word" : "al"
+    }, {
+      "conf" : 0.947144,
+      "end" : 2.430000,
+      "start" : 1.982251,
+      "word" : "carrer"
+    }, {
+      "conf" : 0.752397,
+      "end" : 2.670000,
+      "start" : 2.520000,
+      "word" : "la"
+    }, {
+      "conf" : 0.752397,
+      "end" : 3.060000,
+      "start" : 2.730000,
+      "word" : "palma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.060000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.150000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.694764,
+      "start" : 3.390000,
+      "word" : "just"
+    }, {
+      "conf" : 0.418190,
+      "end" : 3.865036,
+      "start" : 3.720000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.865036,
+      "word" : "cotxe"
+    }],
+  "text" : "m'agradaria al carrer la palma de sant just un cotxe"
+}

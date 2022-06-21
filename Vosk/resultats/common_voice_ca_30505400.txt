@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.630000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.900000,
+      "word" : "puc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.170000,
+      "word" : "arribar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.770000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 1.980000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.370000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.520000,
+      "word" : "dolça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 3.240000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.450000,
+      "word" : "provença"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.230000,
+      "word" : "mur"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.580000,
+      "start" : 4.590000,
+      "word" : "noranta-sis"
+    }],
+  "text" : "com puc arribar al carrer de dolça de provença mur noranta-sis"
+}

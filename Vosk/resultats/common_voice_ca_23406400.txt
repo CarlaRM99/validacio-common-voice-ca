@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.500000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.710000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.860000,
+      "word" : "proclamar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.550000,
+      "word" : "emperador"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.420000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.540000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.690000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.380000,
+      "word" : "antioquia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 5.310000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.490000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.790000,
+      "word" : "capital"
+    }],
+  "text" : "es va proclamar emperador i va fer antioquia la seva capital"
+}

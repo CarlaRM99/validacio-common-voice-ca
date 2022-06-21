@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.690000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.380000,
+      "word" : "obtingué"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.040000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.969831,
+      "start" : 2.520000,
+      "word" : "placa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 3.000000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.090000,
+      "word" : "sant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.360000,
+      "word" : "ferran"
+    }],
+  "text" : "també obtingué la placa de sant ferran"
+}

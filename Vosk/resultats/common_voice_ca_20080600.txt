@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.720000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.900000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.050000,
+      "word" : "bona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.290000,
+      "word" : "capacitat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.920000,
+      "word" : "d'envelliment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.210000,
+      "start" : 2.670000,
+      "word" : "adquirint"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.210000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.390000,
+      "word" : "aroma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.750000,
+      "word" : "fumada"
+    }],
+  "text" : "té una bona capacitat d'envelliment adquirint una aroma fumada"
+}

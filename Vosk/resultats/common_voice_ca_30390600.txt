@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.483935,
+      "start" : 0.330000,
+      "word" : "el"
+    }, {
+      "conf" : 0.694887,
+      "end" : 0.596922,
+      "start" : 0.483935,
+      "word" : "meu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.596922,
+      "word" : "número"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.140000,
+      "word" : "és"
+    }, {
+      "conf" : 0.721940,
+      "end" : 1.440000,
+      "start" : 1.320000,
+      "word" : "el"
+    }, {
+      "conf" : 0.426333,
+      "end" : 1.795263,
+      "start" : 1.440000,
+      "word" : "sistema"
+    }, {
+      "conf" : 0.573667,
+      "end" : 1.864528,
+      "start" : 1.795263,
+      "word" : "de"
+    }, {
+      "conf" : 0.573667,
+      "end" : 2.040000,
+      "start" : 1.864528,
+      "word" : "nou"
+    }, {
+      "conf" : 0.660768,
+      "end" : 2.820000,
+      "start" : 2.040000,
+      "word" : "trenta-set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 2.940000,
+      "word" : "quaranta-cinc"
+    }, {
+      "conf" : 0.880071,
+      "end" : 4.500000,
+      "start" : 4.020000,
+      "word" : "deu"
+    }],
+  "text" : "el meu número és el sistema de nou trenta-set quaranta-cinc deu"
+}

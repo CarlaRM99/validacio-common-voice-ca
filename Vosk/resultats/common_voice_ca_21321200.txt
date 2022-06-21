@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.766309,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.930000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.050000,
+      "word" : "teulada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.620000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.740000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.010000,
+      "word" : "vessants"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.790000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.940000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.090000,
+      "word" : "ràfec"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.390000,
+      "word" : "sostingut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.020000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.200000,
+      "word" : "mènsules"
+    }],
+  "text" : "té la teulada a quatre vessants i amb ràfec sostingut per mènsules"
+}

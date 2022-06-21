@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.420000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.660000,
+      "word" : "emprar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.930000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.990000,
+      "word" : "microscopi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.770000,
+      "word" : "polarització"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.490000,
+      "word" : "des"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.670000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.820000,
+      "word" : "principi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.751501,
+      "start" : 3.600000,
+      "word" : "per"
+    }, {
+      "conf" : 0.820384,
+      "end" : 3.810000,
+      "start" : 3.751501,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.810000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.710000,
+      "start" : 3.930000,
+      "word" : "identificació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.710000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 4.800000,
+      "word" : "minerals"
+    }],
+  "text" : "va emprar el microscopi de polarització des del principi per a la identificació de minerals"
+}

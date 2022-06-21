@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.870000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.960000,
+      "word" : "nivell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.290000,
+      "word" : "superior"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.520000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.670000,
+      "word" : "veu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.880000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.450000,
+      "start" : 2.970000,
+      "word" : "típica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.450000,
+      "word" : "imatge"
+    }, {
+      "conf" : 0.502456,
+      "end" : 4.080000,
+      "start" : 3.960000,
+      "word" : "de"
+    }, {
+      "conf" : 0.502456,
+      "end" : 4.710000,
+      "start" : 4.080000,
+      "word" : "l'infern"
+    }, {
+      "conf" : 0.847590,
+      "end" : 5.277860,
+      "start" : 5.040000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.770180,
+      "end" : 5.700000,
+      "start" : 5.277860,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.790000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 5.880000,
+      "word" : "tortures"
+    }],
+  "text" : "en el nivell superior es veu la típica imatge de l'infern amb poc i tortures"
+}

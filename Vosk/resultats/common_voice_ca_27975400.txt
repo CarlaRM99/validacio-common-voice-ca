@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.780000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.930000,
+      "word" : "club"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.200000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.290000,
+      "word" : "futbol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.590000,
+      "word" : "local"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 2.130000,
+      "word" : "social"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.580000,
+      "word" : "sol"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.210000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.330000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.540000,
+      "word" : "segona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.840000,
+      "word" : "divisió"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.919999,
+      "start" : 4.260000,
+      "word" : "hondurenya"
+    }],
+  "text" : "el club de futbol local social sol i la segona divisió hondurenya"
+}

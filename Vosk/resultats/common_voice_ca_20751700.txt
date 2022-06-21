@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.689348,
+      "end" : 0.840000,
+      "start" : 0.540000,
+      "word" : "s'hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.840000,
+      "word" : "han"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.960000,
+      "word" : "trobat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.260000,
+      "word" : "restes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.740000,
+      "word" : "ceràmica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.220000,
+      "word" : "bizantina"
+    }],
+  "text" : "s'hi han trobat restes de ceràmica bizantina"
+}

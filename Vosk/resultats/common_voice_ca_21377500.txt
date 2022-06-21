@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.140000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.290000,
+      "word" : "subsistema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.040000,
+      "word" : "seqüencial"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.180000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.390000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.510000,
+      "word" : "llenguatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 4.050000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.140000,
+      "word" : "programació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.550000,
+      "start" : 4.770000,
+      "word" : "funcional"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.790000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.000000,
+      "word" : "tipus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 6.480000,
+      "word" : "dinàmics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.200000,
+      "start" : 7.140000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.710000,
+      "start" : 7.200000,
+      "word" : "avaluació"
+    }, {
+      "conf" : 0.570872,
+      "end" : 8.430000,
+      "start" : 7.710000,
+      "word" : "estricta"
+    }],
+  "text" : "el subsistema seqüencial és un llenguatge de programació funcional amb tipus dinàmics i avaluació estricta"
+}

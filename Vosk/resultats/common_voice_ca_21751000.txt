@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.690000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 0.960000,
+      "word" : "partidari"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.400000,
+      "start" : 1.980000,
+      "word" : "l'estat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.400000,
+      "word" : "laic"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.210000,
+      "word" : "defensava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.870000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 3.930000,
+      "word" : "sistema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 4.410000,
+      "word" : "capitalista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.760000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.120000,
+      "start" : 5.940000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.080000,
+      "start" : 6.120000,
+      "word" : "autonomies"
+    }],
+  "text" : "era partidari de l'estat laic defensava el sistema capitalista i les autonomies"
+}

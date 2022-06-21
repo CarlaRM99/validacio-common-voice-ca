@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.600000,
+      "start" : 0.330000,
+      "word" : "quan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960916,
+      "start" : 0.630000,
+      "word" : "passa"
+    }, {
+      "conf" : 0.621990,
+      "end" : 0.990000,
+      "start" : 0.960916,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.990000,
+      "word" : "l'autobús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.620000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.830000,
+      "word" : "carrer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.160000,
+      "word" : "granados"
+    }],
+  "text" : "quan passa a l'autobús pel carrer granados"
+}

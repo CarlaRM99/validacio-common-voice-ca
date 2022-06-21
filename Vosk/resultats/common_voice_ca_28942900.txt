@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.575273,
+      "end" : 1.047742,
+      "start" : 0.540000,
+      "word" : "guarda"
+    }, {
+      "conf" : 0.530776,
+      "end" : 1.218967,
+      "start" : 1.050000,
+      "word" : "els"
+    }, {
+      "conf" : 0.814400,
+      "end" : 1.530000,
+      "start" : 1.218967,
+      "word" : "sis"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 1.530000,
+      "word" : "noranta-quatre"
+    }, {
+      "conf" : 0.814447,
+      "end" : 3.450000,
+      "start" : 2.550000,
+      "word" : "huitanta-set"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.480000,
+      "word" : "noranta-nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 4.290000,
+      "word" : "setanta-tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.520000,
+      "start" : 5.310000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.520000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.610000,
+      "word" : "telèfon"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.300000,
+      "start" : 6.210000,
+      "word" : "de"
+    }, {
+      "conf" : 0.398077,
+      "end" : 6.780000,
+      "start" : 6.300000,
+      "word" : "línies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.780000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.620000,
+      "start" : 6.930000,
+      "word" : "santos"
+    }],
+  "text" : "guarda els sis noranta-quatre huitanta-set noranta-nou setanta-tres com a telèfon de línies de santos"
+}

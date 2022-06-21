@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.540000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.720000,
+      "word" : "tradició"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 1.350000,
+      "word" : "mana"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.860000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.070000,
+      "word" : "cavaller"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.550000,
+      "word" : "errant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 3.120000,
+      "word" : "tingui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.510000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.630000,
+      "word" : "escuder"
+    }],
+  "text" : "la tradició mana que tot cavaller errant tingui un escuder"
+}

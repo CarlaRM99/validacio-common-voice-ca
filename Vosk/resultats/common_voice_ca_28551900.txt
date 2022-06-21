@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.480000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.660000,
+      "word" : "història"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.200000,
+      "word" : "comença"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.800000,
+      "word" : "quan"
+    }, {
+      "conf" : 0.566397,
+      "end" : 2.460000,
+      "start" : 2.040000,
+      "word" : "d'illa"
+    }, {
+      "conf" : 0.828548,
+      "end" : 2.993282,
+      "start" : 2.460000,
+      "word" : "viatge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.000000,
+      "word" : "bombai"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.630000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.720000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.900000,
+      "word" : "ús"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.140000,
+      "word" : "examen"
+    }],
+  "text" : "la història comença quan d'illa viatge bombai a fer ús examen"
+}

@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.600000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.810000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 0.900000,
+      "word" : "magatzem"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.440000,
+      "word" : "considerables"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.160000,
+      "word" : "dimensions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.730000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.030000,
+      "word" : "mitgeres"
+    }],
+  "text" : "és un magatzem de considerables dimensions entre mitgeres"
+}

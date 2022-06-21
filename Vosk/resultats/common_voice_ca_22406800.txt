@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 0.690000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.230000,
+      "word" : "poden"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.530000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.980000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.130000,
+      "word" : "farciment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.820000,
+      "word" : "fet"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.090000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.240000,
+      "word" : "glucosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.470000,
+      "start" : 3.900000,
+      "word" : "sucre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.500000,
+      "word" : "o"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.620000,
+      "word" : "espessidors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.520000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.180000,
+      "start" : 5.640000,
+      "word" : "vegades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 6.180000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.320000,
+      "start" : 6.330000,
+      "word" : "conservants"
+    }],
+  "text" : "també poden tenir un farciment fet de glucosa sucre o espessidors a vegades amb conservants"
+}

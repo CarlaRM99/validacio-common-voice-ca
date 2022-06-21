@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.690000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 0.870000,
+      "word" : "problema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.440000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.650000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.580000,
+      "start" : 1.800000,
+      "word" : "solucionar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.640000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.910000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.090000,
+      "word" : "actualització"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.020000,
+      "word" : "programari"
+    }],
+  "text" : "el problema es va solucionar amb una actualització de programari"
+}

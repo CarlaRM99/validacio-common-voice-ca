@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 0.552838,
+      "end" : 1.080000,
+      "start" : 0.900000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.080000,
+      "word" : "tot"
+    }, {
+      "conf" : 0.753614,
+      "end" : 1.770000,
+      "start" : 1.380000,
+      "word" : "finalment"
+    }, {
+      "conf" : 0.546052,
+      "end" : 2.272164,
+      "start" : 1.770000,
+      "word" : "aconseguir"
+    }, {
+      "conf" : 0.738809,
+      "end" : 2.940000,
+      "start" : 2.310000,
+      "word" : "agrupar-se"
+    }, {
+      "conf" : 0.606298,
+      "end" : 3.030000,
+      "start" : 2.940000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.525928,
+      "end" : 3.150000,
+      "start" : 3.030000,
+      "word" : "els"
+    }, {
+      "conf" : 0.839414,
+      "end" : 3.750000,
+      "start" : 3.150000,
+      "word" : "favorits"
+    }],
+  "text" : "amb tot finalment aconseguir agrupar-se amb els favorits"
+}

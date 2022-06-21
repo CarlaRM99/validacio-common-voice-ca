@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.080000,
+      "word" : "parlava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.650000,
+      "word" : "poc"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.860000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.920000,
+      "word" : "poc"
+    }, {
+      "conf" : 0.531459,
+      "end" : 2.700000,
+      "start" : 2.490000,
+      "word" : "em"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.700000,
+      "word" : "veu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 2.910000,
+      "word" : "desmaiada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.840000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.548327,
+      "start" : 4.080000,
+      "word" : "paraules"
+    }, {
+      "conf" : 0.610903,
+      "end" : 4.620000,
+      "start" : 4.560000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.620000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.740000,
+      "word" : "tallaven"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.090000,
+      "start" : 5.640000,
+      "word" : "cotxe"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.600000,
+      "start" : 6.390000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.780000,
+      "start" : 6.600000,
+      "word" : "una"
+    }, {
+      "conf" : 0.512411,
+      "end" : 7.080000,
+      "start" : 6.780000,
+      "word" : "garrí"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.500000,
+      "start" : 7.080000,
+      "word" : "falsa"
+    }],
+  "text" : "parlava poc a poc em veu desmaiada les paraules i li tallaven cotxe per una garrí falsa"
+}

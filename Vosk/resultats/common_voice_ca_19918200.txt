@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.050000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.800000,
+      "start" : 1.290000,
+      "word" : "resultats"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.800000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.920000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.010000,
+      "word" : "primera"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.814650,
+      "start" : 2.460000,
+      "word" : "fase"
+    }, {
+      "conf" : 0.621437,
+      "end" : 3.000000,
+      "start" : 2.850000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.060000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.240000,
+      "word" : "tinguts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.720000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 3.870000,
+      "word" : "compte"
+    }],
+  "text" : "els resultats de la primera fase van ser tinguts en compte"
+}

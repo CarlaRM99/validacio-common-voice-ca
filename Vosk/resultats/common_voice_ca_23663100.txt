@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.390000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.690000,
+      "word" : "noies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.320000,
+      "word" : "comencen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.890000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.950000,
+      "word" : "mostrar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.340000,
+      "word" : "ràpidament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.850000,
+      "word" : "interès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.330000,
+      "word" : "pels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.600000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 3.870000,
+      "word" : "turistes"
+    }],
+  "text" : "les noies comencen a mostrar ràpidament interès pels tres turistes"
+}

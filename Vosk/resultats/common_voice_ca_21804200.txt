@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.660000,
+      "start" : 0.420000,
+      "word" : "la"
+    }, {
+      "conf" : 0.850965,
+      "end" : 0.990000,
+      "start" : 0.660000,
+      "word" : "torre"
+    }, {
+      "conf" : 0.850965,
+      "end" : 1.380000,
+      "start" : 0.990000,
+      "word" : "salsa"
+    }, {
+      "conf" : 0.620267,
+      "end" : 1.560000,
+      "start" : 1.380000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.560000,
+      "word" : "peus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 2.010000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.100000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.220000,
+      "word" : "dreta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.520000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.610000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.700000,
+      "word" : "façana"
+    }],
+  "text" : "la torre salsa els peus a la dreta de la façana"
+}

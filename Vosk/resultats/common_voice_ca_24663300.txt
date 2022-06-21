@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.630000,
+      "word" : "tot"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.110000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.260000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.410000,
+      "word" : "calma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.770000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 1.950000,
+      "word" : "diumenge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.880000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.060000,
+      "word" : "situació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 3.840000,
+      "word" : "revifaria"
+    }],
+  "text" : "tot i la calma del diumenge la situació revifaria"
+}

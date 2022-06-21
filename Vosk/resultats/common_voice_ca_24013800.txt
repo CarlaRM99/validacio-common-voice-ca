@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.600000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.750000,
+      "word" : "exemple"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.440000,
+      "word" : "joaquim"
+    }, {
+      "conf" : 0.680158,
+      "end" : 2.970000,
+      "start" : 1.920000,
+      "word" : "torres-garcia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.240000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.390000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.600000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.900000,
+      "start" : 3.660000,
+      "word" : "seu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.900000,
+      "word" : "taller"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.200000,
+      "word" : "aquí"
+    }],
+  "text" : "per exemple joaquim torres-garcia va tenir el seu taller aquí"
+}

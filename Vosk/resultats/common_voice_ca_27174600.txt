@@ -1,0 +1,34 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.444855,
+      "start" : 1.170000,
+      "word" : "era"
+    }, {
+      "conf" : 0.531721,
+      "end" : 1.590000,
+      "start" : 1.444855,
+      "word" : "l"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.590000,
+      "word" : "única"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.090000,
+      "start" : 2.070000,
+      "word" : "fotoperiodista"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.240000,
+      "start" : 3.090000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.240000,
+      "word" : "l'edifici"
+    }],
+  "text" : "era l única fotoperiodista de l'edifici"
+}

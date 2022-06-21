@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.630000,
+      "word" : "forma"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.020000,
+      "word" : "part"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.350000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.470000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.620000,
+      "word" : "anomenades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.310000,
+      "word" : "comarques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.820000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.970000,
+      "word" : "sud"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.270000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.390000,
+      "word" : "país"
+    }, {
+      "conf" : 0.999892,
+      "end" : 4.259998,
+      "start" : 3.630000,
+      "word" : "valencià"
+    }],
+  "text" : "forma part de les anomenades comarques del sud del país valencià"
+}

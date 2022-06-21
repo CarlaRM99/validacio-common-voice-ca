@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.110000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.350000,
+      "word" : "religiosos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.070000,
+      "word" : "llavors"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.610000,
+      "word" : "el"
+    }, {
+      "conf" : 0.774659,
+      "end" : 3.570000,
+      "start" : 2.760000,
+      "word" : "condemna"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.990000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.170000,
+      "word" : "endevinació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.130000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.000000,
+      "start" : 5.310000,
+      "word" : "turment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.270000,
+      "start" : 6.120000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 6.270000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.360000,
+      "word" : "foguera"
+    }],
+  "text" : "els religiosos llavors el condemna per endevinació el turment i la foguera"
+}

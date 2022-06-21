@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 0.960000,
+      "word" : "l'oficina"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.620000,
+      "word" : "militar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.310000,
+      "word" : "consta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.850000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.030000,
+      "word" : "departaments"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.750000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 3.870000,
+      "word" : "municions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 4.860000,
+      "word" : "entrenament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 5.940000,
+      "word" : "operacions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.870000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.680000,
+      "start" : 6.990000,
+      "word" : "seguiment"
+    }],
+  "text" : "l'oficina militar consta dels departaments de municions entrenament operacions i seguiment"
+}

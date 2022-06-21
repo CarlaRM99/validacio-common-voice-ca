@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.660000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.930000,
+      "start" : 0.900000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 0.930000,
+      "word" : "resultat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.740000,
+      "word" : "ja"
+    }, {
+      "conf" : 0.362030,
+      "end" : 2.460000,
+      "start" : 2.040000,
+      "word" : "se'n"
+    }, {
+      "conf" : 0.821091,
+      "end" : 3.085212,
+      "start" : 2.550000,
+      "word" : "enderroca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.085212,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.150000,
+      "word" : "sobirà"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 3.900000,
+      "word" : "suprem"
+    }, {
+      "conf" : 0.823512,
+      "end" : 4.920000,
+      "start" : 4.710000,
+      "word" : "on"
+    }, {
+      "conf" : 0.659340,
+      "end" : 5.008579,
+      "start" : 4.920000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 5.008579,
+      "word" : "ni"
+    }],
+  "text" : "com a resultat ja se'n enderroca el sobirà suprem on i ni"
+}

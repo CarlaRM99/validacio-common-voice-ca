@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.810000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.140000,
+      "word" : "seues"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.500000,
+      "word" : "decisions"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.460000,
+      "word" : "seran"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 2.880000,
+      "word" : "vinculants"
+    }],
+  "text" : "les seues decisions seran vinculants"
+}

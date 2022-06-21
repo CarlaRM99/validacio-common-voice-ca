@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.750000,
+      "word" : "avui"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 1.110000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.200000,
+      "word" : "tres"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.470000,
+      "word" : "quarts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.860000,
+      "word" : "dotze"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.456142,
+      "start" : 2.250000,
+      "word" : "no"
+    }, {
+      "conf" : 0.435692,
+      "end" : 2.880000,
+      "start" : 2.490000,
+      "word" : "ingerir"
+    }, {
+      "conf" : 0.764772,
+      "end" : 3.090000,
+      "start" : 2.880000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.090000,
+      "word" : "televisor"
+    }],
+  "text" : "avui a tres quarts de dotze no ingerir del televisor"
+}

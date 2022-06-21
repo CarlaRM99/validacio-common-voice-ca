@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.080000,
+      "start" : 0.900000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.080000,
+      "word" : "club"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.320000,
+      "word" : "neerlandès"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.250000,
+      "word" : "demandar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 2.970000,
+      "word" : "davant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.360000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.420000,
+      "word" : "tribunal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.840000,
+      "word" : "d'arbitratge"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.590000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.740000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.490000,
+      "start" : 4.800000,
+      "word" : "l'esport"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.820000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.060000,
+      "start" : 5.940000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.060000,
+      "word" : "guanyar"
+    }],
+  "text" : "el club neerlandès demandar davant el tribunal d'arbitratge per a l'esport i va guanyar"
+}

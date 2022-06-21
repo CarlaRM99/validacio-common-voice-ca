@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.911144,
+      "end" : 0.660000,
+      "start" : 0.390000,
+      "word" : "pels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.660000,
+      "word" : "dir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.780000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.990000,
+      "word" : "seria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.260000,
+      "word" : "millor"
+    }, {
+      "conf" : 0.537688,
+      "end" : 1.909600,
+      "start" : 1.680000,
+      "word" : "anar"
+    }, {
+      "conf" : 0.567321,
+      "end" : 2.250000,
+      "start" : 1.909600,
+      "word" : "anat"
+    }, {
+      "conf" : 0.567321,
+      "end" : 2.322928,
+      "start" : 2.250000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.340000,
+      "word" : "platja"
+    }],
+  "text" : "pels dir que no seria millor anar anat a platja"
+}

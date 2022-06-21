@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.840000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.140000,
+      "word" : "encara"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.530000,
+      "word" : "utilitzades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.190000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.970000,
+      "start" : 2.280000,
+      "word" : "finlàndia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.240000,
+      "word" : "habitualment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 4.140000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.290000,
+      "word" : "dies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.250000,
+      "start" : 4.590000,
+      "word" : "festius"
+    }],
+  "text" : "són encara utilitzades a finlàndia habitualment en dies festius"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.110000,
+      "word" : "malgrat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.680000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 1.830000,
+      "word" : "restricció"
+    }, {
+      "conf" : 0.869614,
+      "end" : 3.120000,
+      "start" : 2.460000,
+      "word" : "d'altura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.350000,
+      "start" : 3.390000,
+      "word" : "l'arquitecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.410000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.340000,
+      "start" : 4.620000,
+      "word" : "aconseguir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.610000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 5.910000,
+      "word" : "solució"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.960000,
+      "start" : 6.450000,
+      "word" : "elegant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.140000,
+      "start" : 7.050000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.770000,
+      "start" : 7.140000,
+      "word" : "notable"
+    }],
+  "text" : "malgrat la restricció d'altura l'arquitecte va aconseguir una solució elegant i notable"
+}

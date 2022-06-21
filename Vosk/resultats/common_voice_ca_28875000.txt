@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 0.615662,
+      "end" : 1.057250,
+      "start" : 0.660000,
+      "word" : "feina"
+    }, {
+      "conf" : 0.389394,
+      "end" : 1.410000,
+      "start" : 1.057250,
+      "word" : "nostre"
+    }, {
+      "conf" : 0.389394,
+      "end" : 1.710000,
+      "start" : 1.410000,
+      "word" : "nou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 2.010000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.190000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.370000,
+      "word" : "cançó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.880000,
+      "word" : "amb"
+    }, {
+      "conf" : 0.999994,
+      "end" : 3.390000,
+      "start" : 3.060000,
+      "word" : "càrrega"
+    }, {
+      "conf" : 0.999990,
+      "end" : 3.989998,
+      "start" : 3.390000,
+      "word" : "política"
+    }],
+  "text" : "feina nostre nou és una cançó amb càrrega política"
+}

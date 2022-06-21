@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.660000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 0.870000,
+      "word" : "cintura"
+    }, {
+      "conf" : 0.535602,
+      "end" : 1.375200,
+      "start" : 1.320000,
+      "word" : "en"
+    }, {
+      "conf" : 0.464398,
+      "end" : 2.010000,
+      "start" : 1.375200,
+      "word" : "engarrotada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.610000,
+      "start" : 2.040000,
+      "word" : "semblava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.610000,
+      "word" : "punt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.000000,
+      "start" : 2.880000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.000000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.180000,
+      "word" : "esclatar"
+    }, {
+      "conf" : 0.797572,
+      "end" : 3.870000,
+      "start" : 3.720000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.870000,
+      "word" : "fort"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.200000,
+      "word" : "embolcall"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.740000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.860000,
+      "word" : "balenes"
+    }],
+  "text" : "la cintura en engarrotada semblava punt de fer esclatar el fort embolcall de balenes"
+}

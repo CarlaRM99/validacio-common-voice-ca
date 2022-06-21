@@ -1,0 +1,99 @@
+{
+  "result" : [{
+      "conf" : 0.429639,
+      "end" : 0.908101,
+      "start" : 0.720000,
+      "word" : "i"
+    }, {
+      "conf" : 0.376011,
+      "end" : 1.320000,
+      "start" : 0.960000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.350000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.530000,
+      "word" : "edificar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.130000,
+      "word" : "diverses"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.640000,
+      "word" : "indústries"
+    }, {
+      "conf" : 0.446452,
+      "end" : 3.480000,
+      "start" : 3.390000,
+      "word" : "a"
+    }, {
+      "conf" : 0.476770,
+      "end" : 3.840000,
+      "start" : 3.480000,
+      "word" : "mèrits"
+    }, {
+      "conf" : 0.666824,
+      "end" : 4.230000,
+      "start" : 3.840000,
+      "word" : "vil"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.590000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.920000,
+      "start" : 4.740000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.220000,
+      "start" : 4.920000,
+      "word" : "quals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.220000,
+      "word" : "destaca"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.910000,
+      "start" : 5.790000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.420000,
+      "start" : 5.910000,
+      "word" : "fàbrica"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.420000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.990000,
+      "start" : 6.540000,
+      "word" : "teixits"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.110000,
+      "start" : 6.990000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.620000,
+      "start" : 7.110000,
+      "word" : "cotó"
+    }],
+  "text" : "i són va edificar diverses indústries a mèrits vil de les quals destaca la fàbrica de teixits de cotó"
+}

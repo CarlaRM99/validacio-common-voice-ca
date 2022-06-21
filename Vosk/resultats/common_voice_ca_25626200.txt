@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.671014,
+      "end" : 1.770000,
+      "start" : 0.900000,
+      "word" : "l'escalfament"
+    }, {
+      "conf" : 0.515116,
+      "end" : 2.160000,
+      "start" : 1.770000,
+      "word" : "calli"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.160000,
+      "word" : "calcani"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.000000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.420000,
+      "word" : "bé"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.840000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 4.020000,
+      "word" : "ser"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.200000,
+      "word" : "modificada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.280000,
+      "start" : 5.070000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.400000,
+      "word" : "harry"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 5.970000,
+      "word" : "o"
+    }],
+  "text" : "l'escalfament calli calcani si bé va ser modificada per harry o"
+}

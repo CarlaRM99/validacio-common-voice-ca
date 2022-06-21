@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.930000,
+      "word" : "aquest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.410000,
+      "word" : "anunci"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.860000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.010000,
+      "word" : "sorprendre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.640000,
+      "word" : "molts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 2.880000,
+      "word" : "analistes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.170000,
+      "start" : 3.960000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 4.170000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.320000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.440000,
+      "word" : "tenia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.770000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.610000,
+      "start" : 5.010000,
+      "word" : "antecedent"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.610000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.730000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.390000,
+      "start" : 5.850000,
+      "word" : "indústria"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.480000,
+      "start" : 6.390000,
+      "word" : "del"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.200000,
+      "start" : 6.480000,
+      "word" : "programari"
+    }],
+  "text" : "aquest anunci va sorprendre molts analistes ja que no tenia cap antecedent en la indústria del programari"
+}

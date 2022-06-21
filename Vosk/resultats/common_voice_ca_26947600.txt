@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 0.355859,
+      "end" : 0.840000,
+      "start" : 0.660000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.840000,
+      "word" : "diferents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.290000,
+      "word" : "tècniques"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.770000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 1.860000,
+      "word" : "depilació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.430000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.520000,
+      "word" : "fil"
+    }],
+  "text" : "de diferents tècniques de depilació amb fil"
+}

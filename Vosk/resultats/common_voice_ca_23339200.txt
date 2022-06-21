@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.510000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 0.990000,
+      "word" : "ambdós"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.560000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 2.010000,
+      "word" : "hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.280000,
+      "start" : 2.040000,
+      "word" : "havia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.280000,
+      "word" : "alguns"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.670000,
+      "word" : "passos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.300000,
+      "word" : "fàcilment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 3.990000,
+      "word" : "defensables"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.520000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.640000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.510000,
+      "start" : 5.850000,
+      "word" : "muntanyes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.750000,
+      "start" : 6.540000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.410000,
+      "start" : 6.750000,
+      "word" : "l'atles"
+    }],
+  "text" : "entre ambdós només hi havia alguns passos fàcilment defensables a les muntanyes de l'atles"
+}

@@ -1,0 +1,119 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.720000,
+      "start" : 0.570000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.720000,
+      "word" : "swift"
+    }, {
+      "conf" : 0.463948,
+      "end" : 1.650000,
+      "start" : 1.193472,
+      "word" : "roland"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.680000,
+      "word" : "gap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.430000,
+      "start" : 2.190000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.430000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.520000,
+      "word" : "recorregut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.060000,
+      "word" : "històric"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.990000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.110000,
+      "word" : "ja"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.260000,
+      "word" : "fa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.440000,
+      "word" : "molt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 4.650000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.740000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 5.010000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.130000,
+      "word" : "s'utilitza"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.880000,
+      "start" : 5.700000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.210000,
+      "start" : 5.880000,
+      "word" : "creuar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 6.210000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.360000,
+      "word" : "muntanyes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.050000,
+      "start" : 6.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.320000,
+      "start" : 7.050000,
+      "word" : "blue"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.860000,
+      "start" : 7.350000,
+      "word" : "ridge"
+    }],
+  "text" : "el swift roland gap és un recorregut històric que ja fa molt de temps que s'utilitza per creuar les muntanyes de blue ridge"
+}

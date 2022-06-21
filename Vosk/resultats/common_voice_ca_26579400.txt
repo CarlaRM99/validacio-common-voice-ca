@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 0.523330,
+      "end" : 1.440000,
+      "start" : 1.020000,
+      "word" : "carbó"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.740000,
+      "start" : 1.454300,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.800000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.980000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.100000,
+      "word" : "sotmetre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.760000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.120000,
+      "start" : 2.880000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.120000,
+      "word" : "cirurgia"
+    }, {
+      "conf" : 0.884624,
+      "end" : 4.260000,
+      "start" : 3.720000,
+      "word" : "desfrena"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.260000,
+      "word" : "durant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.500000,
+      "word" : "l'hivern"
+    }],
+  "text" : "carbó no es va sotmetre a una cirurgia desfrena durant l'hivern"
+}

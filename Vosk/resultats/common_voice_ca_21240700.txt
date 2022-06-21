@@ -1,0 +1,69 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.110000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.350000,
+      "word" : "morir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.620000,
+      "word" : "prematurament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.520000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.640000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.760000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.030000,
+      "word" : "empresa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.870000,
+      "start" : 3.630000,
+      "word" : "fou"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.740000,
+      "start" : 3.870000,
+      "word" : "traspassada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.980000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 5.100000,
+      "word" : "josep"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.460000,
+      "word" : "lluís"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.360000,
+      "start" : 5.790000,
+      "word" : "font"
+    }],
+  "text" : "va morir prematurament i la seva empresa fou traspassada a josep lluís font"
+}

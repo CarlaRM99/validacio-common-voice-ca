@@ -1,0 +1,59 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.870000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.140000,
+      "word" : "homes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.680000,
+      "word" : "asseguts"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.370000,
+      "word" : "voltant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.790000,
+      "word" : "d'una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.030000,
+      "word" : "foguera"
+    }, {
+      "conf" : 0.885578,
+      "end" : 4.260000,
+      "start" : 3.720000,
+      "word" : "fora"
+    }, {
+      "conf" : 0.777714,
+      "end" : 4.770000,
+      "start" : 4.350000,
+      "word" : "ambdós"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.160000,
+      "start" : 4.770000,
+      "word" : "usos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.160000,
+      "word" : "negre"
+    }],
+  "text" : "els homes asseguts al voltant d'una foguera fora ambdós usos negre"
+}

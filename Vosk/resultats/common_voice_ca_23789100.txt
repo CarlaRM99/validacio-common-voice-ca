@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.450000,
+      "start" : 0.330000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.900000,
+      "start" : 0.450000,
+      "word" : "sistema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.900000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 0.990000,
+      "word" : "frens"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.920000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.130000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.220000,
+      "word" : "sistema"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.640000,
+      "word" : "magnètic"
+    }],
+  "text" : "el sistema de frens és un sistema magnètic"
+}

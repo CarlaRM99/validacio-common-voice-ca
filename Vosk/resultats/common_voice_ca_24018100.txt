@@ -1,0 +1,79 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.540000,
+      "word" : "l'espectacle"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.260000,
+      "word" : "estava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.530000,
+      "word" : "acompanyat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.130000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 2.220000,
+      "word" : "música"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.760000,
+      "start" : 2.670000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 2.760000,
+      "word" : "directe"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.630000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.840000,
+      "start" : 3.750000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.080000,
+      "start" : 3.840000,
+      "word" : "tenir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.380000,
+      "start" : 4.080000,
+      "word" : "força"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.380000,
+      "word" : "èxit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.830000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.950000,
+      "word" : "aquell"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.190000,
+      "word" : "moment"
+    }],
+  "text" : "l'espectacle estava acompanyat de música en directe i va tenir força èxit en aquell moment"
+}

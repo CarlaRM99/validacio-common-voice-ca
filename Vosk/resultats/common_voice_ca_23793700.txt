@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.170000,
+      "start" : 0.630000,
+      "word" : "l'edat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.170000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.290000,
+      "word" : "consentiment"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.520000,
+      "start" : 2.280000,
+      "word" : "és"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.520000,
+      "word" : "igual"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.540000,
+      "start" : 3.090000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.540000,
+      "word" : "distinció"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.260000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.410000,
+      "word" : "sexe"
+    }],
+  "text" : "l'edat de consentiment és igual sense distinció de sexe"
+}

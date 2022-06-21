@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 2.010000,
+      "word" : "un"
+    }, {
+      "conf" : 0.782753,
+      "end" : 2.520000,
+      "start" : 2.220000,
+      "word" : "ullal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.520000,
+      "word" : "gat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 3.060000,
+      "word" : "i"
+    }, {
+      "conf" : 0.625404,
+      "end" : 3.690000,
+      "start" : 3.180000,
+      "word" : "l'altre"
+    }, {
+      "conf" : 0.847300,
+      "end" : 3.900000,
+      "start" : 3.750000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.320000,
+      "start" : 3.900000,
+      "word" : "plat"
+    }],
+  "text" : "un ullal gat i l'altre al plat"
+}

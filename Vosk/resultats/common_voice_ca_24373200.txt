@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 1.080000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.260000,
+      "word" : "ambdues"
+    }, {
+      "conf" : 0.458085,
+      "end" : 2.700000,
+      "start" : 2.490000,
+      "word" : "pel"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.700000,
+      "word" : "dos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.480000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990000,
+      "start" : 3.600000,
+      "word" : "quatre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.990000,
+      "word" : "sense"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 4.290000,
+      "word" : "timoner"
+    }, {
+      "conf" : 0.856844,
+      "end" : 5.670000,
+      "start" : 5.310000,
+      "word" : "guanyar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.670000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.240000,
+      "start" : 5.790000,
+      "word" : "medalla"
+    }, {
+      "conf" : 0.999495,
+      "end" : 6.539983,
+      "start" : 6.240000,
+      "word" : "d'or"
+    }],
+  "text" : "en ambdues pel dos i quatre sense timoner guanyar la medalla d'or"
+}

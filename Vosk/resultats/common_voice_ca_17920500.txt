@@ -1,0 +1,19 @@
+{
+  "result" : [{
+      "conf" : 0.853245,
+      "end" : 1.380000,
+      "start" : 0.990000,
+      "word" : "venim"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.380000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.130000,
+      "start" : 1.500000,
+      "word" : "forallac"
+    }],
+  "text" : "venim de forallac"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.750000,
+      "word" : "un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.200000,
+      "start" : 0.960000,
+      "word" : "home"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.500000,
+      "start" : 1.200000,
+      "word" : "just"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.500000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.560000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.220000,
+      "start" : 1.680000,
+      "word" : "bufanda"
+    }, {
+      "conf" : 0.844154,
+      "end" : 2.310000,
+      "start" : 2.220000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.310000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.820000,
+      "start" : 2.550000,
+      "word" : "dona"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.820000,
+      "word" : "russa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.150000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.270000,
+      "word" : "riu"
+    }],
+  "text" : "un home just a la bufanda a una dona russa que riu"
+}

@@ -1,0 +1,39 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.470000,
+      "start" : 1.020000,
+      "word" : "feia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.950000,
+      "start" : 1.470000,
+      "word" : "servir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 1.980000,
+      "word" : "formats"
+    }, {
+      "conf" : 0.646339,
+      "end" : 3.090000,
+      "start" : 2.730000,
+      "word" : "tant"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.230000,
+      "start" : 3.180000,
+      "word" : "horitzontals"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.500000,
+      "start" : 4.260000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.500000,
+      "word" : "verticals"
+    }],
+  "text" : "feia servir formats tant horitzontals com verticals"
+}

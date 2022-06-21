@@ -1,0 +1,104 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.020000,
+      "start" : 0.660000,
+      "word" : "abans"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.530000,
+      "start" : 1.020000,
+      "word" : "d'això"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.680000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 1.920000,
+      "word" : "cavalls"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.370000,
+      "word" : "només"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.700000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.790000,
+      "word" : "podien"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.330000,
+      "start" : 3.150000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.330000,
+      "word" : "servir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.110000,
+      "word" : "fins"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.410000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.620000,
+      "start" : 4.530000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.620000,
+      "word" : "gruix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.100000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.310000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.700000,
+      "start" : 5.400000,
+      "word" : "neu"
+    }, {
+      "conf" : 0.536642,
+      "end" : 6.240000,
+      "start" : 5.940000,
+      "word" : "feia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.900000,
+      "start" : 6.240000,
+      "word" : "impossible"
+    }, {
+      "conf" : 0.667261,
+      "end" : 6.960000,
+      "start" : 6.900000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.680000,
+      "start" : 6.960000,
+      "word" : "transport"
+    }],
+  "text" : "abans d'això els cavalls només es podien fer servir fins que el gruix de la neu feia impossible el transport"
+}

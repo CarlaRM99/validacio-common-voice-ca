@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 0.960000,
+      "word" : "gregal"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.440000,
+      "word" : "matiner"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 2.640000,
+      "word" : "gregal"
+    }, {
+      "conf" : 0.932991,
+      "end" : 3.900000,
+      "start" : 3.150000,
+      "word" : "trapasser"
+    }],
+  "text" : "gregal matiner gregal trapasser"
+}

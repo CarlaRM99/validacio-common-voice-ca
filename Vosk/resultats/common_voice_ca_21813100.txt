@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.110000,
+      "start" : 0.870000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.110000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.290000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.860000,
+      "start" : 1.620000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.860000,
+      "word" : "vendes"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.370000,
+      "start" : 2.250000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.370000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.460000,
+      "word" : "revista"
+    }, {
+      "conf" : 0.840831,
+      "end" : 3.120000,
+      "start" : 2.940000,
+      "word" : "vam"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.600000,
+      "start" : 3.120000,
+      "word" : "baixar"
+    }],
+  "text" : "amb els anys les vendes de la revista vam baixar"
+}

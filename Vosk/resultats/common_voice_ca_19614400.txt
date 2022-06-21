@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.613466,
+      "end" : 1.320000,
+      "start" : 1.230000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.331596,
+      "word" : "canvi"
+    }, {
+      "conf" : 0.828823,
+      "end" : 2.070000,
+      "start" : 1.950812,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 2.070000,
+      "word" : "sistema"
+    }, {
+      "conf" : 0.392981,
+      "end" : 3.030000,
+      "start" : 2.490000,
+      "word" : "moral"
+    }, {
+      "conf" : 0.668584,
+      "end" : 3.270000,
+      "start" : 3.120000,
+      "word" : "que"
+    }, {
+      "conf" : 0.668584,
+      "end" : 3.390000,
+      "start" : 3.270000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 3.390000,
+      "word" : "tipus"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.720000,
+      "word" : "escala"
+    }, {
+      "conf" : 0.718369,
+      "end" : 4.260000,
+      "start" : 4.140000,
+      "word" : "té"
+    }, {
+      "conf" : 0.718369,
+      "end" : 4.380000,
+      "start" : 4.260000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.680000,
+      "start" : 4.380000,
+      "word" : "altura"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.680000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.460000,
+      "start" : 4.770000,
+      "word" : "corresponent"
+    }],
+  "text" : "en canvi el sistema moral que de tipus escala té una altura de corresponent"
+}

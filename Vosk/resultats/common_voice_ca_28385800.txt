@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.750000,
+      "start" : 0.480000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.990000,
+      "start" : 0.780000,
+      "word" : "dels"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.710000,
+      "start" : 0.990000,
+      "word" : "objectius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.740000,
+      "word" : "s'ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.700000,
+      "start" : 2.040000,
+      "word" : "acreditat"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.940000,
+      "start" : 2.730000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.940000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.030000,
+      "word" : "objectiu"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.020000,
+      "start" : 3.570000,
+      "word" : "propi"
+    }],
+  "text" : "cap dels objectius s'ha acreditat com a objectiu propi"
+}

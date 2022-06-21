@@ -1,0 +1,94 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 0.900000,
+      "word" : "evidencia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.890000,
+      "start" : 1.800000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.040000,
+      "start" : 1.890000,
+      "word" : "que"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.040000,
+      "word" : "comunament"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 3.120000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.270000,
+      "word" : "coneix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.990934,
+      "start" : 3.780000,
+      "word" : "com"
+    }, {
+      "conf" : 0.742884,
+      "end" : 4.020000,
+      "start" : 3.990934,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.770000,
+      "start" : 4.020000,
+      "word" : "respecte"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.890000,
+      "start" : 4.800000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.100000,
+      "start" : 4.890000,
+      "word" : "si"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.760000,
+      "start" : 5.100000,
+      "word" : "mateix"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.450000,
+      "start" : 6.210000,
+      "word" : "té"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.540000,
+      "start" : 6.450000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.930000,
+      "start" : 6.540000,
+      "word" : "compte"
+    }, {
+      "conf" : 0.867751,
+      "end" : 7.018888,
+      "start" : 6.960000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.590000,
+      "start" : 7.018888,
+      "word" : "reputació"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.250000,
+      "start" : 7.590000,
+      "word" : "social"
+    }],
+  "text" : "evidencia el que comunament es coneix com a respecte a si mateix té en compte la reputació social"
+}

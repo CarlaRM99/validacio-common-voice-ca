@@ -1,0 +1,74 @@
+{
+  "result" : [{
+      "conf" : 0.795050,
+      "end" : 1.140000,
+      "start" : 0.690000,
+      "word" : "iws"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.410000,
+      "start" : 1.200000,
+      "word" : "va"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.410000,
+      "word" : "fer"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.590000,
+      "word" : "diversos"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.460000,
+      "start" : 2.070000,
+      "word" : "papers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.180000,
+      "start" : 2.460000,
+      "word" : "televisius"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 3.240000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.560000,
+      "start" : 3.390000,
+      "word" : "cinematogràfics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.620000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.950000,
+      "start" : 4.800000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.190000,
+      "start" : 4.950000,
+      "word" : "anys"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.730000,
+      "start" : 5.190000,
+      "word" : "seixanta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.970000,
+      "start" : 5.820000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.660000,
+      "start" : 5.970000,
+      "word" : "setanta"
+    }],
+  "text" : "iws va fer diversos papers televisius i cinematogràfics en els anys seixanta i setanta"
+}

@@ -1,0 +1,64 @@
+{
+  "result" : [{
+      "conf" : 0.810268,
+      "end" : 1.080000,
+      "start" : 0.630000,
+      "word" : "són"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.080000,
+      "word" : "pelàgics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.250000,
+      "start" : 1.830000,
+      "word" : "aigües"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.790000,
+      "start" : 2.250000,
+      "word" : "càlides"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.880000,
+      "start" : 2.790000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.720000,
+      "start" : 2.880000,
+      "word" : "temperades"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.200000,
+      "start" : 3.780000,
+      "word" : "però"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.590000,
+      "start" : 4.230000,
+      "word" : "també"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.800000,
+      "start" : 4.590000,
+      "word" : "n'hi"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.070000,
+      "start" : 4.800000,
+      "word" : "ha"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.820000,
+      "start" : 5.100000,
+      "word" : "espècies"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.690000,
+      "start" : 5.820000,
+      "word" : "costaneres"
+    }],
+  "text" : "són pelàgics aigües càlides i temperades però també n'hi ha espècies costaneres"
+}

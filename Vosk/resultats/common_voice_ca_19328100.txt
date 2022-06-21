@@ -1,0 +1,49 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 1.230000,
+      "word" : "entre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.920000,
+      "start" : 1.590000,
+      "word" : "tenen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.670000,
+      "start" : 1.920000,
+      "word" : "l'esperit"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.850000,
+      "start" : 2.730000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.850000,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.570000,
+      "start" : 3.030000,
+      "word" : "actuen"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.810000,
+      "start" : 3.570000,
+      "word" : "sobre"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.960000,
+      "start" : 3.810000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.860000,
+      "start" : 3.960000,
+      "word" : "costums"
+    }],
+  "text" : "entre tenen l'esperit i no actuen sobre els costums"
+}

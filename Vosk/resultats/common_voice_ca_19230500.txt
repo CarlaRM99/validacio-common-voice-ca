@@ -1,0 +1,84 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.140000,
+      "start" : 0.540000,
+      "word" : "l'eixida"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.230000,
+      "start" : 1.140000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.350000,
+      "start" : 1.230000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.770000,
+      "start" : 1.350000,
+      "word" : "plaça"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.980000,
+      "start" : 1.770000,
+      "word" : "era"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.490000,
+      "start" : 1.980000,
+      "word" : "lenta"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.510000,
+      "start" : 2.670000,
+      "word" : "desmaiada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.660000,
+      "start" : 3.540000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.290000,
+      "start" : 3.660000,
+      "word" : "contrastava"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.410000,
+      "start" : 4.290000,
+      "word" : "amb"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.980000,
+      "start" : 4.410000,
+      "word" : "l'arribada"
+    }, {
+      "conf" : 0.565037,
+      "end" : 5.010000,
+      "start" : 4.980000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.640000,
+      "start" : 5.010000,
+      "word" : "sorollosa"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.850000,
+      "start" : 5.640000,
+      "word" : "com"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.030000,
+      "start" : 5.850000,
+      "word" : "una"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 6.030000,
+      "word" : "invasió"
+    }],
+  "text" : "l'eixida de la plaça era lenta desmaiada i contrastava amb l'arribada a sorollosa com una invasió"
+}

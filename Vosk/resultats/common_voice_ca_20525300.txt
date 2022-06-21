@@ -1,0 +1,44 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 1.110000,
+      "word" : "en"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.380000,
+      "start" : 1.290000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.620000,
+      "start" : 1.380000,
+      "word" : "seva"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.310000,
+      "start" : 1.620000,
+      "word" : "joventut"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.632953,
+      "start" : 2.400000,
+      "word" : "va"
+    }, {
+      "conf" : 0.765103,
+      "end" : 2.970000,
+      "start" : 2.640000,
+      "word" : "provar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.390000,
+      "start" : 2.970000,
+      "word" : "diferents"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.110000,
+      "start" : 3.390000,
+      "word" : "religions"
+    }],
+  "text" : "en la seva joventut va provar diferents religions"
+}

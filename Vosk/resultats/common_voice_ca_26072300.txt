@@ -1,0 +1,89 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.810000,
+      "start" : 0.570000,
+      "word" : "els"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.290000,
+      "start" : 0.810000,
+      "word" : "primers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.010000,
+      "start" : 1.290000,
+      "word" : "botànics"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 2.010000,
+      "word" : "li"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.340000,
+      "start" : 2.100000,
+      "word" : "van"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.640000,
+      "start" : 2.340000,
+      "word" : "donar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.640000,
+      "word" : "el"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.030000,
+      "start" : 2.730000,
+      "word" : "nom"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.150000,
+      "start" : 3.030000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.930000,
+      "start" : 3.150000,
+      "word" : "plantago"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.140000,
+      "start" : 3.930000,
+      "word" : "per"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 4.140000,
+      "word" : "la"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.260000,
+      "word" : "similitud"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 5.010000,
+      "word" : "de"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.130000,
+      "word" : "les"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.310000,
+      "word" : "seves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.330000,
+      "start" : 5.670000,
+      "word" : "fulles"
+    }],
+  "text" : "els primers botànics li van donar el nom de plantago per la similitud de les seves fulles"
+}

@@ -1,0 +1,54 @@
+{
+  "result" : [{
+      "conf" : 0.649582,
+      "end" : 1.200000,
+      "start" : 1.050000,
+      "word" : "al"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.440000,
+      "start" : 1.200000,
+      "word" : "cap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.650000,
+      "start" : 1.440000,
+      "word" : "d'un"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.100000,
+      "start" : 1.650000,
+      "word" : "temps"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.650910,
+      "start" : 2.100000,
+      "word" : "l'infant"
+    }, {
+      "conf" : 0.636327,
+      "end" : 2.760000,
+      "start" : 2.670000,
+      "word" : "es"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.060000,
+      "start" : 2.760000,
+      "word" : "posar"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.480000,
+      "start" : 3.060000,
+      "word" : "malalt"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.540000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.050000,
+      "start" : 3.690000,
+      "word" : "morir"
+    }],
+  "text" : "al cap d'un temps l'infant es posar malalt i morir"
+}

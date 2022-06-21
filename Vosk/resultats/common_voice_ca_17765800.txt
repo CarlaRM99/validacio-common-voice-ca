@@ -1,0 +1,29 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.570000,
+      "start" : 0.480000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.960000,
+      "start" : 0.570000,
+      "word" : "partir"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.933455,
+      "start" : 1.770000,
+      "word" : "de"
+    }, {
+      "conf" : 0.892492,
+      "end" : 2.398867,
+      "start" : 2.246155,
+      "word" : "les"
+    }, {
+      "conf" : 0.771246,
+      "end" : 3.090000,
+      "start" : 2.460000,
+      "word" : "temperatures"
+    }],
+  "text" : "a partir de les temperatures"
+}

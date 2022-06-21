@@ -1,0 +1,24 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 1.260000,
+      "start" : 0.630000,
+      "word" : "masia"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.070000,
+      "start" : 1.320000,
+      "word" : "orientada"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.100000,
+      "word" : "vers"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.300000,
+      "start" : 2.550000,
+      "word" : "migdia"
+    }],
+  "text" : "masia orientada vers migdia"
+}

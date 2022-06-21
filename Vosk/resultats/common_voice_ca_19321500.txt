@@ -1,0 +1,14 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 2.167593,
+      "start" : 1.650000,
+      "word" : "anem"
+    }, {
+      "conf" : 0.478868,
+      "end" : 2.490000,
+      "start" : 2.167593,
+      "word" : "maig"
+    }],
+  "text" : "anem maig"
+}
