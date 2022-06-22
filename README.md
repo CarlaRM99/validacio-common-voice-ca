@@ -12,7 +12,6 @@ La documentació del desenvolupament es troba al directori "docs".
 ## Continguts
 * Festival/resultats: resultats de l'alineament amb Festival.
 * Vosk/resultats: resultats del reconeixement amb Vosk.
-* clips00: conjunt d'àudios seleccionats del corpus de Common Voice.
 * mfa_ca: directori on s'ha fet tot el procediment amb Montreal Forced Aligner.
 * mfa_ca/clips00_aligned: resultats de l'alineament amb Montreal Forced Aligner.
 * src: directori que conté una llibreria per llegir fitxers TextGrid en Python.
