@@ -1,7 +1,7 @@
 # Alineament forçat amb Montreal Forced Aligner
 Passos per obtenir alineaments amb MFA.
 
-# 1. Obtenir clips00
+# 1. Obtenir "clips00" per alinear
 ```
 $ ~/get_audios_validated.sh
 ```
